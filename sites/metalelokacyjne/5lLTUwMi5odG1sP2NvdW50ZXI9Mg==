@@ -389,7 +389,16 @@ display:none;
 </style>
 
 <!-- End additional html or js -->
-</head><body><div id="container" class="search_page 
+                <script>
+                
+                if (window.ApplePaySession && window.ApplePaySession.canMakePayments()) {
+                    var applePayAvailabilityExpires = new Date();
+                    applePayAvailabilityExpires.setTime(applePayAvailabilityExpires.getTime() + 2592000000); //30 days
+                    document.cookie = 'applePayAvailability=yes; expires=' + applePayAvailabilityExpires.toUTCString() + '; path=/'
+                } else {
+                    document.cookie = 'applePayAvailability=no; path=/'
+                }
+                </script></head><body><div id="container" class="search_page 
             
             container" itemscope="itemscope" itemtype="http://schema.org/WebPage"><header class="clearfix "><script type="text/javascript" class="ajaxLoad">
     app_shop.vars.currency_format = "###,##0.00";
@@ -663,7 +672,7 @@ menu_filter_init();
                                                         Termin wysyłki - 
                                                         7
                                                                      dni 
-                                                                </div><span class="price">136,17 zł</span></div><div class="buy_section"><input type="hidden" name="prodSellby" value="4343"><form action="basketchange.php" method="post" class="form_buy"><input type="hidden" name="product" value="4359"><input type="hidden" class="mode" name="mode" value="1"><input type="hidden" name="size" value="uniw"><div class="search_add_basket"><div class="prod-count"><input type="text" name="number" value="1"></div><button type="submit" class="btn_buy" title="Kup!"><span>Kup!</span></button></div></form></div></div></div></div><div class="product_wrapper col-md-4 col-sm-6 col-xs-6"><div class="product_wrapper_sub"><a class="search_addCompare"><i></i></a><a class="product-icon align_row" data-align="img#css" href="/product-zha-4842-Krolewskie-Herby-1-uncja-Srebra-2021.html"><img class="b-lazy" src="/gfx/zha/loader.gif?r=1591079648" data-src-small="/zha_is_Krolewskie-Herby-1-uncja-Srebra-2021-4842.png" data-src="/zha_il_Krolewskie-Herby-1-uncja-Srebra-2021-4842.png" alt="Królewskie Herby 1 uncja Srebra 2021"><strong class="label_icons"></strong></a><a class="product-name" href="/product-zha-4842-Krolewskie-Herby-1-uncja-Srebra-2021.html" title="Królewskie Herby 1 uncja Srebra 2021">Królewskie Herby 1 uncja Srebra 2021</a><div class="mobile_rebates"><div class="rebate_number_title"><span class="closed">sprawdź rabaty <i class="icon-angle-down"></i></span><span class="opened">Rabaty ilościowe <i class="icon-angle-up"></i></span></div><div class="rebate_number_wrapper"><div class="rebate_number_title">
+                                                                </div><span class="price">136,17 zł</span></div><div class="buy_section"><input type="hidden" name="prodSellby" value="4342"><form action="basketchange.php" method="post" class="form_buy"><input type="hidden" name="product" value="4359"><input type="hidden" class="mode" name="mode" value="1"><input type="hidden" name="size" value="uniw"><div class="search_add_basket"><div class="prod-count"><input type="text" name="number" value="1"></div><button type="submit" class="btn_buy" title="Kup!"><span>Kup!</span></button></div></form></div></div></div></div><div class="product_wrapper col-md-4 col-sm-6 col-xs-6"><div class="product_wrapper_sub"><a class="search_addCompare"><i></i></a><a class="product-icon align_row" data-align="img#css" href="/product-zha-4842-Krolewskie-Herby-1-uncja-Srebra-2021.html"><img class="b-lazy" src="/gfx/zha/loader.gif?r=1591079648" data-src-small="/zha_is_Krolewskie-Herby-1-uncja-Srebra-2021-4842.png" data-src="/zha_il_Krolewskie-Herby-1-uncja-Srebra-2021-4842.png" alt="Królewskie Herby 1 uncja Srebra 2021"><strong class="label_icons"></strong></a><a class="product-name" href="/product-zha-4842-Krolewskie-Herby-1-uncja-Srebra-2021.html" title="Królewskie Herby 1 uncja Srebra 2021">Królewskie Herby 1 uncja Srebra 2021</a><div class="mobile_rebates"><div class="rebate_number_title"><span class="closed">sprawdź rabaty <i class="icon-angle-down"></i></span><span class="opened">Rabaty ilościowe <i class="icon-angle-up"></i></span></div><div class="rebate_number_wrapper"><div class="rebate_number_title">
                                                             Rabaty ilościowe
                                                         </div><table class="rebate_number_list"><thead><tr><th>Ilość:</th><th>Cena za szt.:</th></tr></thead><tbody><tr><td>25 - 99</td><td>131,01 zł</td></tr><tr><td>100 - 249</td><td>128,95 zł</td></tr><tr><td>250 - 499</td><td>128,43 zł</td></tr><tr><td>500 i więcej</td><td>127,92 zł</td></tr></tbody></table><button class="rebate_close visible-phone" onclick="$('#dialog_close').click();">Zamknij okno</button></div></div><div class="product_prices nview_price"><div class="product_prices_left"><div class="delivery_time">
                                                         Termin wysyłki - 
@@ -1192,4 +1201,4 @@ s0.parentNode.insertBefore(s1,s0);
                         applied = true;
                     }
                 });
-                </script><img src="https://client886.idosell.com/checkup.php?c=4ed56ce66b53bdc5f5fff3bb2f36c724" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client886.idosell.com/checkup.php?c=769b4d697fd48b40e667e7e1a4a1f921" style="display:none" alt="pixel"></body></html>
