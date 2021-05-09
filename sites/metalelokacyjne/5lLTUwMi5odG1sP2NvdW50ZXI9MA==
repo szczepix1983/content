@@ -389,7 +389,16 @@ display:none;
 </style>
 
 <!-- End additional html or js -->
-</head><body><div id="container" class="search_page 
+                <script>
+                
+                if (window.ApplePaySession && window.ApplePaySession.canMakePayments()) {
+                    var applePayAvailabilityExpires = new Date();
+                    applePayAvailabilityExpires.setTime(applePayAvailabilityExpires.getTime() + 2592000000); //30 days
+                    document.cookie = 'applePayAvailability=yes; expires=' + applePayAvailabilityExpires.toUTCString() + '; path=/'
+                } else {
+                    document.cookie = 'applePayAvailability=no; path=/'
+                }
+                </script></head><body><div id="container" class="search_page 
             
             container" itemscope="itemscope" itemtype="http://schema.org/WebPage"><header class="clearfix "><script type="text/javascript" class="ajaxLoad">
     app_shop.vars.currency_format = "###,##0.00";
@@ -622,7 +631,7 @@ menu_filter_init();
                                                         Termin wysyłki - 
                                                         23
                                                                      dni 
-                                                                </div><span class="price">3 221,00 zł</span></div><div class="buy_section"><input type="hidden" name="prodSellby" value="615"><form action="basketchange.php" method="post" class="form_buy"><input type="hidden" name="product" value="4446"><input type="hidden" class="mode" name="mode" value="1"><input type="hidden" name="size" value="uniw"><div class="search_add_basket"><div class="prod-count"><input type="text" name="number" value="1"></div><button type="submit" class="btn_buy" title="Kup!"><span>Kup!</span></button></div></form></div></div></div></div><div class="product_wrapper col-md-4 col-sm-6 col-xs-6"><div class="product_wrapper_sub"><a class="search_addCompare"><i></i></a><a class="product-icon align_row" data-align="img#css" href="/product-zha-4333-Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021.html"><img class="b-lazy" src="/gfx/zha/loader.gif?r=1591079648" data-src-small="/zha_is_Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021-4333.png" data-src="/zha_il_Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021-4333.png" alt="Australijski Kangur 1 uncja Srebra PAKIET 25 SZTUK 2021"><strong class="label_icons"></strong></a><a class="product-name" href="/product-zha-4333-Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021.html" title="Australijski Kangur 1 uncja Srebra PAKIET 25 SZTUK 2021">Australijski Kangur 1 uncja Srebra PAKIET 25 SZTUK 2021</a><div class="product_prices nview_price"><div class="product_prices_left"><div class="delivery_time">
+                                                                </div><span class="price">3 221,00 zł</span></div><div class="buy_section"><input type="hidden" name="prodSellby" value="614"><form action="basketchange.php" method="post" class="form_buy"><input type="hidden" name="product" value="4446"><input type="hidden" class="mode" name="mode" value="1"><input type="hidden" name="size" value="uniw"><div class="search_add_basket"><div class="prod-count"><input type="text" name="number" value="1"></div><button type="submit" class="btn_buy" title="Kup!"><span>Kup!</span></button></div></form></div></div></div></div><div class="product_wrapper col-md-4 col-sm-6 col-xs-6"><div class="product_wrapper_sub"><a class="search_addCompare"><i></i></a><a class="product-icon align_row" data-align="img#css" href="/product-zha-4333-Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021.html"><img class="b-lazy" src="/gfx/zha/loader.gif?r=1591079648" data-src-small="/zha_is_Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021-4333.png" data-src="/zha_il_Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021-4333.png" alt="Australijski Kangur 1 uncja Srebra PAKIET 25 SZTUK 2021"><strong class="label_icons"></strong></a><a class="product-name" href="/product-zha-4333-Australijski-Kangur-1-uncja-Srebra-PAKIET-25-SZTUK-2021.html" title="Australijski Kangur 1 uncja Srebra PAKIET 25 SZTUK 2021">Australijski Kangur 1 uncja Srebra PAKIET 25 SZTUK 2021</a><div class="product_prices nview_price"><div class="product_prices_left"><div class="delivery_time">
                                                         Termin wysyłki - 
                                                         31
                                                                      dni 
@@ -1254,4 +1263,4 @@ s0.parentNode.insertBefore(s1,s0);
                         applied = true;
                     }
                 });
-                </script><img src="https://client886.idosell.com/checkup.php?c=9bbfa4392efbc12107e6f012c1db4b3b" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client886.idosell.com/checkup.php?c=065ea0d337c7264edd06d0daf991f3b2" style="display:none" alt="pixel"></body></html>
