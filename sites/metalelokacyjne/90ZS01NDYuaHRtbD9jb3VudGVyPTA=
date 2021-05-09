@@ -389,7 +389,16 @@ display:none;
 </style>
 
 <!-- End additional html or js -->
-</head><body><div id="container" class="search_page 
+                <script>
+                
+                if (window.ApplePaySession && window.ApplePaySession.canMakePayments()) {
+                    var applePayAvailabilityExpires = new Date();
+                    applePayAvailabilityExpires.setTime(applePayAvailabilityExpires.getTime() + 2592000000); //30 days
+                    document.cookie = 'applePayAvailability=yes; expires=' + applePayAvailabilityExpires.toUTCString() + '; path=/'
+                } else {
+                    document.cookie = 'applePayAvailability=no; path=/'
+                }
+                </script></head><body><div id="container" class="search_page 
             
             container" itemscope="itemscope" itemtype="http://schema.org/WebPage"><header class="clearfix "><script type="text/javascript" class="ajaxLoad">
     app_shop.vars.currency_format = "###,##0.00";
@@ -1282,4 +1291,4 @@ s0.parentNode.insertBefore(s1,s0);
                         applied = true;
                     }
                 });
-                </script><img src="https://client886.idosell.com/checkup.php?c=b88d1c4f1520b1f3cb742395de78f54a" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client886.idosell.com/checkup.php?c=4c2729f42dbe3e49d4e1fa7b803a1519" style="display:none" alt="pixel"></body></html>
