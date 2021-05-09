@@ -1,0 +1,684 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6" lang="pl"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7" lang="pl"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8" lang="pl"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9" lang="pl"> <![endif]-->
+<!--[if gt IE 9]><!--><html lang="pl"><!--<![endif]-->
+  <head data-hook="inside_head">
+    <meta charset="utf-8">
+<title>
+      Sztabki - Złoto Inwestycyjne
+</title>
+
+<meta name="viewport" content="width=device-width" />
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="google-site-verification" content="Iale8C16wCw7LCMb5T4VVYJweMtYyOOCF_1IAiQQ4PE" />
+<meta content="Ilość produktów: 19. Kategoria: Sztabki . Ostatnio dodane produkty: Złota Sztabka 2g, Złota Sztabka 100g, Złota Sztabka 31,1g." name="description" />
+<meta content="" name="keywords" />
+<link href="https://zlotoinwestycyjne.pl/sztabki" rel="canonical" />
+<link href="/assets/favicon-530cd10bedf629c92d613f07449a4fcb3e1125ff7e8b3ec599ce4a5b91037111.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="/assets/spree/ygi-shop/all-dc35d0f55f747a02f6204f6d9b2303c99d933b9d8052d679cd696515c9a59a09.css" media="screen" rel="stylesheet" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="g+dG2zhr/DhaHL33zxxACaJqlOGVgjVGEKqtLmSiAc8=" name="csrf-token" />
+<!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
+<![endif]-->
+
+
+
+  </head>
+  <body class="one-col" id="default" data-hook="body">
+
+    <div  id="body_cover">
+      <div class="shadow_box"></div>
+      <div class="cookie_note disabled" id='cookie_note'>
+	<p class="cookie_note_desktop">
+    Korzystamy z plików cookie. Możesz wyłączyć je w ustawieniach przeglądarki. Więcej informacji na ten temat znajdziesz w <a href="/polityka-prywatnosci" title="Pliki cookie" target="_blank">Polityce Prywatności</a>.
+
+    <a class="but_cookiesOK" href="" title="ok, zamknij">OK, rozumiem</a>
+  </p>
+
+	<p class="cookie_note_mobile">
+    Korzystamy z plików cookie. Możesz wyłączyć je w ustawieniach przeglądarki. Więcej informacji na ten temat znajdziesz w <a href="/polityka-prywatnosci" title="Pliki cookie" target="_blank">Polityce Prywatności</a>.
+
+    <br />
+    <a class="but_cookiesOK" href="" title="ok, zamknij">OK, rozumiem</a>
+  </p>
+
+</div>
+
+      <div class="header">
+	<div class="header-cover  header_cover">
+		<a href="#" title="Menu" class="header-cover-menubutton  header_buttonMenu js-mobile-nav">&#160;</a>
+
+		<div class="header-cover-logincart  header_loginCartSearch">
+      <a class="header_loginCart_links header_loginCart_linkLogin separatorLink" href="/login" title="Zaloguj się">Zaloguj się</a>
+
+      <span id="link-to-cart" data-hook>
+        <noscript>
+          <a href="/cart">Koszyk</a>
+        </noscript>
+        &nbsp;
+      </span>
+		</div>
+    <a class="header_logo" href="/" title="The home page"><img alt="Zi 252x53px" src="/assets/ZI_252x53px-987814f0955342417abfbcc11cbf3556f523b7f1111a3e63cf2f0f351f4e3bcf.png" /></a>
+	</div>
+
+</div>
+
+<div class="navigation-column  navigation_column">
+  <div class="navigation-column-tophead  top-head">
+	  <div class="navigation-column-search-container  header_searchBlock_cover">
+      <div class="navigation-column-search-block  header_searchBlock" id="search-bar" data-hook>
+        <form accept-charset="UTF-8" action="/products" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <input id="taxon" name="taxon" type="hidden" value="" />
+  <input class="navigation-column-search-field  header_searchField" id="keywords" name="keywords" placeholder="Szukaj" type="search" />
+  <input class="navigation-column-search-button  header_searchButton" title="Szukaj" type="submit" value="" />
+</form>
+	    </div>
+    </div>
+  </div>
+
+  <div id="nav" class="navigation-main  header_menu">
+    <div class="navigation-main-container">
+      <div class="menu-indicator"></div>
+      <ul class="navigation-main-list  header_menu_list">
+            <li class="disable_on_desktop">
+              <a class="icon_account" href="/login">Zaloguj się</a>
+            </li>
+            <li class="active taxonomy_link">
+              <a href="/sztabki">Sztabki</a>
+            </li>
+            <li class=" taxonomy_link">
+              <a href="/monety">Monety</a>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+  var CheckoutValues = {
+    currency_decimal_mark: ",",
+    currency_thousands_separator: " ",
+      currentCurrency: "PLN"
+  }
+</script>
+
+
+      
+
+      <!-- <div id="wrapper" class="row" data-hook> -->
+
+
+        
+
+        <div id="content" class="contet_area columns sixteen " data-hook>
+
+          
+          <div id="#taxonomy" class="taxonomy">
+  <div class="taxonomy-banner-container  regularImage  no_separate_gradient">
+    <div class="taxonomy-banner  regularImage_cover">
+      <img alt="Zloto01" src="/spree/taxons/39/original/zloto01.jpg?1436179480" />
+    </div>
+  </div>
+
+  <div class="contet_columnedCover">
+    <div class="sidebar-gridcontainer  contet_columnedCover_left width200">
+      <nav id="taxonomies" class="sidebar-taxonomy" data-hook>
+  <div class="sidebar-filter  pull-left" data-hook>
+    <ul class="sidebar-filtergroup  taxons-list">
+      <li>
+        <a href="/monety/termin-realizacji">Rodzaje złota</a>
+        <ul class="sidebar-filtergroup  sublist  js-taxon-root">
+            <li class="active taxonomy_link">
+              <a href="/sztabki">Sztabki</a>
+            </li>
+            <li class=" taxonomy_link">
+              <a href="/monety">Monety</a>
+            </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+    <div class="sidebar-filter  pull-left  current-taxonomy" data-hook>
+
+      <section class="sidebar-filter-container current-taxonomy js-current-taxonomy">
+        <ul class="sidebar-filtergroup  taxons-list"><li><a href="/sztabki/termin-realizacji">Termin realizacji<span class='items'>&nbsp;&nbsp;(0)</span></a><ul class="sidebar-filtergroup  sublist"><li><a href="/sztabki/termin-realizacji/dostawa-natychmiastowa">Dostawa natychmiastowa<span class='items'>&nbsp;&nbsp;(12)</span></a></li>
+<li><a href="/sztabki/termin-realizacji/do-30-dni">Do 30 dni<span class='items'>&nbsp;&nbsp;(4)</span></a></li>
+<li><a href="/sztabki/termin-realizacji/do-5-dni">Do 5 dni<span class='items'>&nbsp;&nbsp;(1)</span></a></li>
+</ul></li>
+<li><a href="/sztabki/kraj-pochodzenia">Kraj pochodzenia<span class='items'>&nbsp;&nbsp;(0)</span></a><ul class="sidebar-filtergroup  sublist">
+
+
+<li><a href="/sztabki/kraj-pochodzenia/polska">Polska<span class='items'>&nbsp;&nbsp;(3)</span></a></li>
+
+<li><a href="/sztabki/kraj-pochodzenia/szwajcaria">Szwajcaria<span class='items'>&nbsp;&nbsp;(9)</span></a></li></ul></li>
+<li><a href="/sztabki/producent">Producent<span class='items'>&nbsp;&nbsp;(0)</span></a><ul class="sidebar-filtergroup  sublist"><li><a href="/sztabki/producent/argor-heraeus">Argor-Heraeus<span class='items'>&nbsp;&nbsp;(9)</span></a></li>
+<li><a href="/sztabki/producent/kghm-polska-miedz-sa">KGHM Polska Miedź S.A.<span class='items'>&nbsp;&nbsp;(3)</span></a></li>
+
+
+
+
+</ul></li></ul>
+      </section>
+
+      <section class="sidebar-filter-container-mobile  js-taxonomy-filter-mobile current-taxonomy js-current-taxonomy">
+
+      </section>
+    </div>
+    <div class="sidebar-filter  pull-left  " data-hook>
+
+      <section class="sidebar-filter-container ">
+        <ul class="sidebar-filtergroup  taxons-list"><li><a href="/monety/termin-realizacji">Termin realizacji<span class='items'>&nbsp;&nbsp;(0)</span></a><ul class="sidebar-filtergroup  sublist"><li><a href="/monety/termin-realizacji/dostawa-natychmiastowa">Dostawa natychmiastowa<span class='items'>&nbsp;&nbsp;(7)</span></a></li>
+<li><a href="/monety/termin-realizacji/do-5-dni">Do 5 dni<span class='items'>&nbsp;&nbsp;(3)</span></a></li>
+<li><a href="/monety/termin-realizacji/do-30-dni">Do 30 dni<span class='items'>&nbsp;&nbsp;(7)</span></a></li></ul></li>
+<li><a href="/monety/kraj-pochodzenia">Kraj pochodzenia<span class='items'>&nbsp;&nbsp;(0)</span></a><ul class="sidebar-filtergroup  sublist"><li><a href="/monety/kraj-pochodzenia/australia">Australia<span class='items'>&nbsp;&nbsp;(4)</span></a></li>
+<li><a href="/monety/kraj-pochodzenia/austria">Austria<span class='items'>&nbsp;&nbsp;(4)</span></a></li>
+<li><a href="/monety/kraj-pochodzenia/kanada">Kanada<span class='items'>&nbsp;&nbsp;(4)</span></a></li>
+
+<li><a href="/monety/kraj-pochodzenia/usa">USA<span class='items'>&nbsp;&nbsp;(2)</span></a></li>
+
+<li><a href="/monety/kraj-pochodzenia/rpa">RPA<span class='items'>&nbsp;&nbsp;(2)</span></a></li></ul></li>
+<li><a href="/monety/producent">Producent<span class='items'>&nbsp;&nbsp;(0)</span></a><ul class="sidebar-filtergroup  sublist">
+
+<li><a href="/monety/producent/munze-osterreich">Münze Österreich<span class='items'>&nbsp;&nbsp;(4)</span></a></li>
+<li><a href="/monety/producent/perth-mint">Perth Mint<span class='items'>&nbsp;&nbsp;(4)</span></a></li>
+<li><a href="/monety/producent/royal-canadian-mint">Royal Canadian Mint<span class='items'>&nbsp;&nbsp;(4)</span></a></li>
+<li><a href="/monety/producent/united-states-mint">United States Mint<span class='items'>&nbsp;&nbsp;(1)</span></a></li>
+</ul></li></ul>
+      </section>
+
+      <section class="sidebar-filter-container-mobile  js-taxonomy-filter-mobile ">
+
+      </section>
+    </div>
+</nav>
+
+      
+    <form accept-charset="UTF-8" action="" id="sidebar_products_search" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+      <input id="per_page" name="per_page" type="hidden" />
+        <div class="sidebar-filter-price-label">Cena</div>
+        <div class="sidebar-filter  sidebar-filter-price  current-taxonomy navigation verticalFilterGroup  resetIUforRadio" data-hook="navigation">
+          <h3 class="filter-title"> Cena </h3>
+          <div class="FilterGroup_listSlider_Header">Wybierz</div>
+          <ul class="sidebar-filter-checkbox-list  filter_choices FilterGroup_list FilterGroup_listSlider">
+              <li class="sidebar-filter-checkbox-item  nowrap FGlist_checkboxItem">
+                <input type="checkbox"
+                       id="Cena_Poniżej_1_500,00_PLN"
+                       name="search[price_range_any][]"
+                       value="Poniżej 1 500,00 PLN"
+                       class="customedCheckbox_green"
+                        />
+                <label class="nowrap customedLabel_green" for="Cena_Poniżej_1_500,00_PLN"> Poniżej 1 500,00 PLN </label>
+              </li>
+              <li class="sidebar-filter-checkbox-item  nowrap FGlist_checkboxItem">
+                <input type="checkbox"
+                       id="Cena_1_500,00_PLN_-_1_999,00_PLN"
+                       name="search[price_range_any][]"
+                       value="1 500,00 PLN - 1 999,00 PLN"
+                       class="customedCheckbox_green"
+                        />
+                <label class="nowrap customedLabel_green" for="Cena_1_500,00_PLN_-_1_999,00_PLN"> 1 500,00 PLN - 1 999,00 PLN </label>
+              </li>
+              <li class="sidebar-filter-checkbox-item  nowrap FGlist_checkboxItem">
+                <input type="checkbox"
+                       id="Cena_2_000,00_PLN_-_2_999,00_PLN"
+                       name="search[price_range_any][]"
+                       value="2 000,00 PLN - 2 999,00 PLN"
+                       class="customedCheckbox_green"
+                        />
+                <label class="nowrap customedLabel_green" for="Cena_2_000,00_PLN_-_2_999,00_PLN"> 2 000,00 PLN - 2 999,00 PLN </label>
+              </li>
+              <li class="sidebar-filter-checkbox-item  nowrap FGlist_checkboxItem">
+                <input type="checkbox"
+                       id="Cena_3_000,00_PLN_-_3_999,00_PLN"
+                       name="search[price_range_any][]"
+                       value="3 000,00 PLN - 3 999,00 PLN"
+                       class="customedCheckbox_green"
+                        />
+                <label class="nowrap customedLabel_green" for="Cena_3_000,00_PLN_-_3_999,00_PLN"> 3 000,00 PLN - 3 999,00 PLN </label>
+              </li>
+              <li class="sidebar-filter-checkbox-item  nowrap FGlist_checkboxItem">
+                <input type="checkbox"
+                       id="Cena_4_000,00_PLN_lub_więcej"
+                       name="search[price_range_any][]"
+                       value="4 000,00 PLN lub więcej"
+                       class="customedCheckbox_green"
+                        />
+                <label class="nowrap customedLabel_green" for="Cena_4_000,00_PLN_lub_więcej"> 4 000,00 PLN lub więcej </label>
+              </li>
+          </ul>
+        </div>
+
+      <div class="sidebar-filter-price  sidebar-filter-price-textfields  verticalFilterGroup_CenaForm">
+        <input type="text" maxlength=5 name='search[price_mrange][from]'  placeholder="Od" title="Cena Od" class="sidebar-filter-price-textbox  verticalFilterGroup_inputTextShort"/>
+        <input type="text" maxlength=5 name='search[price_mrange][to]' placeholder="Do" title="Cena Do " class="sidebar-filter-price-textbox  verticalFilterGroup_inputTextShort"/>
+
+        <input class="sidebar-filter-price-submit  verticalFilterGroup_inputButtonSearch" type="submit" value="" />
+
+      </div>
+</form>  <div class="sidebar-taxonomy-confirm-container  text-center">
+    <a href="#" class="sidebar-taxonomy-confirm  hp_bigGreenButton" id="mobileFiltersButon" title="zatwierdź">zatwierdź</a>
+  </div>
+
+    </div>
+    <div class="contet_columnedCover_main" data-hook="taxon_products">
+        
+<div class="taxonomy-filter-horizontal  content_horizontalFilter">
+
+	<div class="taxonomy-filter-horizontal-dropdown  content_horizontalFilter_sortingItems">
+	  <label class="labelToSelect" for="content_horizontalFilter_sortingItems_selector">Sortuj wg</label>
+		<select id="content_horizontalFilter_sortingItems_selector">
+      <option value="recommended">Polecane</option>
+<option value="price_asc">Cena rosnąco</option>
+<option value="price_desc">Cena malejąco</option>
+		</select>
+
+	</div>
+
+	<div class="taxonomy-filter-horizontal-filters  content_horizontalFilter_mobileFilters">
+    <a class="openerlink  mobileCatalogFilters_openerLink" href="#" text_closed="filtruj" text_opened="ukryj filtry">filtruj</a>
+	</div>
+
+  
+
+</div>
+
+<div class="taxonomy-container  content_container">
+	<div class="taxonomy-list-container  products_itemsList">
+
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-31-1g-zi-006?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 31,1g" itemprop="image" src="/spree/products/127/small/Heraeus_31_1g.jpg?1611056240" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-31-1g-zi-006?taxon_id=39" itemprop="name" title="Złota Sztabka 31,1g">Złota Sztabka 31,1g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 7&nbsp;267,72 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-100g-zi-008?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 100g" itemprop="image" src="/spree/products/125/small/Heraeus_100g.jpg?1607609888" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-100g-zi-008?taxon_id=39" itemprop="name" title="Złota Sztabka 100g">Złota Sztabka 100g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 23&nbsp;126,13 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-2g-zi-011?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 2g" itemprop="image" src="/spree/products/128/small/Muenze-Oesterreich_2g.jpg?1611569737" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-2g-zi-011?taxon_id=39" itemprop="name" title="Złota Sztabka 2g">Złota Sztabka 2g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 520,78&nbsp;</b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-5g-zi-003?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 5g" itemprop="image" src="/spree/products/129/small/Heraeus_5g.jpg?1611569876" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-5g-zi-003?taxon_id=39" itemprop="name" title="Złota Sztabka 5g">Złota Sztabka 5g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 1&nbsp;246,78 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-10g-zi-004?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 10g" itemprop="image" src="/spree/products/126/small/Heraeus_10g.jpg?1611056121" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-10g-zi-004?taxon_id=39" itemprop="name" title="Złota Sztabka 10g">Złota Sztabka 10g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 2&nbsp;420,74 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-20g-zi-005?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 20g" itemprop="image" src="/spree/products/63/small/zlota-sztabka-20-g-zi-005-2.jpg?1408103326" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-20g-zi-005?taxon_id=39" itemprop="name" title="Złota Sztabka 20g">Złota Sztabka 20g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 4&nbsp;766,45 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-50g-zi-007?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 50g" itemprop="image" src="/spree/products/72/small/zlota-sztabka-50g-zi-007-2.jpg?1408103359" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-50g-zi-007?taxon_id=39" itemprop="name" title="Złota Sztabka 50g">Złota Sztabka 50g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 11&nbsp;607,20 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-1g-zi-001?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 1g" itemprop="image" src="/spree/products/49/small/zlota-sztabka-1-g-zi-001-2.jpg?1408103275" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/zlota-sztabka-1g-zi-001?taxon_id=39" itemprop="name" title="Złota Sztabka 1g">Złota Sztabka 1g</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 287,11&nbsp;</b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-31-1g?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 31,1g 24H" itemprop="image" src="/spree/products/138/small/Heraeus_31_1g.jpg?1615454891" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-31-1g?taxon_id=39" itemprop="name" title="Złota Sztabka 31,1g 24H">Złota Sztabka 31,1g 24H</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 7&nbsp;404,97 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-20g?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 20g 24H" itemprop="image" src="/spree/products/142/small/zlota-sztabka-20-g-zi-005-2.jpg?1615455228" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-20g?taxon_id=39" itemprop="name" title="Złota Sztabka 20g 24H">Złota Sztabka 20g 24H</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 4&nbsp;920,92 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-10g?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 10g 24H" itemprop="image" src="/spree/products/144/small/Heraeus_10g.jpg?1615455566" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-10g?taxon_id=39" itemprop="name" title="Złota Sztabka 10g 24H">Złota Sztabka 10g 24H</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 2&nbsp;537,70 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-5g?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 5g 24H" itemprop="image" src="/spree/products/147/small/Heraeus_5g.jpg?1615455829" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-5g?taxon_id=39" itemprop="name" title="Złota Sztabka 5g 24H">Złota Sztabka 5g 24H</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 1&nbsp;279,88 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-2g?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 2g 24H" itemprop="image" src="/spree/products/150/small/Muenze-Oesterreich_2g.jpg?1615456005" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-2g?taxon_id=39" itemprop="name" title="Złota Sztabka 2g 24H">Złota Sztabka 2g 24H</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 542,85&nbsp;</b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-1g?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 1g 24H" itemprop="image" src="/spree/products/153/small/zlota-sztabka-1-g-zi-001-2.jpg?1615456216" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-1g?taxon_id=39" itemprop="name" title="Złota Sztabka 1g 24H">Złota Sztabka 1g 24H</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 293,49&nbsp;</b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+          <div class="taxonomy-list-item  products_itemsList_item">
+            <div class="taxonomy-list-item-image  products_itemsList_item_image">
+              <a href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-100g?taxon_id=39" itemprop="url"><img alt="Złota Sztabka 100g 24H" itemprop="image" src="/spree/products/155/small/Heraeus_100g.jpg?1615456432" /></a>
+            </div>
+            <div class="taxonomy-list-item-name  products_itemsList_item_name">
+              <a class="info" href="https://zlotoinwestycyjne.pl/products/copy-of-zlota-sztabka-100g?taxon_id=39" itemprop="name" title="Złota Sztabka 100g 24H">Złota Sztabka 100g 24H</a>
+            </div>
+            <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
+                <span class="taxonomy-list-item-price  price selling" itemprop="price">
+                  <b>od 23&nbsp;390,94 </b><span class='currency_symbol'>PLN</span>
+                </span>
+            </div>
+          </div>
+	</div>
+</div>
+
+    <!--<div class="content_horizontalFilter inBottom">-->
+      
+    <!--</div>-->
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(){
+    if ( $(document).width() <= 980 ) {
+
+      $(".verticalFilterGroup").each( function() {
+        var isTaxonomyChosen = $(this).find('option').hasClass('current');
+        var currentChosenElementText = $(this).find('option.current').text();
+
+        if ( isTaxonomyChosen ) {
+          $(this).find(".ui-selectmenu-text").html(currentChosenElementText);
+        } else {
+          $(this).find(".ui-selectmenu-text").html("Wybierz");
+        }
+      });
+
+    }
+  }, false);
+</script>
+
+
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function(){
+      if ( $(document).width() <= 980 ) {
+
+        $(".verticalFilterGroup").each( function() {
+          var isTaxonomyChosen = $(this).find('option').hasClass('current');
+          var currentChosenElementText = $(this).find('option.current').text();
+
+          if ( isTaxonomyChosen ) {
+            $(this).find(".ui-selectmenu-text").html(currentChosenElementText);
+          } else {
+            $(this).find(".ui-selectmenu-text").html("Wybierz");
+          }
+        });
+
+      }
+
+      $("#mobileFiltersButon").wrap('<div class="verticalFilterGroup"></div>');
+    }, false);
+  </script>
+
+</div>
+
+        </div>
+
+        
+
+      <!-- </div> -->
+
+          <div class='taxonomy-footer  footer_before_container'>
+      <div class='border-line'>
+        <div class="diamond-decorator">
+          <img alt="Decorator main 2" src="/assets/decorator-main-2-16b95dd5b322c2645894deddfe7c6e62f0880b6479a5f2a91d58ec370cbe5402.jpg" />
+        </div>
+      </div>
+      <div class='helpline'>
+          <div class='title'>Sztabki</div>
+          <div class='content'>
+            <p class='description-seo-place'>
+              W dobie niestabilności walut, niskich stóp procentowanych, a nawet groźby kryzysu złote sztabki, czy monety mogą okazać się idealnym rozwiązaniem lokacji kapitału. Złote sztabki inwestycyjne prezentują nie tylko wartość kruszcową, ale również ponadczasową – sztabki złota od wieków były symbolem bogactwa. 
+            </p>
+            <div class="content_categoryDescription_more">
+              <p>Kontrakty terminowe, inwestowanie na giełdzie, zakup walut – mogą być dobrym kierunkiem inwestycji, ale tak obrany rozchód oszczędności wiąże się z dużym ryzkiem utraty zainwestowanych w nie pieniędzy. Złote sztabki lokacyjne obok wartości samego kruszcu, który gwarantuje dużą stabilność ich wartości są również cenionym na rynkach towarowych oraz finansowych inwestycją. To właśnie w  stronę złotych sztabek zazwyczaj kierują się inwestorzy, gdy rynki zwiastują swoją niestabilność. Wzrost zainteresowania inwestorów ceną sztabki złota 1 g – to wzrost popytu oraz ich ceny, w konsekwencji wzrost zysku dla ich posiadaczy.  Sztabki złota na sprzedaż oferowane przez  firmę YES, to gwarancja dobrej i bezpiecznej inwestycji, a także idealny pomysł na prezent dla najbliższych. </p>
+            </div>
+            <p class='last'>
+              <a class="content_categoryDescription_link" data-active-title="Ukryj" data-passive-title="Pokaż więcej" href="#">Pokaż więcej</a>
+            </p>
+          </div>
+      </div>
+    </div>
+
+      <footer id="footer" class="footer" data-hook>
+	<div class="footer_cover">
+
+      <div class="footer_contenColumn">
+        <h3 class="footer-navigation-header">
+          <a class="root_link" href="/o-nas">O nas</a>
+</h3>        <div class="footer_contentColumn_sublayer">
+          <ul class="footer_contentColumn_sublayer_navigation">
+              <li>
+        <a href="/zloto-inwestycyjne">Złoto Inwestycyjne </a>
+</li>
+          </ul>
+        </div>
+</div>      <div class="footer_contenColumn">
+        <h3 class="footer-navigation-header">
+          <a class="root_link" href="/poradnik">Poradnik</a>
+</h3>        <div class="footer_contentColumn_sublayer">
+          <ul class="footer_contentColumn_sublayer_navigation">
+              <li>
+        <a href="/rzetelnosc-i-fachowosc">Rzetelność i fachowość</a>
+</li>  <li>
+        <a href="/buying-gold-investment">Skup Złota Inwestycyjnego</a>
+</li>  <li>
+        <a href="/dlaczego-zloto">Dlaczego Złoto?</a>
+</li>  <li>
+        <a href="/zloto-jako-inwestycja">Złoto jako inwestycja</a>
+</li>
+          </ul>
+        </div>
+</div>      <div class="footer_contenColumn">
+        <h3 class="footer-navigation-header">
+          <a class="root_link" href="/jak-kupowac">Jak kupować</a>
+</h3>        <div class="footer_contentColumn_sublayer">
+          <ul class="footer_contentColumn_sublayer_navigation">
+              <li>
+        <a href="/jak-dokonac-zakupu">Jak dokonać zakupu</a>
+</li>  <li>
+        <a href="/faq">Często zadawane pytania</a>
+</li>  <li>
+        <a href="/regulamin">Regulamin</a>
+</li>  <li>
+        <a href="/kontakt">Kontakt</a>
+</li>  <li>
+        <a href="/reklamacje">Reklamacje</a>
+</li>  <li>
+        <a href="/polityka-prywatnosci">Polityka prywatności</a>
+</li>  <li>
+        <a href="/cookies">Cookies</a>
+</li>
+          </ul>
+        </div>
+</div>
+		<!-- <div class="footer-subscribe_socials  pull-left full-width footer_subscribeSocials">
+			<div class="footer-subscribe-container  footer_ss_subscribe">
+				<div class="footer-subscribe-caption  pull-left footer_ss_subscribe_note">
+					<h4>Dołącz do Newslettera YES!</h4>
+					<h5>Bądź na bieżąco z nowościami, promocjami i konkursami.</h5>
+				</div>
+				<div class="footer-subscribe-form  pull-left footer_ss_subscribe_form">
+          <form accept-charset="UTF-8" action="/subscribe" class="new_subscriber" id="new_subscriber" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="g+dG2zhr/DhaHL33zxxACaJqlOGVgjVGEKqtLmSiAc8=" /></div>
+					<div class='input-box pull-left to_relative'>
+            <input class="footer-subscribe-emailaddress  pull-left footer_ss_formInput" name="subscriber[email]" placeholder="Twoj@mail.com" tabindex="51" title="Write here subscribed e-mail" type="email" />
+  						<button type="submit"  tabindex=52 value="" class="footer-subscribe-emailsubmit  footer_ss_formGogogo" title="Subscribe!"/>
+						</div>
+</form>				</div>
+			</div>
+
+			<div class="footer-socials  pull-right footer_ss_SocialLinks">
+	      <a href="http://www.facebook.com/BizuteriaYes" class="footer-socials-item  footer-socials-item-facebook" target="_blank">&#160;</a>
+	      <a href="http://twitter.com/#!/YESpl" class="footer-socials-item  footer-socials-item  footer-socials-item-twitter" target="_blank">&#160;</a>
+	      <a href="https://plus.google.com/103758240142748573568/posts" class="footer-socials-item  footer-socials-item-gplus" target="_blank">&#160;</a>
+	      <a href="http://pinterest.com/bizuteriayes" class="footer-socials-item  footer-socials-item-pinterest" target="_blank">&#160;</a>
+	      <a href="http://www.youtube.com/BizuteriaYES" class="footer-socials-item  footer-socials-item-youtube" target="_blank">&#160;</a>
+	      <a href="http://instagram.com/bizuteriayes" class="footer-socials-item  footer_ss_SocialLinks_item footer-socials-item-instagram" target="_blank">&#160;</a>
+	      <a href="http://www.opineo.pl/opinie/yes-pl" class="footer-socials-item  footer-socials-item-opineo" target="_blank">&#160;</a>
+			</div>
+		</div> -->
+
+		<div class="footer_copyrights">
+			<div class="footer_copyrights_data">
+				Złoto Inwestycyjne Sp. J. Ul. Świerzawska 1, 60-321 Poznań, Poland,
+				<br>
+				NIP: PL7792380127, REGON: 301511762, KRS: 0000361187
+			</div>
+			<div class="footer_copyrights_creator">
+				Created by
+				<a href="http://whiteducky.com/" tabindex="62" target="_blank" title="White Ducky official site">White Ducky</a>
+      </div>
+			&copy; 2018 Złoto Inwestycyjne
+			<span>|</span>
+      <a href="/mapa-strony" title="Mapa" class="footer_mapLink" tabindex="61">Mapa Strony</a>
+		</div>
+	</div>
+</footer>
+
+
+    </div>
+
+    <div class='popup-modal'></div>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+  { (i[r].q=i[r].q||[]).push(arguments)}
+
+    ,i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1398187-29', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+    <script src="/assets/spree/ygi-shop/all-3176fd0f4f7d33febc5a6e83c3c20aba03d423064d1f3c92690adb11ea891167.js"></script>
+  </body>
+</html>
