@@ -6,9 +6,9 @@
 <html lang="pl-pl">
 	<head>
 		<meta charset="utf-8" />
-		<title>Złoto inwestycyjne. Złote sztabki i złote monety - Złota Uncja</title>
-		<meta name="description" content="Złote sztabki dla kolekcjonerów i inwestorów. Metale lokacyjne - zapraszamy do wejścia do sklepu i zapoznania się z ofertą." />
-		<meta name="keywords" content="złote sztabki,metale lokacyjne,sztabki złota,złoto,cena złota" />
+		<title>Srebro inwestycyjne. Srebrne sztabki i srebrne monety. - Złota Uncja</title>
+		<meta name="description" content="Srebrne monety bulionowe dla kolekcjonerów oraz inwestorów - zapraszamy do wejścia do sklepu i zapoznania się z ofertą." />
+		<meta name="keywords" content="srebrne monety,monety srebrne bulionowe,srebro inwestycyjne,srebrny filharmonik" />
 		<meta name="generator" content="Złota Uncja - złote monety i złote sztabki" />
 		<meta name="robots" content="index,follow" />
 		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
@@ -67,10 +67,10 @@ var contentOnly = false;
 var customizationIdMessage = 'Dostosowywanie #';
 var delete_txt = 'Usuń';
 var displayList = false;
-var filters = [{"type_lite":"manufacturer","type":"manufacturer","id_key":0,"name":"Producent","values":{"8":{"name":"ARGOR-HERAEUS","nbr":"2","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-argor_heraeus","rel":"nofollow"},"14":{"name":"HERAEUS","nbr":"10","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-heraeus","rel":"nofollow"},"18":{"name":"VALCAMBI","nbr":"3","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-valcambi","rel":"nofollow"}},"filter_show_limit":"0","filter_type":"0"},{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"229198","min":"286","values":{"1":"229198","0":"286"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"34":{"nbr":2,"name":"1 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_g","rel":""},"41":{"nbr":2,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_oz","rel":""},"35":{"nbr":2,"name":"2 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-2_g","rel":""},"38":{"nbr":3,"name":"5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-5_g","rel":""},"39":{"nbr":3,"name":"10 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-10_g","rel":""},"40":{"nbr":3,"name":"20 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-20_g","rel":""},"42":{"nbr":2,"name":"50 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-50_g","rel":""},"43":{"nbr":3,"name":"100 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-100_g","rel":""},"44":{"nbr":1,"name":"250 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-250_g","rel":""},"45":{"nbr":1,"name":"500 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-500_g","rel":""},"46":{"nbr":1,"name":"1000 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1000_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"}];
+var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"1949","min":"131","values":{"1":"1949","0":"131"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":46,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_oz","rel":""},"75":{"nbr":1,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":1,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":1,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_20_oz","rel":""},"76":{"nbr":3,"name":"2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-2_oz","rel":""},"22129":{"nbr":3,"name":"5 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-5_oz","rel":""},"78":{"nbr":1,"name":"10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-10_oz","rel":""},"22184":{"nbr":1,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":1,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-austrian_mint","rel":""},"22225":{"nbr":1,"name":"BAVARIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-bavarian_mint","rel":""},"22828":{"nbr":7,"name":"CASA DE MONEDA DE MEXICO  ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico","rel":""},"16857":{"nbr":1,"name":"GERMANIA MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-germania_mint","rel":""},"20696":{"nbr":1,"name":"Leipziger Edelmetallverarbeitung","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung","rel":""},"22026":{"nbr":2,"name":"MDM MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-mdm_mint","rel":""},"50":{"nbr":4,"name":"NEW ZEALAND MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-new_zealand_mint","rel":""},"51":{"nbr":14,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-perth_mint","rel":""},"52":{"nbr":1,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-rand_refinery","rel":""},"21868":{"nbr":6,"name":"ROYAL AUSTRALIAN MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_australian_mint","rel":""},"53":{"nbr":2,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":6,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_mint","rel":""},"22488":{"nbr":5,"name":"SCOTTSDALE MINT        ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-scottsdale_mint","rel":""},"54":{"nbr":1,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-shanghai_mint","rel":""},"22591":{"nbr":1,"name":"THE EAST INDIA COMPANY    ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-the_east_india_company","rel":""},"55":{"nbr":1,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1621804107;
+var generated_date = 1621804117;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -87,7 +87,7 @@ var priceDisplayMethod = 0;
 var priceDisplayPrecision = 2;
 var quickView = false;
 var removingLinkText = 'usuń ten produkt z koszyka';
-var request = 'https://zlota-uncja.pl/pl/3-zlote-sztabki';
+var request = 'https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe';
 var roundMode = 2;
 var search_url = 'https://zlota-uncja.pl/pl/szukaj';
 var static_token = '44732b18d08d4e50f32df6974f9b152e';
@@ -136,14 +136,14 @@ var usingSecureMode = true;
 
 
 	<meta property="og:type"                   content="website" />
-		<meta property="og:title"                  content="Z&#322;oto inwestycyjne. Z&#322;ote sztabki i z&#322;ote monety - Z&#322;ota Uncja" />
+		<meta property="og:title"                  content="Srebro inwestycyjne. Srebrne sztabki i srebrne monety. - Z&#322;ota Uncja" />
 		
-		<meta property="og:image"                  content="https://zlota-uncja.pl/c/3-category_default/zlote-sztabki.jpg" />	
+		<meta property="og:image"                  content="https://zlota-uncja.pl/c/19-category_default/srebrne-monety-bulionowe.jpg" />	
 	
 	<meta property="og:site_name"              content="Złota Uncja" />
 
-	<meta property="og:description"            content="Złote sztabki dla kolekcjonerów i inwestorów. Metale lokacyjne - zapraszamy do wejścia do sklepu i zapoznania się z ofertą." />
-	<meta property="og:url"                    content="http://zlota-uncja.pl/pl/3-zlote-sztabki" />
+	<meta property="og:description"            content="Srebrne monety bulionowe dla kolekcjonerów oraz inwestorów - zapraszamy do wejścia do sklepu i zapoznania się z ofertą." />
+	<meta property="og:url"                    content="http://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" />
 	
 
 
@@ -155,7 +155,7 @@ var usingSecureMode = true;
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
 	</head>
-	<body id="category" class="category category-3 category-zlote-sztabki hide-right-column lang_pl">
+	<body id="category" class="category category-19 category-srebrne-monety-bulionowe hide-right-column lang_pl">
 					<div id="page">
 			<div class="header-container">
 				<header id="header">
@@ -178,7 +178,7 @@ var usingSecureMode = true;
 <!-- /Block usmodule NAV -->
 <!-- Block currencies module -->
 	<div id="currencies-block-top">
-		<form id="setCurrency" action="/pl/3-zlote-sztabki" method="post">
+		<form id="setCurrency" action="/pl/19-srebrne-monety-bulionowe" method="post">
 			<div class="current">
 				<input type="hidden" name="id_currency" id="id_currency" value=""/>
 				<input type="hidden" name="SubmitCurrency" value="" />
@@ -215,7 +215,7 @@ var usingSecureMode = true;
 										<span>Polski</span>
 								</li>
 							<li >
-																				<a href="https://zlota-uncja.pl/de/3-goldbarren" title="Deutsch (German)">
+																				<a href="https://zlota-uncja.pl/de/19-silbermuenzen" title="Deutsch (German)">
 															<span>Deutsch</span>
 									</a>
 								</li>
@@ -375,7 +375,7 @@ var usingSecureMode = true;
 		<div class="cat-title">Kategorie</div>
 		<ul class="sf-menu clearfix menu-content">
 			<li><a href="http://zlota-uncja.pl/" title="Home">Home</a></li>
-<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a></li><li><a href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Zapowiedzi">Zapowiedzi</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-10-zl" title="Monety 10 zł">Monety 10 zł</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-20-zl" title="Monety 20 zł">Monety 20 zł</a></li><li><a href="https://zlota-uncja.pl/pl/57-monety-50-zl" title="Monety 50 zł">Monety 50 zł</a></li><li><a href="https://zlota-uncja.pl/pl/58-inne" title="INNE">INNE</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a></li>
+<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a></li><li><a href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Zapowiedzi">Zapowiedzi</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-10-zl" title="Monety 10 zł">Monety 10 zł</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-20-zl" title="Monety 20 zł">Monety 20 zł</a></li><li><a href="https://zlota-uncja.pl/pl/57-monety-50-zl" title="Monety 50 zł">Monety 50 zł</a></li><li><a href="https://zlota-uncja.pl/pl/58-inne" title="INNE">INNE</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a></li>
 					</ul>
 	</div>
 	<!--/ Menu -->
@@ -391,7 +391,7 @@ var usingSecureMode = true;
 <div class="breadcrumb clearfix">
 	<a class="home" href="http://zlota-uncja.pl/" title="Powr&oacute;t do strony gł&oacute;wnej"><!-- <i class="icon-home"></i> --><p class="go-home">Główna</p></a>
 			<span class="navigation-pipe">&gt;</span>
-					<span class="navigation_page"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto" ><span itemprop="title">Złoto</span></a></span><span class="navigation-pipe">></span>Złote sztabki</span>
+					<span class="navigation_page"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro" ><span itemprop="title">Srebro</span></a></span><span class="navigation-pipe">></span>Srebrne monety</span>
 			</div>
 <!-- /Breadcrumb -->
 
@@ -430,35 +430,7 @@ var usingSecureMode = true;
 	<div class="block_content">
 		<form action="#" id="layered_form">
 			<div>
-																										<div class="layered_filter">
-						                        <div class="layered_subtitle_heading">
-                            <span class="layered_subtitle">Producent</span>
-                            <!--<span class="layered_close">
-                            	<a href="#" data-rel="ul_layered_manufacturer_0"></a>
-                            </span>-->
-						</div>
-						<ul id="ul_layered_manufacturer_0" class="col-lg-12 layered_filter_ul">
-																																												<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_manufacturer_8" id="layered_manufacturer_8" value="8" /> 
-																						<label for="layered_manufacturer_8">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#producent-argor_heraeus" data-rel="nofollow">ARGOR-HERAEUS<span> (2)</span></a>
-																							</label>
-										</li>
-																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_manufacturer_14" id="layered_manufacturer_14" value="14" /> 
-																						<label for="layered_manufacturer_14">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#producent-heraeus" data-rel="nofollow">HERAEUS<span> (10)</span></a>
-																							</label>
-										</li>
-																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_manufacturer_18" id="layered_manufacturer_18" value="18" /> 
-																						<label for="layered_manufacturer_18">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#producent-valcambi" data-rel="nofollow">VALCAMBI<span> (3)</span></a>
-																							</label>
-										</li>
-																																															</ul>
-					</div>
-																											<div class="layered_price" style="display: none;">
+																										<div class="layered_price" style="display: none;">
 						                        <div class="layered_subtitle_heading">
                             <span class="layered_subtitle">Cena</span>
                             <!--<span class="layered_close">
@@ -484,75 +456,169 @@ var usingSecureMode = true;
 						</div>
 						<ul id="ul_layered_id_feature_8" class="col-lg-12 layered_filter_ul">
 																																												<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_34" id="layered_id_feature_34" value="34_8" /> 
-																						<label for="layered_id_feature_34">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-1_g">1 g<span> (2)</span></a>
-																							</label>
-										</li>
-																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_41" id="layered_id_feature_41" value="41_8" /> 
 																						<label for="layered_id_feature_41">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-1_oz">1 oz<span> (2)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_oz">1 oz<span> (46)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_35" id="layered_id_feature_35" value="35_8" /> 
-																						<label for="layered_id_feature_35">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-2_g">2 g<span> (2)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_75" id="layered_id_feature_75" value="75_8" /> 
+																						<label for="layered_id_feature_75">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_2_oz">1/2 oz<span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_38" id="layered_id_feature_38" value="38_8" /> 
-																						<label for="layered_id_feature_38">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-5_g">5 g<span> (3)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_77" id="layered_id_feature_77" value="77_8" /> 
+																						<label for="layered_id_feature_77">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_4_oz">1/4 oz<span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_39" id="layered_id_feature_39" value="39_8" /> 
-																						<label for="layered_id_feature_39">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-10_g">10 g<span> (3)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_378" id="layered_id_feature_378" value="378_8" /> 
+																						<label for="layered_id_feature_378">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_10_oz">1/10 oz<span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_40" id="layered_id_feature_40" value="40_8" /> 
-																						<label for="layered_id_feature_40">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-20_g">20 g<span> (3)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_379" id="layered_id_feature_379" value="379_8" /> 
+																						<label for="layered_id_feature_379">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_20_oz">1/20 oz<span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_42" id="layered_id_feature_42" value="42_8" /> 
-																						<label for="layered_id_feature_42">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-50_g">50 g<span> (2)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_76" id="layered_id_feature_76" value="76_8" /> 
+																						<label for="layered_id_feature_76">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-2_oz">2 oz<span> (3)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_43" id="layered_id_feature_43" value="43_8" /> 
-																						<label for="layered_id_feature_43">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-100_g">100 g<span> (3)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22129" id="layered_id_feature_22129" value="22129_8" /> 
+																						<label for="layered_id_feature_22129">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-5_oz">5 oz<span> (3)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_44" id="layered_id_feature_44" value="44_8" /> 
-																						<label for="layered_id_feature_44">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-250_g">250 g<span> (1)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_78" id="layered_id_feature_78" value="78_8" /> 
+																						<label for="layered_id_feature_78">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-10_oz">10 oz<span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_45" id="layered_id_feature_45" value="45_8" /> 
-																						<label for="layered_id_feature_45">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-500_g">500 g<span> (1)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22184" id="layered_id_feature_22184" value="22184_8" /> 
+																						<label for="layered_id_feature_22184">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-30_g">30 g<span> (1)</span></a>
+																							</label>
+										</li>
+																																															</ul>
+					</div>
+																											<div class="layered_filter">
+						                        <div class="layered_subtitle_heading">
+                            <span class="layered_subtitle">Mennica</span>
+                            <!--<span class="layered_close">
+                            	<a href="#" data-rel="ul_layered_id_feature_10"></a>
+                            </span>-->
+						</div>
+						<ul id="ul_layered_id_feature_10" class="col-lg-12 layered_filter_ul">
+																																												<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22487" id="layered_id_feature_22487" value="22487_10" /> 
+																						<label for="layered_id_feature_22487">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-austrian_mint">AUSTRIAN MINT <span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_46" id="layered_id_feature_46" value="46_8" /> 
-																						<label for="layered_id_feature_46">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-1000_g">1000 g<span> (1)</span></a>
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22225" id="layered_id_feature_22225" value="22225_10" /> 
+																						<label for="layered_id_feature_22225">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-bavarian_mint">BAVARIAN MINT <span> (1)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22828" id="layered_id_feature_22828" value="22828_10" /> 
+																						<label for="layered_id_feature_22828">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico">CASA DE MONEDA DE MEXICO  <span> (7)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_16857" id="layered_id_feature_16857" value="16857_10" /> 
+																						<label for="layered_id_feature_16857">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-germania_mint">GERMANIA MINT<span> (1)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_20696" id="layered_id_feature_20696" value="20696_10" /> 
+																						<label for="layered_id_feature_20696">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung">Leipziger Edelmetallverarbeitung<span> (1)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22026" id="layered_id_feature_22026" value="22026_10" /> 
+																						<label for="layered_id_feature_22026">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-mdm_mint">MDM MINT<span> (2)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_50" id="layered_id_feature_50" value="50_10" /> 
+																						<label for="layered_id_feature_50">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-new_zealand_mint">NEW ZEALAND MINT<span> (4)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_51" id="layered_id_feature_51" value="51_10" /> 
+																						<label for="layered_id_feature_51">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-perth_mint">PERTH MINT<span> (14)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_52" id="layered_id_feature_52" value="52_10" /> 
+																						<label for="layered_id_feature_52">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-rand_refinery">RAND REFINERY<span> (1)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_21868" id="layered_id_feature_21868" value="21868_10" /> 
+																						<label for="layered_id_feature_21868">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-royal_australian_mint">ROYAL AUSTRALIAN MINT<span> (6)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_53" id="layered_id_feature_53" value="53_10" /> 
+																						<label for="layered_id_feature_53">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint"> ROYAL CANADIAN MINT <span> (2)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_74" id="layered_id_feature_74" value="74_10" /> 
+																						<label for="layered_id_feature_74">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-royal_mint">ROYAL MINT<span> (6)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22488" id="layered_id_feature_22488" value="22488_10" /> 
+																						<label for="layered_id_feature_22488">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-scottsdale_mint">SCOTTSDALE MINT        <span> (5)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_54" id="layered_id_feature_54" value="54_10" /> 
+																						<label for="layered_id_feature_54">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-shanghai_mint">SHANGHAI MINT<span> (1)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_22591" id="layered_id_feature_22591" value="22591_10" /> 
+																						<label for="layered_id_feature_22591">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-the_east_india_company">THE EAST INDIA COMPANY    <span> (1)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_55" id="layered_id_feature_55" value="55_10" /> 
+																						<label for="layered_id_feature_55">
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-united_states_mint"> UNITED STATES MINT<span> (1)</span></a>
 																							</label>
 										</li>
 																																															</ul>
 					</div>
 												</div>
-			<input type="hidden" name="id_category_layered" value="3" />
+			<input type="hidden" name="id_category_layered" value="19" />
 																										</form>
 	</div>
 	<div id="layered_ajax_loader" style="display: none;">
@@ -733,7 +799,7 @@ var usingSecureMode = true;
 	
 
 	  
-		<h1 class="page-heading product-listing"><span class="cat-name">Złote sztabki&nbsp;</span><span class="heading-counter">Jest 23 produkt&oacute;w.</span>
+		<h1 class="page-heading product-listing"><span class="cat-name">Srebrne monety&nbsp;</span><span class="heading-counter">Jest 59 produkt&oacute;w.</span>
 </h1>
 							<div class="content_sortPagiBar clearfix">
             	<div class="sortPagiBar clearfix">
@@ -743,7 +809,7 @@ var usingSecureMode = true;
     <li id="list"><a rel="nofollow" href="#" title="Lista"><i class="icon-th-list"></i>Lista</a></li>
 </ul>
 
-<form id="productsSortForm" action="https://zlota-uncja.pl/pl/3-zlote-sztabki" class="productsSortForm">
+<form id="productsSortForm" action="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" class="productsSortForm">
 	<div class="select selector1">
 		<label for="selectProductSort">Sortuj wg</label>
 		<select id="selectProductSort" class="selectProductSort form-control">
@@ -762,6 +828,20 @@ var usingSecureMode = true;
 			
 	
                 								<!-- nbr product/page -->
+			<form action="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" method="get" class="nbrItemPage">
+			<div class="clearfix selector1">
+												<label for="nb_item">
+					Pokaż
+				</label>
+																																	<input type="hidden" name="id_category" value="19" />
+																			<select name="n" id="nb_item" class="form-control">
+																							<option value="24" selected="selected">24</option>
+																														<option value="48" >48</option>
+																														<option value="120" >120</option>
+																					</select>
+				<span>na stronę</span>
+			</div>
+		</form>
 		<!-- /nbr product/page -->
 
 				</div>
@@ -782,9 +862,45 @@ var usingSecureMode = true;
 	
 												<!-- Pagination -->
 	<div id="pagination" class="pagination clearfix">
-	    			</div>
+	    			<form class="showall" action="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" method="get">
+				<div>
+											                <button type="submit" class="btn btn-default button exclusive-medium">
+	                	<span>Pokaż wszystkie</span>
+	                </button>
+																																							<input type="hidden" name="id_category" value="19" />
+																			                <input name="n" id="nb_item" class="hidden" value="59" />
+				</div>
+			</form>
+							<ul class="pagination">
+									<li id="pagination_previous" class="disabled pagination_previous">
+						<span>
+							<i class="icon-chevron-left"></i> <b>Poprzedni</b>
+						</span>
+					</li>
+																															<li class="active current">
+							<span>
+								<span>1</span>
+							</span>
+						</li>
+																				<li>
+							<a  href="/pl/19-srebrne-monety-bulionowe?p=2">
+								<span>2</span>
+							</a>
+						</li>
+																				<li>
+							<a  href="/pl/19-srebrne-monety-bulionowe?p=3">
+								<span>3</span>
+							</a>
+						</li>
+																																			<li id="pagination_next" class="pagination_next">
+						<a  href="/pl/19-srebrne-monety-bulionowe?p=2" rel="next">
+							<b>Następny</b> <i class="icon-chevron-right"></i>
+						</a>
+					</li>
+							</ul>
+			</div>
     <div class="product-count">
-    	        	                        	                        	Pokazuje 1 - 23 z 23 element&oacute;w
+    	    		                        	                        	Pokazuje 1 - 24 z 59 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -803,25 +919,28 @@ var usingSecureMode = true;
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 10g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1228-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-10g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 10 g" title="Sztabka złota Au999,9 HERAEUS - 10 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/802-mexico-2021-libertad-ag999-1oz.html" title="Mexico 2021 - Libertad Ag999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2267-home_default/mexico-2021-libertad-ag999-1oz.jpg" alt="Mexico 2021 - Libertad Ag999 1oz" title="Mexico 2021 - Libertad Ag999 1oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 10g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 10g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/802-mexico-2021-libertad-ag999-1oz.html" title="Mexico 2021 - Libertad Ag999 1oz" itemprop="url" >
+								Mexico 2021 - Libertad Ag999 1oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 424,72 zł									</span>
+										158,07 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/802-mexico-2021-libertad-ag999-1oz.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -829,21 +948,19 @@ var usingSecureMode = true;
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Srebrna moneta przedstawiająca Meksykańską Bogini Wolności to doskonały produkt inwestycyjny, produkowany już od 1981 roku przez mennicę Casa de Moneda de Mexico. Moneta nie posiada wybitego nominału, jednak jest pełnoprawnym środkiem płatniczym w Meksyku.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 424,72 zł							</span>
+								158,07 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=377&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="377" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=802&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="802" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/802-mexico-2021-libertad-ag999-1oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -858,9 +975,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" data-id-product="377">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/802-mexico-2021-libertad-ag999-1oz.html" data-id-product="802">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 28. tydzie&#324;
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -871,25 +988,28 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 20g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1229-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-20g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 20 g" title="Sztabka złota Au999,9 HERAEUS - 20 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/818-congo-2021-world-s-wildlife-bald-eagle-ag9999-1oz-bu.html" title="Congo 2021 - World&#039;s Wildlife - Bald Eagle Ag999,9 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2313-home_default/congo-2021-world-s-wildlife-bald-eagle-ag9999-1oz-bu.jpg" alt="Congo 2021 - World&#039;s Wildlife - Bald Eagle Ag9999 1oz BU" title="Congo 2021 - World&#039;s Wildlife - Bald Eagle Ag9999 1oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 20g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 20g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/818-congo-2021-world-s-wildlife-bald-eagle-ag9999-1oz-bu.html" title="Congo 2021 - World&#039;s Wildlife - Bald Eagle Ag999,9 1oz BU" itemprop="url" >
+								Congo 2021 - World&#039;s Wildlife - Bald Eagle Ag999,9...
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										4 696,45 zł									</span>
+										158,07 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/818-congo-2021-world-s-wildlife-bald-eagle-ag9999-1oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -897,21 +1017,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Srebrna moneta Bald Eagle to już trzecia odsłona serii World's Wildlife poświęcona najpiękniejszym zwierzętom z całego świata.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								4 696,45 zł							</span>
+								158,07 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=378&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="378" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=818&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="818" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/818-congo-2021-world-s-wildlife-bald-eagle-ag9999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -926,9 +1044,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" data-id-product="378">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/818-congo-2021-world-s-wildlife-bald-eagle-ag9999-1oz-bu.html" data-id-product="818">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 28. tydzie&#324; 
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -939,19 +1057,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 31,1g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1230-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-311g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 31,1 g" title="Sztabka złota Au999,9 HERAEUS - 31,1 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/408-australia-2020-kangaroo-ag9999-1oz.html" title="Australia 2020 - Kangaroo Ag9999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1299-home_default/australia-2020-kangaroo-ag9999-1oz.jpg" alt="Australia 2020 - Kangur Ag9999 1oz" title="Australia 2020 - Kangur Ag9999 1oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 31,1g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 31,1g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/408-australia-2020-kangaroo-ag9999-1oz.html" title="Australia 2020 - Kangaroo Ag9999 1oz" itemprop="url" >
+								Australia 2020 - Kangaroo Ag9999 1oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 299,60 zł									</span>
+										131,08 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -965,22 +1083,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Pierwsza wersja srebrnego Kangura zadebiutowała w 2016 roku, w sprzedaży posiadamy jego 5. wydanie. Wzór inspirowany jest miedzianymi drobnymi monetami z 1938 roku, na których widniał kangur ze swoim lewym profilem.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 299,60 zł							</span>
+								131,08 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=379&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="379" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=408&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="408" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/408-australia-2020-kangaroo-ag9999-1oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -995,9 +1110,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" data-id-product="379">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/408-australia-2020-kangaroo-ag9999-1oz.html" data-id-product="408">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1008,25 +1123,28 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 2g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1232-home_default/sztabka-zlota-au9999-heraeus-argor-heraeus-2g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 2 g" title="Sztabka złota Au999,9 HERAEUS - 2 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/797-st-helena-2021-una-lion-ag999-1oz-bu.html" title="St. Helena 2021 - Una &amp; Lion Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2253-home_default/st-helena-2021-una-lion-ag999-1oz-bu.jpg" alt="St. Helena 2021 - Una &amp; Lion Ag999 1oz BU" title="St. Helena 2021 - Una &amp; Lion Ag999 1oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 2g" itemprop="url" >
-								Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 2g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/797-st-helena-2021-una-lion-ag999-1oz-bu.html" title="St. Helena 2021 - Una &amp; Lion Ag999 1oz BU" itemprop="url" >
+								St. Helena 2021 - Una &amp; Lion Ag999 1oz BU
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										537,14 zł									</span>
+										189,00 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/797-st-helena-2021-una-lion-ag999-1oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -1034,22 +1152,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Srebrna moneta prezentuje nowy wizerunek legendy o Św. Helenie i lwie - opowieści angielskiego poety Edmunda Spencera, która stała się symbolem siły, honoru i wytrwałości.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								537,14 zł							</span>
+								189,00 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=381&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="381" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=797&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="797" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/797-st-helena-2021-una-lion-ag999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1064,9 +1179,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" data-id-product="381">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/797-st-helena-2021-una-lion-ag999-1oz-bu.html" data-id-product="797">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 24. tydzie&#324;
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1077,19 +1192,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 5g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1647-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-5g.jpg" alt="Gold bar Au999,9 Heraeus - 5g" title="Gold bar Au999,9 Heraeus - 5g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz.html" title="Canada 2021 - Maple Leaf Ag9999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1890-home_default/canada-2021-maple-leaf-ag9999-1oz.jpg" alt="Kanada 2021 - Maple Leaf Ag9999 1oz" title="Kanada 2021 - Maple Leaf Ag9999 1oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 5g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 5g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz.html" title="Canada 2021 - Maple Leaf Ag9999 1oz" itemprop="url" >
+								Canada 2021 - Maple Leaf Ag9999 1oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 252,86 zł									</span>
+										136,70 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1103,22 +1218,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Kanadyjski Liść Klonowy, to jedna z najbardziej rozpoznawalnych monet bulionowych na świecie. Produkowana jest nieprzerwanie od 1988 roku w Royal Canadian Mint. Srebrna moneta przedstawiająca botaniczny symbol Kanady jest wybijana z czystego srebra próby 9999 w wadze jednej uncji trojańskiej.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 252,86 zł							</span>
+								136,70 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=564&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="564" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=671&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="671" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1133,9 +1245,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" data-id-product="564">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz.html" data-id-product="671">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1146,25 +1258,28 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 1g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1648-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-1g.jpg" alt="Gold bar Au999,9 Heraeus - 1g" title="Gold bar Au999,9 Heraeus - 1g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/795-australia-2021-the-next-generation-platypus-ag9999-2oz-bu.html" title="Australia 2021 - The Next Generation - Platypus Ag9999 2oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2249-home_default/australia-2021-the-next-generation-platypus-ag9999-2oz-bu.jpg" alt="Australia 2021 - Mother and Baby - Platypus Ag9999 2oz BU" title="Australia 2021 - Mother and Baby - Platypus Ag9999 2oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 1g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 1g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/795-australia-2021-the-next-generation-platypus-ag9999-2oz-bu.html" title="Australia 2021 - The Next Generation - Platypus Ag9999 2oz BU" itemprop="url" >
+								Australia 2021 - The Next Generation - Platypus...
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										286,57 zł									</span>
+										275,65 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/795-australia-2021-the-next-generation-platypus-ag9999-2oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -1172,22 +1287,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Odnosząca ogromny sukces, seria srebrnych monet została wzbogacona o kolejną odsłonę. Czwarte wydanie zdobi przedstawiciel pochodzący z Outback - Dziobak. Moneta Platypus Mother &amp; Baby 2021 ukazuje matkę z młodym pływających na tle oceanicznych roślin.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								286,57 zł							</span>
+								275,65 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=565&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="565" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=795&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="795" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/795-australia-2021-the-next-generation-platypus-ag9999-2oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1202,9 +1314,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" data-id-product="565">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/795-australia-2021-the-next-generation-platypus-ag9999-2oz-bu.html" data-id-product="795">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 25. tydzie&#324;
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1215,25 +1327,28 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 100g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1227-home_default/sztabka-zlota-au9999-heraeus-argor-heraeus-100g.jpg" alt="Złota sztabka Au999,9 HERAEUS - 100 g" title="Złota sztabka Au999,9 HERAEUS - 100 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/767-australia-2021-swan-ag9999-1oz-bu.html" title="Australia 2021 - Swan Ag9999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2172-home_default/australia-2021-swan-ag9999-1oz-bu.jpg" alt="Australia 2021 - Swan Ag999 1oz BU" title="Australia 2021 - Swan Ag999 1oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 100g" itemprop="url" >
-								Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 100g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/767-australia-2021-swan-ag9999-1oz-bu.html" title="Australia 2021 - Swan Ag9999 1oz BU" itemprop="url" >
+								Australia 2021 - Swan Ag9999 1oz BU
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										22 991,76 zł									</span>
+										191,82 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/767-australia-2021-swan-ag9999-1oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -1241,22 +1356,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Moneta została wybita z czystego srebra próby 9999. Seria srebrnych monet australijskiego łabędzia cechuje się ograniczonym nakładem emisyjnym oraz corocznie zmieniającym się wzorem rewersu. Idealna zarówno dla nowych, jak i doświadczonych inwestorów.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								22 991,76 zł							</span>
+								191,82 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=376&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="376" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=767&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="767" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/767-australia-2021-swan-ag9999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1271,9 +1383,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" data-id-product="376">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/767-australia-2021-swan-ag9999-1oz-bu.html" data-id-product="767">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1284,25 +1396,28 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 50g " itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1231-home_default/sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.jpg" alt="Sztabka złota Au999,9 HERAEUS - 50 g " title="Sztabka złota Au999,9 HERAEUS - 50 g "  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/791-australia-2021-beneath-the-southern-skies-ag9999-1oz.html" title="Australia 2021 - Beneath the Southern Skies Ag9999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2233-home_default/australia-2021-beneath-the-southern-skies-ag9999-1oz.jpg" alt="Australia 2021 - Beneath the Southern Skies Ag9999 1oz" title="Australia 2021 - Beneath the Southern Skies Ag9999 1oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 50g " itemprop="url" >
-								Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 50g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/791-australia-2021-beneath-the-southern-skies-ag9999-1oz.html" title="Australia 2021 - Beneath the Southern Skies Ag9999 1oz" itemprop="url" >
+								Australia 2021 - Beneath the Southern Skies Ag9999 1oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										11 696,12 zł									</span>
+										146,83 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/791-australia-2021-beneath-the-southern-skies-ag9999-1oz.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -1310,21 +1425,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
-Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
+						Seria "Beneath the Southern Skies" charakteryzuje się prostym efektownym designem, przedstawiającym mapę Australii. Grafika jest inspirowana jednym z oryginalnych szkiców Stuarta Devlina.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								11 696,12 zł							</span>
+								146,83 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=380&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="380" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=791&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="791" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/791-australia-2021-beneath-the-southern-skies-ag9999-1oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1339,9 +1452,9 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" data-id-product="380">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/791-australia-2021-beneath-the-southern-skies-ag9999-1oz.html" data-id-product="791">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 22. tydzie&#324;
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1352,19 +1465,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/374-zlota-sztabka-valcambi-au9999-50x1g-combibar-multicard-.html" title="Złota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) " itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1205-home_default/zlota-sztabka-valcambi-au9999-50x1g-combibar-multicard-.jpg" alt="Valcambi - CombiBar (Multicard) Au999,9 - 50x1g" title="Valcambi - CombiBar (Multicard) Au999,9 - 50x1g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Great Britain 2021 - Britannia Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1761-home_default/great-britain-2021-britannia-ag999-1oz-bu.jpg" alt="Great Britain 2021 - Britannia Ag999 1 oz BU" title="Great Britain 2021 - Britannia Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/374-zlota-sztabka-valcambi-au9999-50x1g-combibar-multicard-.html" title="Złota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) " itemprop="url" >
-								Złota sztabka Valcambi Au999.9 - 50x1g CombiBar...
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Great Britain 2021 - Britannia Ag999 1oz BU" itemprop="url" >
+								Great Britain 2021 - Britannia Ag999 1oz BU
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										12 056,12 zł									</span>
+										133,33 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1378,20 +1491,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 
 					
 					<p class="product-desc" itemprop="description">
-						Podzielna sztabka CombiBar złożona jest z 50 jednogramowych małych sztabek połączonych ze sobą w taki sposób, aby wygodnie odłamać dowolny fragment. 
-Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikacji.
+						Przedstawiamy jedną z siedmiu najpopularniejszych na świecie srebrnych monet inwestycyjnych, bita przez Królewską Mennicę Wielkiej Brytanii (Royal Mint). W odróżnieniu od rzadszych monet i sztabek, jej rozpoznawalność gwarantuje łatwość sprzedaży w każdej chwili na całym świecie.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								12 056,12 zł							</span>
+								133,33 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=374&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="374" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=619&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="619" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/374-zlota-sztabka-valcambi-au9999-50x1g-combibar-multicard-.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1406,9 +1518,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/374-zlota-sztabka-valcambi-au9999-50x1g-combibar-multicard-.html" data-id-product="374">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" data-id-product="619">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 22. tydzie&#324; 
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1419,355 +1531,25 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 31,1 g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1234-home_default/zlota-sztabka-heraeus-au9999-kinebar-311-g.jpg" alt="Sztabka złota Au999,9 HERAEUS Kinebar - 31,1 g" title="Sztabka złota Au999,9 HERAEUS Kinebar - 31,1 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/811-australia-2021-australia-s-most-dangerous-redback-spider-ag999-5oz-bu.html" title="Australia 2021 - Australia&#039;s Most Dangerous - Redback Spider Ag999 5oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2292-home_default/australia-2021-australia-s-most-dangerous-redback-spider-ag999-5oz-bu.jpg" alt="Australia 2021 - Redback Spider Ag999 5oz" title="Australia 2021 - Redback Spider Ag999 5oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 31,1 g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 31,1 g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/811-australia-2021-australia-s-most-dangerous-redback-spider-ag999-5oz-bu.html" title="Australia 2021 - Australia&#039;s Most Dangerous - Redback Spider Ag999 5oz BU" itemprop="url" >
+								Australia 2021 - Australia&#039;s Most Dangerous -...
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 353,60 zł									</span>
+										1 233,61 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								7 353,60 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=383&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="383" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" data-id-product="383">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/548-sztabka-zlota-au9999-heraeus-250g-sztabka-lana.html" title="Sztabka złota Au999.9 HERAEUS - 250g sztabka lana" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1610-home_default/sztabka-zlota-au9999-heraeus-250g-sztabka-lana.jpg" alt="Gold bar Au999,9 Heraeus - 250g cast bar" title="Gold bar Au999,9 Heraeus - 250g cast bar"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/548-sztabka-zlota-au9999-heraeus-250g-sztabka-lana.html" title="Sztabka złota Au999.9 HERAEUS - 250g sztabka lana" itemprop="url" >
-								Sztabka złota Au999.9 HERAEUS - 250g sztabka lana
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										58 435,63 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Złota sztabka lokacyjna najwyższej próby pochodząca z jednej z najbardziej renomowanych mennic świata. Każda sztabka ma wytłoczoną nazwę mennicy, wagę i próbę, a także numer seryjny i znak certyfikacji.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								58 435,63 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=548&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="548" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/548-sztabka-zlota-au9999-heraeus-250g-sztabka-lana.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/548-sztabka-zlota-au9999-heraeus-250g-sztabka-lana.html" data-id-product="548">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/549-zlota-sztabka-au9999-heraeus-500g-sztabka-lana.html" title="Złota sztabka Au999.9 Heraeus - 500g sztabka lana" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1611-home_default/zlota-sztabka-au9999-heraeus-500g-sztabka-lana.jpg" alt="Gold bar Au999,9 Heraeus - 500g cast bar" title="Gold bar Au999,9 Heraeus - 500g cast bar"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/549-zlota-sztabka-au9999-heraeus-500g-sztabka-lana.html" title="Złota sztabka Au999.9 Heraeus - 500g sztabka lana" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus - 500g sztabka lana
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										114 823,80 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Złota sztabka lokacyjna najwyższej próby pochodząca z jednej z najbardziej renomowanych mennic świata. Każda sztabka ma wytłoczoną nazwę mennicy, wagę i próbę, a także numer seryjny i znak certyfikacji.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								114 823,80 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=549&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="549" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/549-zlota-sztabka-au9999-heraeus-500g-sztabka-lana.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/549-zlota-sztabka-au9999-heraeus-500g-sztabka-lana.html" data-id-product="549">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 20g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1784-home_default/zlota-sztabka-heraeus-au9999-kinebar-20g.jpg" alt="Złota sztabka Heraeus Au9999 Kinebar 20g" title="Złota sztabka Heraeus Au9999 Kinebar 20g"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 20g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 20g
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										4 718,95 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								4 718,95 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=631&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="631" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" data-id-product="631">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/633-zlota-sztabka-heraeus-au9999-kinebar-1g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 1g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1786-home_default/zlota-sztabka-heraeus-au9999-kinebar-1g.jpg" alt="Złota sztabka Heraeus Au9999 Kinebar 1g" title="Złota sztabka Heraeus Au9999 Kinebar 1g"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/633-zlota-sztabka-heraeus-au9999-kinebar-1g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 1g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 1g
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										307,72 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								307,72 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=633&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="633" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/633-zlota-sztabka-heraeus-au9999-kinebar-1g.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/633-zlota-sztabka-heraeus-au9999-kinebar-1g.html" data-id-product="633">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/758-zlota-sztabka-valcambi-au9999-20x1g-combibar-multicard.html" title="Złota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2140-home_default/zlota-sztabka-valcambi-au9999-20x1g-combibar-multicard.jpg" alt="Złota sztabka Au999.9 Valcambi - 20x1g CombiBar (Multicard)" title="Złota sztabka Au999.9 Valcambi - 20x1g CombiBar (Multicard)"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/758-zlota-sztabka-valcambi-au9999-20x1g-combibar-multicard.html" title="Złota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)" itemprop="url" >
-								Złota sztabka Valcambi Au999.9  - 20x1g CombiBar...
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										5 078,94 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/758-zlota-sztabka-valcambi-au9999-20x1g-combibar-multicard.html">
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/811-australia-2021-australia-s-most-dangerous-redback-spider-ag999-5oz-bu.html">
 								<span class="new-label">Nowy</span>
 							</a>
 																	</div>
@@ -1778,20 +1560,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Podzielna sztabka CombiBar złożona jest z 20 jednogramowych małych sztabek połączonych ze sobą w taki sposób, aby wygodnie odłamać dowolny fragment. 
-Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikacji.
+						Przedstawiamy pierwszą monetę 5oz z serii Australia's Most Dangerous. Redback Spider to jeden z najbardziej jadowitych pająków na świecie. Nowa moneta bulionowa Redback Spider jest wykonana z czystego srebra próby 999 o wadze 5oz. Jej nakład to tylko 1 000 szt.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								5 078,94 zł							</span>
+								1 233,61 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=758&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="758" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=811&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="811" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/758-zlota-sztabka-valcambi-au9999-20x1g-combibar-multicard.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/811-australia-2021-australia-s-most-dangerous-redback-spider-ag999-5oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1806,9 +1587,340 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/758-zlota-sztabka-valcambi-au9999-20x1g-combibar-multicard.html" data-id-product="758">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/811-australia-2021-australia-s-most-dangerous-redback-spider-ag999-5oz-bu.html" data-id-product="811">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 27. tydzie&#324;
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz.html" title="RPA 2021 - Krugerrand Ag999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1848-home_default/rpa-2021-krugerrand-ag999-1oz.jpg" alt="RPA 2021 - Krugerrand Ag999 1 oz" title="RPA 2021 - Krugerrand Ag999 1 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz.html" title="RPA 2021 - Krugerrand Ag999 1oz" itemprop="url" >
+								RPA 2021 - Krugerrand Ag999 1oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										139,18 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Krugerrand to jedna z najbardziej rozpoznawalnych monet bulionowych na świecie. Ten inwestycyjny walor został wykonany ze srebra o wadzę jednej uncji trojańskiej oraz czystości kruszcu 999. Po raz pierwszy srebrny Krugerrand został wyprodukowany w 2017 roku jako produkt jubileuszowy. Od roku 2018 srebrne monety z wizerunkiem springbok’a posiadają...
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								139,18 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=655&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="655" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz.html" data-id-product="655">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/554-australia-2020-double-pixiu-ag9999-1oz.html" title="Australia 2020 - Double Pixiu Ag9999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1622-home_default/australia-2020-double-pixiu-ag9999-1oz.jpg" alt="Australia 2020 - Double Pixiu Ag9999 1oz" title="Australia 2020 - Double Pixiu Ag9999 1oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/554-australia-2020-double-pixiu-ag9999-1oz.html" title="Australia 2020 - Double Pixiu Ag9999 1oz" itemprop="url" >
+								Australia 2020 - Double Pixiu Ag9999 1oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										145,48 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Perth Mint wybiło monetę z wizerunkiem chińskiego stworzenia zwanego Pixiu, występującego najczęściej w parze. Pixiu posiada głowę smoka, ciało lwa oraz skrzydła, służace według wierzeń do przemieszczania się między Ziemią a Niebem, gdzie Pixiu toczą walki z demonami. Chińskie stworzenia chronią swego Pana od wszelkiego cierpienia i odganiają od niego złe...
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								145,48 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=554&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="554" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/554-australia-2020-double-pixiu-ag9999-1oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/554-australia-2020-double-pixiu-ag9999-1oz.html" data-id-product="554">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz.html" title="Austria 2021 - Wiener Philharmoniker Ag999,9 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1912-home_default/austria-2021-wiener-philharmoniker-ag9999-1oz.jpg" alt="Austria 2021 - Philharmoniker Ag9999 1 oz" title="Austria 2021 - Philharmoniker Ag9999 1 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz.html" title="Austria 2021 - Wiener Philharmoniker Ag999,9 1oz" itemprop="url" >
+								Austria 2021 - Wiener Philharmoniker Ag999,9 1oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										134,68 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Srebrny Wiedeński Filharmonik 2021 to kolejna odsłona kultowej, inwestycyjnej serii. Srebrna moneta jest produkowana z czystego srebra próby 999 w wadze jednej uncji trojańskiej.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								134,68 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=682&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="682" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz.html" data-id-product="682">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/720-tuvalu-2021-john-wayne-ag9999-1oz.html" title="Tuvalu 2021 - John Wayne Ag9999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1994-home_default/tuvalu-2021-john-wayne-ag9999-1oz.jpg" alt="Tuvalu 2021 - John Wayne Ag999 1oz" title="Tuvalu 2021 - John Wayne Ag999 1oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/720-tuvalu-2021-john-wayne-ag9999-1oz.html" title="Tuvalu 2021 - John Wayne Ag9999 1oz" itemprop="url" >
+								Tuvalu 2021 - John Wayne Ag9999 1oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										167,07 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Srebrna moneta przedstawiająca jedną z największych legend Hollywood - Johna Wayne'a to unikatowa propozycja pochodząca od światowej sławy australijskiej mennicy The Perth Mint. Ta srebrna moneta należy do produktów premium oraz posiada ściśle limitowany nakład liczący 15 000 sztuk.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								167,07 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=720&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="720" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/720-tuvalu-2021-john-wayne-ag9999-1oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/720-tuvalu-2021-john-wayne-ag9999-1oz.html" data-id-product="720">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/629-australia-2021-kangaroo-ag9999-1oz.html" title="Australia 2021 - Kangaroo Ag9999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1781-home_default/australia-2021-kangaroo-ag9999-1oz.jpg" alt="Australia 2021 - Kangaroo Ag9999 1 oz" title="Australia 2021 - Kangaroo Ag9999 1 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/629-australia-2021-kangaroo-ag9999-1oz.html" title="Australia 2021 - Kangaroo Ag9999 1oz" itemprop="url" >
+								Australia 2021 - Kangaroo Ag9999 1oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										134,23 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Australijski kangur to jedna z najbardziej rozpoznawalnych monet bulionowych na świecie. Produkowana przez australijską mennicę Perth Mint charakteryzuje się wysoką jakością bicia i nieustannie cieszy się dużą popularnością wśród klientów.
+Moneta przedstawia narodowy symbol Australii - wizerunek skaczącego kangura. Na awersie umieszczono wizerunek...
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								134,23 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=629&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="629" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/629-australia-2021-kangaroo-ag9999-1oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/629-australia-2021-kangaroo-ag9999-1oz.html" data-id-product="629">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1819,28 +1931,25 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/784-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-5g.html" title="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 5g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2216-home_default/sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-5g.jpg" alt="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 5g" title="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 5g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/685-caribbean-2020-stvincent-the-grenadines-ag999-1oz.html" title="Caribbean 2020 - St.Vincent &amp; The Grenadines Ag999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1918-home_default/caribbean-2020-stvincent-the-grenadines-ag999-1oz.jpg" alt="Caribbean 2020 - St.Vincent &amp; The Grenadines Ag999 1oz" title="Caribbean 2020 - St.Vincent &amp; The Grenadines Ag999 1oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/784-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-5g.html" title="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 5g" itemprop="url" >
-								Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The...
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/685-caribbean-2020-stvincent-the-grenadines-ag999-1oz.html" title="Caribbean 2020 - St.Vincent &amp; The Grenadines Ag999 1oz" itemprop="url" >
+								Caribbean 2020 - St.Vincent &amp; The Grenadines Ag999 1oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 252,86 zł									</span>
+										141,43 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/784-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-5g.html">
-								<span class="new-label">Nowy</span>
-							</a>
-																	</div>
+																							</div>
 					
 					
 				</div>
@@ -1848,19 +1957,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Limitowana edycja YEAR OF THE OX 2021. Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
+						Seria EC8 wydana przez Scottsdale Mints jest piękną kolekcją monet bulionowych opublikowaną przez prywatną amerykańską mennicę we współpracy z Centralnym Bankiem Wschodnich Karaibów. Osiem narodów członkowskich systemu ECCB jest reprezentowanych w tej corocznej serii z nowymi wzorami rewersów.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 252,86 zł							</span>
+								141,43 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=784&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="784" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=685&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="685" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/784-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-5g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/685-caribbean-2020-stvincent-the-grenadines-ag999-1oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1875,9 +1984,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/784-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-5g.html" data-id-product="784">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/685-caribbean-2020-stvincent-the-grenadines-ag999-1oz.html" data-id-product="685">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1888,28 +1997,25 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/785-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-10g.html" title="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 10g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2218-home_default/sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-10g.jpg" alt="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 10g" title="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 10g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/625-china-2021-panda-ag999-30g.html" title="China 2021 - Panda Ag999 30g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1773-home_default/china-2021-panda-ag999-30g.jpg" alt="China 2021 - Panda Ag999 30g" title="China 2021 - Panda Ag999 30g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/785-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-10g.html" title="Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The Ox 10g" itemprop="url" >
-								Sztabka złota Au999.9 Argor-Heraeus - Lunar Of The...
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/625-china-2021-panda-ag999-30g.html" title="China 2021 - Panda Ag999 30g" itemprop="url" >
+								China 2021 - Panda Ag999 30g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 424,72 zł									</span>
+										153,57 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/785-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-10g.html">
-								<span class="new-label">Nowy</span>
-							</a>
-																	</div>
+																							</div>
 					
 					
 				</div>
@@ -1917,19 +2023,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Limitowana edycja YEAR OF THE OX 2021. Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
+						Chińska Panda to srebrna moneta bulionowa o zmieniającym się projekcie głównego motywu, dzięki czemu jest niezwykle ceniona wśród kolekcjonerów. Moneta o wadze 30 gramów przedstawia wizerunek pandy, która jest narodowym symbolem Chin. Rewers monety przedstawia Świątynię Nieba Tia Tan, znajdującą się w Pekinie.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 424,72 zł							</span>
+								153,57 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=785&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="785" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=625&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="625" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/785-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-10g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/625-china-2021-panda-ag999-30g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1944,9 +2050,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/785-sztabka-zlota-au9999-argor-heraeus-lunar-of-the-ox-10g.html" data-id-product="785">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/625-china-2021-panda-ag999-30g.html" data-id-product="625">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1957,25 +2063,25 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/792-zlota-sztabka-au9999-heraeus-1000g-sztabka-lana.html" title="Złota sztabka Au999,9 Heraeus - 1000g sztabka lana" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2232-home_default/zlota-sztabka-au9999-heraeus-1000g-sztabka-lana.jpg" alt="Złota sztabka Au999,9 Heraeus - 1000g sztabka lana" title="Złota sztabka Au999,9 Heraeus - 1000g sztabka lana"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/803-mexico-2021-libertad-ag999-2oz.html" title="Mexico 2021 - Libertad Ag999 2oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2270-home_default/mexico-2021-libertad-ag999-2oz.jpg" alt="Mexico 2021 - Libertad Ag999 2oz" title="Mexico 2021 - Libertad Ag999 2oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/792-zlota-sztabka-au9999-heraeus-1000g-sztabka-lana.html" title="Złota sztabka Au999,9 Heraeus - 1000g sztabka lana" itemprop="url" >
-								Złota sztabka Au999,9 Heraeus - 1000g sztabka lana
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/803-mexico-2021-libertad-ag999-2oz.html" title="Mexico 2021 - Libertad Ag999 2oz" itemprop="url" >
+								Mexico 2021 - Libertad Ag999 2oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										229 197,62 zł									</span>
+										300,40 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/792-zlota-sztabka-au9999-heraeus-1000g-sztabka-lana.html">
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/803-mexico-2021-libertad-ag999-2oz.html">
 								<span class="new-label">Nowy</span>
 							</a>
 																	</div>
@@ -1986,19 +2092,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Złota sztabka lokacyjna najwyższej próby pochodząca z jednej z najbardziej renomowanych mennic świata. Każda sztabka ma wytłoczoną nazwę mennicy, wagę i próbę, a także numer seryjny i znak certyfikacji.
+						Srebrna moneta przedstawiająca Meksykańską Bogini Wolności to doskonały produkt inwestycyjny, produkowany już od 1981 roku  przez mennicę Casa de Moneda de Mexico. Moneta nie posiada wybitego nominału, jednak jest pełnoprawnym środkiem płatniczym w Meksyku.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								229 197,62 zł							</span>
+								300,40 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=792&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="792" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=803&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="803" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/792-zlota-sztabka-au9999-heraeus-1000g-sztabka-lana.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/803-mexico-2021-libertad-ag999-2oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2013,9 +2119,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/792-zlota-sztabka-au9999-heraeus-1000g-sztabka-lana.html" data-id-product="792">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/803-mexico-2021-libertad-ag999-2oz.html" data-id-product="803">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 28. tydzie&#324;
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -2026,25 +2132,28 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/558-zlota-sztabka-au9999-heraeus-100g-sztabka-lana.html" title="Złota sztabka Au999.9 Heraeus - 100g sztabka lana" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1628-home_default/zlota-sztabka-au9999-heraeus-100g-sztabka-lana.jpg" alt="Sztabka złota Au999,9 HERAEUS - 100g sztabka lana" title="Sztabka złota Au999,9 HERAEUS - 100g sztabka lana"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/804-mexico-2021-libertad-ag999-5oz.html" title="Mexico 2021 - Libertad Ag999 5oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2272-home_default/mexico-2021-libertad-ag999-5oz.jpg" alt="Mexico 2021 - Libertad Ag999 5oz" title="Mexico 2021 - Libertad Ag999 5oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/558-zlota-sztabka-au9999-heraeus-100g-sztabka-lana.html" title="Złota sztabka Au999.9 Heraeus - 100g sztabka lana" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus - 100g sztabka lana
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/804-mexico-2021-libertad-ag999-5oz.html" title="Mexico 2021 - Libertad Ag999 5oz" itemprop="url" >
+								Mexico 2021 - Libertad Ag999 5oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										23 032,26 zł									</span>
+										803,87 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/804-mexico-2021-libertad-ag999-5oz.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -2052,19 +2161,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Złota sztabka lokacyjna najwyższej próby pochodząca z jednej z najbardziej renomowanych mennic świata. Każda sztabka ma wytłoczoną nazwę mennicy, wagę i próbę, a także numer seryjny i znak certyfikacji.
+						Srebrna moneta przedstawiająca Meksykańską Bogini Wolności to doskonały produkt inwestycyjny, produkowany już od 1981 roku przez mennicę Casa de Moneda de Mexico. Moneta nie posiada wybitego nominału, jednak jest pełnoprawnym środkiem płatniczym w Meksyku.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								23 032,26 zł							</span>
+								803,87 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=558&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="558" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=804&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="804" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/558-zlota-sztabka-au9999-heraeus-100g-sztabka-lana.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/804-mexico-2021-libertad-ag999-5oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2079,9 +2188,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/558-zlota-sztabka-au9999-heraeus-100g-sztabka-lana.html" data-id-product="558">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/804-mexico-2021-libertad-ag999-5oz.html" data-id-product="804">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 28. tydzie&#324;
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -2092,19 +2201,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 2g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1783-home_default/zlota-sztabka-heraeus-au9999-kinebar-2g.jpg" alt="Złota sztabka Heraeus Au9999 Kinebar 2g" title="Złota sztabka Heraeus Au9999 Kinebar 2g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/592-australia-2020-quokka-ag9999-1oz.html" title="Australia 2020 - Quokka Ag9999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1703-home_default/australia-2020-quokka-ag9999-1oz.jpg" alt="Australia 2020 - Quokka Ag9999 1 oz" title="Australia 2020 - Quokka Ag9999 1 oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 2g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 2g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/592-australia-2020-quokka-ag9999-1oz.html" title="Australia 2020 - Quokka Ag9999 1oz" itemprop="url" >
+								Australia 2020 - Quokka Ag9999 1oz
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										564,14 zł									</span>
+										175,00 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2118,19 +2227,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
+						Quokka uchodzi za jedno z najszczęśliwszych zwierząt świata. Większość populacji zamieszkuje wyspę Rottnes (tł. szczurze gniazdo) położoną 19 km na zachód od wybrzeży Australii Zachodniej. Moneta przedstawia to najradośniejsze zwierzątko podczas jedzenia liścia.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								564,14 zł							</span>
+								175,00 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=630&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="630" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=592&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="592" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/592-australia-2020-quokka-ag9999-1oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2145,9 +2254,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" data-id-product="630">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/592-australia-2020-quokka-ag9999-1oz.html" data-id-product="592">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -2158,19 +2267,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/632-zlota-sztabka-heraeus-au9999-kinebar-5g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 5g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1785-home_default/zlota-sztabka-heraeus-au9999-kinebar-5g.jpg" alt="Złota sztabka - Heraeus Au9999 Kinebar 5g" title="Złota sztabka - Heraeus Au9999 Kinebar 5g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/608-grenada-2020-octopus-ag999-1oz-bu.html" title="Grenada 2020 - Octopus Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1735-home_default/grenada-2020-octopus-ag999-1oz-bu.jpg" alt="Grenada 2020 - Octopus Ag999 1 oz BU" title="Grenada 2020 - Octopus Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/632-zlota-sztabka-heraeus-au9999-kinebar-5g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 5g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 5g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/608-grenada-2020-octopus-ag999-1oz-bu.html" title="Grenada 2020 - Octopus Ag999 1oz BU" itemprop="url" >
+								Grenada 2020 - Octopus Ag999 1oz BU
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 279,86 zł									</span>
+										140,98 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2184,19 +2293,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
+						Mennica Szkocka, we współpracy z Bankiem Centralnym Karaibów Wschodnich, ma przyjemność kontynuować program EC8. W tym wydaniu moneta przedstawia ośmiornicę rafową (Octopus briareus), gatunek pochodzący z Karaibów Wschodnich. Eastern Caribbean Coin Program to projekt, który składa się z monet wybitych w 2020 roku w imieniu każdego z ośmiu członków Wysp...
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 279,86 zł							</span>
+								140,98 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=632&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="632" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=608&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="608" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/632-zlota-sztabka-heraeus-au9999-kinebar-5g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/608-grenada-2020-octopus-ag999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2211,9 +2320,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/632-zlota-sztabka-heraeus-au9999-kinebar-5g.html" data-id-product="632">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/608-grenada-2020-octopus-ag999-1oz-bu.html" data-id-product="608">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -2224,19 +2333,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/634-zlota-sztabka-heraeus-au9999-kinebar-10g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 10g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1787-home_default/zlota-sztabka-heraeus-au9999-kinebar-10g.jpg" alt="Złota sztabka Heraeus Au9999 Kinebar 10g" title="Złota sztabka Heraeus Au9999 Kinebar 10g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/747-great-britain-2021-robin-hood-myths-and-legends-ag999-1oz.html" title="Great Britain 2021 - Robin Hood Myths and Legends Ag999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2087-home_default/great-britain-2021-robin-hood-myths-and-legends-ag999-1oz.jpg" alt="Great Britain 2021 - Robin Hood Myths and Legends Ag999 1oz" title="Great Britain 2021 - Robin Hood Myths and Legends Ag999 1oz"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/634-zlota-sztabka-heraeus-au9999-kinebar-10g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 10g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 10g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/747-great-britain-2021-robin-hood-myths-and-legends-ag999-1oz.html" title="Great Britain 2021 - Robin Hood Myths and Legends Ag999 1oz" itemprop="url" >
+								Great Britain 2021 - Robin Hood Myths and Legends...
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 451,72 zł									</span>
+										138,28 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2250,19 +2359,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
+						Srebrna moneta Robin Hood to pierwsza pozycja z serii, prezentującej najsłynniejsze postaci mitów i legend. To między innymi dzięki nim Wyspy Brytyjskie są tak interesujące w kręgach literackich. Pierwszym bohaterem jest Robin Hood, czyli szlachetny rozbójnik, który okradał bogatych, a ich dobra rozdawał ubogim.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 451,72 zł							</span>
+								138,28 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=634&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="634" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=747&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="747" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/634-zlota-sztabka-heraeus-au9999-kinebar-10g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/747-great-britain-2021-robin-hood-myths-and-legends-ag999-1oz.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2277,9 +2386,9 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/634-zlota-sztabka-heraeus-au9999-kinebar-10g.html" data-id-product="634">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/747-great-britain-2021-robin-hood-myths-and-legends-ag999-1oz.html" data-id-product="747">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -2290,19 +2399,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/687-zlota-sztabka-valcambi-au9999-100x1g-combibar-multicard-.html" title="Złota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) " itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1922-home_default/zlota-sztabka-valcambi-au9999-100x1g-combibar-multicard-.jpg" alt="Multicard Au999.9 Valcambi - 100x1g" title="Multicard Au999.9 Valcambi - 100x1g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/594-cayman-islands-2020-marlin-ag999-1oz-bu.html" title="Cayman Islands 2020 - Marlin Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1707-home_default/cayman-islands-2020-marlin-ag999-1oz-bu.jpg" alt="Cayman Islands 2020 - Marlin - Ag999 1oz BU" title="Cayman Islands 2020 - Marlin - Ag999 1oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/687-zlota-sztabka-valcambi-au9999-100x1g-combibar-multicard-.html" title="Złota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) " itemprop="url" >
-								Złota sztabka Valcambi Au999.9 - 100x1g CombiBar...
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/594-cayman-islands-2020-marlin-ag999-1oz-bu.html" title="Cayman Islands 2020 - Marlin Ag999 1oz BU" itemprop="url" >
+								Cayman Islands 2020 - Marlin Ag999 1oz BU
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										23 797,24 zł									</span>
+										142,33 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2316,19 +2425,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Podzielna sztabka CombiBar składa się ze 100 sztabek złota próby 9999, tworzących złotą płytkę o łącznej masie 100 gramów. Każda tabliczka została starannie oznaczona logiem mennicy oraz specyfikacją w postaci próby i gramatury.
+						Srebrna moneta bulionowa Marlin 2020 to czwarty egzemplarz, pochodzący z morskiej serii. Jest to ciekawa propozycja dla każdego inwestora, który pragnie urozmaicić oraz wzbogacić swój portfel inwestycyjny o unikalną uncję srebra.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								23 797,24 zł							</span>
+								142,33 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=687&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="687" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=594&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="594" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/687-zlota-sztabka-valcambi-au9999-100x1g-combibar-multicard-.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/594-cayman-islands-2020-marlin-ag999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2343,9 +2452,75 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/687-zlota-sztabka-valcambi-au9999-100x1g-combibar-multicard-.html" data-id-product="687">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/594-cayman-islands-2020-marlin-ag999-1oz-bu.html" data-id-product="594">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/677--niue-2021-athenian-owl-ag999-1oz-bu.html" title=" Niue 2021 - Athenian Owl Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1904-home_default/-niue-2021-athenian-owl-ag999-1oz-bu.jpg" alt=" Niue 2021 Athenian Owl Ag999 1 oz BU" title=" Niue 2021 Athenian Owl Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/677--niue-2021-athenian-owl-ag999-1oz-bu.html" title=" Niue 2021 - Athenian Owl Ag999 1oz BU" itemprop="url" >
+								Niue 2021 - Athenian Owl Ag999 1oz BU
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										131,08 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Srebrna moneta Athenian Owl 2021 o wadze 1 uncji przedstawia uderzający wzór sowy, jako odę do słynnej starożytnej greckiej monety znanej jako Athenian Owl Tetradrachm. Moneta została wybita przez Mennicę Nowozelandzką z czystego srebra o próbie 99,9% i posiada wytłoczony wzór umożliwiający łatwe układanie monet jedna na drugiej.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								131,08 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=677&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="677" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/677--niue-2021-athenian-owl-ag999-1oz-bu.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/677--niue-2021-athenian-owl-ag999-1oz-bu.html" data-id-product="677">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -2369,9 +2544,45 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 	
 												<!-- Pagination -->
 	<div id="pagination_bottom" class="pagination clearfix">
-	    			</div>
+	    			<form class="showall" action="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" method="get">
+				<div>
+											                <button type="submit" class="btn btn-default button exclusive-medium">
+	                	<span>Pokaż wszystkie</span>
+	                </button>
+																																							<input type="hidden" name="id_category" value="19" />
+																			                <input name="n" id="nb_item" class="hidden" value="59" />
+				</div>
+			</form>
+							<ul class="pagination">
+									<li id="pagination_previous_bottom" class="disabled pagination_previous">
+						<span>
+							<i class="icon-chevron-left"></i> <b>Poprzedni</b>
+						</span>
+					</li>
+																															<li class="active current">
+							<span>
+								<span>1</span>
+							</span>
+						</li>
+																				<li>
+							<a  href="/pl/19-srebrne-monety-bulionowe?p=2">
+								<span>2</span>
+							</a>
+						</li>
+																				<li>
+							<a  href="/pl/19-srebrne-monety-bulionowe?p=3">
+								<span>3</span>
+							</a>
+						</li>
+																																			<li id="pagination_next_bottom" class="pagination_next">
+						<a  href="/pl/19-srebrne-monety-bulionowe?p=2" rel="next">
+							<b>Następny</b> <i class="icon-chevron-right"></i>
+						</a>
+					</li>
+							</ul>
+			</div>
     <div class="product-count">
-    	        	                        	                        	Pokazuje 1 - 23 z 23 element&oacute;w
+    	    		                        	                        	Pokazuje 1 - 24 z 59 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -2383,15 +2594,14 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
     				<div class="content_scene_cat">
             	                     <!-- Category image -->
                     
-                    <div class="content_scene_cat_bg" style="background:url(https://zlota-uncja.pl/c/3-category_default/zlote-sztabki.jpg) right center no-repeat; background-size:cover; min-height:217px;">
+                    <div class="content_scene_cat_bg" style="background:url(https://zlota-uncja.pl/c/19-category_default/srebrne-monety-bulionowe.jpg) right center no-repeat; background-size:cover; min-height:217px;">
                                                     <div class="cat_desc">
                             <span class="category-name">
-                                Złote sztabki                            </span>
-                                                            <!-- <div id="category_description_short" class="rte"><p style="margin-bottom:0cm;" align="justify"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">Dostępne w Naszym asortymencie sztabki złota to jedna z podstawowych form zabezpieczenia kapitału. Wartość tak ulokowanych pieniędzy nie maleje z biegiem lat, jest to dobry sposób na dywersyfikację własnego portfela inwestycyjnego oraz stabilne zabezpieczenie przyszłości. Naszą ofertę dostosowaliśmy do indywidualnych potrzeb oraz możliwości fina...</span></span></p></div> -->
-                                <div id="category_description_full" class="rte"><p style="margin-bottom:0cm;" align="justify"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">Dostępne w Naszym asortymencie sztabki złota to jedna z podstawowych form zabezpieczenia kapitału. Wartość tak ulokowanych pieniędzy nie maleje z biegiem lat, jest to dobry sposób na dywersyfikację własnego portfela inwestycyjnego oraz stabilne zabezpieczenie przyszłości. Naszą ofertę dostosowaliśmy do indywidualnych potrzeb oraz możliwości finansowych Klientów, dlatego asortyment jest tak szeroki i zróżnicowany – proponujemy Państwu wyroby słynnych, światowych mennic: Heraeus/ Argor-Heraeus/Umicore. Każda sztabka posiada numer seryjny, nazwę mennicy, wagę oraz próbę złota. Wszystko to zwiększa autentyczność oraz bezpieczeństwo obrotu. Znaczna większość złotych sztabek jest zaopatrzona w opakowania typu CeriCard lub CertiPack, które są jednocześnie certyfikatem oraz pełnią funkcję ochronną. Opakowanie zawiera również informacje o masie sztabki, czystości metalu szlachetnego a co najważniejsze zawiera indywidualny numer seryjny. Sztabki złota produkowane są w różnych gramaturach, dzięki czemu każdy może sobie pozwolić na ich zakup. Stanowią nie tylko bezpieczną i pewna inwestycje, ale także są idealnym prezentem na wiele okazji. </span></span></p>
-<p style="margin-bottom:0cm;"> </p>
-<p style="margin-bottom:0cm;" align="justify"> </p></div>
-                                <!-- <a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" class="lnk_more">Więcej</a> -->
+                                Srebrne monety                            </span>
+                                                            <!-- <div id="category_description_short" class="rte"><p style="font-weight:normal;" align="justify"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">Zastanawiają się Państwo nad ulokowaniem swoich środków pieniężnych w szlachetnych kruszcach? Zapraszamy zatem do zapoznania się z naszą ofertą na srebrne monety bulionowe, które oprócz swojej wartości materialnej odznaczają się także wysokimi walorami estetycznymi. W naszym asortymencie znajdują się wyroby pochodzące z najsłynniejszych na świec...</span></span></p></div> -->
+                                <div id="category_description_full" class="rte"><p style="font-weight:normal;" align="justify"><span style="font-family:Arial, sans-serif;"><span style="font-size:medium;">Zastanawiają się Państwo nad ulokowaniem swoich środków pieniężnych w szlachetnych kruszcach? Zapraszamy zatem do zapoznania się z naszą ofertą na srebrne monety bulionowe, które oprócz swojej wartości materialnej odznaczają się także wysokimi walorami estetycznymi. W naszym asortymencie znajdują się wyroby pochodzące z najsłynniejszych na świecie mennic, takich jak: The Royal Mint, Shanghai Mint czy Royal Canadian Mint. Nie można nie zauważyć wyjątkowych motywów ozdobnych w postaci kanadyjskiego liścia klonowego (symbol Kanady) czy instrumentów Filharmonii Wiedeńskiej. Korzystając z naszej oferty, można także zebrać kolekcję zwierząt Perth Mint – na rewersie tych wyrobów można ujrzeć między innymi kookaburrę lub koalę. Polecamy również najbardziej popularne i rozpowszechnione srebrne monety Amerykański Orzeł od US Mint.<br /></span></span></p>
+<p> </p></div>
+                                <!-- <a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" class="lnk_more">Więcej</a> -->
                                                         </div>
                                              </div>
                    
@@ -2619,7 +2829,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"377","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 10g\""},'',true);MBG.add({"id":"378","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 20g\""},'',true);MBG.add({"id":"379","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 31,1g\""},'',true);MBG.add({"id":"381","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 2g\""},'',true);MBG.add({"id":"564","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 5g\""},'',true);MBG.add({"id":"565","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 1g\""},'',true);MBG.add({"id":"376","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 100g\""},'',true);MBG.add({"id":"380","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 50g \""},'',true);MBG.add({"id":"374","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) \""},'',true);MBG.add({"id":"383","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 31,1 g\""},'',true);MBG.add({"id":"548","name":"\"Sztabka z\\u0142ota Au999.9 HERAEUS - 250g sztabka lana\""},'',true);MBG.add({"id":"549","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 500g sztabka lana\""},'',true);MBG.add({"id":"631","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 20g\""},'',true);MBG.add({"id":"633","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 1g\""},'',true);MBG.add({"id":"758","name":"\"Z\\u0142ota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)\""},'',true);MBG.add({"id":"784","name":"\"Sztabka z\\u0142ota Au999.9 Argor-Heraeus - Lunar Of The Ox 5g\""},'',true);MBG.add({"id":"785","name":"\"Sztabka z\\u0142ota Au999.9 Argor-Heraeus - Lunar Of The Ox 10g\""},'',true);MBG.add({"id":"792","name":"\"Z\\u0142ota sztabka Au999,9 Heraeus - 1000g sztabka lana\""},'',true);MBG.add({"id":"558","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 100g sztabka lana\""},'',true);MBG.add({"id":"630","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 2g\""},'',true);MBG.add({"id":"632","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 5g\""},'',true);MBG.add({"id":"634","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 10g\""},'',true);MBG.add({"id":"687","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) \""},'',true);MBG.addProductClick({"id":"377","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 10g\""});MBG.addProductClick({"id":"378","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 20g\""});MBG.addProductClick({"id":"379","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 31,1g\""});MBG.addProductClick({"id":"381","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 2g\""});MBG.addProductClick({"id":"564","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 5g\""});MBG.addProductClick({"id":"565","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 1g\""});MBG.addProductClick({"id":"376","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 100g\""});MBG.addProductClick({"id":"380","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 50g \""});MBG.addProductClick({"id":"374","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) \""});MBG.addProductClick({"id":"383","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 31,1 g\""});MBG.addProductClick({"id":"548","name":"\"Sztabka z\\u0142ota Au999.9 HERAEUS - 250g sztabka lana\""});MBG.addProductClick({"id":"549","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 500g sztabka lana\""});MBG.addProductClick({"id":"631","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 20g\""});MBG.addProductClick({"id":"633","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 1g\""});MBG.addProductClick({"id":"758","name":"\"Z\\u0142ota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)\""});MBG.addProductClick({"id":"784","name":"\"Sztabka z\\u0142ota Au999.9 Argor-Heraeus - Lunar Of The Ox 5g\""});MBG.addProductClick({"id":"785","name":"\"Sztabka z\\u0142ota Au999.9 Argor-Heraeus - Lunar Of The Ox 10g\""});MBG.addProductClick({"id":"792","name":"\"Z\\u0142ota sztabka Au999,9 Heraeus - 1000g sztabka lana\""});MBG.addProductClick({"id":"558","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 100g sztabka lana\""});MBG.addProductClick({"id":"630","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 2g\""});MBG.addProductClick({"id":"632","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 5g\""});MBG.addProductClick({"id":"634","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 10g\""});MBG.addProductClick({"id":"687","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) \""});
+						MBG.add({"id":"802","name":"\"Mexico 2021 - Libertad Ag999 1oz\""},'',true);MBG.add({"id":"818","name":"\"Congo 2021 - World's Wildlife - Bald Eagle Ag999,9 1oz BU\""},'',true);MBG.add({"id":"408","name":"\"Australia 2020 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"797","name":"\"St. Helena 2021 - Una & Lion Ag999 1oz BU\""},'',true);MBG.add({"id":"671","name":"\"Canada 2021 - Maple Leaf Ag9999 1oz\""},'',true);MBG.add({"id":"795","name":"\"Australia 2021 - The Next Generation - Platypus Ag9999 2oz BU\""},'',true);MBG.add({"id":"767","name":"\"Australia 2021 - Swan Ag9999 1oz BU\""},'',true);MBG.add({"id":"791","name":"\"Australia 2021 - Beneath the Southern Skies Ag9999 1oz\""},'',true);MBG.add({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU\""},'',true);MBG.add({"id":"811","name":"\"Australia 2021 - Australia's Most Dangerous - Redback Spider Ag999 5oz BU\""},'',true);MBG.add({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz\""},'',true);MBG.add({"id":"554","name":"\"Australia 2020 - Double Pixiu Ag9999 1oz\""},'',true);MBG.add({"id":"682","name":"\"Austria 2021 - Wiener Philharmoniker Ag999,9 1oz\""},'',true);MBG.add({"id":"720","name":"\"Tuvalu 2021 - John Wayne Ag9999 1oz\""},'',true);MBG.add({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"685","name":"\"Caribbean 2020 - St.Vincent & The Grenadines Ag999 1oz\""},'',true);MBG.add({"id":"625","name":"\"China 2021 - Panda Ag999 30g\""},'',true);MBG.add({"id":"803","name":"\"Mexico 2021 - Libertad Ag999 2oz\""},'',true);MBG.add({"id":"804","name":"\"Mexico 2021 - Libertad Ag999 5oz\""},'',true);MBG.add({"id":"592","name":"\"Australia 2020 - Quokka Ag9999 1oz\""},'',true);MBG.add({"id":"608","name":"\"Grenada 2020 - Octopus Ag999 1oz BU\""},'',true);MBG.add({"id":"747","name":"\"Great Britain 2021 - Robin Hood Myths and Legends Ag999 1oz\""},'',true);MBG.add({"id":"594","name":"\"Cayman Islands 2020 - Marlin Ag999 1oz BU\""},'',true);MBG.add({"id":"677","name":"\" Niue 2021 - Athenian Owl Ag999 1oz BU\""},'',true);MBG.addProductClick({"id":"802","name":"\"Mexico 2021 - Libertad Ag999 1oz\""});MBG.addProductClick({"id":"818","name":"\"Congo 2021 - World's Wildlife - Bald Eagle Ag999,9 1oz BU\""});MBG.addProductClick({"id":"408","name":"\"Australia 2020 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"797","name":"\"St. Helena 2021 - Una & Lion Ag999 1oz BU\""});MBG.addProductClick({"id":"671","name":"\"Canada 2021 - Maple Leaf Ag9999 1oz\""});MBG.addProductClick({"id":"795","name":"\"Australia 2021 - The Next Generation - Platypus Ag9999 2oz BU\""});MBG.addProductClick({"id":"767","name":"\"Australia 2021 - Swan Ag9999 1oz BU\""});MBG.addProductClick({"id":"791","name":"\"Australia 2021 - Beneath the Southern Skies Ag9999 1oz\""});MBG.addProductClick({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU\""});MBG.addProductClick({"id":"811","name":"\"Australia 2021 - Australia's Most Dangerous - Redback Spider Ag999 5oz BU\""});MBG.addProductClick({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz\""});MBG.addProductClick({"id":"554","name":"\"Australia 2020 - Double Pixiu Ag9999 1oz\""});MBG.addProductClick({"id":"682","name":"\"Austria 2021 - Wiener Philharmoniker Ag999,9 1oz\""});MBG.addProductClick({"id":"720","name":"\"Tuvalu 2021 - John Wayne Ag9999 1oz\""});MBG.addProductClick({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"685","name":"\"Caribbean 2020 - St.Vincent & The Grenadines Ag999 1oz\""});MBG.addProductClick({"id":"625","name":"\"China 2021 - Panda Ag999 30g\""});MBG.addProductClick({"id":"803","name":"\"Mexico 2021 - Libertad Ag999 2oz\""});MBG.addProductClick({"id":"804","name":"\"Mexico 2021 - Libertad Ag999 5oz\""});MBG.addProductClick({"id":"592","name":"\"Australia 2020 - Quokka Ag9999 1oz\""});MBG.addProductClick({"id":"608","name":"\"Grenada 2020 - Octopus Ag999 1oz BU\""});MBG.addProductClick({"id":"747","name":"\"Great Britain 2021 - Robin Hood Myths and Legends Ag999 1oz\""});MBG.addProductClick({"id":"594","name":"\"Cayman Islands 2020 - Marlin Ag999 1oz BU\""});MBG.addProductClick({"id":"677","name":"\" Niue 2021 - Athenian Owl Ag999 1oz BU\""});
 					});
 				</script>
 				<script type="text/javascript">
