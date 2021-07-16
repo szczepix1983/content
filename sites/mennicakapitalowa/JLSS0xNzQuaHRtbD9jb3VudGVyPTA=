@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="pl" ><head><meta name='viewport' content='user-scalable=no, initial-scale = 1.0, maximum-scale = 1.0, width=device-width'/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>SZTABKI | Srebro - Mennica Kapitałowa - Warszawa, Kraków Poznań, Gdańsk, Białystok, Katowice, Online</title><meta name="keywords" content="Srebro | SZTABKI | złoto srebro, diamenty, sztabki, monety, brylanty"><meta name="description" content="SZTABKI | Srebro"><link rel="shortcut icon" href="/gfx/pol/favicon.ico"><link rel="stylesheet" type="text/css" href="/gfx/pol/style.css.gzip?r=1596105286"><script type="text/javascript" src="/gfx/pol/shop.js.gzip?r=1596105286"></script><meta name="robots" content="INDEX,FOLLOW"><meta name="rating" content="general"><meta name="Author" content="Mennica Kapitałowa na bazie IdoSell Shop (www.idosell.com/shop).">
+<html lang="pl" ><head><meta name='viewport' content='user-scalable=no, initial-scale = 1.0, maximum-scale = 1.0, width=device-width'/> <link rel="preload" crossorigin="anonymous" as="font" href="/gfx/pol/fontello.woff?v=2"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Mennica Kapitałowa - ZŁOTO, SREBRO, DIAMENTY - Warszawa, Kraków Poznań, Gdańsk, Białystok, Katowice, Online</title><meta name="keywords" content="złoto srebro, diamenty, sztabki, monety, brylanty"><meta name="description" content="Mennica Kapitałowa - ZŁOTO, SREBRO, DIAMENTY"><link rel="shortcut icon" href="/gfx/pol/favicon.ico"><link rel="stylesheet" type="text/css" href="/gfx/pol/style.css.gzip?r=1623658630"><script type="text/javascript" src="/gfx/pol/shop.js.gzip?r=1623658630"></script><meta name="robots" content="INDEX,FOLLOW"><meta name="rating" content="general"><meta name="Author" content="Mennica Kapitałowa na bazie IdoSell (www.idosell.com/shop).">
 <!-- Open Graph -->
-<meta property="og:type" content="website"><meta property="og:url" content="https://mennicakapitalowa.pl/pol_m_Srebro_SZTABKI-174.html"><meta property="og:title" content="Mennica Kapitałowa - ZŁOTO, SREBRO, DIAMENTY - Warszawa, Kraków Poznań, Gdańsk, Białystok, Katowice, Online"><meta property="og:description" content="Mennica Kapitałowa - ZŁOTO, SREBRO, DIAMENTY"><meta property="og:site_name" content="Mennica Kapitałowa"><meta property="og:locale" content="pl_PL"><meta property="og:image" content="https://mennicakapitalowa.pl/data/gfx/pictures/medium/3/0/5903_2.jpg"><meta property="og:image:width" content="318"><meta property="og:image:height" content="450"><link rel="manifest" href="https://mennicakapitalowa.pl/data/include/pwa/1/manifest.json?t=3"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="Array"><link rel="apple-touch-icon" href="/data/include/pwa/1/icon-128.png"><link rel="apple-touch-startup-image" href="/data/include/pwa/1/logo-512.png" /><meta name="msapplication-TileImage" content="/data/include/pwa/1/icon-144.png"><meta name="msapplication-TileColor" content="#2F3BA2"><meta name="msapplication-starturl" content="/"><script type="application/javascript">var _adblock = true;</script><script async src="/data/include/advertising.js"></script><script type="application/javascript">var statusPWA = {
+<link rel="manifest" href="https://mennicakapitalowa.pl/data/include/pwa/1/manifest.json?t=3"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="Array"><link rel="apple-touch-icon" href="/data/include/pwa/1/icon-128.png"><link rel="apple-touch-startup-image" href="/data/include/pwa/1/logo-512.png" /><meta name="msapplication-TileImage" content="/data/include/pwa/1/icon-144.png"><meta name="msapplication-TileColor" content="#2F3BA2"><meta name="msapplication-starturl" content="/"><script type="application/javascript">var _adblock = true;</script><script async src="/data/include/advertising.js"></script><script type="application/javascript">var statusPWA = {
                 online: {
                     txt: "Połączono z internetem",
                     bg: "#5fa341"
@@ -12,7 +12,7 @@
                 }
             }</script><script async type="application/javascript" src="/ajax/js/pwa_online_bar.js?v=1&r=6"></script>
 <!-- End Open Graph -->
-<link rel="canonical" href="https://mennicakapitalowa.pl/pol_m_Srebro_SZTABKI-174.html" />
+
 
 <!-- Google Analytics (analytics.js) -->
 <script>
@@ -48,7 +48,7 @@ ga('iaiTracker.send', 'pageview');
                 } else {
                     document.cookie = 'applePayAvailability=no; path=/'
                 }
-                </script><script src="/gfx/pol/menu_filter.js.gzip?r=1596105286"></script></head><body><div id="container" class="search_page 
+                </script><script src="/gfx/pol/menu_filter.js.gzip?r=1623658630"></script></head><body><div id="container" class="noproduct_page 
             "><header class="clearfix container"><script type="text/javascript" class="ajaxLoad">
             app_shop.vars.vat_registered = "true";
             app_shop.vars.currency_format = "###,##0.00";
@@ -61,7 +61,7 @@ ga('iaiTracker.send', 'pageview');
             app_shop.vars.id= "PLN";
             app_shop.vars.baseurl = "http://mennicakapitalowa.pl/";
             app_shop.vars.sslurl= "https://mennicakapitalowa.pl/";
-            app_shop.vars.curr_url= "%2Fpol_m_Srebro_SZTABKI-174.html";
+            app_shop.vars.curr_url= "%2Fnoproduct.php%3Freason%3Dproduct";
             
 
             var currency_decimal_separator = ',';
@@ -75,7 +75,7 @@ ga('iaiTracker.send', 'pageview');
                 app_shop.urls.contact = "/contact-pol.html";
             </script><div id="viewType" style="display:none"></div><div id="menu_settings" class="hidden-phone "><div class="menu_settings_bar container"><div id="top_contact"><label class="big_label visible-phone">Kontakt</label><a href="mailto:biuro@mennicakapitalowa.pl">biuro@mennicakapitalowa.pl</a><a href="tel:801550141">801 550 141</a><span>infolinia czynna 7 dni w tyg. 9:00-19:00</span><a href="contact.php" title="Kontakt z nami">
                 Kontakt z nami
-            </a></div><div id="top_basket"><a href="/basketedit.php?mode=1" title="Przejdź do koszyka"><span class="count">0  szt.</span><strong class="cost">0,00 zł</strong><i class="icon-shopping-cart"></i></a></div><div id="menu_additional"><a href="/login.php" title="">Zaloguj się</a></div><div id="mobile_additional"><a href="/login.php" title="">Twoje konto
+            </a></div><div id="top_basket"><a href="/basketedit.php?mode=1" title="Przejdź do koszyka"><span class="count">0<span> szt. </span></span><strong class="cost">0,00 zł</strong><i class="icon-shopping-cart"></i></a></div><div id="menu_additional"><a href="/login.php" title="">Zaloguj się</a></div><div id="mobile_additional"><a href="/login.php" title="">Twoje konto
                 </a>
                  |
                 <a rel="nofollow" href="/basketedit.php?mode=2" title="">Obserwowane (0)
@@ -126,26 +126,7 @@ ga('iaiTracker.send', 'pageview');
 	@media only screen and (max-width: 979px) { 
 		.kursy_top > label { display: none; }
 	}
-</style></div><div id="menu_categories" class="clearfix dl-menuwrapper"><ul id="mobile_menu"><li><a href="/categories.php" class="mobile_menu dl-trigger"><i class="icon-reorder"></i></a></li></ul><ul class="dl-menu"><li><a  href="/pol_m_Zloto-100.html" target="_self" title="Złoto" >Złoto</a><ul class="dl-submenu"><li><a href="/pol_m_Zloto_SZTABKI-101.html" target="_self">SZTABKI</a></li><li><a href="/pol_m_Zloto_MONETY-BULIONOWE-131.html" target="_self">MONETY BULIONOWE</a></li><li><a href="/pol_m_Zloto_MONETY-HISTORYCZNE-172.html" target="_self">MONETY HISTORYCZNE</a></li></ul></li><li><a  href="/pol_m_Srebro-135.html" target="_self" title="Srebro" class="dl-active" >Srebro</a><ul class="dl-submenu"><li><a href="/pol_m_Srebro_MONETY-BULIONOWE-175.html" target="_self">MONETY BULIONOWE</a></li><li><a href="/pol_m_Srebro_MONETY-KOLEKCJONERSKIE-176.html" target="_self">MONETY KOLEKCJONERSKIE</a></li><li><a href="/pol_m_Srebro_SZTABKI-174.html" class="dl-active" target="_self">SZTABKI</a></li></ul></li><li><a  href="https://mennicakapitalowa.pl/Diamenty-ccms-pol-33.html" target="_self" title="Diamenty" >Diamenty</a></li><li><a  href="/pol_m_Pozostale-177.html" target="_self" title="Pozostałe" >Pozostałe</a><ul class="dl-submenu"><li><a href="/pol_m_Pozostale_Platyna-Pallad-168.html" target="_self">Platyna / Pallad</a></li><li><a href="/pol_m_Pozostale_Akcesoria-152.html" target="_self">Akcesoria</a></li></ul></li><li><a  href="https://mennicakapitalowa.pl/Skup-ccms-pol-32.html" target="_self" title="SKUP" >SKUP</a></li><li class="last-item"><a  href="https://mennicakapitalowa.pl/contact-pol.html" target="_self" title="Kup w oddziałach" >Kup w oddziałach</a></li><li class="last-item"><a  href="http://www.mennicakapitalowa.pl/O-nas-cabout-pol-29.html" target="_self" title="O nas" >O nas</a></li></ul></div><div id="breadcrumbs"><div id="breadcrumbs_sub"><h3>Jesteś tu:  </h3><ol><li class="bc-main"><span><a href="/">Strona główna</a></span></li><li class="bc-item-1"><a href="/pol_m_Srebro-135.html">Srebro</a></li><li class="bc-active bc-item-2"><span>SZTABKI</span></li></ol></div></div></header><div id="layout" class="row clearfix container"><aside class="col-md-3"><div id="menu_categories2"><a class="menu_categories_label menu_go_up" href="/pol_m_Srebro-135.html">Srebro</a><ul><li><a href="/pol_m_Srebro_MONETY-BULIONOWE-175.html" target="_self">MONETY BULIONOWE</a></li><li><a href="/pol_m_Srebro_MONETY-KOLEKCJONERSKIE-176.html" target="_self">MONETY KOLEKCJONERSKIE</a></li><li><a href="/pol_m_Srebro_SZTABKI-174.html" target="_self" class="active">SZTABKI</a></li></ul></div><script class="ajaxLoad">
-                var filter_ukryj = 'Ukryj część';
-                var filter_pokaz = 'Pokaż wszystkie';
-            </script><div id="menu_filter" class="bg_alter"><div id="menu_filter_sub"><h2><i class="icon-remove"></i></h2><form id="filter_form" method="get" action="/pol_m_Srebro_SZTABKI-174.html"><input type="hidden" id="filter_traits19_form" name="filter_traits[19]" value=""><input type="hidden" id="filter_traits94_form" name="filter_traits[94]" value=""></form><div class="menu_filter_wrapper"><div class="filter_item list_type" id="filter_traits19"><h3><a href="#toggle_filter_traits19_content" class="filter_toggle" id="filter_traits19_toggle" title="Ukryj/Pokaż ten filtr"></a><span>Masa kruszcu</span><span class="filter_loader" style="display: none;" id="filter_traits19_loader"></span></h3><div class="filter_content" id="filter_traits19_content"><ul class="filter_traits19"><li id="filter_traits19_20_box"><input type="checkbox" class="filter_checkbox" id="filter_traits19_val20" value="20"><div class="filter_name_wrapper"><label for="filter_traits19_val20">1 uncja</label><span class="filter_quantity" id="filter_traits19_val20_quantity" data-filter="1 uncja">
-                                                                (<span class="filter_quantity_value">3</span>)
-                                                            </span></div></li><li id="filter_traits19_447_box"><input type="checkbox" class="filter_checkbox" id="filter_traits19_val447" value="447"><div class="filter_name_wrapper"><label for="filter_traits19_val447">5 x 1kg</label><span class="filter_quantity" id="filter_traits19_val447_quantity" data-filter="5 x 1kg">
-                                                                (<span class="filter_quantity_value">2</span>)
-                                                            </span></div></li></ul><div class="filter_options" id="filter_traits19_options"><a class="filter_submit" style="display: none" href="#filter_submit" id="filter_traits19_submit" data-filter="filter_traits19" title="Zastosuj wybrane filtry">
-                                                    Zastosuj
-                                                </a></div></div></div><div class="filter_item list_type" id="filter_traits94"><h3><a href="#toggle_filter_traits94_content" class="filter_toggle" id="filter_traits94_toggle" title="Ukryj/Pokaż ten filtr"></a><span>Czas realizacji</span><span class="filter_loader" style="display: none;" id="filter_traits94_loader"></span></h3><div class="filter_content" id="filter_traits94_content"><ul class="filter_traits94"><li id="filter_traits94_99_box"><input type="checkbox" class="filter_checkbox" id="filter_traits94_val99" value="99"><div class="filter_name_wrapper"><label for="filter_traits94_val99">24h</label><span class="filter_quantity" id="filter_traits94_val99_quantity" data-filter="24h">
-                                                                (<span class="filter_quantity_value">1</span>)
-                                                            </span></div></li><li id="filter_traits94_529_box"><input type="checkbox" class="filter_checkbox" id="filter_traits94_val529" value="529"><div class="filter_name_wrapper"><label for="filter_traits94_val529">do 15 dni roboczych</label><span class="filter_quantity" id="filter_traits94_val529_quantity" data-filter="do 15 dni roboczych">
-                                                                (<span class="filter_quantity_value">2</span>)
-                                                            </span></div></li><li id="filter_traits94_531_box"><input type="checkbox" class="filter_checkbox" id="filter_traits94_val531" value="531"><div class="filter_name_wrapper"><label for="filter_traits94_val531">do 30 dni roboczych</label><span class="filter_quantity" id="filter_traits94_val531_quantity" data-filter="do 30 dni roboczych">
-                                                                (<span class="filter_quantity_value">2</span>)
-                                                            </span></div></li></ul><div class="filter_options" id="filter_traits94_options"><a class="filter_submit" style="display: none" href="#filter_submit" id="filter_traits94_submit" data-filter="filter_traits94" title="Zastosuj wybrane filtry">
-                                                    Zastosuj
-                                                </a></div></div></div><div id="filter_buttons" class="filter_buttons"><a class="btn-small filters_submit" id="filters_submit" href="#filter_submit" title="Filtruj produkty"><span class="hidden-phone">Filtruj produkty</span><span class="visible-phone">OK</span></a></div></div></div></div><script src="//maps.googleapis.com/maps/api/js?sensor=false"></script><script class="ajaxLoad">
-                menu_filter_init();
-            </script><div class="login_menu_block visible-phone" id="login_menu_block"><a class="sign_in_link" href="/login.php" title=""><i class="icon-user"></i>  Zaloguj się
+</style></div><div id="menu_categories" class="clearfix dl-menuwrapper"><ul id="mobile_menu"><li><a href="/categories.php" class="mobile_menu dl-trigger"><i class="icon-reorder"></i></a></li></ul><ul class="dl-menu"><li><a  href="/pol_m_Zloto-100.html" target="_self" title="Złoto" >Złoto</a><ul class="dl-submenu"><li><a href="/pol_m_Zloto_SZTABKI-101.html" target="_self">SZTABKI</a></li><li><a href="/pol_m_Zloto_MONETY-BULIONOWE-131.html" target="_self">MONETY BULIONOWE</a></li><li><a href="/pol_m_Zloto_MONETY-HISTORYCZNE-172.html" target="_self">MONETY HISTORYCZNE</a></li><li><a href="/pol_m_Zloto_MONETY-KOLEKCJONERSKIE-184.html" target="_self">MONETY KOLEKCJONERSKIE</a></li></ul></li><li><a  href="/pol_m_Srebro-135.html" target="_self" title="Srebro" >Srebro</a><ul class="dl-submenu"><li><a href="/pol_m_Srebro_MONETY-BULIONOWE-175.html" target="_self">MONETY BULIONOWE</a></li><li><a href="/pol_m_Srebro_MONETY-KOLEKCJONERSKIE-176.html" target="_self">MONETY KOLEKCJONERSKIE</a></li></ul></li><li><a  href="https://mennicakapitalowa.pl/Diamenty-ccms-pol-33.html" target="_self" title="Diamenty" >Diamenty</a></li><li><a  href="/pol_m_Pozostale-177.html" target="_self" title="Pozostałe" >Pozostałe</a><ul class="dl-submenu"><li><a href="/pol_m_Pozostale_Platyna-Pallad-168.html" target="_self">Platyna / Pallad</a></li><li><a href="/pol_m_Pozostale_Akcesoria-152.html" target="_self">Akcesoria</a></li></ul></li><li><a  href="https://mennicakapitalowa.pl/Skup-ccms-pol-32.html" target="_self" title="SKUP" >SKUP</a></li><li class="last-item"><a  href="https://mennicakapitalowa.pl/contact-pol.html" target="_self" title="Kup w oddziałach" >Kup w oddziałach</a></li><li class="last-item"><a  href="http://www.mennicakapitalowa.pl/O-nas-cabout-pol-29.html" target="_self" title="O nas" >O nas</a></li></ul></div><div id="breadcrumbs"><div id="breadcrumbs_sub"><h3>Jesteś tu:  </h3><ol><li class="bc-main"><span><a href="/">Strona główna</a></span></li><li class="bc-active bc-noproduct"><span>noproduct</span></li></ol></div></div></header><div id="layout" class="row clearfix container"><aside class="col-md-3"><div class="login_menu_block visible-phone" id="login_menu_block"><a class="sign_in_link" href="/login.php" title=""><i class="icon-user"></i>  Zaloguj się
                             
                         </a><a class="registration_link" href="/client-new.php?register" title=""><i class="icon-lock"></i>  Zarejestruj się
                             
@@ -163,50 +144,9 @@ ga('iaiTracker.send', 'pageview');
                         Polityka prywatności
                     </a><a href="/pol-returns-and_replacements.html">
                         Odstąpienie od umowy
-                    </a></div></aside><div id="content" class="col-md-9 col-xs-12"><div class="search_categoriesdescription clearfix"><h1 class="big_label">SZTABKI SREBRA</h1><span class="navigation_total">5</span></div><div id="paging_setting_top" class="paging_setting clearfix"><form class="search_setting clearfix" action="settings.php"><div class="select_sort"><select class="sort_order" id="select_top_sort" name="sort_order" onchange="submit();"><option value="name-a" class="option_name-a">
-                        Sortuj po nazwie rosnąco
-                      </option><option value="name-d" class="option_name-d">
-                        Sortuj po nazwie malejąco
-                      </option><option value="price-a">Sortuj po cenie rosnąco</option><option value="price-d">Sortuj po cenie malejąco</option><option value="date-a">Sortuj po dacie rosnąco</option><option value="date-d">Sortuj po dacie malejąco</option></select></div><div class="show_filters_wrapper"><a class="btn show_filters visible-phone" href="#menu_filter">
-                        Filtrowanie
-                    </a></div></form></div><div id="search" class="row" data-column="" data-wraptype=""><div data-product_id="5903" class="
-                            product_wrapper col-md-4 col-xs-6 
-
-                            "><a class="btn-regular compare_add" rel="nofollow" href="settings.php?comparers=add&amp;product=5903" title="Kliknij, aby dodać produkt do porównania"><i class="icon-plus"></i> Dodaj do porównania</a><a class="product-icon align_row" data-align="img#css" href="/product-pol-5903-sztabka-srebra-LBMA-1kg-najtaniej.html" data-product-id="5903"><img class="b-lazy" src="/gfx/pol/loader.gif?r=1596105286" data-src-small="/pol_is_sztabka-srebra-LBMA-1kg-najtaniej-5903.jpg" data-src="/pol_il_sztabka-srebra-LBMA-1kg-najtaniej-5903.jpg" alt="sztabka srebra LBMA 1kg - najtaniej!"><strong class="label_icons"><span class="label promo">
-                                        Promocja
-                                    </span><span class="label discount">
-                                                    Przecena
-                                                </span></strong></a><a class="product-name" href="/product-pol-5903-sztabka-srebra-LBMA-1kg-najtaniej.html" title="sztabka srebra LBMA 1kg - najtaniej!">sztabka srebra LBMA 1kg - najtaniej!</a><div class="product_prices"><span class="price">4 149,80 zł</span></div></div><div data-product_id="5882" class="
-                            product_wrapper col-md-4 col-xs-6 
-
-                            "><a class="btn-regular compare_add" rel="nofollow" href="settings.php?comparers=add&amp;product=5882" title="Kliknij, aby dodać produkt do porównania"><i class="icon-plus"></i> Dodaj do porównania</a><a class="product-icon align_row" data-align="img#css" href="/product-pol-5882-5-x-sztabka-srebra-LBMA-1kg-najtaniej.html" data-product-id="5882"><img class="b-lazy" src="/gfx/pol/loader.gif?r=1596105286" data-src-small="/pol_is_5-x-sztabka-srebra-LBMA-1kg-najtaniej-5882.jpg" data-src="/pol_il_5-x-sztabka-srebra-LBMA-1kg-najtaniej-5882.jpg" alt="5 x sztabka srebra LBMA 1kg - najtaniej!"><strong class="label_icons"><span class="label promo">
-                                        Promocja
-                                    </span><span class="label discount">
-                                                    Przecena
-                                                </span></strong></a><a class="product-name" href="/product-pol-5882-5-x-sztabka-srebra-LBMA-1kg-najtaniej.html" title="5 x sztabka srebra LBMA 1kg - najtaniej!">5 x sztabka srebra LBMA 1kg - najtaniej!</a><div class="product_prices"><span class="price">20 667,10 zł</span></div></div><div data-product_id="5416" class="
-                            product_wrapper col-md-4 col-xs-6 
-
-                            "><a class="btn-regular compare_add" rel="nofollow" href="settings.php?comparers=add&amp;product=5416" title="Kliknij, aby dodać produkt do porównania"><i class="icon-plus"></i> Dodaj do porównania</a><a class="product-icon align_row" data-align="img#css" href="/product-pol-5416-sztabka-srebra-LBMA-1kg.html" data-product-id="5416"><img class="b-lazy" src="/gfx/pol/loader.gif?r=1596105286" data-src-small="/pol_is_sztabka-srebra-LBMA-1kg-5416.jpg" data-src="/pol_il_sztabka-srebra-LBMA-1kg-5416.jpg" alt="sztabka srebra LBMA 1kg "><strong class="label_icons"><span class="label promo">
-                                        Promocja
-                                    </span><span class="label discount">
-                                                    Przecena
-                                                </span></strong></a><a class="product-name" href="/product-pol-5416-sztabka-srebra-LBMA-1kg.html" title="sztabka srebra LBMA 1kg ">sztabka srebra LBMA 1kg </a><div class="product_prices"><span class="price">4 182,60 zł</span></div></div><div data-product_id="5369" class="
-                            product_wrapper col-md-4 col-xs-6 
-
-                            "><a class="btn-regular compare_add" rel="nofollow" href="settings.php?comparers=add&amp;product=5369" title="Kliknij, aby dodać produkt do porównania"><i class="icon-plus"></i> Dodaj do porównania</a><a class="product-icon align_row" data-align="img#css" href="/product-pol-5369-5-x-sztabka-srebra-LBMA-1kg.html" data-product-id="5369"><img class="b-lazy" src="/gfx/pol/loader.gif?r=1596105286" data-src-small="/pol_is_5-x-sztabka-srebra-LBMA-1kg-5369.jpg" data-src="/pol_il_5-x-sztabka-srebra-LBMA-1kg-5369.jpg" alt="5 x sztabka srebra LBMA 1kg "><strong class="label_icons"><span class="label promo">
-                                        Promocja
-                                    </span><span class="label discount">
-                                                    Przecena
-                                                </span></strong></a><a class="product-name" href="/product-pol-5369-5-x-sztabka-srebra-LBMA-1kg.html" title="5 x sztabka srebra LBMA 1kg ">5 x sztabka srebra LBMA 1kg </a><div class="product_prices"><span class="price">20 831,20 zł</span></div></div><div data-product_id="12" class="
-                            product_wrapper col-md-4 col-xs-6 
-
-                            "><a class="btn-regular compare_add" rel="nofollow" href="settings.php?comparers=add&amp;product=12" title="Kliknij, aby dodać produkt do porównania"><i class="icon-plus"></i> Dodaj do porównania</a><a class="product-icon align_row" data-align="img#css" href="/product-pol-12-sztabka-srebra-1kg-LBMA-24h.html" data-product-id="12"><img class="b-lazy" src="/gfx/pol/loader.gif?r=1596105286" data-src-small="/pol_is_sztabka-srebra-1kg-LBMA-24h-12.jpg" data-src="/pol_il_sztabka-srebra-1kg-LBMA-24h-12.jpg" alt="sztabka srebra 1kg LBMA (24h)"><strong class="label_icons"><span class="label discount">
-                                                Przecena
-                                            </span><span class="label distinguished">
-                                                Polecany
-                                            </span></strong></a><a class="product-name" href="/product-pol-12-sztabka-srebra-1kg-LBMA-24h.html" title="sztabka srebra 1kg LBMA (24h)">sztabka srebra 1kg LBMA (24h)</a><div class="product_prices"><span class="price">4 199,00 zł</span></div></div></div><div class="paging_setting"></div><div class="main_hotspot hidden-phone" id="menu_hotspot_zone1"><a class="big_label" href="/Promocja-spromo-pol.html" title="Kliknij, aby zobaczyć wszystkie produkty">
-                                            Promocje
-                                    </a><div class="products_wrapper row clearfix"><div class="product_wrapper col-md-3 col-xs-6 type_product"><a class="product-icon" rel="nofollow" href="/product-pol-6518-Moneta-srebrna-Niebianskie-Zwierzeta-2021-1oz-24h.html" title="Moneta srebrna Niebiańskie Zwierzęta 2021 1oz (24h)"><img src="/gfx/pol/loader.gif?r=1596105286" class="b-lazy" data-src-small="/pol_is_Moneta-srebrna-Niebianskie-Zwierzeta-2021-1oz-24h-6518.jpg" data-src="/pol_il_Moneta-srebrna-Niebianskie-Zwierzeta-2021-1oz-24h-6518.jpg" alt="Moneta srebrna Niebiańskie Zwierzęta 2021 1oz (24h)"></a><a class="product-name" href="/product-pol-6518-Moneta-srebrna-Niebianskie-Zwierzeta-2021-1oz-24h.html" title="Moneta srebrna Niebiańskie Zwierzęta 2021 1oz (24h)">Moneta srebrna Niebiańskie Zwierzęta 2021 1oz (24h)</a><div class="product_prices"><span class="price">169,00 zł</span></div></div></div></div></div></div></div><footer class=""><div id="menu_banners3" class="row clearfix container"><div class="menu_button_wrapper col-md-6"><div class="kursy_wrapper">
+                    </a></div></aside><div id="content" class="col-md-12"><div class="menu_messages_error" id="menu_messages_warning"><div class="menu_messages_warning_sub"><p>Szukany produkt nie został znaleziony. Skorzystaj z <a href="/searching.php" title="Kliknij, aby przejść do wyszukiwarki zaawansowanej">wyszukiwarki</a>.</p></div></div><div class="noproduct_form_outline"><div class="noproduct_form_label big_label"><span class="noproduct_form_label">
+                    Szukasz produktu, którego nie mamy w ofercie?
+                </span></div><div class="noproduct_form_sub"><p class="noproduct_form_notlogged">Jeśli nie znalazłeś w naszej ofercie produktu, a chciałbyś kupić go w naszym sklepie, możesz skorzystać ze specjalnego formularza i przesłać nam opis szukanego przedmiotu. Aby móc to zrobić musisz być <a class="loginPopUpShow" href="signin.php">zalogowany</a>.</p></div></div></div></div></div><footer class=""><div id="menu_banners3" class="row clearfix container"><div class="menu_button_wrapper col-md-6"><div class="kursy_wrapper">
     <label class="big_label">Kursy</label>
 
     <div class="kursy">
@@ -316,8 +256,8 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                                             </a></li><li><a href="/pol-returns-and_replacements.html">
                                                 Odstąpienie od umowy
                                             </a></li></ul></li></ul></div><div class="row"><ul class="footer_links col-md-4  mrg-b" id="links_footer_1"><li><span  title="MOJE KONTO" ><span>MOJE KONTO</span></span><ul class="footer_links_sub"><li><a href="/client-new.php?register" target="_self" title="Zarejestruj się" ><span>Zarejestruj się</span></a></li><li><a href="/client-orders.php" target="_self" title="Moje zamówienia" ><span>Moje zamówienia</span></a></li><li><a href="/basketedit.php?mode=1" target="_self" title="Koszyk" ><span>Koszyk</span></a></li></ul></li></ul><ul class="footer_links col-md-4  mrg-b" id="links_footer_2"><li><span  title="WARTO WIEDZIEĆ" ><span>WARTO WIEDZIEĆ</span></span><ul class="footer_links_sub"><li><a href="https://mennicakapitalowa.pl/Oferta-indywidualna-cabout-pol-34.html" target="_self" title="Oferta indywidualna" ><span>Oferta indywidualna</span></a></li><li><a href="https://mennicakapitalowa.pl/Skup-ccms-pol-32.html" target="_self" title="Skup i gwarancja odkupu " ><span>Skup i gwarancja odkupu </span></a></li><li><a href="https://mennicakapitalowa.pl/blog-list.php" target="_self" title="Czytelnia" ><span>Czytelnia</span></a></li></ul></li></ul></div></div><div id="menu_newsletter" class="mrg-b"><label class="big_label">Newsletter</label><div class="menu_newsletter_wrapper"><form action="settings.php" method="post" class="container"><ul><li>atrakcyjne rabaty</li><li>oferty promocyjne</li><li>fachowe artykuły</li></ul><div class="menu_newsletter_wrapper_sub"><input name="mailing_email" type="text" placeholder="Twój e-mail"><button name="mailing_action" value="add" type="submit" class="btn add_newsletter" title="Zapisz do newslettera">
-                                Zapisz się
-                            </button><a class="remove_newsletter" href="/newsletter.php" title=""><span class="hidden-phone">Wypisz się</span><span class="visible-phone"><i class="icon-envelope-alt"></i>Zapisz się do newslettera</span></a></div><label><input type="checkbox" id="menu_newsletter_terms">Wyrażam zgodę na otrzymywanie newslettera www.MennicaKapitalowa.pl, z którego mogę zrezygnować w każdej chwili.</label></form></div></div></div></div><div class="n60972_main clearfix container"><div class="n60972_main_s"><div class="platnosci_54388"></div><a class="n53399_iailogo" target="_blank" href="https://www.idosell.com/pl/shop/?utm_source=clientShopSite&amp;utm_medium=Label&amp;utm_campaign=PoweredByBadgeLink" title="Sklep internetowy IdoSell Shop"><img class="n53399_iailogo" src="/ajax/poweredby_IdoSell_Shop_black.svg" alt="Sklep internetowy IdoSell Shop"></a></div><div class="footer_additions" id="n58182_footer_additions"><span class="footer_comments"></span></div></div><div class="rwdswicher"><a class="rs-link" href="https://www.mennicakapitalowa.pl/settings.php?no_detect_mobile=y">
+                                    Zapisz się
+                                </button><a class="remove_newsletter" href="/newsletter.php" title=""><span class="hidden-phone">Wypisz się</span><span class="visible-phone"><i class="icon-envelope-alt"></i>Zapisz się do newslettera</span></a></div><label><input type="checkbox" id="menu_newsletter_terms">Wyrażam zgodę na otrzymywanie newslettera www.MennicaKapitalowa.pl, z którego mogę zrezygnować w każdej chwili.</label></form></div></div></div></div><div class="n60972_main clearfix container"><div class="n60972_main_s"><div class="platnosci_54388"></div><a class="n53399_iailogo" target="_blank" href="https://www.idosell.com/pl/shop/?utm_source=clientShopSite&amp;utm_medium=Label&amp;utm_campaign=PoweredByBadgeLink" title="Sklep internetowy IdoSell"><img class="n53399_iailogo" src="/ajax/poweredby_IdoSell_Shop_black.svg" alt="Sklep internetowy IdoSell"></a></div><div class="footer_additions" id="n58182_footer_additions"><span class="footer_comments"></span></div></div><div class="rwdswicher"><a class="rs-link" href="https://www.mennicakapitalowa.pl/settings.php?no_detect_mobile=y">
                     Wersja dla komputerów stacjonarnych
                 </a></div><script>
             var instalment_currency = 'zł';
@@ -339,66 +279,23 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
             "query-input": "required name=search_term_string"
             }
             }
-        </script><script type="application/ld+json">
-                {
-                "@context": "http://schema.org",
-                "@type": "Organization",
-                "url": "https://mennicakapitalowa.pl/",
-                "logo": "https://mennicakapitalowa.pl//data/gfx/mask/pol/logo_1_big.png"
-                }
-            </script><script type="application/ld+json">
-                {
-                "@context": "http://schema.org",
-                "@type": "BreadcrumbList",
-                "itemListElement": [
-                {
-                "@type": "ListItem",
-                "position": 1,
-                "item": {
-                "@id": "https://mennicakapitalowa.pl//pol_m_Srebro-135.html",
-                "name": "Srebro"
-                }
-                }
-            ,
-                {
-                "@type": "ListItem",
-                "position": 2,
-                "item": {
-                "@id": "https://mennicakapitalowa.pl//pol_m_Srebro_SZTABKI-174.html",
-                "name": "SZTABKI"
-                }
-                }
-            ]
-                }
-            </script><script>
+        </script><script>
               loadWS.init({
-                'request':"%2Fpol_m_Srebro_SZTABKI-174.html",
-                'additional':'/search.php'
+                'request':"%2Fnoproduct.php%3Freason%3Dproduct",
+                'additional':'/noproduct.php'
               })
          </script></footer><script>
                   app_shop.runApp();
             </script>            <script>
             var google_tag_params = {
-                'ecomm_pagetype': 'category',
-                'ecomm_prodid': ["5903", "5882", "5416", "5369", "12"],
+                'ecomm_pagetype': 'other',
+                'ecomm_prodid': "",
                 'ecomm_totalvalue': 0,
+                'ecomm_quantity': "",
                 'a': '',
                 'g': ''
             };
-            </script><script>
-                /* <![CDATA[ */
-                var google_conversion_id = 863400069;
-                var google_custom_params = window.google_tag_params;
-                var google_remarketing_only = true;
-                /* ]]> */
-                </script>
-                <script src="//www.googleadservices.com/pagead/conversion.js">
-                </script>
-                <noscript>
-                <div style="display:inline;">
-                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/863400069/?value=0&guid=ON&script=0"/>
-                </div>
-                </noscript>
+            </script>
 <!-- Begin additional html or js -->
 
 
@@ -671,4 +568,4 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                         applied = true;
                     }
                 });
-                </script><img src="https://client4744.idosell.com/checkup.php?c=46bc2fa8fb45361ae12451978df4d298" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client4744.idosell.com/checkup.php?c=0aec5ae9362279c285b35600bd58e505" style="display:none" alt="pixel"></body></html>
