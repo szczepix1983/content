@@ -16,7 +16,7 @@
 
 /* datalayer */
 dataLayer = [];
-dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Amerykanski Orzel 1 uncja zlota","id":"","reference":"AUI-MO-EAGLE1OZ","price":"7994","brand":"US Mint","category":"Zloto lokacyjne","link":"amerykanski-orzel-1-uncja-zlota","price_tax_exc":"7994","wholesale_price":"0","list":"category","position":1},{"name":"Australijski Kangur 1 uncja zlota","id":"","reference":"AUI-MO-KANGAROO1OZ","price":"7366","brand":"Royal Australian Mint","category":"Zloto lokacyjne","link":"australijski-kangur-1-uncja-zlota","price_tax_exc":"7366","wholesale_price":"0","list":"category","position":2},{"name":"Krugerrand 1 uncja zlota","id":"","reference":"AUI-MO-KRUG1OZ","price":"7491","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"krugerrand-1-uncja-zlota","price_tax_exc":"7491","wholesale_price":"0","list":"category","position":3},{"name":"1 uncja sztabka zlota CertiPack","id":"","reference":"AUI-SZ-1OZ","price":"7296","category":"Zloto lokacyjne","link":"1-uncja-sztabka-zlota-certipack","price_tax_exc":"7296","wholesale_price":"0","list":"category","position":4},{"name":"Kanadyjski Lisc Klonowy 1 uncja zlota","id":"","reference":"AUI-MO-MAPLE1OZ","price":"7443","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-1-uncja-zlota","price_tax_exc":"7443","wholesale_price":"0","list":"category","position":5},{"name":"2 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-2G","price":"530","category":"Zloto lokacyjne","link":"2-g-sztabka-zlota-certipack-2834","price_tax_exc":"530","wholesale_price":"0","list":"category","position":6},{"name":"Wiedenscy Filharmonicy 1 uncja zlota","id":"","reference":"AUI-MO-WIENER1OZ","price":"7422","brand":"Munze Osterreich","category":"Zloto lokacyjne","link":"wiedenscy-filharmonicy-1-uncja-zlota","price_tax_exc":"7422","wholesale_price":"0","list":"category","position":7},{"name":"1 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-1G","price":"276","category":"Zloto lokacyjne","link":"1-g-sztabka-zlota-certipack","price_tax_exc":"276","wholesale_price":"0","list":"category","position":8},{"name":"Britannia 1 Uncja Zlota","id":"","reference":"AUI-MO-BRITANNIA1OZ","price":"7415","brand":"Royal Mint UK","category":"Zloto lokacyjne","link":"britannia-1-uncja-zlota-2929","price_tax_exc":"7415","wholesale_price":"0","list":"category","position":9},{"name":"5 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-5G","price":"1270","category":"Zloto lokacyjne","link":"5-g-sztabka-zlota-certipack-2829","price_tax_exc":"1270","wholesale_price":"0","list":"category","position":10},{"name":"Australijski Kangur 1/2 uncji zlota","id":"","reference":"AUI-MO-KANGAROO1/2OZ","price":"4049","brand":"Perth Mint","category":"Zloto lokacyjne","link":"australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229","price_tax_exc":"4049","wholesale_price":"0","list":"category","position":11},{"name":"Amerykanski Bizon 1 uncja zlota","id":"","reference":"AUI-MO-BUFFALO1OZ","price":"7994","brand":"US Mint","category":"Zloto lokacyjne","link":"amerykanski-bizon-1-uncja-zlota","price_tax_exc":"7994","wholesale_price":"0","list":"category","position":12},{"name":"Wiedenscy Filharmonicy 1/25 Uncji Zlota","id":"","reference":"AUI-MO-WIENER1/25OZ","price":"435","brand":"Munze Osterreich","category":"Zloto lokacyjne","link":"1-25-uncji-zlota-wiedenscy-filharmonicy-3704","price_tax_exc":"435","wholesale_price":"0","list":"category","position":13},{"name":"Australijski Kangur 1/4 uncji zlota","id":"","reference":"AUI-MO-KANGAROO1/4","price":"2252","brand":"Perth Mint","category":"Zloto lokacyjne","link":"australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224","price_tax_exc":"2252","wholesale_price":"0","list":"category","position":14},{"name":"10 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-10G","price":"2496","category":"Zloto lokacyjne","link":"10-g-sztabka-zlota-certipack-2839","price_tax_exc":"2496","wholesale_price":"0","list":"category","position":15},{"name":"20 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-20G","price":"4984","category":"Zloto lokacyjne","link":"20-g-sztabka-zlota-certipack-2844","price_tax_exc":"4984","wholesale_price":"0","list":"category","position":16},{"name":"50 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-50G","price":"11707","category":"Zloto lokacyjne","link":"50-g-sztabka-zlota-certipack-2889","price_tax_exc":"11707","wholesale_price":"0","list":"category","position":17},{"name":"100 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-100G","price":"23235","category":"Zloto lokacyjne","link":"100-g-sztabka-zlota-certipack-2894","price_tax_exc":"23235","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Zloto lokacyjne"}});
+dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Amerykanski Orzel 1 uncja zlota","id":"","reference":"AUI-MO-EAGLE1OZ","price":"8160","brand":"US Mint","category":"Zloto lokacyjne","link":"amerykanski-orzel-1-uncja-zlota","price_tax_exc":"8160","wholesale_price":"0","list":"category","position":1},{"name":"Australijski Kangur 1 uncja zlota","id":"","reference":"AUI-MO-KANGAROO1OZ","price":"7469","brand":"Royal Australian Mint","category":"Zloto lokacyjne","link":"australijski-kangur-1-uncja-zlota","price_tax_exc":"7469","wholesale_price":"0","list":"category","position":2},{"name":"Krugerrand 1 uncja zlota","id":"","reference":"AUI-MO-KRUG1OZ","price":"7533","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"krugerrand-1-uncja-zlota","price_tax_exc":"7533","wholesale_price":"0","list":"category","position":3},{"name":"1 uncja sztabka zlota CertiPack","id":"","reference":"AUI-SZ-1OZ","price":"7448","category":"Zloto lokacyjne","link":"1-uncja-sztabka-zlota-certipack","price_tax_exc":"7448","wholesale_price":"0","list":"category","position":4},{"name":"2 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-2G","price":"541","category":"Zloto lokacyjne","link":"2-g-sztabka-zlota-certipack-2834","price_tax_exc":"541","wholesale_price":"0","list":"category","position":5},{"name":"Kanadyjski Lisc Klonowy 1 uncja zlota","id":"","reference":"AUI-MO-MAPLE1OZ","price":"7526","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-1-uncja-zlota","price_tax_exc":"7526","wholesale_price":"0","list":"category","position":6},{"name":"1 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-1G","price":"282","category":"Zloto lokacyjne","link":"1-g-sztabka-zlota-certipack","price_tax_exc":"282","wholesale_price":"0","list":"category","position":7},{"name":"Wiedenscy Filharmonicy 1 uncja zlota","id":"","reference":"AUI-MO-WIENER1OZ","price":"7519","brand":"Munze Osterreich","category":"Zloto lokacyjne","link":"wiedenscy-filharmonicy-1-uncja-zlota","price_tax_exc":"7519","wholesale_price":"0","list":"category","position":8},{"name":"5 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-5G","price":"1296","category":"Zloto lokacyjne","link":"5-g-sztabka-zlota-certipack-2829","price_tax_exc":"1296","wholesale_price":"0","list":"category","position":9},{"name":"Britannia 1 Uncja Zlota","id":"","reference":"AUI-MO-BRITANNIA1OZ","price":"7569","brand":"Royal Mint UK","category":"Zloto lokacyjne","link":"britannia-1-uncja-zlota-2929","price_tax_exc":"7569","wholesale_price":"0","list":"category","position":10},{"name":"Amerykanski Bizon 1 uncja zlota","id":"","reference":"AUI-MO-BUFFALO1OZ","price":"8160","brand":"US Mint","category":"Zloto lokacyjne","link":"amerykanski-bizon-1-uncja-zlota","price_tax_exc":"8160","wholesale_price":"0","list":"category","position":11},{"name":"Wiedenscy Filharmonicy 1/25 Uncji Zlota","id":"","reference":"AUI-MO-WIENER1/25OZ","price":"441","brand":"Munze Osterreich","category":"Zloto lokacyjne","link":"1-25-uncji-zlota-wiedenscy-filharmonicy-3704","price_tax_exc":"441","wholesale_price":"0","list":"category","position":12},{"name":"10 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-10G","price":"2548","category":"Zloto lokacyjne","link":"10-g-sztabka-zlota-certipack-2839","price_tax_exc":"2548","wholesale_price":"0","list":"category","position":13},{"name":"Australijski Kangur 1/4 uncji zlota","id":"","reference":"AUI-MO-KANGAROO1/4","price":"2284","brand":"Perth Mint","category":"Zloto lokacyjne","link":"australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224","price_tax_exc":"2284","wholesale_price":"0","list":"category","position":14},{"name":"20 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-20G","price":"5087","category":"Zloto lokacyjne","link":"20-g-sztabka-zlota-certipack-2844","price_tax_exc":"5087","wholesale_price":"0","list":"category","position":15},{"name":"50 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-50G","price":"11951","category":"Zloto lokacyjne","link":"50-g-sztabka-zlota-certipack-2889","price_tax_exc":"11951","wholesale_price":"0","list":"category","position":16},{"name":"100 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-100G","price":"23650","category":"Zloto lokacyjne","link":"100-g-sztabka-zlota-certipack-2894","price_tax_exc":"23650","wholesale_price":"0","list":"category","position":17},{"name":"Wiedenscy Filharmonicy 1/10 Uncji Zlota","id":"","reference":"AUI-MO-WIENER1/10OZ","price":"953","brand":"Munze Osterreich","category":"Zloto lokacyjne","link":"1-10-uncji-zlota-wiedenscy-filharmonicy-2909","price_tax_exc":"953","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Zloto lokacyjne"}});
 /* call to GTM Tag */
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -67,13 +67,13 @@ cdcgtmreq.send();
 
   <link rel="preload" href="https://goldenmark.com/themes/erado_theme2/assets/css/570eb83859dc23dd0eec423a49e147fe.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="https://goldenmark.com/themes/erado_theme2/assets/field-css/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin>
-   <link rel="stylesheet" href="https://goldenmark.com/themes/child/assets/cache/theme-d98aad228.css" type="text/css" media="all">
+   <link rel="stylesheet" href="https://goldenmark.com/themes/child/assets/cache/theme-d98aad231.css" type="text/css" media="all">
 
 
 
 
 
-    <script  src="https://goldenmark.com/themes/child/assets/cache/head-873d0a227.js" ></script>
+    <script  src="https://goldenmark.com/themes/child/assets/cache/head-873d0a230.js" ></script>
 
 
   <script >
@@ -82,7 +82,7 @@ cdcgtmreq.send();
         var as4_orderBySalesAsc = "Sales: Lower first";
         var as4_orderBySalesDesc = "Sales: Highest first";
         var baseDir = "https:\/\/goldenmark.com\/";
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne","meta":{"title":"Z\u0142oto lokacyjne, inwestycja w fizyczne z\u0142oto - Goldenmark (1)","description":"Fizyczne z\u0142oto w postaci sztabek i monet stanowi doskona\u0142\u0105 form\u0119 zabezpieczenia kapita\u0142u przed inflacj\u0105 i kryzysami gospodarczymi. Do tego jest zwolnione z VAT.","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-979":true,"category-Z\u0142oto lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne?page=1","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_gold","pl-pl":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Z\u0142oto lokacyjne","url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/zloto-lokacyjne?page=1"},"time":1623536764,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne","meta":{"title":"Z\u0142oto lokacyjne, inwestycja w fizyczne z\u0142oto - Goldenmark (1)","description":"Fizyczne z\u0142oto w postaci sztabek i monet stanowi doskona\u0142\u0105 form\u0119 zabezpieczenia kapita\u0142u przed inflacj\u0105 i kryzysami gospodarczymi. Do tego jest zwolnione z VAT.","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-979":true,"category-Z\u0142oto lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne?page=1","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_gold","pl-pl":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Z\u0142oto lokacyjne","url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/zloto-lokacyjne?page=1"},"time":1626433337,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
         var psemailsubscription_subscription = "https:\/\/goldenmark.com\/pl\/module\/ps_emailsubscription\/subscription";
         var showcat = "1";
         var text_nopr = "Wprowad\u017a co najmniej 3 s\u0142owa kluczowe";
@@ -956,7 +956,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										id="PM_ASInputCritRange2_6_min" 
 										value="200" 
 										class="form-control" 
-										min="0"										max="58100" 
+										min="0"										max="120900" 
 										step="100" />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -966,9 +966,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																<input 	data-id-criterion-group="6" 
 										type="number" 
 										id="PM_ASInputCritRange2_6_max" 
-										value="58100" 
+										value="120900" 
 										class="form-control" 
-										min="0"										max="58100" 
+										min="0"										max="120900" 
 										step="100"  />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -1005,18 +1005,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>				</li>
 																					
 				<li>
-					<div class="checkbox">					<input type="checkbox" value="551" data-id-criterion-group="9" id="as4c_9_551" name="as4c[9][]"  class="PM_ASCriterionCheckbox"  /> 
-					<label for="as4c_9_551" class="PM_ASLabelCheckbox">
+					<div class="checkbox">					<input type="checkbox" value="596" data-id-criterion-group="9" id="as4c_9_596" name="as4c[9][]"  class="PM_ASCriterionCheckbox"  /> 
+					<label for="as4c_9_596" class="PM_ASLabelCheckbox">
 						<a class="PM_ASLabelLink" href="#">
-							1 uncja						</a>
+							powyżej 1 uncji, do 100 g						</a>
 					</label>
 					</div>				</li>
 																					
 				<li>
-					<div class="checkbox">					<input type="checkbox" value="553" data-id-criterion-group="9" id="as4c_9_553" name="as4c[9][]"  class="PM_ASCriterionCheckbox"  /> 
-					<label for="as4c_9_553" class="PM_ASLabelCheckbox">
+					<div class="checkbox">					<input type="checkbox" value="551" data-id-criterion-group="9" id="as4c_9_551" name="as4c[9][]"  class="PM_ASCriterionCheckbox"  /> 
+					<label for="as4c_9_551" class="PM_ASLabelCheckbox">
 						<a class="PM_ASLabelLink" href="#">
-							31,1 - 100 g						</a>
+							1 uncja						</a>
 					</label>
 					</div>				</li>
 																					
@@ -1101,7 +1101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="click-product-list d-inline-block"><i class="fa fa-th-list"></i></div>
 	</div>
 	<div class="total-products">
-				  <p>Znaleziono 214 produkty.</p>
+				  <p>Znaleziono 217 produkty.</p>
 		    </div>    
     <div class="box-sort-by">
       
@@ -1238,10 +1238,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 994,00 zł</span>
+	od <span class="pricefrom-price">8 160,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">7 994,00 zł</span>
+								<span itemprop="price" class="price">8 160,00 zł</span>
 																
 								
 							</div>
@@ -1325,10 +1325,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 366,00 zł</span>
+	od <span class="pricefrom-price">7 469,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">7 366,00 zł</span>
+								<span itemprop="price" class="price">7 469,00 zł</span>
 																
 								
 							</div>
@@ -1412,10 +1412,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 491,00 zł</span>
+	od <span class="pricefrom-price">7 533,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">7 491,00 zł</span>
+								<span itemprop="price" class="price">7 533,00 zł</span>
 																
 								
 							</div>
@@ -1499,94 +1499,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 296,00 zł</span>
+	od <span class="pricefrom-price">7 448,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">7 296,00 zł</span>
-																
-								
-							</div>
-
-										
-                    <div class="highlighted-informations no-variants hidden-sm-down">
-                        
-                                                    
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-                        
-	  
-                                            
-                            
-
-
-	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
-
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8011" data-id-product-attribute="123" itemscope itemtype="http://schema.org/Product">
-                <div class="left-product">
-                    
-													<a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
-								<span class="cover_image">
-									<img loading="lazy" class="img-responsive"
-										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
-										alt="Kanadyjski Liść Klonowy 1 uncja złota"
-										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-large_gallery/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
-									/>
-								</span>
-																	<span class="hover_image">
-										<img loading="lazy" class="img-responsive"
-											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25072-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
-											alt="Kanadyjski Liść Klonowy 1 uncja złota"
-											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-large_gallery/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
-										/>
-									</span>
-															</a>
-						                    
-                    					<div class="conditions-box">
-																		
-					</div>
-				<div class="button-container">
-																					<div class="button_view_product">
-									<a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="btn btn-product-list">
-										<i class="fa fa-search-plus"></i><span class="des_button">Zobacz produkt</span>
-									</a>
-								</div>
-																			
-						
-						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
-							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
-						</a>
-				</div>
-                </div>
-                <div class="right-product">
-					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni">Kanadyjski Liść Klonowy 1 uncja złota</a></div>
-					
-					
-						            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
-            <div class="star_content clearfix">
-                                                            <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                        <meta itemprop="worstRating" content = "0" />
-                    <meta itemprop="ratingValue" content = "5" />
-                    <meta itemprop="bestRating" content = "5" />
-                            </div>
-                            <meta itemprop="reviewCount" content = "2" />
-                    </div>
-    
-					
-					
-					
-							<div class="product-price-and-shipping">
-								
-								<span itemprop="price" class="price">7 443,00 zł</span>
+								<span itemprop="price" class="price">7 448,00 zł</span>
 																
 								
 							</div>
@@ -1666,10 +1582,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">530,00 zł</span>
+	od <span class="pricefrom-price">541,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">530,00 zł</span>
+								<span itemprop="price" class="price">541,00 zł</span>
 																
 								
 							</div>
@@ -1693,22 +1609,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
 
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8012" data-id-product-attribute="124" itemscope itemtype="http://schema.org/Product">
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8011" data-id-product-attribute="123" itemscope itemtype="http://schema.org/Product">
                 <div class="left-product">
                     
-													<a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
+													<a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
 								<span class="cover_image">
 									<img loading="lazy" class="img-responsive"
-										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
-										alt="Wiedeńscy Filharmonicy 1 uncja złota"
-										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-large_gallery/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
+										alt="Kanadyjski Liść Klonowy 1 uncja złota"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-large_gallery/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
 									/>
 								</span>
 																	<span class="hover_image">
 										<img loading="lazy" class="img-responsive"
-											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25073-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
-											alt="Wiedeńscy Filharmonicy 1 uncja złota"
-											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-large_gallery/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
+											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25072-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
+											alt="Kanadyjski Liść Klonowy 1 uncja złota"
+											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-large_gallery/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
 										/>
 									</span>
 															</a>
@@ -1718,7 +1634,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 				<div class="button-container">
 																					<div class="button_view_product">
-									<a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="btn btn-product-list">
+									<a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="btn btn-product-list">
 										<i class="fa fa-search-plus"></i><span class="des_button">Zobacz produkt</span>
 									</a>
 								</div>
@@ -1731,7 +1647,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="right-product">
 					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni">Wiedeńscy Filharmonicy 1 uncja złota</a></div>
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni">Kanadyjski Liść Klonowy 1 uncja złota</a></div>
 					
 					
 						            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
@@ -1753,10 +1669,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 422,00 zł</span>
+	od <span class="pricefrom-price">7 526,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">7 422,00 zł</span>
+								<span itemprop="price" class="price">7 526,00 zł</span>
 																
 								
 							</div>
@@ -1840,10 +1756,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">276,00 zł</span>
+	od <span class="pricefrom-price">282,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">276,00 zł</span>
+								<span itemprop="price" class="price">282,00 zł</span>
 																
 								
 							</div>
@@ -1867,32 +1783,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
 
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8005" data-id-product-attribute="1535" itemscope itemtype="http://schema.org/Product">
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8012" data-id-product-attribute="124" itemscope itemtype="http://schema.org/Product">
                 <div class="left-product">
                     
-													<a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
+													<a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
 								<span class="cover_image">
 									<img loading="lazy" class="img-responsive"
-										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-home_default/britannia-1-uncja-zlota-2929.jpg"
-										alt="Britannia 1 Uncja Złota"
-										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-large_gallery/britannia-1-uncja-zlota-2929.jpg"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
+										alt="Wiedeńscy Filharmonicy 1 uncja złota"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-large_gallery/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
 									/>
 								</span>
 																	<span class="hover_image">
 										<img loading="lazy" class="img-responsive"
-											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25063-home_default/britannia-1-uncja-zlota-2929.jpg"
-											alt="Britannia 1 Uncja Złota"
-											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-large_gallery/britannia-1-uncja-zlota-2929.jpg"
+											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25073-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
+											alt="Wiedeńscy Filharmonicy 1 uncja złota"
+											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-large_gallery/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
 										/>
 									</span>
 															</a>
 						                    
                     					<div class="conditions-box">
-																		
+																		<span class="flag24h">Wysyłka już w 24h</span>
 					</div>
 				<div class="button-container">
 																					<div class="button_view_product">
-									<a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="btn btn-product-list">
+									<a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="btn btn-product-list">
 										<i class="fa fa-search-plus"></i><span class="des_button">Zobacz produkt</span>
 									</a>
 								</div>
@@ -1905,7 +1821,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="right-product">
 					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni">Britannia 1 Uncja Złota</a></div>
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni">Wiedeńscy Filharmonicy 1 uncja złota</a></div>
 					
 					
 						            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
@@ -1916,10 +1832,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                 <div class="star star_on"></div>
                                                                                 <div class="star star_on"></div>
                                                                         <meta itemprop="worstRating" content = "0" />
-                    <meta itemprop="ratingValue" content = "4.7" />
+                    <meta itemprop="ratingValue" content = "5" />
                     <meta itemprop="bestRating" content = "5" />
                             </div>
-                            <meta itemprop="reviewCount" content = "3" />
+                            <meta itemprop="reviewCount" content = "2" />
                     </div>
     
 					
@@ -1927,10 +1843,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 415,00 zł</span>
+	od <span class="pricefrom-price">7 519,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">7 415,00 zł</span>
+								<span itemprop="price" class="price">7 519,00 zł</span>
 																
 								
 							</div>
@@ -2014,10 +1930,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">1 270,00 zł</span>
+	od <span class="pricefrom-price">1 296,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">1 270,00 zł</span>
+								<span itemprop="price" class="price">1 296,00 zł</span>
 																
 								
 							</div>
@@ -2041,32 +1957,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
 
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8007" data-id-product-attribute="119" itemscope itemtype="http://schema.org/Product">
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8005" data-id-product-attribute="1535" itemscope itemtype="http://schema.org/Product">
                 <div class="left-product">
                     
-													<a href="https://goldenmark.com/pl/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
+													<a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
 								<span class="cover_image">
 									<img loading="lazy" class="img-responsive"
-										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4000-home_default/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg"
-										alt="Australijski Kangur 1/2 uncji złota"
-										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4000-large_gallery/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-home_default/britannia-1-uncja-zlota-2929.jpg"
+										alt="Britannia 1 Uncja Złota"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-large_gallery/britannia-1-uncja-zlota-2929.jpg"
 									/>
 								</span>
 																	<span class="hover_image">
 										<img loading="lazy" class="img-responsive"
-											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4001-home_default/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg"
-											alt="Australijski Kangur 1/2 uncji złota"
-											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4000-large_gallery/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg"
+											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25063-home_default/britannia-1-uncja-zlota-2929.jpg"
+											alt="Britannia 1 Uncja Złota"
+											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-large_gallery/britannia-1-uncja-zlota-2929.jpg"
 										/>
 									</span>
 															</a>
 						                    
                     					<div class="conditions-box">
-																		
+																		<span class="flag24h">Wysyłka już w 24h</span>
 					</div>
 				<div class="button-container">
 																					<div class="button_view_product">
-									<a href="https://goldenmark.com/pl/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229/#/284-cennik-45_dni" class="btn btn-product-list">
+									<a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="btn btn-product-list">
 										<i class="fa fa-search-plus"></i><span class="des_button">Zobacz produkt</span>
 									</a>
 								</div>
@@ -2079,25 +1995,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="right-product">
 					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229/#/284-cennik-45_dni">Australijski Kangur 1/2 uncji złota</a></div>
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni">Britannia 1 Uncja Złota</a></div>
 					
 					
-						            <div class="comments_note" >
+						            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
             <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
+                                                            <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                        <meta itemprop="worstRating" content = "0" />
+                    <meta itemprop="ratingValue" content = "4.7" />
+                    <meta itemprop="bestRating" content = "5" />
+                            </div>
+                            <meta itemprop="reviewCount" content = "3" />
                     </div>
     
 					
 					
 					
 							<div class="product-price-and-shipping">
-								
-								<span itemprop="price" class="price">4 049,00 zł</span>
+								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
+	od <span class="pricefrom-price">7 569,00 zł</span>
+</div>
+
+								<span itemprop="price" class="price">7 569,00 zł</span>
 																
 								
 							</div>
@@ -2142,7 +2065,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 															</a>
 						                    
                     					<div class="conditions-box">
-																		<span class="flag24h">Wysyłka już w 24h</span>
+																		
 					</div>
 				<div class="button-container">
 																					<div class="button_view_product">
@@ -2181,10 +2104,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 994,00 zł</span>
+	od <span class="pricefrom-price">8 160,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">7 994,00 zł</span>
+								<span itemprop="price" class="price">8 160,00 zł</span>
 																
 								
 							</div>
@@ -2264,87 +2187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">435,00 zł</span>
-																
-								
-							</div>
-
-										
-                    <div class="highlighted-informations no-variants hidden-sm-down">
-                        
-                                                    
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-                        
-	  
-                                            
-                            
-
-
-	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
-
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8008" data-id-product-attribute="9" itemscope itemtype="http://schema.org/Product">
-                <div class="left-product">
-                    
-													<a href="https://goldenmark.com/pl/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224/#/282-cennik-1_dzień" class="thumbnail product-thumbnail">
-								<span class="cover_image">
-									<img loading="lazy" class="img-responsive"
-										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4002-home_default/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
-										alt="Australijski Kangur 1/4 uncji złota"
-										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4002-large_gallery/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
-									/>
-								</span>
-																	<span class="hover_image">
-										<img loading="lazy" class="img-responsive"
-											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4003-home_default/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
-											alt="Australijski Kangur 1/4 uncji złota"
-											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4002-large_gallery/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
-										/>
-									</span>
-															</a>
-						                    
-                    					<div class="conditions-box">
-																		<span class="flag24h">Wysyłka już w 24h</span>
-					</div>
-				<div class="button-container">
-																					<div class="button_view_product">
-									<a href="https://goldenmark.com/pl/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224/#/282-cennik-1_dzień" class="btn btn-product-list">
-										<i class="fa fa-search-plus"></i><span class="des_button">Zobacz produkt</span>
-									</a>
-								</div>
-																			
-						
-						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
-							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
-						</a>
-				</div>
-                </div>
-                <div class="right-product">
-					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224/#/282-cennik-1_dzień">Australijski Kangur 1/4 uncji złota</a></div>
-					
-					
-						            <div class="comments_note" >
-            <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
-                    </div>
-    
-					
-					
-					
-							<div class="product-price-and-shipping">
-								
-								<span itemprop="price" class="price">2 252,00 zł</span>
+								<span itemprop="price" class="price">441,00 zł</span>
 																
 								
 							</div>
@@ -2428,10 +2271,90 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">2 496,00 zł</span>
+	od <span class="pricefrom-price">2 548,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">2 496,00 zł</span>
+								<span itemprop="price" class="price">2 548,00 zł</span>
+																
+								
+							</div>
+
+										
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                                                    
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+                        
+	  
+                                            
+                            
+
+
+	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
+
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8008" data-id-product-attribute="9" itemscope itemtype="http://schema.org/Product">
+                <div class="left-product">
+                    
+													<a href="https://goldenmark.com/pl/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224/#/282-cennik-1_dzień" class="thumbnail product-thumbnail">
+								<span class="cover_image">
+									<img loading="lazy" class="img-responsive"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4002-home_default/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
+										alt="Australijski Kangur 1/4 uncji złota"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4002-large_gallery/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
+									/>
+								</span>
+																	<span class="hover_image">
+										<img loading="lazy" class="img-responsive"
+											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4003-home_default/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
+											alt="Australijski Kangur 1/4 uncji złota"
+											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4002-large_gallery/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224.jpg"
+										/>
+									</span>
+															</a>
+						                    
+                    					<div class="conditions-box">
+																		<span class="flag24h">Wysyłka już w 24h</span>
+					</div>
+				<div class="button-container">
+																					<div class="button_view_product">
+									<a href="https://goldenmark.com/pl/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224/#/282-cennik-1_dzień" class="btn btn-product-list">
+										<i class="fa fa-search-plus"></i><span class="des_button">Zobacz produkt</span>
+									</a>
+								</div>
+																			
+						
+						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
+							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
+						</a>
+				</div>
+                </div>
+                <div class="right-product">
+					
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224/#/282-cennik-1_dzień">Australijski Kangur 1/4 uncji złota</a></div>
+					
+					
+						            <div class="comments_note" >
+            <div class="star_content clearfix">
+                                                            <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                </div>
+                    </div>
+    
+					
+					
+					
+							<div class="product-price-and-shipping">
+								
+								<span itemprop="price" class="price">2 284,00 zł</span>
 																
 								
 							</div>
@@ -2511,10 +2434,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">4 984,00 zł</span>
+	od <span class="pricefrom-price">5 087,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">4 984,00 zł</span>
+								<span itemprop="price" class="price">5 087,00 zł</span>
 																
 								
 							</div>
@@ -2594,10 +2517,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">11 707,00 zł</span>
+	od <span class="pricefrom-price">11 951,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">11 707,00 zł</span>
+								<span itemprop="price" class="price">11 951,00 zł</span>
 																
 								
 							</div>
@@ -2681,10 +2604,94 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">23 235,00 zł</span>
+	od <span class="pricefrom-price">23 650,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">23 235,00 zł</span>
+								<span itemprop="price" class="price">23 650,00 zł</span>
+																
+								
+							</div>
+
+										
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                                                    
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+                        
+	  
+                                            
+                            
+
+
+	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
+
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8822" data-id-product-attribute="8446" itemscope itemtype="http://schema.org/Product">
+                <div class="left-product">
+                    
+													<a href="https://goldenmark.com/pl/1-10-uncji-zlota-wiedenscy-filharmonicy-2909/#/282-cennik-1_dzień" class="thumbnail product-thumbnail">
+								<span class="cover_image">
+									<img loading="lazy" class="img-responsive"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-home_default/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg"
+										alt="Wiedeńscy Filharmonicy 1/10 Uncji Złota"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-large_gallery/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg"
+									/>
+								</span>
+																	<span class="hover_image">
+										<img loading="lazy" class="img-responsive"
+											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-home_default/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg"
+											alt="Wiedeńscy Filharmonicy 1/10 Uncji Złota"
+											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-large_gallery/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg"
+										/>
+									</span>
+															</a>
+						                    
+                    					<div class="conditions-box">
+																		<span class="flag24h">Wysyłka już w 24h</span>
+					</div>
+				<div class="button-container">
+																					<div class="button_view_product">
+									<a href="https://goldenmark.com/pl/1-10-uncji-zlota-wiedenscy-filharmonicy-2909/#/282-cennik-1_dzień" class="btn btn-product-list">
+										<i class="fa fa-search-plus"></i><span class="des_button">Zobacz produkt</span>
+									</a>
+								</div>
+																			
+						
+						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
+							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
+						</a>
+				</div>
+                </div>
+                <div class="right-product">
+					
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/1-10-uncji-zlota-wiedenscy-filharmonicy-2909/#/282-cennik-1_dzień">Wiedeńscy Filharmonicy 1/10 Uncji Złota</a></div>
+					
+					
+						            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+            <div class="star_content clearfix">
+                                                            <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                        <meta itemprop="worstRating" content = "0" />
+                    <meta itemprop="ratingValue" content = "5" />
+                    <meta itemprop="bestRating" content = "5" />
+                            </div>
+                            <meta itemprop="reviewCount" content = "1" />
+                    </div>
+    
+					
+					
+					
+							<div class="product-price-and-shipping">
+								
+								<span itemprop="price" class="price">953,00 zł</span>
 																
 								
 							</div>
@@ -2741,11 +2748,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 994,00 zł</span>
+	od <span class="pricefrom-price">8 160,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7994">7 994,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="8160">8 160,00 zł</span>
 										</span>
 																				
 										
@@ -2822,11 +2829,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 366,00 zł</span>
+	od <span class="pricefrom-price">7 469,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7366">7 366,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7469">7 469,00 zł</span>
 										</span>
 																				
 										
@@ -2903,11 +2910,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 491,00 zł</span>
+	od <span class="pricefrom-price">7 533,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7491">7 491,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7533">7 533,00 zł</span>
 										</span>
 																				
 										
@@ -2984,11 +2991,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 296,00 zł</span>
+	od <span class="pricefrom-price">7 448,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7296">7 296,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7448">7 448,00 zł</span>
 										</span>
 																				
 										
@@ -3016,84 +3023,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								 
 																			<div class="button_view_product">
 											<a href="https://goldenmark.com/pl/1-uncja-sztabka-zlota-certipack/#/284-cennik-45_dni" class="btn-product-list">
-												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
-											</a>
-										</div>
-																									
-								
-								<div class="btn-quickview-list">
-									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
-										<i class="fa fa-eye"></i>
-									</a> 
-								</div>								
-                            </div>							
-                        </div>
-                    </div>
-                </div>
-                            <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8011" data-id-product-attribute="123" itemscope itemtype="http://schema.org/Product">
-                        <div class="left-product">
-                            <a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
-                                <span class="cover_image">
-                                    <img  class="img-responsive"
-                                          itemprop="image"
-                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
-                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-large_gallery/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg" alt=""
-                                          width="270"                                          height="330" 
-                                          >
-                                </span>
-                                                                    <span class="hover_image">
-                                        <img class="img-responsive"
-                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25072-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
-                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25072-large_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg" alt=""
-                                             width="270"                                             height="330" 
-                                             > 
-                                    </span>
-                                               
-                            </a> 
-                            <div class="conditions-box">
-																						
-									  
-							</div>
-                                                       
-                        </div>  
-                        <div class="right-product">	
-							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni">Kanadyjski Liść Klonowy 1...</a></div> 
-								<div class="title_font product_category_name">Złote monety bulionowe</div>
-							</div>
-							<div class="des_right">								
-																	<div class="product-price-and-shipping">
-										
-										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7443">7 443,00 zł</span>
-										</span>
-																				
-										
-									</div>
-								 
-								            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
-            <div class="star_content clearfix">
-                                                            <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                        <meta itemprop="worstRating" content = "0" />
-                    <meta itemprop="ratingValue" content = "5" />
-                    <meta itemprop="bestRating" content = "5" />
-                            </div>
-                            <meta itemprop="reviewCount" content = "2" />
-                    </div>
-    	
-							</div>
-							<div class="decriptions-short">
-                                
-                            </div>							                          
-                            <div class="button-action-list">								
-								 
-																			<div class="button_view_product">
-											<a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="btn-product-list">
 												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
 											</a>
 										</div>
@@ -3143,11 +3072,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">530,00 zł</span>
+	od <span class="pricefrom-price">541,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="530">530,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="541">541,00 zł</span>
 										</span>
 																				
 										
@@ -3186,21 +3115,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                             <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8012" data-id-product-attribute="124" itemscope itemtype="http://schema.org/Product">
+                    <div class="product-miniature js-product-miniature" data-id-product="8011" data-id-product-attribute="123" itemscope itemtype="http://schema.org/Product">
                         <div class="left-product">
-                            <a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
+                            <a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
                                 <span class="cover_image">
                                     <img  class="img-responsive"
                                           itemprop="image"
-                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
-                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-large_gallery/wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt=""
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25071-large_gallery/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg" alt=""
                                           width="270"                                          height="330" 
                                           >
                                 </span>
                                                                     <span class="hover_image">
                                         <img class="img-responsive"
-                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25073-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
-                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25073-large_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt=""
+                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25072-home_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg"
+                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25072-large_default/kanadyjski-lisc-klonowy-1-uncja-zlota.jpg" alt=""
                                              width="270"                                             height="330" 
                                              > 
                                     </span>
@@ -3214,17 +3143,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>  
                         <div class="right-product">	
 							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni">Wiedeńscy Filharmonicy 1...</a></div> 
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni">Kanadyjski Liść Klonowy 1...</a></div> 
 								<div class="title_font product_category_name">Złote monety bulionowe</div>
 							</div>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 422,00 zł</span>
+	od <span class="pricefrom-price">7 526,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7422">7 422,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7526">7 526,00 zł</span>
 										</span>
 																				
 										
@@ -3251,7 +3180,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="button-action-list">								
 								 
 																			<div class="button_view_product">
-											<a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="btn-product-list">
+											<a href="https://goldenmark.com/pl/kanadyjski-lisc-klonowy-1-uncja-zlota/#/284-cennik-45_dni" class="btn-product-list">
 												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
 											</a>
 										</div>
@@ -3301,11 +3230,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">276,00 zł</span>
+	od <span class="pricefrom-price">282,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="276">276,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="282">282,00 zł</span>
 										</span>
 																				
 										
@@ -3348,21 +3277,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                             <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8005" data-id-product-attribute="1535" itemscope itemtype="http://schema.org/Product">
+                    <div class="product-miniature js-product-miniature" data-id-product="8012" data-id-product-attribute="124" itemscope itemtype="http://schema.org/Product">
                         <div class="left-product">
-                            <a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
+                            <a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
                                 <span class="cover_image">
                                     <img  class="img-responsive"
                                           itemprop="image"
-                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-home_default/britannia-1-uncja-zlota-2929.jpg"
-                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-large_gallery/britannia-1-uncja-zlota-2929.jpg" alt=""
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25074-large_gallery/wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt=""
                                           width="270"                                          height="330" 
                                           >
                                 </span>
                                                                     <span class="hover_image">
                                         <img class="img-responsive"
-                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25063-home_default/britannia-1-uncja-zlota-2929.jpg"
-                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25063-large_default/britannia-1-uncja-zlota-2929.jpg" alt=""
+                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25073-home_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg"
+                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25073-large_default/wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt=""
                                              width="270"                                             height="330" 
                                              > 
                                     </span>
@@ -3376,17 +3305,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>  
                         <div class="right-product">	
 							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni">Britannia 1 Uncja Złota</a></div> 
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni">Wiedeńscy Filharmonicy 1...</a></div> 
 								<div class="title_font product_category_name">Złote monety bulionowe</div>
 							</div>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 415,00 zł</span>
+	od <span class="pricefrom-price">7 519,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7415">7 415,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7519">7 519,00 zł</span>
 										</span>
 																				
 										
@@ -3400,10 +3329,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                                 <div class="star star_on"></div>
                                                                                 <div class="star star_on"></div>
                                                                         <meta itemprop="worstRating" content = "0" />
-                    <meta itemprop="ratingValue" content = "4.7" />
+                    <meta itemprop="ratingValue" content = "5" />
                     <meta itemprop="bestRating" content = "5" />
                             </div>
-                            <meta itemprop="reviewCount" content = "3" />
+                            <meta itemprop="reviewCount" content = "2" />
                     </div>
     	
 							</div>
@@ -3413,7 +3342,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="button-action-list">								
 								 
 																			<div class="button_view_product">
-											<a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="btn-product-list">
+											<a href="https://goldenmark.com/pl/wiedenscy-filharmonicy-1-uncja-zlota/#/284-cennik-45_dni" class="btn-product-list">
 												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
 											</a>
 										</div>
@@ -3463,11 +3392,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">1 270,00 zł</span>
+	od <span class="pricefrom-price">1 296,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="1270">1 270,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="1296">1 296,00 zł</span>
 										</span>
 																				
 										
@@ -3510,21 +3439,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                             <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8007" data-id-product-attribute="119" itemscope itemtype="http://schema.org/Product">
+                    <div class="product-miniature js-product-miniature" data-id-product="8005" data-id-product-attribute="1535" itemscope itemtype="http://schema.org/Product">
                         <div class="left-product">
-                            <a href="https://goldenmark.com/pl/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
+                            <a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
                                 <span class="cover_image">
                                     <img  class="img-responsive"
                                           itemprop="image"
-                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4000-home_default/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg"
-                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4000-large_gallery/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg" alt=""
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-home_default/britannia-1-uncja-zlota-2929.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25065-large_gallery/britannia-1-uncja-zlota-2929.jpg" alt=""
                                           width="270"                                          height="330" 
                                           >
                                 </span>
                                                                     <span class="hover_image">
                                         <img class="img-responsive"
-                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4001-home_default/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg"
-                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4001-large_default/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229.jpg" alt=""
+                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25063-home_default/britannia-1-uncja-zlota-2929.jpg"
+                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/25063-large_default/britannia-1-uncja-zlota-2929.jpg" alt=""
                                              width="270"                                             height="330" 
                                              > 
                                     </span>
@@ -3538,27 +3467,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>  
                         <div class="right-product">	
 							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229/#/284-cennik-45_dni">Australijski Kangur 1/2...</a></div> 
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni">Britannia 1 Uncja Złota</a></div> 
 								<div class="title_font product_category_name">Złote monety bulionowe</div>
 							</div>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
-										
+										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
+	od <span class="pricefrom-price">7 569,00 zł</span>
+</div>
+
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4049">4 049,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7569">7 569,00 zł</span>
 										</span>
 																				
 										
 									</div>
 								 
-								            <div class="comments_note" >
+								            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
             <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
+                                                            <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                        <meta itemprop="worstRating" content = "0" />
+                    <meta itemprop="ratingValue" content = "4.7" />
+                    <meta itemprop="bestRating" content = "5" />
+                            </div>
+                            <meta itemprop="reviewCount" content = "3" />
                     </div>
     	
 							</div>
@@ -3568,7 +3504,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="button-action-list">								
 								 
 																			<div class="button_view_product">
-											<a href="https://goldenmark.com/pl/australijski-kangur-1-2-uncji-zlota-australian-kangaroo-1-2-oz-3229/#/284-cennik-45_dni" class="btn-product-list">
+											<a href="https://goldenmark.com/pl/britannia-1-uncja-zlota-2929/#/284-cennik-45_dni" class="btn-product-list">
 												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
 											</a>
 										</div>
@@ -3618,11 +3554,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">7 994,00 zł</span>
+	od <span class="pricefrom-price">8 160,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7994">7 994,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="8160">8 160,00 zł</span>
 										</span>
 																				
 										
@@ -3700,7 +3636,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="435">435,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="441">441,00 zł</span>
 										</span>
 																				
 										
@@ -3724,6 +3660,87 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								 
 																			<div class="button_view_product">
 											<a href="https://goldenmark.com/pl/1-25-uncji-zlota-wiedenscy-filharmonicy-3704/#/282-cennik-1_dzień" class="btn-product-list">
+												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
+											</a>
+										</div>
+																									
+								
+								<div class="btn-quickview-list">
+									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
+										<i class="fa fa-eye"></i>
+									</a> 
+								</div>								
+                            </div>							
+                        </div>
+                    </div>
+                </div>
+                            <div class="item-product-list">
+                    <div class="product-miniature js-product-miniature" data-id-product="8016" data-id-product-attribute="128" itemscope itemtype="http://schema.org/Product">
+                        <div class="left-product">
+                            <a href="https://goldenmark.com/pl/10-g-sztabka-zlota-certipack-2839/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
+                                <span class="cover_image">
+                                    <img  class="img-responsive"
+                                          itemprop="image"
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4023-home_default/10-g-sztabka-zlota-certipack-2839.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4023-large_gallery/10-g-sztabka-zlota-certipack-2839.jpg" alt=""
+                                          width="270"                                          height="330" 
+                                          >
+                                </span>
+                                                                    <span class="hover_image">
+                                        <img class="img-responsive"
+                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4025-home_default/10-g-sztabka-zlota-certipack-2839.jpg"
+                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4025-large_default/10-g-sztabka-zlota-certipack-2839.jpg" alt=""
+                                             width="270"                                             height="330" 
+                                             > 
+                                    </span>
+                                               
+                            </a> 
+                            <div class="conditions-box">
+																						
+									  
+							</div>
+                                                       
+                        </div>  
+                        <div class="right-product">	
+							<div class="des_left">
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/10-g-sztabka-zlota-certipack-2839/#/284-cennik-45_dni">10 g sztabka złota CertiPack</a></div> 
+								<div class="title_font product_category_name">Złote sztabki lokacyjne</div>
+							</div>
+							<div class="des_right">								
+																	<div class="product-price-and-shipping">
+										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
+	od <span class="pricefrom-price">2 548,00 zł</span>
+</div>
+
+										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2548">2 548,00 zł</span>
+										</span>
+																				
+										
+									</div>
+								 
+								            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+            <div class="star_content clearfix">
+                                                            <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                        <meta itemprop="worstRating" content = "0" />
+                    <meta itemprop="ratingValue" content = "5" />
+                    <meta itemprop="bestRating" content = "5" />
+                            </div>
+                            <meta itemprop="reviewCount" content = "2" />
+                    </div>
+    	
+							</div>
+							<div class="decriptions-short">
+                                
+                            </div>							                          
+                            <div class="button-action-list">								
+								 
+																			<div class="button_view_product">
+											<a href="https://goldenmark.com/pl/10-g-sztabka-zlota-certipack-2839/#/284-cennik-45_dni" class="btn-product-list">
 												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
 											</a>
 										</div>
@@ -3774,7 +3791,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2252">2 252,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2284">2 284,00 zł</span>
 										</span>
 																				
 										
@@ -3798,87 +3815,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								 
 																			<div class="button_view_product">
 											<a href="https://goldenmark.com/pl/australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224/#/282-cennik-1_dzień" class="btn-product-list">
-												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
-											</a>
-										</div>
-																									
-								
-								<div class="btn-quickview-list">
-									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
-										<i class="fa fa-eye"></i>
-									</a> 
-								</div>								
-                            </div>							
-                        </div>
-                    </div>
-                </div>
-                            <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8016" data-id-product-attribute="128" itemscope itemtype="http://schema.org/Product">
-                        <div class="left-product">
-                            <a href="https://goldenmark.com/pl/10-g-sztabka-zlota-certipack-2839/#/284-cennik-45_dni" class="thumbnail product-thumbnail">
-                                <span class="cover_image">
-                                    <img  class="img-responsive"
-                                          itemprop="image"
-                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4023-home_default/10-g-sztabka-zlota-certipack-2839.jpg"
-                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4023-large_gallery/10-g-sztabka-zlota-certipack-2839.jpg" alt=""
-                                          width="270"                                          height="330" 
-                                          >
-                                </span>
-                                                                    <span class="hover_image">
-                                        <img class="img-responsive"
-                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4025-home_default/10-g-sztabka-zlota-certipack-2839.jpg"
-                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4025-large_default/10-g-sztabka-zlota-certipack-2839.jpg" alt=""
-                                             width="270"                                             height="330" 
-                                             > 
-                                    </span>
-                                               
-                            </a> 
-                            <div class="conditions-box">
-																						
-									  
-							</div>
-                                                       
-                        </div>  
-                        <div class="right-product">	
-							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/10-g-sztabka-zlota-certipack-2839/#/284-cennik-45_dni">10 g sztabka złota CertiPack</a></div> 
-								<div class="title_font product_category_name">Złote sztabki lokacyjne</div>
-							</div>
-							<div class="des_right">								
-																	<div class="product-price-and-shipping">
-										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">2 496,00 zł</span>
-</div>
-
-										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2496">2 496,00 zł</span>
-										</span>
-																				
-										
-									</div>
-								 
-								            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
-            <div class="star_content clearfix">
-                                                            <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                                <div class="star star_on"></div>
-                                                                        <meta itemprop="worstRating" content = "0" />
-                    <meta itemprop="ratingValue" content = "5" />
-                    <meta itemprop="bestRating" content = "5" />
-                            </div>
-                            <meta itemprop="reviewCount" content = "2" />
-                    </div>
-    	
-							</div>
-							<div class="decriptions-short">
-                                
-                            </div>							                          
-                            <div class="button-action-list">								
-								 
-																			<div class="button_view_product">
-											<a href="https://goldenmark.com/pl/10-g-sztabka-zlota-certipack-2839/#/284-cennik-45_dni" class="btn-product-list">
 												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
 											</a>
 										</div>
@@ -3928,11 +3864,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">4 984,00 zł</span>
+	od <span class="pricefrom-price">5 087,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4984">4 984,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="5087">5 087,00 zł</span>
 										</span>
 																				
 										
@@ -4005,11 +3941,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">11 707,00 zł</span>
+	od <span class="pricefrom-price">11 951,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="11707">11 707,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="11951">11 951,00 zł</span>
 										</span>
 																				
 										
@@ -4082,11 +4018,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">23 235,00 zł</span>
+	od <span class="pricefrom-price">23 650,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="23235">23 235,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="23650">23 650,00 zł</span>
 										</span>
 																				
 										
@@ -4114,6 +4050,84 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								 
 																			<div class="button_view_product">
 											<a href="https://goldenmark.com/pl/100-g-sztabka-zlota-certipack-2894/#/284-cennik-45_dni" class="btn-product-list">
+												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
+											</a>
+										</div>
+																									
+								
+								<div class="btn-quickview-list">
+									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
+										<i class="fa fa-eye"></i>
+									</a> 
+								</div>								
+                            </div>							
+                        </div>
+                    </div>
+                </div>
+                            <div class="item-product-list">
+                    <div class="product-miniature js-product-miniature" data-id-product="8822" data-id-product-attribute="8446" itemscope itemtype="http://schema.org/Product">
+                        <div class="left-product">
+                            <a href="https://goldenmark.com/pl/1-10-uncji-zlota-wiedenscy-filharmonicy-2909/#/282-cennik-1_dzień" class="thumbnail product-thumbnail">
+                                <span class="cover_image">
+                                    <img  class="img-responsive"
+                                          itemprop="image"
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-home_default/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-large_gallery/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg" alt=""
+                                          width="270"                                          height="330" 
+                                          >
+                                </span>
+                                                                    <span class="hover_image">
+                                        <img class="img-responsive"
+                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-home_default/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg"
+                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4256-large_default/1-10-uncji-zlota-wiedenscy-filharmonicy-2909.jpg" alt=""
+                                             width="270"                                             height="330" 
+                                             > 
+                                    </span>
+                                               
+                            </a> 
+                            <div class="conditions-box">
+																						
+									  
+							</div>
+                                                       
+                        </div>  
+                        <div class="right-product">	
+							<div class="des_left">
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/1-10-uncji-zlota-wiedenscy-filharmonicy-2909/#/282-cennik-1_dzień">Wiedeńscy Filharmonicy 1/10...</a></div> 
+								<div class="title_font product_category_name">Złote monety bulionowe</div>
+							</div>
+							<div class="des_right">								
+																	<div class="product-price-and-shipping">
+										
+										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="953">953,00 zł</span>
+										</span>
+																				
+										
+									</div>
+								 
+								            <div class="comments_note" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+            <div class="star_content clearfix">
+                                                            <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                                <div class="star star_on"></div>
+                                                                        <meta itemprop="worstRating" content = "0" />
+                    <meta itemprop="ratingValue" content = "5" />
+                    <meta itemprop="bestRating" content = "5" />
+                            </div>
+                            <meta itemprop="reviewCount" content = "1" />
+                    </div>
+    	
+							</div>
+							<div class="decriptions-short">
+                                
+                            </div>							                          
+                            <div class="button-action-list">								
+								 
+																			<div class="button_view_product">
+											<a href="https://goldenmark.com/pl/1-10-uncji-zlota-wiedenscy-filharmonicy-2909/#/282-cennik-1_dzień" class="btn-product-list">
 												<i class="fa fa-search-plus"></i><span>Zobacz produkt</span>
 											</a>
 										</div>
@@ -4175,10 +4189,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<li >
 																	<a
 										rel="nofollow"
-										href="https://goldenmark.com/pl/zloto-lokacyjne?page=12"
+										href="https://goldenmark.com/pl/zloto-lokacyjne?page=13"
 										class="js-search-link"
 										>
-																					12
+																					13
 																			</a>
 															</li>
 						
@@ -4413,7 +4427,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<span class="flame"></span>
         </div>
         
-              <script  src="https://goldenmark.com/themes/child/assets/cache/bottom-8b0d63227.js" ></script>
+              <script  src="https://goldenmark.com/themes/child/assets/cache/bottom-8b0d63230.js" ></script>
 
 
                             <!-- Start Custom JS -->
@@ -4609,7 +4623,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "5826f52311ef21b04ba7f62ce67d87a4b8d3151d";
+									as4Plugin.localCacheKey = "749df1e92c0da16aa6134e645ab2656b83eeba46";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
@@ -4750,7 +4764,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "5826f52311ef21b04ba7f62ce67d87a4b8d3151d";
+									as4Plugin.localCacheKey = "749df1e92c0da16aa6134e645ab2656b83eeba46";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
