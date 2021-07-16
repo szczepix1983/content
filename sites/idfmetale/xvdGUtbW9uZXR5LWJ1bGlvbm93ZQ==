@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -18,8 +18,8 @@
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/main.css" />
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/user.css" />
 <script type="text/javascript" src="/assets/js/frontstore/main.9b2c83b93d3c1bcb3c1c.min.js"></script>
-<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=359"></script>
-<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=359"></script>
+<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=367"></script>
+<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=367"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/23.1.0/jssor.slider.min.js"></script>
 <link rel="canonical" href="https://idfmetale.pl/zlote-monety-bulionowe" />
@@ -61,14 +61,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <script type="text/javascript">
                                             Shop.basket.basketProducts = '';
-            Shop.basket.categoryProducts = 'OTk1,OTU4,ODIx,MTAwOQ==,ODI1,ODc0,MTAwMg==,MTAwOA==,Nzgy,ODc1,ODE0,OTk2,';
+            Shop.basket.categoryProducts = 'OTk1,OTU4,ODIx,MTAwOQ==,ODI1,ODc0,MTAwMg==,MTAwOA==,Nzgy,NTk4,ODc1,ODE0,';
             </script>
-</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1623172324154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1626431379154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
 <div class="col-xs-6 col-sm-6 col-md-2">
-<a href="/" title="Main page" rel="nofollow" class="logo">
+<a href="/" title="Strona główna" rel="nofollow" class="logo">
 <img src="/skins/user/rwd_shoper_1/images/logo.png" alt="images/logo.png" />
 <!--[if lt IE 7]><span class="logospacer">&nbsp;</span><![endif]-->
 </a>
@@ -96,8 +96,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </div>
 <div class="login col-xs-6 col-sm-6 col-md-4">
-<a href="/pl/login" title="Zaloguj się" class="login spanhover btn">
-<span class="fa fa-lock"></span> Zaloguj się
+<a href="/pl/login" title="Zaloguj" class="login spanhover btn">
+<span class="fa fa-lock"></span> Zaloguj
 </a>
 </div>
 <div class="basket col-sm-12 col-md-4">
@@ -361,7 +361,6 @@ Sortuj wg:
 <td class="even col3">
 <div class="product" id="product_995">
 <a class="details spanhover" href="/pl/p/1-uncja-zlota-moneta-ARMILLARY/995" title="1 uncja złota moneta ARMILLARY">
-
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3350/1-uncja-zlota-sztabka-moneta-armillary-valcambi.jpg" alt="1 uncja złota moneta ARMILLARY" />
@@ -369,7 +368,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>8 407,07 zł</em>
+<em>8 557,98 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -389,17 +388,27 @@ Sortuj wg:
 <td class="odd col3">
 <div class="product" id="product_958">
 <a class="details spanhover" href="/pl/p/Amerykanski-Bizon-1-uncja-zlota/958" title="Amerykański Bizon 1 uncja złota">
-
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/d346f14ca694e59f53bd300454e1c920.jpg" alt="Amerykański Bizon 1 uncja złota" />
-</span> <span class="productname">Amerykański Bizon 1 uncja złota</span>
+</span>  <span class="productname">Amerykański Bizon 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 811,02 zł</em>
+<em>8 189,14 zł</em>
 </div>
 <div class="basket">
+<form class="basket " action="/pl/basket/add/post" method="post">
+<fieldset>
+<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
+<span class="unit">szt.</span>
+<input type="hidden" value="1015" name="stock_id" />
+<button class="addtobasket" type="submit">
+<img src="/public/images/1px.gif" alt="" class="px1" />
+<span>Dodaj do koszyka</span>
+</button>
+</fieldset>
+</form>
 </div>
 </div>
 </td>
@@ -408,14 +417,15 @@ Sortuj wg:
 <a class="details spanhover" href="/pl/p/Australijski-Kangur-1-uncja-zlota/821" title="Australijski Kangur 1 uncja złota">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3335/australijski-kangur-1-uncja-zlota.jpg" alt="Australijski Kangur 1 uncja złota" />
+
 </span> <span class="productname">Australijski Kangur 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 691,08 zł</em>
+<em>7 773,24 zł</em>
 </div>
-
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -437,12 +447,13 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3403/australijski-kangur-12-uncji-zlota-australian-kangaroo-12-oz.jpg" alt="Australijski Kangur 1/2 uncji złota" />
+
 </span> <span class="productname">Australijski Kangur 1/2 uncji złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>4 054,19 zł</em>
- </div>
+<em>3 977,64 zł</em>
+</div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -464,11 +475,12 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/6cb5f8c781b666fd42ebaf9c22a5f86f.jpg" alt="Britannia 1 uncja złota" />
+
 </span> <span class="productname">Britannia 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 691,08 zł</em>
+<em>7 773,24 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -491,13 +503,12 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/8f746f84b5d476c9a28559e0d3002f45.jpg" alt="Krugerrand 1 uncja złota" />
-</span> <span class="productname">Krugerrand 1 uncja złota</span>
+ </span> <span class="productname">Krugerrand 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 738,70 zł</em>
+<em>7 803,49 zł</em>
 </div>
-
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -518,14 +529,13 @@ Sortuj wg:
 <a class="details spanhover" href="/pl/p/Moneta-zlota-1-Dukat-Austriacki-2021/1002" title="Moneta złota 1 Dukat Austriacki 2021">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3405/dukat-austriacki-zlota-moneta.jpg" alt="Moneta złota 1 Dukat Austriacki 2021" />
-</span> <span class="productname">Moneta złota 1 Dukat Austriacki 2021</span>
+ </span> <span class="productname">Moneta złota 1 Dukat Austriacki 2021</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>907,85 zł</em>
- </div>
+<em>924,32 zł</em>
+</div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -546,13 +556,13 @@ Sortuj wg:
 <a class="details spanhover" href="/pl/p/Wiedenski-Filharmonik-1-25-uncji-zlota/1008" title="Wiedeński Filharmonik 1 /25 uncji złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3396/1-25-uncji-zlota-wiedenscy-filharmonicy.jpg" alt="Wiedeński Filharmonik 1 /25 uncji złota" />
+
 </span> <span class="productname">Wiedeński Filharmonik 1 /25 uncji złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>374,35 zł</em>
+<em>381,14 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -579,7 +589,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 736,06 zł</em>
+<em>7 876,42 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -597,23 +607,23 @@ Sortuj wg:
 </div>
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
-<div class="product" id="product_875">
-<a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-1-uncja-zlota/875" title="Kanadyjski Liść Klonowy 1 uncja złota">
+<div class="product" id="product_598">
+<a class="details spanhover" href="/pl/p/Amerykanski-Orzel-1-uncja-zlota/598" title="Amerykański Orzeł 1 uncja złota">
 <span class="productlistimgsize">
 
-<img class="photo" src="/userdata/public/gfx/893b6dbfeb0ebaa95b99a41ef27c5626.jpg" alt="Kanadyjski Liść Klonowy 1 uncja złota" />
-</span> <span class="productname">Kanadyjski Liść Klonowy 1 uncja złota</span>
+<img class="photo" src="/userdata/public/gfx/5b3595224ac11831426ed1e28140d09c.jpg" alt="Amerykański Orzeł 1 uncja złota" />
+</span> <span class="productname">Amerykański Orzeł 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 721,07 zł</em>
+<em>8 189,14 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
- <span class="unit">szt.</span>
-<input type="hidden" value="932" name="stock_id" />
+<span class="unit">szt.</span>
+<input type="hidden" value="649" name="stock_id" />
 <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
@@ -624,40 +634,23 @@ Sortuj wg:
 </div>
 </td>
 <td class="even col3">
-<div class="product" id="product_814">
-<a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-12-uncji/814" title="Kanadyjski Liść Klonowy 1/2 uncji">
+<div class="product" id="product_875">
+<a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-1-uncja-zlota/875" title="Kanadyjski Liść Klonowy 1 uncja złota">
 <span class="productlistimgsize">
 
-<img class="photo" src="/userdata/public/gfx/5d7704e53aa2ebe4ea2c238464fe43bb.jpg" alt="Kanadyjski Liść Klonowy 1/2 uncji" />
-</span> <span class="productname">Kanadyjski Liść Klonowy 1/2 uncji</span>
+<img class="photo" src="/userdata/public/gfx/893b6dbfeb0ebaa95b99a41ef27c5626.jpg" alt="Kanadyjski Liść Klonowy 1 uncja złota" />
+</span> <span class="productname">Kanadyjski Liść Klonowy 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>4 054,19 zł</em>
-</div>
-<div class="basket">
-</div>
-</div>
-</td>
-<td class="odd col3">
-<div class="product" id="product_996">
-<a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-klonowy-25-x-1-gram-zlota/996" title="Kanadyjski Liść klonowy 25 x 1 gram złota">
-<span class="productlistimgsize">
-
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
-<img class="photo" src="/userdata/public/gfx/3393/kanadyjski-lisc-klonowy-25-x-1-gram-zlota.jpg" alt="Kanadyjski Liść klonowy 25 x 1 gram złota" />
-</span> <span class="productname">Kanadyjski Liść klonowy 25 x 1 gram złota</span>
-</a>
-<div class="price">
-<span>Cena:</span>
-<em>6 993,92 zł</em>
+<em>7 773,24 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
-<input type="hidden" value="1053" name="stock_id" />
+<input type="hidden" value="932" name="stock_id" />
 <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
@@ -667,8 +660,24 @@ Sortuj wg:
 </div>
 </div>
 </td>
+<td class="odd col3">
+<div class="product" id="product_814">
+<a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-12-uncji/814" title="Kanadyjski Liść Klonowy 1/2 uncji">
+<span class="productlistimgsize">
+
+<img class="photo" src="/userdata/public/gfx/5d7704e53aa2ebe4ea2c238464fe43bb.jpg" alt="Kanadyjski Liść Klonowy 1/2 uncji" />
+</span> <span class="productname">Kanadyjski Liść Klonowy 1/2 uncji</span>
+</a>
+<div class="price">
+<span>Cena:</span>
+<em>4 127,74 zł</em>
+</div>
+<div class="basket">
+</div>
+</div>
+</td>
 </tr>
- </tbody>
+</tbody>
 </table> <div class="rightside"></div>
 </div>
 <div class="categorydesc resetcss only-text">

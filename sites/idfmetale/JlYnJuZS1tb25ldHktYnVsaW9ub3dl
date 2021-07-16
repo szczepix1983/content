@@ -18,8 +18,8 @@
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/main.css" />
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/user.css" />
 <script type="text/javascript" src="/assets/js/frontstore/main.9b2c83b93d3c1bcb3c1c.min.js"></script>
-<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=359"></script>
-<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=359"></script>
+<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=367"></script>
+<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=367"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/23.1.0/jssor.slider.min.js"></script>
 <link rel="canonical" href="https://idfmetale.pl/srebrne-monety-bulionowe" />
@@ -61,14 +61,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <script type="text/javascript">
                                             Shop.basket.basketProducts = '';
-            Shop.basket.categoryProducts = 'NTI2,ODU4,OTAz,Nzc2,Nzc1,Nzc5,OTI3,';
+            Shop.basket.categoryProducts = 'NTI2,ODU4,Nzc5,OTAz,Nzc2,OTI3,';
             </script>
-</head><body id="shop_category39" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1623172323154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category39" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1626431413154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
 <div class="col-xs-6 col-sm-6 col-md-2">
-<a href="/" title="Main page" rel="nofollow" class="logo">
+<a href="/" title="Strona główna" rel="nofollow" class="logo">
 <img src="/skins/user/rwd_shoper_1/images/logo.png" alt="images/logo.png" />
 <!--[if lt IE 7]><span class="logospacer">&nbsp;</span><![endif]-->
 </a>
@@ -96,8 +96,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </div>
 <div class="login col-xs-6 col-sm-6 col-md-4">
-<a href="/pl/login" title="Zaloguj się" class="login spanhover btn">
-<span class="fa fa-lock"></span> Zaloguj się
+<a href="/pl/login" title="Zaloguj" class="login spanhover btn">
+<span class="fa fa-lock"></span> Zaloguj
 </a>
 </div>
 <div class="basket col-sm-12 col-md-4">
@@ -362,13 +362,12 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/koala-1-uncja-srebra" title="Koala 1 uncja srebra">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
-<img class="photo" src="/userdata/public/gfx/cc26dd800dfdeefc526c3e208b7e3760.jpg" alt="Koala 1 uncja srebra" />
+<img class="photo" src="/userdata/public/gfx/3514/koala.jpg" alt="Koala 1 uncja srebra" />
 </span> <span class="productname">Koala 1 uncja srebra</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>151,56 zł</em>
+<em>151,67 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -385,8 +384,8 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="odd col3">
-<div class="product" id="product_858">
+<td class="odd col3">
+ <div class="product" id="product_858">
 <a class="details spanhover" href="/produkt/kanadyjski-lisc-klonowy-1-uncja-srebra" title="Kanadyjski Liść Klonowy 1 uncja srebra">
 <span class="productlistimgsize">
 
@@ -395,7 +394,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>139,90 zł</em>
+<em>139,98 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -412,24 +411,25 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="even col3">
-<div class="product" id="product_903">
-<a class="details spanhover" href="/produkt/wiedenscy-filharmonicy-1-uncja-srebra" title="Wiedeński filharmonik 1 uncja srebra">
+<td class="even col3">
+<div class="product" id="product_779">
+<a class="details spanhover" href="/produkt/britannia-1-uncja-srebra" title="Britannia 1 uncja srebra">
 <span class="productlistimgsize">
 
-<img class="photo" src="/userdata/public/gfx/3318/moneta-inwestycyjna-wiedenscy-filharmonicy-1-uncja-srebra-rewers.jpg" alt="Wiedeński filharmonik 1 uncja srebra" />
-</span> <span class="productname">Wiedeński filharmonik 1 uncja srebra</span>
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="photo" src="/userdata/public/gfx/3320/moneta-inwestycyjna-britannia-1-uncja-srebra-rewers.jpg" alt="Britannia 1 uncja srebra" />
+</span> <span class="productname">Britannia 1 uncja srebra</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>142,33 zł</em>
+<em>139,98 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
-<input type="hidden" value="960" name="stock_id" />
+<input type="hidden" value="830" name="stock_id" />
 <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
@@ -438,8 +438,25 @@ Sortuj wg:
 </form>
 </div>
 </div>
- </td>
-</tr><tr class="fewperrow"> <td class="odd col3">
+</td>
+</tr><tr class="fewperrow">  <td class="odd col3">
+<div class="product" id="product_903">
+<a class="details spanhover" href="/produkt/wiedenscy-filharmonicy-1-uncja-srebra" title="Wiedeński filharmonik 1 uncja srebra">
+<span class="productlistimgsize">
+
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="photo" src="/userdata/public/gfx/3318/moneta-inwestycyjna-wiedenscy-filharmonicy-1-uncja-srebra-rewers.jpg" alt="Wiedeński filharmonik 1 uncja srebra" />
+</span> <span class="productname">Wiedeński filharmonik 1 uncja srebra</span>
+</a>
+<div class="price">
+<span>Cena:</span>
+<em>142,44 zł</em>
+</div>
+<div class="basket">
+</div>
+</div>
+</td>
+<td class="even col3">
 <div class="product" id="product_776">
 <a class="details spanhover" href="/produkt/australijski-kangur-1-uncja-srebra" title="Australijski Kangur 1 uncja srebra">
 <span class="productlistimgsize">
@@ -447,9 +464,10 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3370/australijski-kangur-1-uncja-srebra-Perth-Mint.jpg" alt="Australijski Kangur 1 uncja srebra" />
 </span> <span class="productname">Australijski Kangur 1 uncja srebra</span>
 </a>
+
 <div class="price">
 <span>Cena:</span>
-<em>139,90 zł</em>
+<em>139,98 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -465,65 +483,8 @@ Sortuj wg:
 </form>
 </div>
 </div>
- </td>
-<td class="even col3">
-<div class="product" id="product_775">
-<a class="details spanhover" href="/produkt/amerykanski-orzel-1-uncja-srebra" title="Amerykański Orzeł 1 uncja srebra">
-<span class="productlistimgsize">
-
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
-<img class="photo" src="/userdata/public/gfx/3330/moneta-inwestycyjna-amerykanski-orzel-1-uncja-srebra-rewers.jpg" alt="Amerykański Orzeł 1 uncja srebra" />
-</span> <span class="productname">Amerykański Orzeł 1 uncja srebra</span>
-</a>
-<div class="price">
-<span>Cena:</span>
-<em>156,12 zł</em>
-</div>
-<div class="basket">
-<form class="basket " action="/pl/basket/add/post" method="post">
-<fieldset>
-<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
-<span class="unit">szt.</span>
-<input type="hidden" value="826" name="stock_id" />
-<button class="addtobasket" type="submit">
-<img src="/public/images/1px.gif" alt="" class="px1" />
-<span>Dodaj do koszyka</span>
-</button>
-</fieldset>
-</form>
-</div>
- </div>
 </td>
 <td class="odd col3">
-<div class="product" id="product_779">
-<a class="details spanhover" href="/produkt/britannia-1-uncja-srebra" title="Britannia 1 uncja srebra">
-<span class="productlistimgsize">
-
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
-<img class="photo" src="/userdata/public/gfx/3320/moneta-inwestycyjna-britannia-1-uncja-srebra-rewers.jpg" alt="Britannia 1 uncja srebra" />
-</span> <span class="productname">Britannia 1 uncja srebra</span>
-</a>
-<div class="price">
-<span>Cena:</span>
-<em>139,90 zł</em>
-</div>
-<div class="basket">
-<form class="basket " action="/pl/basket/add/post" method="post">
-<fieldset>
-<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
-<span class="unit">szt.</span>
-<input type="hidden" value="830" name="stock_id" />
-<button class="addtobasket" type="submit">
-<img src="/public/images/1px.gif" alt="" class="px1" />
-<span>Dodaj do koszyka</span>
-</button>
-</fieldset>
-</form>
-</div>
-
-</div>
-</td>
-</tr><tr class="fewperrow"> <td class="even col3">
 <div class="product" id="product_927">
 <a class="details spanhover" href="/produkt/krugerrand-1-oz-srebrny" title="Krugerrand 1 uncja srebra">
 <span class="productlistimgsize">
@@ -531,9 +492,10 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3316/moneta-inwestycyjna-krugerrand-1-uncja-srebra.jpg" alt="Krugerrand 1 uncja srebra" />
 </span> <span class="productname">Krugerrand 1 uncja srebra</span>
 </a>
+
 <div class="price">
 <span>Cena:</span>
-<em>139,90 zł</em>
+<em>139,98 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -548,11 +510,8 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
-
 </div>
 </td>
-<td class="spacefill odd col3"></td>
-<td class="spacefill even col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>
