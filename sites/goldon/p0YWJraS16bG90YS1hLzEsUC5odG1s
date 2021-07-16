@@ -231,7 +231,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/sztabki-zlota-a/producent-valcambi,dCg-Ug.html">Valcambi (6)</a><span class=" change_to_link" data-href="/sztabki-zlota-a/producent-pamp,dCg-Ww.html">PAMP (2)</span><span class=" change_to_link" data-href="/sztabki-zlota-a/producent-argor-heraeus,dCg-Pg.html">Argor - Heraeus (2)</span><span class=" change_to_link" data-href="/sztabki-zlota-a/producent-heraeus,dCg-LQ.html">Heraeus (1)</span></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/sztabki-zlota-a/masa-1-oz,dCw-FA.html">1 oz (4)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','46','100 g','100-g','Lg')"><a class="checkbox-link" href="/sztabki-zlota-a/masa-100-g,dCw-Lg.html">100 g (3)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','148','5 g','5-g','lA')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/masa-5-g,dCw-lA.html">5 g (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','50','10 g','10-g','Mg')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/masa-10-g,dCw-Mg.html">10 g (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','43','50 g','50-g','Kw')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/masa-50-g,dCw-Kw.html">50 g (1)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fsztabki-zlota-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fsztabki-zlota-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/sztabki-zlota-a/producent-valcambi,dCg-Ug.html">Valcambi (6)</a><span class=" change_to_link" data-href="/sztabki-zlota-a/producent-pamp,dCg-Ww.html">PAMP (2)</span><span class=" change_to_link" data-href="/sztabki-zlota-a/producent-heraeus,dCg-LQ.html">Heraeus (2)</span><span class=" change_to_link" data-href="/sztabki-zlota-a/producent-argor-heraeus,dCg-Pg.html">Argor - Heraeus (1)</span></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/sztabki-zlota-a/masa-1-oz,dCw-FA.html">1 oz (4)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','46','100 g','100-g','Lg')"><a class="checkbox-link" href="/sztabki-zlota-a/masa-100-g,dCw-Lg.html">100 g (3)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','148','5 g','5-g','lA')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/masa-5-g,dCw-lA.html">5 g (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','50','10 g','10-g','Mg')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/masa-10-g,dCw-Mg.html">10 g (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','43','50 g','50-g','Kw')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/masa-50-g,dCw-Kw.html">50 g (1)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fsztabki-zlota-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fsztabki-zlota-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_11').click(function() {
                             var urlred = "/sztabki-zlota-a.html";
@@ -260,7 +260,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_11" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','81','Sztabki Valcambi','sztabki-valcambi','UQ')"><a class="checkbox-link" href="/sztabki-zlota-a/seria-sztabki-valcambi,dCQ-UQ.html">Sztabki Valcambi (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','90','Sztabki PAMP','sztabki-pamp','Wg')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/seria-sztabki-pamp,dCQ-Wg.html">Sztabki PAMP (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','61','Sztabki Argor - Heraeus','sztabki-argor-heraeus','PQ')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/seria-sztabki-argor-heraeus,dCQ-PQ.html">Sztabki Argor - Heraeus (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','134','Sztabki Argor-Heraeus','sztabki-argor-heraeus','hg')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/seria-sztabki-argor-heraeus,dCQ-hg.html">Sztabki Argor-Heraeus (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','44','Sztabki Heraeus','sztabki-heraeus','LA')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/seria-sztabki-heraeus,dCQ-LA.html">Sztabki Heraeus (1)</span></span>                <script type="text/javascript">
+<a id="filter_link_11" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','81','Sztabki Valcambi','sztabki-valcambi','UQ')"><a class="checkbox-link" href="/sztabki-zlota-a/seria-sztabki-valcambi,dCQ-UQ.html">Sztabki Valcambi (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','90','Sztabki PAMP','sztabki-pamp','Wg')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/seria-sztabki-pamp,dCQ-Wg.html">Sztabki PAMP (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','44','Sztabki Heraeus','sztabki-heraeus','LA')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/seria-sztabki-heraeus,dCQ-LA.html">Sztabki Heraeus (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','61','Sztabki Argor - Heraeus','sztabki-argor-heraeus','PQ')"><span class="change_to_link checkbox-link" data-href="/sztabki-zlota-a/seria-sztabki-argor-heraeus,dCQ-PQ.html">Sztabki Argor - Heraeus (1)</span></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_9').click(function() {
                             var urlred = "/sztabki-zlota-a.html";
@@ -316,12 +316,12 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(1238.3600),
-					startMax: parseFloat(57892.5700),
-					rangeMin: parseFloat(1238.3600),
-					rangeMax: parseFloat(57892.5700),
-					currentFrom: parseFloat(1238.3600),
-					currentTo: parseFloat(57892.5700),
+					startMin: parseFloat(1256.0900),
+					startMax: parseFloat(58721.7100),
+					rangeMin: parseFloat(1256.0900),
+					rangeMax: parseFloat(58721.7100),
+					currentFrom: parseFloat(1256.0900),
+					currentTo: parseFloat(58721.7100),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -394,7 +394,7 @@ autoComplete = new Autocomplete('main_search', {
 		</script>
 		</div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud5"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -450,7 +450,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="57892.57">57 892,57 zł</span>
+<span class="price-value"  itemprop="price" content="58721.71">58 721,71 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -481,7 +481,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="23162.61">23 162,61 zł</span>
+<span class="price-value"  itemprop="price" content="23494.35">23 494,35 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -512,7 +512,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="24055.63">24 055,63 zł</span>
+<span class="price-value"  itemprop="price" content="24400.15">24 400,15 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -543,7 +543,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12090.60">12 090,60 zł</span>
+<span class="price-value"  itemprop="price" content="12263.77">12 263,77 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -555,11 +555,11 @@ Sztabki złota</h1>
 </div>
 </footer>
 </article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1348"  data-cart-id="1348">
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="441"  data-cart-id="441">
 <div class="image">
 <figure>
-<span class="change_to_link_follow" data-href="/1-uncja-zlota-sztabka-argor-heraeus-certipack-a.html" onclick="">
-<img src="/1-uncja-zlota-sztabka-argor-heraeus-certipack-a.jpg" alt="1 uncja  złota sztabka  ARGOR - HERAEUS  CertiPack" width="126" height="200">
+<span class="change_to_link_follow" data-href="/1-uncja-zlota-sztabka-heraeus-certipack.html" onclick="">
+<img src="/1-uncja-zlota-sztabka-heraeus-certipack.jpg" alt="1 uncja  złota sztabka  HERAEUS - CertiPack" width="200" height="200">
 </span>
 </figure>
 </div>
@@ -567,14 +567,14 @@ Sztabki złota</h1>
 <div class="info">
 <header class="product-header" itemprop="name">
 <p class="product-name">
-<a href="/1-uncja-zlota-sztabka-argor-heraeus-certipack-a.html" class="product-name-link" itemprop="url">
-1 uncja  złota sztabka  ARGOR - HERAEUS  CertiPack</a>
+<a href="/1-uncja-zlota-sztabka-heraeus-certipack.html" class="product-name-link" itemprop="url">
+1 uncja  złota sztabka  HERAEUS - CertiPack</a>
 </p>
 </header>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7290.64">7 290,64 zł</span>
+<span class="price-value"  itemprop="price" content="7359.67">7 359,67 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -605,38 +605,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7241.80">od&nbsp;7 207,04 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1072"  data-cart-id="1072">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/1-uncja-zlota-sztabka-polski-orzel-pamp.html" onclick="">
-<img src="/1-uncja-zlota-sztabka-polski-orzel-pamp.jpg" alt="1 uncja  złota sztabka Polski Orzeł  / PAMP" width="137" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/1-uncja-zlota-sztabka-polski-orzel-pamp.html" class="product-name-link" itemprop="url">
-1 uncja  złota sztabka Polski Orzeł  / PAMP</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="7255.76">7 255,76 zł</span>
+<span class="price-value"  itemprop="price" content="7345.52">od&nbsp;7 310,26 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -667,7 +636,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2372.07">2 372,07 zł</span>
+<span class="price-value"  itemprop="price" content="2406.05">2 406,05 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -698,7 +667,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="1238.36">1 238,36 zł</span>
+<span class="price-value"  itemprop="price" content="1256.10">1 256,10 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -729,7 +698,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="23288.19">23 288,19 zł</span>
+<span class="price-value"  itemprop="price" content="23621.72">23 621,72 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -756,7 +725,34 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7296.22">7 296,22 zł</span>
+<span class="price-value"  itemprop="price" content="7400.72">7 400,72 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/OutOfStock" />
+</div>
+</div>
+<div class="not_available">Produkt chwilowo niedostępny</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1072"  data-cart-id="1072">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/1-uncja-zlota-sztabka-polski-orzel-pamp.html" onclick="">
+<img src="/1-uncja-zlota-sztabka-polski-orzel-pamp.jpg" alt="1 uncja  złota sztabka Polski Orzeł  / PAMP" width="137" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/1-uncja-zlota-sztabka-polski-orzel-pamp.html" class="product-name-link" itemprop="url">
+1 uncja  złota sztabka Polski Orzeł  / PAMP</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="7359.67">7 359,67 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -905,7 +901,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 976,69 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">103,74 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">4 275,48 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">7 076,61 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">101,36 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">4 412,17 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
