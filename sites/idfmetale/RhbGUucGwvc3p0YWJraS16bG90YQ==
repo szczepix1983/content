@@ -360,7 +360,7 @@ Sortuj wg:
 <tr class="fewperrow">
 <td class="even col3">
 <div class="product" id="product_972">
-<a class="details spanhover" href="/produkt/sztabka-zlota-5g-lbma" title="5 g sztabka złota">
+ <a class="details spanhover" href="/produkt/sztabka-zlota-5g-lbma" title="5 g sztabka złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -388,7 +388,7 @@ Sortuj wg:
 </td>
 <td class="odd col3">
 <div class="product" id="product_969">
-<a class="details spanhover" href="/produkt/sztabka-zlota-1-uncja-lbma" title="1 uncja sztabka złota">
+ <a class="details spanhover" href="/produkt/sztabka-zlota-1-uncja-lbma" title="1 uncja sztabka złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -415,7 +415,7 @@ Sortuj wg:
 </div>
 </td>
 <td class="even col3">
- <div class="product" id="product_976">
+<div class="product" id="product_976">
 <a class="details spanhover" href="/produkt/sztabka-zlota-50g-lbma" title="50 g sztabka złota">
 <span class="productlistimgsize">
 
@@ -443,7 +443,7 @@ Sortuj wg:
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_977">
-<a class="details spanhover" href="/produkt/sztabka-zlota-100g-lbma" title="100 g sztabka złota">
+ <a class="details spanhover" href="/produkt/sztabka-zlota-100g-lbma" title="100 g sztabka złota">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3357/100-gram-sztabka-zlota-valcambi.jpg" alt="100 g sztabka złota" />
@@ -470,7 +470,7 @@ Sortuj wg:
 </td>
 <td class="even col3">
 <div class="product" id="product_978">
- <a class="details spanhover" href="/produkt/sztabka-zlota-250g-lbma" title="250 g sztabka złota">
+<a class="details spanhover" href="/produkt/sztabka-zlota-250g-lbma" title="250 g sztabka złota">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3352/250-gram-sztabka-zlota-valcambi.jpg" alt="250 g sztabka złota" />
@@ -525,7 +525,7 @@ Sortuj wg:
 </td>
 </tr><tr class="fewperrow"> <td class="even col3">
 <div class="product" id="product_974">
-<a class="details spanhover" href="/produkt/sztabka-zlota-1g-lbma" title="1 g Złota Sztabka">
+ <a class="details spanhover" href="/produkt/sztabka-zlota-1g-lbma" title="1 g Złota Sztabka">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -553,7 +553,7 @@ Sortuj wg:
 </td>
 <td class="odd col3">
 <div class="product" id="product_971">
-<a class="details spanhover" href="/produkt/sztabka-zlota-10g-lbma" title="10 g Złota Sztabka">
+ <a class="details spanhover" href="/produkt/sztabka-zlota-10g-lbma" title="10 g Złota Sztabka">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -580,8 +580,8 @@ Sortuj wg:
 </div>
 </td>
 <td class="even col3">
- <div class="product" id="product_964">
-<a class="details spanhover" href="/pl/p/1000-g-Zlota-Sztabka-Valcambi/964" title="1000 g Złota Sztabka - Valcambi">
+<div class="product" id="product_964">
+ <a class="details spanhover" href="/pl/p/1000-g-Zlota-Sztabka-Valcambi/964" title="1000 g Złota Sztabka - Valcambi">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/67468034c698e4bf63f7bd7df89336df.jpg" alt="1000 g Złota Sztabka - Valcambi" />
@@ -608,7 +608,7 @@ Sortuj wg:
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_973">
-<a class="details spanhover" href="/produkt/sztabka-zlota-2g-lbma" title="2 g Złota Sztabka">
+ <a class="details spanhover" href="/produkt/sztabka-zlota-2g-lbma" title="2 g Złota Sztabka">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -620,7 +620,7 @@ Sortuj wg:
 <em>539,29 zł</em>
 </div>
 <div class="basket">
- <form class="basket " action="/pl/basket/add/post" method="post">
+<form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
@@ -648,7 +648,7 @@ Sortuj wg:
 <em>4 995,66 zł</em>
 </div>
 <div class="basket">
- <form class="basket " action="/pl/basket/add/post" method="post">
+<form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
@@ -691,7 +691,7 @@ Sortuj wg:
 </td>
 </tr><tr class="fewperrow"> <td class="even col3">
 <div class="product" id="product_1045">
-<a class="details spanhover" href="/pl/p/Sztabka-zlota-10-x-1g-SmartPack-C.Hafner/1045" title="Sztabka złota 10 x 1g SmartPack C.Hafner">
+ <a class="details spanhover" href="/pl/p/Sztabka-zlota-10-x-1g-SmartPack-C.Hafner/1045" title="Sztabka złota 10 x 1g SmartPack C.Hafner">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3520/C-Hafner-SmartPack-10-x-1g.jpg" alt="Sztabka złota 10 x 1g SmartPack C.Hafner" />
@@ -702,7 +702,7 @@ Sortuj wg:
 <em>2 592,03 zł</em>
 </div>
 <div class="basket">
- <form class="basket " action="/pl/basket/add/post" method="post">
+<form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
@@ -717,7 +717,7 @@ Sortuj wg:
 </div>
 </td>
 <td class="spacefill odd col3"></td>
-<td class="spacefill even col3"></td>
+ <td class="spacefill even col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>
@@ -751,11 +751,11 @@ Sortuj wg:
 <li><a href="/pl/reg" class="" title="Rejestracja" id="footlink54">Rejestracja</a></li> <li><a href="/pl/login" class="" title="Logowanie" id="footlink13">Logowanie</a></li> <li><a href="https://idfmetale.pl/pl/panel/edit" class="" title="Edycja danych" id="footlink11">Edycja danych</a></li> <li><a href="/pl/panel" class="" title="Zamównienia" id="footlink55">Zamównienia</a></li> </ul></li>
 <li class="overall col5" id="footgroup4"><ul>
 <li class="head">Informacje</li>
-<li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li>  <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
+<li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li> <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
 <li class="overall col5" id="footgroup2"><ul>
 <li class="head">Regulaminy</li>
 <li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li> <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
-<li class="overall col5" id="footgroup1"><ul>
+ <li class="overall col5" id="footgroup1"><ul>
 <li class="head">Dostawa i płatności</li>
 <li><a href="/formy-dostawy" class="" title="Formy dostawy" id="footlink44">Formy dostawy</a></li> <li><a href="/formy-platnosci" class="" title="Formy płatności" id="footlink24">Formy płatności</a></li> </ul></li>
 <li class="overall col5" id="footgroup5"><ul>
