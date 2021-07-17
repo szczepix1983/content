@@ -314,12 +314,12 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(3180.6800),
-					startMax: parseFloat(63904.4400),
-					rangeMin: parseFloat(3180.6800),
-					rangeMax: parseFloat(63904.4400),
-					currentFrom: parseFloat(3180.6800),
-					currentTo: parseFloat(63904.4400),
+					startMin: parseFloat(3125.7600),
+					startMax: parseFloat(62801.1200),
+					rangeMin: parseFloat(3125.7600),
+					rangeMax: parseFloat(62801.1200),
+					currentFrom: parseFloat(3125.7600),
+					currentTo: parseFloat(62801.1200),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -443,7 +443,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="62216.80">62 216,80 zł</span>
+<span class="price-value"  itemprop="price" content="61142.61">61 142,61 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -474,7 +474,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="63904.44">63 904,44 zł</span>
+<span class="price-value"  itemprop="price" content="62801.12">62 801,12 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -505,7 +505,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="62216.80">62 216,80 zł</span>
+<span class="price-value"  itemprop="price" content="61142.61">61 142,61 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -536,7 +536,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="31873.67">31 873,67 zł</span>
+<span class="price-value"  itemprop="price" content="31323.36">31 323,36 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -567,7 +567,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12541.27">12 541,27 zł</span>
+<span class="price-value"  itemprop="price" content="12324.75">12 324,75 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -598,7 +598,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12978.13">12 978,13 zł</span>
+<span class="price-value"  itemprop="price" content="12754.06">12 754,06 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -629,7 +629,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12568.64">12 568,64 zł</span>
+<span class="price-value"  itemprop="price" content="12351.64">12 351,64 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -660,7 +660,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="3180.68">3 180,68 zł</span>
+<span class="price-value"  itemprop="price" content="3125.76">3 125,76 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -691,7 +691,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="3246.26">3 246,26 zł</span>
+<span class="price-value"  itemprop="price" content="3190.21">3 190,21 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -844,7 +844,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">7 076,61 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">101,36 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">4 412,17 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">7 033,97 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">99,61 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">4 282,35 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
