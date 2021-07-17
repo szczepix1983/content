@@ -435,96 +435,13 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 
 	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact border-bottom" valign="top" width="25%">
-					<form action="/" method="post" name="product_form_30149" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
-<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=4"/>
-<input type="hidden" name="product_data[30149][product_id]" value="30149"/>
-
-				<a href="/coat-of-arms-1-uncja-zlota.html"><img class=" " id="det_img_30149" src="/images/thumbnails/1/105/xcoat_of_arms_1_uncja_zloto.jpg.pagespeed.ic.nOtrE9pGz3.jpg" width="105" alt="" border="0"/>
-</a>
-	
-		<p>
-					<a href="/coat-of-arms-1-uncja-zlota.html" class="product-title" title="Coat of Arms  1 Uncja Złota 2021">Coat of Arms  1 Uncja Złota 2021</a>	
-		</p>
-		
-						
-					<span class="cm-reload-30149 price-update" id="price_update_30149">
-		<input type="hidden" name="appearance[show_price_values]" value="1"/>
-		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30149"><span id="sec_discounted_price_30149" class="price">7,700.81</span>&nbsp;<span class="price">PLN</span></span>
-							
-						<!--price_update_30149--></span>
-
-		
-					
-		
-		<div class="buttons-container">
-						<div class="cm-reload-30149" id="add_to_cart_update_30149">
-<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
-<input type="hidden" name="appearance[separate_buttons]" value="1"/>
-<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
-<input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30149">
-																									
-		
- 
-	<span class="az_button">
-    <span id="wrap_button_cart_30149" class="az-template-submit">
-	<span class="az-button-left">
-	<span class="az-button-right">
-	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30149" type="submit" name="dispatch[checkout.add..30149]" value="Kup Teraz"/></span>
-	</span></span></span>
-	</span>
-    </span>
-
-																						</div>
-	
-			<div class="buttons-container" id="cart_buttons_block_30149">
-											</div>
-	
-		<!--add_to_cart_update_30149--></div>
-
-		</div>
-						</form>
-
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact border-bottom" valign="top" width="25%">
+	<td class="center image-border compact" valign="top" width="25%">
 					<form action="/" method="post" name="product_form_30148" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=4"/>
 <input type="hidden" name="product_data[30148][product_id]" value="30148"/>
 
-				<a href="/australijski-kangur-1-uncja-zlota-kupuj-taniej.html"><img class=" " id="det_img_30148" src="/images/thumbnails/1/105/1_uncja_zlota_najtaniej.jpg" width="105" alt="" border="0"/>
+				<a href="/australijski-kangur-1-uncja-zlota-kupuj-taniej.html"><img class=" " id="det_img_30148" src="/images/thumbnails/1/105/x1_uncja_zlota_najtaniej.jpg.pagespeed.ic.TLZfYF5v8r.jpg" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
@@ -535,7 +452,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30148 price-update" id="price_update_30148">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30148"><span id="sec_discounted_price_30148" class="price">7,233.58</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30148"><span id="sec_discounted_price_30148" class="price">7,114.23</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30148--></span>
 
@@ -601,13 +518,13 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 
 	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact border-bottom" valign="top" width="25%">
+	<td class="center image-border compact" valign="top" width="25%">
 					<form action="/" method="post" name="product_form_30146" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=4"/>
 <input type="hidden" name="product_data[30146][product_id]" value="30146"/>
 
-				<a href="/armenska-arka-noego-1-4-uncji-zlota.html"><img class=" " id="det_img_30146" src="/images/thumbnails/1/105/1-4_uncji_zlota_armenska_arka_noego.jpg" width="105" alt="" border="0"/>
+				<a href="/armenska-arka-noego-1-4-uncji-zlota.html"><img class=" " id="det_img_30146" src="/images/thumbnails/1/105/x1-4_uncji_zlota_armenska_arka_noego.jpg.pagespeed.ic.txLpSsV-Dp.jpg" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
@@ -618,7 +535,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30146 price-update" id="price_update_30146">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30146"><span id="sec_discounted_price_30146" class="price">2,074.57</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30146"><span id="sec_discounted_price_30146" class="price">2,040.34</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30146--></span>
 
@@ -684,13 +601,13 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 
 	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact border-bottom" valign="top" width="25%">
+	<td class="center image-border compact" valign="top" width="25%">
 					<form action="/" method="post" name="product_form_30147" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=4"/>
 <input type="hidden" name="product_data[30147][product_id]" value="30147"/>
 
-				<a href="/valcambi-combibar-multicard-20-x-1-g.html"><img class=" " id="det_img_30147" src="/images/thumbnails/1/105/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard2.png" width="105" alt="" border="0"/>
+				<a href="/valcambi-combibar-multicard-20-x-1-g.html"><img class=" " id="det_img_30147" src="/images/thumbnails/1/105/xzlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard2.png.pagespeed.ic.4HBbfgwjJ8.png" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
@@ -701,7 +618,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30147 price-update" id="price_update_30147">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30147"><span id="sec_discounted_price_30147" class="price">5,371.58</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30147"><span id="sec_discounted_price_30147" class="price">5,282.95</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30147--></span>
 
@@ -740,8 +657,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 		</td>
 	<td class="product-spacer">&nbsp;</td>
-</tr>
-<tr>
 				
 
 
@@ -786,7 +701,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30151 price-update" id="price_update_30151">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30151"><span id="sec_discounted_price_30151" class="price">302.75</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30151"><span id="sec_discounted_price_30151" class="price">297.75</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30151--></span>
 
@@ -823,96 +738,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 		</div>
 						</form>
 
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact" valign="top" width="25%">
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact" valign="top" width="25%">
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact" valign="top" width="25%">
 		</td>
 	<td class="product-spacer">&nbsp;</td>
 </tr>
@@ -1127,7 +952,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1626433487.8445
+			've[time_begin]': 1626536486.1594
 		},
 		hidden: true
 	});
@@ -1136,7 +961,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-4.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1626433487.8445" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-4.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1626536486.1594" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
