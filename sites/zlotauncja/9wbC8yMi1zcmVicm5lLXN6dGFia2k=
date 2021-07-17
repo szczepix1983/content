@@ -63,7 +63,7 @@ var delete_txt = 'Usuń';
 var displayList = false;
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1626428491;
+var generated_date = 1626551392;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -389,22 +389,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 7081.26</div>
-      <div class="rtpriclist-other">XAU/EUR: 1542.22</div>
+      <div class="rtpriclist-current">XAU/PLN: 7045.16</div>
+      <div class="rtpriclist-other">XAU/EUR: 1535.19</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 101.7</div>
+      <div class="rtpriclist-current">XAG/PLN: 99.79</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 111.7</div>
-      <div class="rtpriclist-current">ASK: 91.7</div>-->
+      <!-- <div class="rtpriclist-current">BID: 109.79</div>
+      <div class="rtpriclist-current">ASK: 89.79</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 22.15</div>
+      <div class="rtpriclist-other">XAG/EUR: 21.75</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 32.15</div>
-      <div class="rtpriclist-other">ASK: 12.15</div> -->
+      <!-- <div class="rtpriclist-other">BID: 31.75</div>
+      <div class="rtpriclist-other">ASK: 11.75</div> -->
     </div>
   </div>
 </div>
@@ -468,6 +468,19 @@ var usingSecureMode = true;
     <div class="block_content products-block">
                     <ul class="products">
                                     <li class="clearfix">
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE "><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2524-small_default/canada-maple-leaf-au9999-1oz-backdated-issue-.jpg" alt="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE " /></a>
+                        <div class="product-content">
+                        	<h5>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE ">Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE </a>
+                            </h5>
+                        	<p class="product-description">Kanadyjski Liść Klonowy to najpopularniejsza złota moneta produkowana...</p>
+                                                        	                                    <div class="price-box">
+                                        <span class="price">
+                                        	7 502,26 zł                                        </span>
+                                    </div>
+                                                                                    </div>
+                    </li>
+                                    <li class="clearfix">
                         <a class="products-block-image" href="https://zlota-uncja.pl/pl/polonia-/884-polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.html" title="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2521-small_default/polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.jpg" alt="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA" /></a>
                         <div class="product-content">
                         	<h5>
@@ -492,7 +505,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Srebrna moneta Archaeopteryx jest piątą z serii Prehistoric Life,...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	154,54 zł                                        </span>
+                                        	152,56 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -505,7 +518,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Srebrna, 2 uncjowa, moneta Completer Coin jest zwieńczeniem wyjątkowej...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	265,91 zł                                        </span>
+                                        	261,98 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -557,20 +570,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Amerykański Bizon to pierwsza moneta produkowana z 24-karatowego złota...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 916,68 zł                                        </span>
-                                    </div>
-                                                                                    </div>
-                    </li>
-                                    <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/876-australia-2021-australia-zoo-cheetah-ag999-1oz-bu.html" title="Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2495-small_default/australia-2021-australia-zoo-cheetah-ag999-1oz-bu.jpg" alt="Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU" /></a>
-                        <div class="product-content">
-                        	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/876-australia-2021-australia-zoo-cheetah-ag999-1oz-bu.html" title="Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU">Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU</a>
-                            </h5>
-                        	<p class="product-description">Moneta Australijskie ZOO: Gepard 2021 została wybita z czystego srebra...</p>
-                                                        	                                    <div class="price-box">
-                                        <span class="price">
-                                        	170,61 zł                                        </span>
+                                        	7 875,61 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -668,7 +668,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										4 413,08 zł									</span>
+										4 335,84 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -687,7 +687,7 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								4 413,08 zł							</span>
+								4 335,84 zł							</span>
 														
 							
 											</div>
@@ -735,7 +735,7 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										328,46 zł									</span>
+										325,94 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -753,7 +753,7 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								328,46 zł							</span>
+								325,94 zł							</span>
 														
 							
 											</div>
@@ -1123,7 +1123,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"701","name":"\"Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar\"","category":"\"srebrne-sztabki\"","brand":"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html","price":"4,413.08"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"328.46"},'',true);MBG.addProductClick({"id":"701","name":"\"Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar\"","category":"\"srebrne-sztabki\"","brand":"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html","price":"4,413.08"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"328.46"});
+						MBG.add({"id":"701","name":"\"Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar\"","category":"\"srebrne-sztabki\"","brand":"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html","price":"4,335.84"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"325.94"},'',true);MBG.addProductClick({"id":"701","name":"\"Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar\"","category":"\"srebrne-sztabki\"","brand":"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html","price":"4,335.84"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"325.94"});
 					});
 				</script>
 				<script type="text/javascript">

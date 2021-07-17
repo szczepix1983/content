@@ -66,10 +66,10 @@ var contentOnly = false;
 var customizationIdMessage = 'Dostosowywanie #';
 var delete_txt = 'Usuń';
 var displayList = false;
-var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"1949","min":"127","values":{"1":"1949","0":"127"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":53,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_oz","rel":""},"75":{"nbr":1,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":2,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":1,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_20_oz","rel":""},"76":{"nbr":3,"name":"2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-2_oz","rel":""},"22129":{"nbr":3,"name":"5 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-5_oz","rel":""},"78":{"nbr":1,"name":"10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-10_oz","rel":""},"22184":{"nbr":1,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":1,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-austrian_mint","rel":""},"22225":{"nbr":1,"name":"BAVARIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-bavarian_mint","rel":""},"22828":{"nbr":6,"name":"CASA DE MONEDA DE MEXICO  ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico","rel":""},"16857":{"nbr":3,"name":"GERMANIA MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-germania_mint","rel":""},"20696":{"nbr":4,"name":"LEIPZIGER EDELMETALLVERARBEITUNG     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung","rel":""},"50":{"nbr":4,"name":"NEW ZEALAND MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-new_zealand_mint","rel":""},"51":{"nbr":16,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-perth_mint","rel":""},"24647":{"nbr":3,"name":"PRESSBURG MINT          ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-pressburg_mint","rel":""},"52":{"nbr":1,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-rand_refinery","rel":""},"21868":{"nbr":6,"name":"ROYAL AUSTRALIAN MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_australian_mint","rel":""},"53":{"nbr":1,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":8,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_mint","rel":""},"22488":{"nbr":3,"name":"SCOTTSDALE MINT        ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-scottsdale_mint","rel":""},"54":{"nbr":1,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-shanghai_mint","rel":""},"23652":{"nbr":1,"name":"SOUTH AFRICAN MINT     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-south_african_mint","rel":""},"55":{"nbr":2,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
+var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"1949","min":"125","values":{"1":"1949","0":"125"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":53,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_oz","rel":""},"75":{"nbr":1,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":2,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":1,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_20_oz","rel":""},"76":{"nbr":3,"name":"2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-2_oz","rel":""},"22129":{"nbr":3,"name":"5 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-5_oz","rel":""},"78":{"nbr":1,"name":"10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-10_oz","rel":""},"22184":{"nbr":1,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":1,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-austrian_mint","rel":""},"22225":{"nbr":1,"name":"BAVARIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-bavarian_mint","rel":""},"22828":{"nbr":6,"name":"CASA DE MONEDA DE MEXICO  ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico","rel":""},"16857":{"nbr":3,"name":"GERMANIA MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-germania_mint","rel":""},"20696":{"nbr":4,"name":"LEIPZIGER EDELMETALLVERARBEITUNG     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung","rel":""},"50":{"nbr":4,"name":"NEW ZEALAND MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-new_zealand_mint","rel":""},"51":{"nbr":16,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-perth_mint","rel":""},"24647":{"nbr":3,"name":"PRESSBURG MINT          ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-pressburg_mint","rel":""},"52":{"nbr":1,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-rand_refinery","rel":""},"21868":{"nbr":6,"name":"ROYAL AUSTRALIAN MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_australian_mint","rel":""},"53":{"nbr":1,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":8,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_mint","rel":""},"22488":{"nbr":3,"name":"SCOTTSDALE MINT        ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-scottsdale_mint","rel":""},"54":{"nbr":1,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-shanghai_mint","rel":""},"23652":{"nbr":1,"name":"SOUTH AFRICAN MINT     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-south_african_mint","rel":""},"55":{"nbr":2,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1626428482;
+var generated_date = 1626551386;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -401,22 +401,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 7081.26</div>
-      <div class="rtpriclist-other">XAU/EUR: 1542.22</div>
+      <div class="rtpriclist-current">XAU/PLN: 7045.16</div>
+      <div class="rtpriclist-other">XAU/EUR: 1535.19</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 101.7</div>
+      <div class="rtpriclist-current">XAG/PLN: 99.79</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 111.7</div>
-      <div class="rtpriclist-current">ASK: 91.7</div>-->
+      <!-- <div class="rtpriclist-current">BID: 109.79</div>
+      <div class="rtpriclist-current">ASK: 89.79</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 22.15</div>
+      <div class="rtpriclist-other">XAG/EUR: 21.75</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 32.15</div>
-      <div class="rtpriclist-other">ASK: 12.15</div> -->
+      <!-- <div class="rtpriclist-other">BID: 31.75</div>
+      <div class="rtpriclist-other">ASK: 11.75</div> -->
     </div>
   </div>
 </div>
@@ -686,6 +686,19 @@ var usingSecureMode = true;
     <div class="block_content products-block">
                     <ul class="products">
                                     <li class="clearfix">
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE "><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2524-small_default/canada-maple-leaf-au9999-1oz-backdated-issue-.jpg" alt="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE " /></a>
+                        <div class="product-content">
+                        	<h5>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE ">Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE </a>
+                            </h5>
+                        	<p class="product-description">Kanadyjski Liść Klonowy to najpopularniejsza złota moneta produkowana...</p>
+                                                        	                                    <div class="price-box">
+                                        <span class="price">
+                                        	7 502,26 zł                                        </span>
+                                    </div>
+                                                                                    </div>
+                    </li>
+                                    <li class="clearfix">
                         <a class="products-block-image" href="https://zlota-uncja.pl/pl/polonia-/884-polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.html" title="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2521-small_default/polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.jpg" alt="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA" /></a>
                         <div class="product-content">
                         	<h5>
@@ -710,7 +723,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Srebrna moneta Archaeopteryx jest piątą z serii Prehistoric Life,...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	154,54 zł                                        </span>
+                                        	152,56 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -723,7 +736,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Srebrna, 2 uncjowa, moneta Completer Coin jest zwieńczeniem wyjątkowej...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	265,91 zł                                        </span>
+                                        	261,98 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -775,20 +788,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Amerykański Bizon to pierwsza moneta produkowana z 24-karatowego złota...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 916,68 zł                                        </span>
-                                    </div>
-                                                                                    </div>
-                    </li>
-                                    <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/876-australia-2021-australia-zoo-cheetah-ag999-1oz-bu.html" title="Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2495-small_default/australia-2021-australia-zoo-cheetah-ag999-1oz-bu.jpg" alt="Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU" /></a>
-                        <div class="product-content">
-                        	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/876-australia-2021-australia-zoo-cheetah-ag999-1oz-bu.html" title="Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU">Australia 2021 - Australia ZOO - Cheetah Ag999 1oz BU</a>
-                            </h5>
-                        	<p class="product-description">Moneta Australijskie ZOO: Gepard 2021 została wybita z czystego srebra...</p>
-                                                        	                                    <div class="price-box">
-                                        <span class="price">
-                                        	170,61 zł                                        </span>
+                                        	7 875,61 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -936,7 +936,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										137,55 zł									</span>
+										135,58 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -954,7 +954,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								137,55 zł							</span>
+								135,58 zł							</span>
 														
 							
 											</div>
@@ -1002,7 +1002,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										154,54 zł									</span>
+										152,56 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1023,7 +1023,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								154,54 zł							</span>
+								152,56 zł							</span>
 														
 							
 											</div>
@@ -1071,7 +1071,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										143,06 zł									</span>
+										141,08 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1092,7 +1092,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								143,06 zł							</span>
+								141,08 zł							</span>
 														
 							
 											</div>
@@ -1140,7 +1140,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										154,54 zł									</span>
+										152,56 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1161,7 +1161,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								154,54 zł							</span>
+								152,56 zł							</span>
 														
 							
 											</div>
@@ -1209,7 +1209,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										153,62 zł									</span>
+										151,64 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1230,7 +1230,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								153,62 zł							</span>
+								151,64 zł							</span>
 														
 							
 											</div>
@@ -1278,7 +1278,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										159,13 zł									</span>
+										157,15 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1296,7 +1296,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								159,13 zł							</span>
+								157,15 zł							</span>
 														
 							
 											</div>
@@ -1344,7 +1344,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										163,72 zł									</span>
+										161,73 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1365,7 +1365,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								163,72 zł							</span>
+								161,73 zł							</span>
 														
 							
 											</div>
@@ -1413,7 +1413,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										265,91 zł									</span>
+										261,98 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1434,7 +1434,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								265,91 zł							</span>
+								261,98 zł							</span>
 														
 							
 											</div>
@@ -1482,7 +1482,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										147,65 zł									</span>
+										145,67 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1504,7 +1504,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								147,65 zł							</span>
+								145,67 zł							</span>
 														
 							
 											</div>
@@ -1552,7 +1552,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										149,95 zł									</span>
+										147,97 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1573,7 +1573,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								149,95 zł							</span>
+								147,97 zł							</span>
 														
 							
 											</div>
@@ -1621,7 +1621,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										131,58 zł									</span>
+										129,61 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1639,7 +1639,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								131,58 zł							</span>
+								129,61 zł							</span>
 														
 							
 											</div>
@@ -1687,7 +1687,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										141,68 zł									</span>
+										139,71 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1705,7 +1705,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								141,68 zł							</span>
+								139,71 zł							</span>
 														
 							
 											</div>
@@ -1753,7 +1753,7 @@ Nominał: $ 5;  Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										156,83 zł									</span>
+										154,85 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1775,7 +1775,7 @@ Czwarta moneta z tej serii poświęcona została jednemu z najbardziej wpływowy
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								156,83 zł							</span>
+								154,85 zł							</span>
 														
 							
 											</div>
@@ -1811,72 +1811,6 @@ Czwarta moneta z tej serii poświęcona została jednemu z najbardziej wpływowy
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Great Britain 2021 - Britannia Ag999 1oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1761-home_default/great-britain-2021-britannia-ag999-1oz-bu.jpg" alt="Great Britain 2021 - Britannia Ag999 1 oz BU" title="Great Britain 2021 - Britannia Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Great Britain 2021 - Britannia Ag999 1oz BU" itemprop="url" >
-								Great Britain 2021 - Britannia Ag999 1oz BU
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										127,44 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Srebrna Britannia to moneta bulionowa, która zajmuje jedno z najwyższych miejsc w rankingu najlepiej sprzedających się oraz najbardziej popularnych monet bulionowych na świecie. Srebrna Britannia jest bita z czystego kruszcu próby 999, o wadze jednej uncji trojańskiej. Za jej produkcję odpowiada renomowana, europejska mennica The Royal Mint.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								127,44 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=619&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="619" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" data-id-product="619">Dodaj do por&oacute;wania</a>
-							</div>
-																		W magazynie
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
 						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/853-tokelau-2021-chronos-ag9999-1oz-bu.html" title="Tokelau 2021 - Chronos Ag9999 1oz BU" itemprop="url">
 							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2421-home_default/tokelau-2021-chronos-ag9999-1oz-bu.jpg" alt="Tokelau 2021 - Chronos Ag999 1oz BU" title="Tokelau 2021 - Chronos Ag999 1oz BU"  width="250" height="250" itemprop="image" />
 						</a>
@@ -1889,7 +1823,7 @@ Czwarta moneta z tej serii poświęcona została jednemu z najbardziej wpływowy
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										147,65 zł									</span>
+										145,67 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1910,7 +1844,7 @@ Czwarta moneta z tej serii poświęcona została jednemu z najbardziej wpływowy
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								147,65 zł							</span>
+								145,67 zł							</span>
 														
 							
 											</div>
@@ -1942,7 +1876,7 @@ Czwarta moneta z tej serii poświęcona została jednemu z najbardziej wpływowy
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1958,7 +1892,7 @@ Czwarta moneta z tej serii poświęcona została jednemu z najbardziej wpływowy
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										147,65 zł									</span>
+										145,67 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1980,7 +1914,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								147,65 zł							</span>
+								145,67 zł							</span>
 														
 							
 											</div>
@@ -2012,6 +1946,72 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 			
 		
 		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Great Britain 2021 - Britannia Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1761-home_default/great-britain-2021-britannia-ag999-1oz-bu.jpg" alt="Great Britain 2021 - Britannia Ag999 1 oz BU" title="Great Britain 2021 - Britannia Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Great Britain 2021 - Britannia Ag999 1oz BU" itemprop="url" >
+								Great Britain 2021 - Britannia Ag999 1oz BU
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										125,48 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Srebrna Britannia to moneta bulionowa, która zajmuje jedno z najwyższych miejsc w rankingu najlepiej sprzedających się oraz najbardziej popularnych monet bulionowych na świecie. Srebrna Britannia jest bita z czystego kruszcu próby 999, o wadze jednej uncji trojańskiej. Za jej produkcję odpowiada renomowana, europejska mennica The Royal Mint.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								125,48 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=619&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="619" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu.html" data-id-product="619">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
 								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
@@ -2028,7 +2028,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										279,23 zł									</span>
+										275,28 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2046,7 +2046,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								279,23 zł							</span>
+								275,28 zł							</span>
 														
 							
 											</div>
@@ -2094,7 +2094,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										147,19 zł									</span>
+										145,21 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2115,7 +2115,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								147,19 zł							</span>
+								145,21 zł							</span>
 														
 							
 											</div>
@@ -2163,7 +2163,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										147,65 zł									</span>
+										145,67 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2181,7 +2181,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								147,65 zł							</span>
+								145,67 zł							</span>
 														
 							
 											</div>
@@ -2229,7 +2229,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										159,13 zł									</span>
+										157,15 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2250,7 +2250,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								159,13 zł							</span>
+								157,15 zł							</span>
 														
 							
 											</div>
@@ -2367,7 +2367,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										139,84 zł									</span>
+										137,87 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2385,7 +2385,7 @@ Nominał: $ 5; Nakład: 30 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								139,84 zł							</span>
+								137,87 zł							</span>
 														
 							
 											</div>
@@ -2926,7 +2926,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"883","name":"\"Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU\""},'',true);MBG.add({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""},'',true);MBG.add({"id":"841","name":"\"Australia 2021 - Chinese Myths & Legends - Dragon Ag9999 1oz BU\""},'',true);MBG.add({"id":"831","name":"\"Australia 2021 - Australian Emu Ag9999 1oz BU\""},'',true);MBG.add({"id":"802","name":"\"Mexico 2021 - Libertad Ag999 1oz\""},'',true);MBG.add({"id":"859","name":"\"Ghana 2021 - Woolly Rhinoceros Ag999 1oz BU\""},'',true);MBG.add({"id":"882","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Ag999 2oz BU\""},'',true);MBG.add({"id":"874","name":"\"Tokelau 2021 - Vivat Humanitas Ag999 1oz BU\""},'',true);MBG.add({"id":"843","name":"\"Australia 2021 - Australia's Coat of Arms Ag999 1oz BU\""},'',true);MBG.add({"id":"408","name":"\"Australia 2020 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"591","name":"\"Somalia 2021 - Elephant Ag999 1oz \""},'',true);MBG.add({"id":"824","name":"\"Great Britain 2021 - Music Legends - The Who Ag999 1oz BU\""},'',true);MBG.add({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU\""},'',true);MBG.add({"id":"853","name":"\"Tokelau 2021 - Chronos Ag9999 1oz BU\""},'',true);MBG.add({"id":"875","name":"\"Tokelau 2021 - Terra Ag999 1oz BU\""},'',true);MBG.add({"id":"600","name":"\"Great Britain 2021 - The Queen's Beasts - White Greyhound of Richmond Ag9999 2oz\""},'',true);MBG.add({"id":"858","name":"\"Republic of Chad 2021 - Antelope Ag999 1oz BU\""},'',true);MBG.add({"id":"791","name":"\"Australia 2021 - Beneath the Southern Skies Ag9999 1oz\""},'',true);MBG.add({"id":"818","name":"\"Congo 2021 - World's Wildlife - Bald Eagle Ag999,9 1oz BU\""},'',true);MBG.add({"id":"857","name":"\"Great Britain 2021 - Britannia Ag999 1\\\/4oz\""},'',true);MBG.add({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz\""},'',true);MBG.add({"id":"773","name":"\"Tuvalu 2021 - Gods Of Olympus - Poseidon Ag9999 1oz BU\""},'',true);MBG.add({"id":"847","name":"\"Niue 2021 - The Black Pearl Ag999 1oz BU\""},'',true);MBG.addProductClick({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"883","name":"\"Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU\""});MBG.addProductClick({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""});MBG.addProductClick({"id":"841","name":"\"Australia 2021 - Chinese Myths & Legends - Dragon Ag9999 1oz BU\""});MBG.addProductClick({"id":"831","name":"\"Australia 2021 - Australian Emu Ag9999 1oz BU\""});MBG.addProductClick({"id":"802","name":"\"Mexico 2021 - Libertad Ag999 1oz\""});MBG.addProductClick({"id":"859","name":"\"Ghana 2021 - Woolly Rhinoceros Ag999 1oz BU\""});MBG.addProductClick({"id":"882","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Ag999 2oz BU\""});MBG.addProductClick({"id":"874","name":"\"Tokelau 2021 - Vivat Humanitas Ag999 1oz BU\""});MBG.addProductClick({"id":"843","name":"\"Australia 2021 - Australia's Coat of Arms Ag999 1oz BU\""});MBG.addProductClick({"id":"408","name":"\"Australia 2020 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"591","name":"\"Somalia 2021 - Elephant Ag999 1oz \""});MBG.addProductClick({"id":"824","name":"\"Great Britain 2021 - Music Legends - The Who Ag999 1oz BU\""});MBG.addProductClick({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU\""});MBG.addProductClick({"id":"853","name":"\"Tokelau 2021 - Chronos Ag9999 1oz BU\""});MBG.addProductClick({"id":"875","name":"\"Tokelau 2021 - Terra Ag999 1oz BU\""});MBG.addProductClick({"id":"600","name":"\"Great Britain 2021 - The Queen's Beasts - White Greyhound of Richmond Ag9999 2oz\""});MBG.addProductClick({"id":"858","name":"\"Republic of Chad 2021 - Antelope Ag999 1oz BU\""});MBG.addProductClick({"id":"791","name":"\"Australia 2021 - Beneath the Southern Skies Ag9999 1oz\""});MBG.addProductClick({"id":"818","name":"\"Congo 2021 - World's Wildlife - Bald Eagle Ag999,9 1oz BU\""});MBG.addProductClick({"id":"857","name":"\"Great Britain 2021 - Britannia Ag999 1\\\/4oz\""});MBG.addProductClick({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz\""});MBG.addProductClick({"id":"773","name":"\"Tuvalu 2021 - Gods Of Olympus - Poseidon Ag9999 1oz BU\""});MBG.addProductClick({"id":"847","name":"\"Niue 2021 - The Black Pearl Ag999 1oz BU\""});
+						MBG.add({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"883","name":"\"Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU\""},'',true);MBG.add({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""},'',true);MBG.add({"id":"841","name":"\"Australia 2021 - Chinese Myths & Legends - Dragon Ag9999 1oz BU\""},'',true);MBG.add({"id":"831","name":"\"Australia 2021 - Australian Emu Ag9999 1oz BU\""},'',true);MBG.add({"id":"802","name":"\"Mexico 2021 - Libertad Ag999 1oz\""},'',true);MBG.add({"id":"859","name":"\"Ghana 2021 - Woolly Rhinoceros Ag999 1oz BU\""},'',true);MBG.add({"id":"882","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Ag999 2oz BU\""},'',true);MBG.add({"id":"874","name":"\"Tokelau 2021 - Vivat Humanitas Ag999 1oz BU\""},'',true);MBG.add({"id":"843","name":"\"Australia 2021 - Australia's Coat of Arms Ag999 1oz BU\""},'',true);MBG.add({"id":"408","name":"\"Australia 2020 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"591","name":"\"Somalia 2021 - Elephant Ag999 1oz \""},'',true);MBG.add({"id":"824","name":"\"Great Britain 2021 - Music Legends - The Who Ag999 1oz BU\""},'',true);MBG.add({"id":"853","name":"\"Tokelau 2021 - Chronos Ag9999 1oz BU\""},'',true);MBG.add({"id":"875","name":"\"Tokelau 2021 - Terra Ag999 1oz BU\""},'',true);MBG.add({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU\""},'',true);MBG.add({"id":"600","name":"\"Great Britain 2021 - The Queen's Beasts - White Greyhound of Richmond Ag9999 2oz\""},'',true);MBG.add({"id":"858","name":"\"Republic of Chad 2021 - Antelope Ag999 1oz BU\""},'',true);MBG.add({"id":"791","name":"\"Australia 2021 - Beneath the Southern Skies Ag9999 1oz\""},'',true);MBG.add({"id":"818","name":"\"Congo 2021 - World's Wildlife - Bald Eagle Ag999,9 1oz BU\""},'',true);MBG.add({"id":"857","name":"\"Great Britain 2021 - Britannia Ag999 1\\\/4oz\""},'',true);MBG.add({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz\""},'',true);MBG.add({"id":"773","name":"\"Tuvalu 2021 - Gods Of Olympus - Poseidon Ag9999 1oz BU\""},'',true);MBG.add({"id":"847","name":"\"Niue 2021 - The Black Pearl Ag999 1oz BU\""},'',true);MBG.addProductClick({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"883","name":"\"Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU\""});MBG.addProductClick({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""});MBG.addProductClick({"id":"841","name":"\"Australia 2021 - Chinese Myths & Legends - Dragon Ag9999 1oz BU\""});MBG.addProductClick({"id":"831","name":"\"Australia 2021 - Australian Emu Ag9999 1oz BU\""});MBG.addProductClick({"id":"802","name":"\"Mexico 2021 - Libertad Ag999 1oz\""});MBG.addProductClick({"id":"859","name":"\"Ghana 2021 - Woolly Rhinoceros Ag999 1oz BU\""});MBG.addProductClick({"id":"882","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Ag999 2oz BU\""});MBG.addProductClick({"id":"874","name":"\"Tokelau 2021 - Vivat Humanitas Ag999 1oz BU\""});MBG.addProductClick({"id":"843","name":"\"Australia 2021 - Australia's Coat of Arms Ag999 1oz BU\""});MBG.addProductClick({"id":"408","name":"\"Australia 2020 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"591","name":"\"Somalia 2021 - Elephant Ag999 1oz \""});MBG.addProductClick({"id":"824","name":"\"Great Britain 2021 - Music Legends - The Who Ag999 1oz BU\""});MBG.addProductClick({"id":"853","name":"\"Tokelau 2021 - Chronos Ag9999 1oz BU\""});MBG.addProductClick({"id":"875","name":"\"Tokelau 2021 - Terra Ag999 1oz BU\""});MBG.addProductClick({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU\""});MBG.addProductClick({"id":"600","name":"\"Great Britain 2021 - The Queen's Beasts - White Greyhound of Richmond Ag9999 2oz\""});MBG.addProductClick({"id":"858","name":"\"Republic of Chad 2021 - Antelope Ag999 1oz BU\""});MBG.addProductClick({"id":"791","name":"\"Australia 2021 - Beneath the Southern Skies Ag9999 1oz\""});MBG.addProductClick({"id":"818","name":"\"Congo 2021 - World's Wildlife - Bald Eagle Ag999,9 1oz BU\""});MBG.addProductClick({"id":"857","name":"\"Great Britain 2021 - Britannia Ag999 1\\\/4oz\""});MBG.addProductClick({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz\""});MBG.addProductClick({"id":"773","name":"\"Tuvalu 2021 - Gods Of Olympus - Poseidon Ag9999 1oz BU\""});MBG.addProductClick({"id":"847","name":"\"Niue 2021 - The Black Pearl Ag999 1oz BU\""});
 					});
 				</script>
 				<script type="text/javascript">
