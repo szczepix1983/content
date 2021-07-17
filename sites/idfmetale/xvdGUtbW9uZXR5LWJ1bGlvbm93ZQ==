@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'OTk1,OTU4,ODIx,MTAwOQ==,ODI1,ODc0,MTAwMg==,MTAwOA==,Nzgy,NTk4,ODc1,ODE0,';
             </script>
-</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1626431379154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1626461426154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -368,7 +368,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>8 557,98 zł</em>
+<em>8 504,50 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -395,7 +395,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>8 189,14 zł</em>
+<em>8 138,07 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -417,10 +417,8 @@ Sortuj wg:
 <a class="details spanhover" href="/pl/p/Australijski-Kangur-1-uncja-zlota/821" title="Australijski Kangur 1 uncja złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3335/australijski-kangur-1-uncja-zlota.jpg" alt="Australijski Kangur 1 uncja złota" />
-
-</span> <span class="productname">Australijski Kangur 1 uncja złota</span>
+</span>  <span class="productname">Australijski Kangur 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -447,8 +445,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3403/australijski-kangur-12-uncji-zlota-australian-kangaroo-12-oz.jpg" alt="Australijski Kangur 1/2 uncji złota" />
-
-</span> <span class="productname">Australijski Kangur 1/2 uncji złota</span>
+ </span> <span class="productname">Australijski Kangur 1/2 uncji złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -475,8 +472,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/6cb5f8c781b666fd42ebaf9c22a5f86f.jpg" alt="Britannia 1 uncja złota" />
-
-</span> <span class="productname">Britannia 1 uncja złota</span>
+</span>  <span class="productname">Britannia 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -502,6 +498,7 @@ Sortuj wg:
 <a class="details spanhover" href="/pl/p/Krugerrand-1-uncja-zlota/874" title="Krugerrand 1 uncja złota">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/8f746f84b5d476c9a28559e0d3002f45.jpg" alt="Krugerrand 1 uncja złota" />
  </span> <span class="productname">Krugerrand 1 uncja złota</span>
 </a>
@@ -584,12 +581,13 @@ Sortuj wg:
 <a class="details spanhover" href="/pl/p/Wiedenski-Filharmonik-1-uncja-zlota/782" title="Wiedeński Filharmonik 1 uncja złota">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/04d614dede7596358d853f3f2615d5b0.jpg" alt="Wiedeński Filharmonik 1 uncja złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 876,42 zł</em>
+<em>7 733,22 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -608,7 +606,7 @@ Sortuj wg:
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_598">
-<a class="details spanhover" href="/pl/p/Amerykanski-Orzel-1-uncja-zlota/598" title="Amerykański Orzeł 1 uncja złota">
+ <a class="details spanhover" href="/pl/p/Amerykanski-Orzel-1-uncja-zlota/598" title="Amerykański Orzeł 1 uncja złota">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/5b3595224ac11831426ed1e28140d09c.jpg" alt="Amerykański Orzeł 1 uncja złota" />
@@ -616,7 +614,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>8 189,14 zł</em>
+<em>8 138,07 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -635,9 +633,10 @@ Sortuj wg:
 </td>
 <td class="even col3">
 <div class="product" id="product_875">
-<a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-1-uncja-zlota/875" title="Kanadyjski Liść Klonowy 1 uncja złota">
+ <a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-1-uncja-zlota/875" title="Kanadyjski Liść Klonowy 1 uncja złota">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/893b6dbfeb0ebaa95b99a41ef27c5626.jpg" alt="Kanadyjski Liść Klonowy 1 uncja złota" />
 </span> <span class="productname">Kanadyjski Liść Klonowy 1 uncja złota</span>
 </a>
@@ -661,7 +660,7 @@ Sortuj wg:
 </div>
 </td>
 <td class="odd col3">
-<div class="product" id="product_814">
+ <div class="product" id="product_814">
 <a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-12-uncji/814" title="Kanadyjski Liść Klonowy 1/2 uncji">
 <span class="productlistimgsize">
 
@@ -735,7 +734,7 @@ Sortuj wg:
 </div>
 </div>
 </div>
-
+ 
 <script type="text/javascript">
   (function () { 
     var _tsid = 'X10F8E74E3A02FFE27BDE8CD76F71D133'; 
