@@ -20,7 +20,7 @@
 <link href="/assets/favicon-530cd10bedf629c92d613f07449a4fcb3e1125ff7e8b3ec599ce4a5b91037111.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 <link href="/assets/spree/ygi-shop/all-dc35d0f55f747a02f6204f6d9b2303c99d933b9d8052d679cd696515c9a59a09.css" media="screen" rel="stylesheet" />
 <meta content="authenticity_token" name="csrf-param" />
-<meta content="hOrNTwVKBhWQEw3N3r+eMyBVAGhFAKRhVEjRekYM7/Q=" name="csrf-token" />
+<meta content="fuo0B5NAue28Sny74z9l90Gh9l2JFUEme1c8ZR5Ks8U=" name="csrf-token" />
 <!--[if lt IE 9]>
   <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
 <![endif]-->
@@ -299,7 +299,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;581,37 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;523,37 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -312,7 +312,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;593,43 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;535,33 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -325,7 +325,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;574,28 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;516,33 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -338,7 +338,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;645,91 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;587,41 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -351,7 +351,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;623,93 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;565,60 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -364,7 +364,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;631,02 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;572,63 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -377,7 +377,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;652,29 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;593,75 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -390,7 +390,7 @@
             </div>
             <div class="taxonomy-list-item-price-container  products_itemsList_item_price">
                 <span class="taxonomy-list-item-price  price selling" itemprop="price">
-                  <b>od 7&nbsp;694,85 </b><span class='currency_symbol'>PLN</span>
+                  <b>od 7&nbsp;635,97 </b><span class='currency_symbol'>PLN</span>
                 </span>
             </div>
           </div>
@@ -536,7 +536,7 @@ Złote monety lokacyjne są nie tylko dobrym kierunkiem przetrzymywania oszczęd
 					<h5>Bądź na bieżąco z nowościami, promocjami i konkursami.</h5>
 				</div>
 				<div class="footer-subscribe-form  pull-left footer_ss_subscribe_form">
-          <form accept-charset="UTF-8" action="/subscribe" class="new_subscriber" id="new_subscriber" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hOrNTwVKBhWQEw3N3r+eMyBVAGhFAKRhVEjRekYM7/Q=" /></div>
+          <form accept-charset="UTF-8" action="/subscribe" class="new_subscriber" id="new_subscriber" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fuo0B5NAue28Sny74z9l90Gh9l2JFUEme1c8ZR5Ks8U=" /></div>
 					<div class='input-box pull-left to_relative'>
             <input class="footer-subscribe-emailaddress  pull-left footer_ss_formInput" name="subscriber[email]" placeholder="Twoj@mail.com" tabindex="51" title="Write here subscribed e-mail" type="email" />
   						<button type="submit"  tabindex=52 value="" class="footer-subscribe-emailsubmit  footer_ss_formGogogo" title="Subscribe!"/>
