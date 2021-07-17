@@ -775,7 +775,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=2"/>
 <input type="hidden" name="product_data[30001][product_id]" value="30001"/>
 
-				<a href="/britannia-1-uncja-zlota-pl.html"><img class=" " id="det_img_30001" src="/images/thumbnails/1/105/1_uncja_zlota_britannia.jpg" width="105" alt="" border="0"/>
+				<a href="/britannia-1-uncja-zlota-pl.html"><img class=" " id="det_img_30001" src="/images/thumbnails/1/105/x1_uncja_zlota_britannia.jpg.pagespeed.ic.FyPlPLoQRf.jpg" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
@@ -1620,7 +1620,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1626536485.2079
+			've[time_begin]': 1626557103.4583
 		},
 		hidden: true
 	});
@@ -1629,7 +1629,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-2.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1626536485.2079" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-2.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1626557103.4583" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
