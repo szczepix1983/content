@@ -422,12 +422,95 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
+					<form action="/" method="post" name="product_form_29953" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
+<input type="hidden" name="product_data[29953][product_id]" value="29953"/>
+
+				<a href="/100-x-1-uncja-srebra-wiedenscy-filharmonicy.html"><img class=" " id="det_img_29953" src="/images/thumbnails/0/105/12_—_kopia.jpg" width="105" alt="" border="0"/>
+</a>
+	
+		<p>
+					<a href="/100-x-1-uncja-srebra-wiedenscy-filharmonicy.html" class="product-title" title="100 x 1 Uncja Srebra Wiedeńscy Filharmonicy">100 x 1 Uncja Srebra Wiedeńscy Filharmonicy</a>	
+		</p>
+		
+						
+					<span class="cm-reload-29953 price-update" id="price_update_29953">
+		<input type="hidden" name="appearance[show_price_values]" value="1"/>
+		<input type="hidden" name="appearance[show_price]" value="1"/>
+																	<span class="price" id="line_discounted_price_29953"><span id="sec_discounted_price_29953" class="price">11,528.20</span>&nbsp;<span class="price">PLN</span></span>
+							
+						<!--price_update_29953--></span>
+
+		
+					
+		
+		<div class="buttons-container">
+						<div class="cm-reload-29953" id="add_to_cart_update_29953">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
+<input type="hidden" name="appearance[separate_buttons]" value="1"/>
+<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
+<input type="hidden" name="appearance[but_role]" value="action"/>
+			<div class="buttons-container" id="cart_add_block_29953">
+																									
+		
+ 
+	<span class="az_button">
+    <span id="wrap_button_cart_29953" class="az-template-submit">
+	<span class="az-button-left">
+	<span class="az-button-right">
+	<span class="az-button-middle">
+		<span class="az-button-text"><input id="button_cart_29953" type="submit" name="dispatch[checkout.add..29953]" value="Kup Teraz"/></span>
+	</span></span></span>
+	</span>
+    </span>
+
+																						</div>
+	
+			<div class="buttons-container" id="cart_buttons_block_29953">
+											</div>
+	
+		<!--add_to_cart_update_29953--></div>
+
+		</div>
+						</form>
+
+		</td>
+	<td class="product-spacer">&nbsp;</td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<td class="product-spacer">&nbsp;</td>
+	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
 					<form action="/" method="post" name="product_form_29954" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
 <input type="hidden" name="product_data[29954][product_id]" value="29954"/>
 
-				<a href="/500-x-1-uncja-srebra-wiedenscy-filharmonicy-masterbox.html"><img class=" " id="det_img_29954" src="/images/thumbnails/0/105/x500oz_wiener.jpg.pagespeed.ic.yf_AMhNwUB.jpg" width="105" alt="" border="0"/>
+				<a href="/500-x-1-uncja-srebra-wiedenscy-filharmonicy-masterbox.html"><img class=" " id="det_img_29954" src="/images/thumbnails/0/105/x500oz_wiedenscy_filharmonicy_masterbox.jpg.pagespeed.ic.Qt1b-8yIgb.jpg" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
@@ -438,7 +521,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29954 price-update" id="price_update_29954">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29954"><span id="sec_discounted_price_29954" class="price">61,280.10</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29954"><span id="sec_discounted_price_29954" class="price">56,483.86</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29954--></span>
 
@@ -505,89 +588,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
-					<form action="/" method="post" name="product_form_30072" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
-<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
-<input type="hidden" name="product_data[30072][product_id]" value="30072"/>
-
-				<a href="/500-x-1-uncja-srebra-kanadyjski-lisc-klonowy.html"><img class=" " id="det_img_30072" src="/images/thumbnails/1/105/masterbox_lisc_klonowy_uncja_srebra_—_kopia.jpg" width="105" alt="" border="0"/>
-</a>
-	
-		<p>
-					<a href="/500-x-1-uncja-srebra-kanadyjski-lisc-klonowy.html" class="product-title" title="500 x 1 Uncja Srebra Kanadyjski Liść Klonowy">500 x 1 Uncja Srebra Kanadyjski Liść Klonowy</a>	
-		</p>
-		
-						
-					<span class="cm-reload-30072 price-update" id="price_update_30072">
-		<input type="hidden" name="appearance[show_price_values]" value="1"/>
-		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30072"><span id="sec_discounted_price_30072" class="price">63,228.24</span>&nbsp;<span class="price">PLN</span></span>
-							
-						<!--price_update_30072--></span>
-
-		
-					
-		
-		<div class="buttons-container">
-						<div class="cm-reload-30072" id="add_to_cart_update_30072">
-<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
-<input type="hidden" name="appearance[separate_buttons]" value="1"/>
-<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
-<input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30072">
-																									
-		
- 
-	<span class="az_button">
-    <span id="wrap_button_cart_30072" class="az-template-submit">
-	<span class="az-button-left">
-	<span class="az-button-right">
-	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30072" type="submit" name="dispatch[checkout.add..30072]" value="Kup Teraz"/></span>
-	</span></span></span>
-	</span>
-    </span>
-
-																						</div>
-	
-			<div class="buttons-container" id="cart_buttons_block_30072">
-											</div>
-	
-		<!--add_to_cart_update_30072--></div>
-
-		</div>
-						</form>
-
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
 					<form action="/" method="post" name="product_form_30141" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
@@ -604,7 +604,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30141 price-update" id="price_update_30141">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30141"><span id="sec_discounted_price_30141" class="price">3,196.84</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30141"><span id="sec_discounted_price_30141" class="price">2,918.44</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30141--></span>
 
@@ -673,89 +673,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
-					<form action="/" method="post" name="product_form_30120" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
-<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
-<input type="hidden" name="product_data[30120][product_id]" value="30120"/>
-
-				<a href="/500-x-1-uncja-srebra-krugerrand-2020.html"><img class=" " id="det_img_30120" src="/images/thumbnails/1/105/xkrugerrand_masterbox.jpg.pagespeed.ic.h5YwmaOWFF.jpg" width="105" alt="" border="0"/>
-</a>
-	
-		<p>
-					<a href="/500-x-1-uncja-srebra-krugerrand-2020.html" class="product-title" title="500 x 1 Uncja Srebra Krugerrand">500 x 1 Uncja Srebra Krugerrand</a>	
-		</p>
-		
-						
-					<span class="cm-reload-30120 price-update" id="price_update_30120">
-		<input type="hidden" name="appearance[show_price_values]" value="1"/>
-		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30120"><span id="sec_discounted_price_30120" class="price">63,228.24</span>&nbsp;<span class="price">PLN</span></span>
-							
-						<!--price_update_30120--></span>
-
-		
-					
-		
-		<div class="buttons-container">
-						<div class="cm-reload-30120" id="add_to_cart_update_30120">
-<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
-<input type="hidden" name="appearance[separate_buttons]" value="1"/>
-<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
-<input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30120">
-																									
-		
- 
-	<span class="az_button">
-    <span id="wrap_button_cart_30120" class="az-template-submit">
-	<span class="az-button-left">
-	<span class="az-button-right">
-	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30120" type="submit" name="dispatch[checkout.add..30120]" value="Kup Teraz"/></span>
-	</span></span></span>
-	</span>
-    </span>
-
-																						</div>
-	
-			<div class="buttons-container" id="cart_buttons_block_30120">
-											</div>
-	
-		<!--add_to_cart_update_30120--></div>
-
-		</div>
-						</form>
-
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
 					<form action="/" method="post" name="product_form_30117" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
@@ -772,7 +689,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30117 price-update" id="price_update_30117">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30117"><span id="sec_discounted_price_30117" class="price">60,811.56</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30117"><span id="sec_discounted_price_30117" class="price">55,515.83</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30117--></span>
 
@@ -839,55 +756,138 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
-					<form action="/" method="post" name="product_form_30115" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+					<form action="/" method="post" name="product_form_30120" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
-<input type="hidden" name="product_data[30115][product_id]" value="30115"/>
+<input type="hidden" name="product_data[30120][product_id]" value="30120"/>
 
-				<a href="/500-x-1-uncja-srebra-australijski-kangur.html"><img class=" " id="det_img_30115" src="/images/thumbnails/1/105/xautralijski_kangur_masterbox_srebra.jpg.pagespeed.ic.IwxKK8q7wA.jpg" width="105" alt="" border="0"/>
+				<a href="/500-x-1-uncja-srebra-krugerrand-2020.html"><img class=" " id="det_img_30120" src="/images/thumbnails/1/105/xkurgerrand_uncja_srebra_masterbox.jpg.pagespeed.ic.WbdYCvd-B3.jpg" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
-					<a href="/500-x-1-uncja-srebra-australijski-kangur.html" class="product-title" title="500 x 1 Uncja Srebra Australijski Kangur">500 x 1 Uncja Srebra Australijski Kangur</a>	
+					<a href="/500-x-1-uncja-srebra-krugerrand-2020.html" class="product-title" title="500 x 1 Uncja Srebra Krugerrand">500 x 1 Uncja Srebra Krugerrand</a>	
 		</p>
 		
 						
-					<span class="cm-reload-30115 price-update" id="price_update_30115">
+					<span class="cm-reload-30120 price-update" id="price_update_30120">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30115"><span id="sec_discounted_price_30115" class="price">60,811.56</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30120"><span id="sec_discounted_price_30120" class="price">56,857.57</span>&nbsp;<span class="price">PLN</span></span>
 							
-						<!--price_update_30115--></span>
+						<!--price_update_30120--></span>
 
 		
 					
 		
 		<div class="buttons-container">
-						<div class="cm-reload-30115" id="add_to_cart_update_30115">
+						<div class="cm-reload-30120" id="add_to_cart_update_30120">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
 <input type="hidden" name="appearance[separate_buttons]" value="1"/>
 <input type="hidden" name="appearance[show_list_buttons]" value="1"/>
 <input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30115">
+			<div class="buttons-container" id="cart_add_block_30120">
 																									
 		
  
 	<span class="az_button">
-    <span id="wrap_button_cart_30115" class="az-template-submit">
+    <span id="wrap_button_cart_30120" class="az-template-submit">
 	<span class="az-button-left">
 	<span class="az-button-right">
 	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30115" type="submit" name="dispatch[checkout.add..30115]" value="Kup Teraz"/></span>
+		<span class="az-button-text"><input id="button_cart_30120" type="submit" name="dispatch[checkout.add..30120]" value="Kup Teraz"/></span>
 	</span></span></span>
 	</span>
     </span>
 
 																						</div>
 	
-			<div class="buttons-container" id="cart_buttons_block_30115">
+			<div class="buttons-container" id="cart_buttons_block_30120">
 											</div>
 	
-		<!--add_to_cart_update_30115--></div>
+		<!--add_to_cart_update_30120--></div>
+
+		</div>
+						</form>
+
+		</td>
+	<td class="product-spacer">&nbsp;</td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<td class="product-spacer">&nbsp;</td>
+	<td class="center image-border compact border-bottom" valign="top" width="33.333333333333%">
+					<form action="/" method="post" name="product_form_30126" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
+<input type="hidden" name="product_data[30126][product_id]" value="30126"/>
+
+				<a href="/100-x-1-uncja-srebra-krugerrand.html"><img class=" " id="det_img_30126" src="/images/thumbnails/1/105/xkrugerrand_1_uncja-srebra_1.jpg.pagespeed.ic.O6Lpd8cV6F.jpg" width="105" alt="" border="0"/>
+</a>
+	
+		<p>
+					<a href="/100-x-1-uncja-srebra-krugerrand.html" class="product-title" title="25 x 1 Uncja Srebra Krugerrand">25 x 1 Uncja Srebra Krugerrand</a>	
+		</p>
+		
+						
+					<span class="cm-reload-30126 price-update" id="price_update_30126">
+		<input type="hidden" name="appearance[show_price_values]" value="1"/>
+		<input type="hidden" name="appearance[show_price]" value="1"/>
+																	<span class="price" id="line_discounted_price_30126"><span id="sec_discounted_price_30126" class="price">3,024.86</span>&nbsp;<span class="price">PLN</span></span>
+							
+						<!--price_update_30126--></span>
+
+		
+					
+		
+		<div class="buttons-container">
+						<div class="cm-reload-30126" id="add_to_cart_update_30126">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
+<input type="hidden" name="appearance[separate_buttons]" value="1"/>
+<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
+<input type="hidden" name="appearance[but_role]" value="action"/>
+			<div class="buttons-container" id="cart_add_block_30126">
+																									
+		
+ 
+	<span class="az_button">
+    <span id="wrap_button_cart_30126" class="az-template-submit">
+	<span class="az-button-left">
+	<span class="az-button-right">
+	<span class="az-button-middle">
+		<span class="az-button-text"><input id="button_cart_30126" type="submit" name="dispatch[checkout.add..30126]" value="Kup Teraz"/></span>
+	</span></span></span>
+	</span>
+    </span>
+
+																						</div>
+	
+			<div class="buttons-container" id="cart_buttons_block_30126">
+											</div>
+	
+		<!--add_to_cart_update_30126--></div>
 
 		</div>
 						</form>
@@ -940,7 +940,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30142 price-update" id="price_update_30142">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30142"><span id="sec_discounted_price_30142" class="price">12,418.78</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30142"><span id="sec_discounted_price_30142" class="price">11,337.30</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30142--></span>
 
@@ -1007,6 +1007,59 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact" valign="top" width="33.333333333333%">
+					<form action="/" method="post" name="product_form_30152" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=171&amp;page=1"/>
+<input type="hidden" name="product_data[30152][product_id]" value="30152"/>
+
+				<a href="/100-x-1-uncja-srebra-krugerrand-2020.html"><img class=" " id="det_img_30152" src="/images/thumbnails/1/105/krugerrand_1_uncja-srebra_1_—_kopia.jpg" width="105" alt="" border="0"/>
+</a>
+	
+		<p>
+					<a href="/100-x-1-uncja-srebra-krugerrand-2020.html" class="product-title" title="100 x 1 Uncja Srebra Krugerrand">100 x 1 Uncja Srebra Krugerrand</a>	
+		</p>
+		
+						
+					<span class="cm-reload-30152 price-update" id="price_update_30152">
+		<input type="hidden" name="appearance[show_price_values]" value="1"/>
+		<input type="hidden" name="appearance[show_price]" value="1"/>
+																	<span class="price" id="line_discounted_price_30152"><span id="sec_discounted_price_30152" class="price">11,729.01</span>&nbsp;<span class="price">PLN</span></span>
+							
+						<!--price_update_30152--></span>
+
+		
+					
+		
+		<div class="buttons-container">
+						<div class="cm-reload-30152" id="add_to_cart_update_30152">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
+<input type="hidden" name="appearance[separate_buttons]" value="1"/>
+<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
+<input type="hidden" name="appearance[but_role]" value="action"/>
+			<div class="buttons-container" id="cart_add_block_30152">
+																									
+		
+ 
+	<span class="az_button">
+    <span id="wrap_button_cart_30152" class="az-template-submit">
+	<span class="az-button-left">
+	<span class="az-button-right">
+	<span class="az-button-middle">
+		<span class="az-button-text"><input id="button_cart_30152" type="submit" name="dispatch[checkout.add..30152]" value="Kup Teraz"/></span>
+	</span></span></span>
+	</span>
+    </span>
+
+																						</div>
+	
+			<div class="buttons-container" id="cart_buttons_block_30152">
+											</div>
+	
+		<!--add_to_cart_update_30152--></div>
+
+		</div>
+						</form>
+
 		</td>
 	<td class="product-spacer">&nbsp;</td>
 				
@@ -1240,7 +1293,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1626557105.2274
+			've[time_begin]': 1631809184.2078
 		},
 		hidden: true
 	});
@@ -1249,7 +1302,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fsrebro-inwestycyjne-page-1.html&amp;ve%5Btitle%5D=Srebro+-+Ceny+i+Sprzeda%C5%BC+Srebra+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1626557105.2274" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fsrebro-inwestycyjne-page-1.html&amp;ve%5Btitle%5D=Srebro+-+Ceny+i+Sprzeda%C5%BC+Srebra+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1631809184.2078" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[

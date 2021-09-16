@@ -370,7 +370,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 									<a name="pagination" href="/zloto-inwestycyjne.html" rel="1" class="cm-history " rev="pagination_contents">1</a>
 												<a name="pagination" href="/zloto-inwestycyjne-page-2.html" rel="2" class="cm-history " rev="pagination_contents">2</a>
 												<strong class="pagination-selected-page">3</strong>
-												<a name="pagination" href="/zloto-inwestycyjne-page-4.html" rel="4" class="cm-history " rev="pagination_contents">4</a>
 					
 			</div>
 	
@@ -445,14 +444,14 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 </a>
 	
 		<p>
-					<a href="/krugerrand-1-uncja-zlota-new.html" class="product-title" title="Krugerrand 1 uncja złota 2020/2021">Krugerrand 1 uncja złota 2020/2021</a>	
+					<a href="/krugerrand-1-uncja-zlota-new.html" class="product-title" title="Krugerrand 1 uncja złota 2021">Krugerrand 1 uncja złota 2021</a>	
 		</p>
 		
 						
 					<span class="cm-reload-30131 price-update" id="price_update_30131">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30131"><span id="sec_discounted_price_30131" class="price">7,483.24</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30131"><span id="sec_discounted_price_30131" class="price">7,339.57</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30131--></span>
 
@@ -535,7 +534,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29993 price-update" id="price_update_29993">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29993"><span id="sec_discounted_price_29993" class="price">74,361.98</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29993"><span id="sec_discounted_price_29993" class="price">72,571.73</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29993--></span>
 
@@ -602,55 +601,55 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact border-bottom" valign="top" width="25%">
-					<form action="/" method="post" name="product_form_29994" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+					<form action="/" method="post" name="product_form_30093" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
-<input type="hidden" name="product_data[29994][product_id]" value="29994"/>
+<input type="hidden" name="product_data[30093][product_id]" value="30093"/>
 
-				<a href="/10-x-1-uncja-zlota-kanadyjski-lisc-klonowy.html"><img class=" " id="det_img_29994" src="/images/thumbnails/1/105/x29994_6.jpg.pagespeed.ic.T9XU1HEaIC.jpg" width="105" alt="" border="0"/>
+				<a href="/britannia-1-10-uncji-zlota.html"><img class=" " id="det_img_30093" src="/images/thumbnails/1/105/x1_10_uncji_zlota_britannia.jpg.pagespeed.ic.7v-fSGDUHN.jpg" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
-					<a href="/10-x-1-uncja-zlota-kanadyjski-lisc-klonowy.html" class="product-title" title="10 x 1 Uncja Złota Kanadyjski Liść Klonowy 2021">10 x 1 Uncja Złota Kanadyjski Liść Klonowy...</a>	
+					<a href="/britannia-1-10-uncji-zlota.html" class="product-title" title="Britannia 1/10 Uncji Złota 2021">Britannia 1/10 Uncji Złota 2021</a>	
 		</p>
 		
 						
-					<span class="cm-reload-29994 price-update" id="price_update_29994">
+					<span class="cm-reload-30093 price-update" id="price_update_30093">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29994"><span id="sec_discounted_price_29994" class="price">73,978.92</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30093"><span id="sec_discounted_price_30093" class="price">826.05</span>&nbsp;<span class="price">PLN</span></span>
 							
-						<!--price_update_29994--></span>
+						<!--price_update_30093--></span>
 
 		
 					
 		
 		<div class="buttons-container">
-						<div class="cm-reload-29994" id="add_to_cart_update_29994">
+						<div class="cm-reload-30093" id="add_to_cart_update_30093">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
 <input type="hidden" name="appearance[separate_buttons]" value="1"/>
 <input type="hidden" name="appearance[show_list_buttons]" value="1"/>
 <input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_29994">
+			<div class="buttons-container" id="cart_add_block_30093">
 																									
 		
  
 	<span class="az_button">
-    <span id="wrap_button_cart_29994" class="az-template-submit">
+    <span id="wrap_button_cart_30093" class="az-template-submit">
 	<span class="az-button-left">
 	<span class="az-button-right">
 	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_29994" type="submit" name="dispatch[checkout.add..29994]" value="Kup Teraz"/></span>
+		<span class="az-button-text"><input id="button_cart_30093" type="submit" name="dispatch[checkout.add..30093]" value="Kup Teraz"/></span>
 	</span></span></span>
 	</span>
     </span>
 
 																						</div>
 	
-			<div class="buttons-container" id="cart_buttons_block_29994">
+			<div class="buttons-container" id="cart_buttons_block_30093">
 											</div>
 	
-		<!--add_to_cart_update_29994--></div>
+		<!--add_to_cart_update_30093--></div>
 
 		</div>
 						</form>
@@ -685,55 +684,55 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact border-bottom" valign="top" width="25%">
-					<form action="/" method="post" name="product_form_30093" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+					<form action="/" method="post" name="product_form_29994" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
-<input type="hidden" name="product_data[30093][product_id]" value="30093"/>
+<input type="hidden" name="product_data[29994][product_id]" value="29994"/>
 
-				<a href="/britannia-1-10-uncji-zlota.html"><img class=" " id="det_img_30093" src="/images/thumbnails/1/105/x1_10_uncji_zlota_britannia.jpg.pagespeed.ic.7v-fSGDUHN.jpg" width="105" alt="" border="0"/>
+				<a href="/10-x-1-uncja-zlota-kanadyjski-lisc-klonowy.html"><img class=" " id="det_img_29994" src="/images/thumbnails/1/105/x29994_6.jpg.pagespeed.ic.T9XU1HEaIC.jpg" width="105" alt="" border="0"/>
 </a>
 	
 		<p>
-					<a href="/britannia-1-10-uncji-zlota.html" class="product-title" title="Britannia 1/10 Uncji Złota 2021">Britannia 1/10 Uncji Złota 2021</a>	
+					<a href="/10-x-1-uncja-zlota-kanadyjski-lisc-klonowy.html" class="product-title" title="10 x 1 Uncja Złota Kanadyjski Liść Klonowy 2021">10 x 1 Uncja Złota Kanadyjski Liść Klonowy...</a>	
 		</p>
 		
 						
-					<span class="cm-reload-30093 price-update" id="price_update_30093">
+					<span class="cm-reload-29994 price-update" id="price_update_29994">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30093"><span id="sec_discounted_price_30093" class="price">841.67</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29994"><span id="sec_discounted_price_29994" class="price">72,250.47</span>&nbsp;<span class="price">PLN</span></span>
 							
-						<!--price_update_30093--></span>
+						<!--price_update_29994--></span>
 
 		
 					
 		
 		<div class="buttons-container">
-						<div class="cm-reload-30093" id="add_to_cart_update_30093">
+						<div class="cm-reload-29994" id="add_to_cart_update_29994">
 <input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
 <input type="hidden" name="appearance[separate_buttons]" value="1"/>
 <input type="hidden" name="appearance[show_list_buttons]" value="1"/>
 <input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30093">
+			<div class="buttons-container" id="cart_add_block_29994">
 																									
 		
  
 	<span class="az_button">
-    <span id="wrap_button_cart_30093" class="az-template-submit">
+    <span id="wrap_button_cart_29994" class="az-template-submit">
 	<span class="az-button-left">
 	<span class="az-button-right">
 	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30093" type="submit" name="dispatch[checkout.add..30093]" value="Kup Teraz"/></span>
+		<span class="az-button-text"><input id="button_cart_29994" type="submit" name="dispatch[checkout.add..29994]" value="Kup Teraz"/></span>
 	</span></span></span>
 	</span>
     </span>
 
 																						</div>
 	
-			<div class="buttons-container" id="cart_buttons_block_30093">
+			<div class="buttons-container" id="cart_buttons_block_29994">
 											</div>
 	
-		<!--add_to_cart_update_30093--></div>
+		<!--add_to_cart_update_29994--></div>
 
 		</div>
 						</form>
@@ -786,7 +785,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29996 price-update" id="price_update_29996">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29996"><span id="sec_discounted_price_29996" class="price">73,756.05</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29996"><span id="sec_discounted_price_29996" class="price">72,250.47</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29996--></span>
 
@@ -853,89 +852,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 	<td class="product-spacer">&nbsp;</td>
 	<td class="center image-border compact border-bottom" valign="top" width="25%">
-					<form action="/" method="post" name="product_form_30105" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
-<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
-<input type="hidden" name="product_data[30105][product_id]" value="30105"/>
-
-				<a href="/prostokatna-moneta-smok-1-uncja-zlota.html"><img class=" " id="det_img_30105" src="/images/thumbnails/1/105/xprostokatna_moneta_1_uncja_zloto.jpg.pagespeed.ic.5bLoaA5vVi.jpg" width="105" alt="" border="0"/>
-</a>
-	
-		<p>
-					<a href="/prostokatna-moneta-smok-1-uncja-zlota.html" class="product-title" title="Prostokątna Moneta Smok 1 Uncja Złota 2021">Prostokątna Moneta Smok 1 Uncja Złota 2021</a>	
-		</p>
-		
-						
-					<span class="cm-reload-30105 price-update" id="price_update_30105">
-		<input type="hidden" name="appearance[show_price_values]" value="1"/>
-		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30105"><span id="sec_discounted_price_30105" class="price">7,587.68</span>&nbsp;<span class="price">PLN</span></span>
-							
-						<!--price_update_30105--></span>
-
-		
-					
-		
-		<div class="buttons-container">
-						<div class="cm-reload-30105" id="add_to_cart_update_30105">
-<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
-<input type="hidden" name="appearance[separate_buttons]" value="1"/>
-<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
-<input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30105">
-																									
-		
- 
-	<span class="az_button">
-    <span id="wrap_button_cart_30105" class="az-template-submit">
-	<span class="az-button-left">
-	<span class="az-button-right">
-	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30105" type="submit" name="dispatch[checkout.add..30105]" value="Kup Teraz"/></span>
-	</span></span></span>
-	</span>
-    </span>
-
-																						</div>
-	
-			<div class="buttons-container" id="cart_buttons_block_30105">
-											</div>
-	
-		<!--add_to_cart_update_30105--></div>
-
-		</div>
-						</form>
-
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact border-bottom" valign="top" width="25%">
 					<form action="/" method="post" name="product_form_30143" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
@@ -952,7 +868,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30143 price-update" id="price_update_30143">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30143"><span id="sec_discounted_price_30143" class="price">6,436.35</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30143"><span id="sec_discounted_price_30143" class="price">6,304.26</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30143--></span>
 
@@ -1035,7 +951,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30134 price-update" id="price_update_30134">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30134"><span id="sec_discounted_price_30134" class="price">7,476.98</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30134"><span id="sec_discounted_price_30134" class="price">7,351.87</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30134--></span>
 
@@ -1074,8 +990,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 		</td>
 	<td class="product-spacer">&nbsp;</td>
-</tr>
-<tr>
 				
 
 
@@ -1103,173 +1017,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 
 	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact" valign="top" width="25%">
-					<form action="/" method="post" name="product_form_30128" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
-<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
-<input type="hidden" name="product_data[30128][product_id]" value="30128"/>
-
-				<a href="/sztabka-zlota-2-5-g.html"><img class=" " id="det_img_30128" src="/images/thumbnails/1/105/2.5g_sztabka_zlota_—_kopi.jpg" width="105" alt="" border="0"/>
-</a>
-	
-		<p>
-					<a href="/sztabka-zlota-2-5-g.html" class="product-title" title="Sztabka złota 2,5 g">Sztabka złota 2,5 g</a>	
-		</p>
-		
-						
-					<span class="cm-reload-30128 price-update" id="price_update_30128">
-		<input type="hidden" name="appearance[show_price_values]" value="1"/>
-		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30128"><span id="sec_discounted_price_30128" class="price">673.30</span>&nbsp;<span class="price">PLN</span></span>
-							
-						<!--price_update_30128--></span>
-
-		
-					
-		
-		<div class="buttons-container">
-						<div class="cm-reload-30128" id="add_to_cart_update_30128">
-<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
-<input type="hidden" name="appearance[separate_buttons]" value="1"/>
-<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
-<input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30128">
-																									
-		
- 
-	<span class="az_button">
-    <span id="wrap_button_cart_30128" class="az-template-submit">
-	<span class="az-button-left">
-	<span class="az-button-right">
-	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30128" type="submit" name="dispatch[checkout.add..30128]" value="Kup Teraz"/></span>
-	</span></span></span>
-	</span>
-    </span>
-
-																						</div>
-	
-			<div class="buttons-container" id="cart_buttons_block_30128">
-											</div>
-	
-		<!--add_to_cart_update_30128--></div>
-
-		</div>
-						</form>
-
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact" valign="top" width="25%">
-					<form action="/" method="post" name="product_form_30144" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
-<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
-<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
-<input type="hidden" name="product_data[30144][product_id]" value="30144"/>
-
-				<a href="/valcambi-combibar-multicard-100-x-1-g.html"><img class=" " id="det_img_30144" src="/images/thumbnails/1/105/x100x1g_combibar_mutlicard_zlota_czekolada_najtaniej.jpg.pagespeed.ic.L4xIfi6peg.jpg" width="105" alt="" border="0"/>
-</a>
-	
-		<p>
-					<a href="/valcambi-combibar-multicard-100-x-1-g.html" class="product-title" title="Valcambi - CombiBar (Multicard) 100 x 1 g">Valcambi - CombiBar (Multicard) 100 x 1 g</a>	
-		</p>
-		
-						
-					<span class="cm-reload-30144 price-update" id="price_update_30144">
-		<input type="hidden" name="appearance[show_price_values]" value="1"/>
-		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30144"><span id="sec_discounted_price_30144" class="price">24,122.31</span>&nbsp;<span class="price">PLN</span></span>
-							
-						<!--price_update_30144--></span>
-
-		
-					
-		
-		<div class="buttons-container">
-						<div class="cm-reload-30144" id="add_to_cart_update_30144">
-<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
-<input type="hidden" name="appearance[separate_buttons]" value="1"/>
-<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
-<input type="hidden" name="appearance[but_role]" value="action"/>
-			<div class="buttons-container" id="cart_add_block_30144">
-																									
-		
- 
-	<span class="az_button">
-    <span id="wrap_button_cart_30144" class="az-template-submit">
-	<span class="az-button-left">
-	<span class="az-button-right">
-	<span class="az-button-middle">
-		<span class="az-button-text"><input id="button_cart_30144" type="submit" name="dispatch[checkout.add..30144]" value="Kup Teraz"/></span>
-	</span></span></span>
-	</span>
-    </span>
-
-																						</div>
-	
-			<div class="buttons-container" id="cart_buttons_block_30144">
-											</div>
-	
-		<!--add_to_cart_update_30144--></div>
-
-		</div>
-						</form>
-
-		</td>
-	<td class="product-spacer">&nbsp;</td>
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<td class="product-spacer">&nbsp;</td>
-	<td class="center image-border compact" valign="top" width="25%">
+	<td class="center image-border compact border-bottom" valign="top" width="25%">
 					<form action="/" method="post" name="product_form_30150" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
 <input type="hidden" name="result_ids" value="cart_status,wish_list"/>
 <input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
@@ -1286,7 +1034,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30150 price-update" id="price_update_30150">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30150"><span id="sec_discounted_price_30150" class="price">7,651.04</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30150"><span id="sec_discounted_price_30150" class="price">7,577.37</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30150--></span>
 
@@ -1325,6 +1073,8 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 		</td>
 	<td class="product-spacer">&nbsp;</td>
+</tr>
+<tr>
 				
 
 
@@ -1369,7 +1119,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30149 price-update" id="price_update_30149">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30149"><span id="sec_discounted_price_30149" class="price">7,573.75</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30149"><span id="sec_discounted_price_30149" class="price">7,433.19</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30149--></span>
 
@@ -1408,6 +1158,255 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 
 		</td>
 	<td class="product-spacer">&nbsp;</td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<td class="product-spacer">&nbsp;</td>
+	<td class="center image-border compact" valign="top" width="25%">
+					<form action="/" method="post" name="product_form_30146" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
+<input type="hidden" name="product_data[30146][product_id]" value="30146"/>
+
+				<a href="/armenska-arka-noego-1-4-uncji-zlota.html"><img class=" " id="det_img_30146" src="/images/thumbnails/1/105/x1-4_uncji_zlota_armenska_arka_noego.jpg.pagespeed.ic.txLpSsV-Dp.jpg" width="105" alt="" border="0"/>
+</a>
+	
+		<p>
+					<a href="/armenska-arka-noego-1-4-uncji-zlota.html" class="product-title" title="Armeńska Arka Noego 1/4 Uncji Złota 2021">Armeńska Arka Noego 1/4 Uncji Złota 2021</a>	
+		</p>
+		
+						
+					<span class="cm-reload-30146 price-update" id="price_update_30146">
+		<input type="hidden" name="appearance[show_price_values]" value="1"/>
+		<input type="hidden" name="appearance[show_price]" value="1"/>
+																	<span class="price" id="line_discounted_price_30146"><span id="sec_discounted_price_30146" class="price">2,002.47</span>&nbsp;<span class="price">PLN</span></span>
+							
+						<!--price_update_30146--></span>
+
+		
+					
+		
+		<div class="buttons-container">
+						<div class="cm-reload-30146" id="add_to_cart_update_30146">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
+<input type="hidden" name="appearance[separate_buttons]" value="1"/>
+<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
+<input type="hidden" name="appearance[but_role]" value="action"/>
+			<div class="buttons-container" id="cart_add_block_30146">
+																									
+		
+ 
+	<span class="az_button">
+    <span id="wrap_button_cart_30146" class="az-template-submit">
+	<span class="az-button-left">
+	<span class="az-button-right">
+	<span class="az-button-middle">
+		<span class="az-button-text"><input id="button_cart_30146" type="submit" name="dispatch[checkout.add..30146]" value="Kup Teraz"/></span>
+	</span></span></span>
+	</span>
+    </span>
+
+																						</div>
+	
+			<div class="buttons-container" id="cart_buttons_block_30146">
+											</div>
+	
+		<!--add_to_cart_update_30146--></div>
+
+		</div>
+						</form>
+
+		</td>
+	<td class="product-spacer">&nbsp;</td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<td class="product-spacer">&nbsp;</td>
+	<td class="center image-border compact" valign="top" width="25%">
+					<form action="/" method="post" name="product_form_30147" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
+<input type="hidden" name="product_data[30147][product_id]" value="30147"/>
+
+				<a href="/valcambi-combibar-multicard-20-x-1-g.html"><img class=" " id="det_img_30147" src="/images/thumbnails/1/105/xzlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard2.png.pagespeed.ic.4HBbfgwjJ8.png" width="105" alt="" border="0"/>
+</a>
+	
+		<p>
+					<a href="/valcambi-combibar-multicard-20-x-1-g.html" class="product-title" title="Valcambi - CombiBar (Multicard) 20 x 1 g">Valcambi - CombiBar (Multicard) 20 x 1 g</a>	
+		</p>
+		
+						
+					<span class="cm-reload-30147 price-update" id="price_update_30147">
+		<input type="hidden" name="appearance[show_price_values]" value="1"/>
+		<input type="hidden" name="appearance[show_price]" value="1"/>
+																	<span class="price" id="line_discounted_price_30147"><span id="sec_discounted_price_30147" class="price">5,184.91</span>&nbsp;<span class="price">PLN</span></span>
+							
+						<!--price_update_30147--></span>
+
+		
+					
+		
+		<div class="buttons-container">
+						<div class="cm-reload-30147" id="add_to_cart_update_30147">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
+<input type="hidden" name="appearance[separate_buttons]" value="1"/>
+<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
+<input type="hidden" name="appearance[but_role]" value="action"/>
+			<div class="buttons-container" id="cart_add_block_30147">
+																									
+		
+ 
+	<span class="az_button">
+    <span id="wrap_button_cart_30147" class="az-template-submit">
+	<span class="az-button-left">
+	<span class="az-button-right">
+	<span class="az-button-middle">
+		<span class="az-button-text"><input id="button_cart_30147" type="submit" name="dispatch[checkout.add..30147]" value="Kup Teraz"/></span>
+	</span></span></span>
+	</span>
+    </span>
+
+																						</div>
+	
+			<div class="buttons-container" id="cart_buttons_block_30147">
+											</div>
+	
+		<!--add_to_cart_update_30147--></div>
+
+		</div>
+						</form>
+
+		</td>
+	<td class="product-spacer">&nbsp;</td>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<td class="product-spacer">&nbsp;</td>
+	<td class="center image-border compact" valign="top" width="25%">
+					<form action="/" method="post" name="product_form_30151" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=3"/>
+<input type="hidden" name="product_data[30151][product_id]" value="30151"/>
+
+				<a href="/kanadyjski-lisc-klonowy-1g-zlota.html"><img class=" " id="det_img_30151" src="/images/thumbnails/1/105/x1g-kanadyjski_lisc_klonowy.jpg.pagespeed.ic.Ovqwx3OIi4.jpg" width="105" alt="" border="0"/>
+</a>
+	
+		<p>
+					<a href="/kanadyjski-lisc-klonowy-1g-zlota.html" class="product-title" title="Kanadyjski Liść Klonowy 1g złota">Kanadyjski Liść Klonowy 1g złota</a>	
+		</p>
+		
+						
+					<span class="cm-reload-30151 price-update" id="price_update_30151">
+		<input type="hidden" name="appearance[show_price_values]" value="1"/>
+		<input type="hidden" name="appearance[show_price]" value="1"/>
+																	<span class="price" id="line_discounted_price_30151"><span id="sec_discounted_price_30151" class="price">292.22</span>&nbsp;<span class="price">PLN</span></span>
+							
+						<!--price_update_30151--></span>
+
+		
+					
+		
+		<div class="buttons-container">
+						<div class="cm-reload-30151" id="add_to_cart_update_30151">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
+<input type="hidden" name="appearance[separate_buttons]" value="1"/>
+<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
+<input type="hidden" name="appearance[but_role]" value="action"/>
+			<div class="buttons-container" id="cart_add_block_30151">
+																									
+		
+ 
+	<span class="az_button">
+    <span id="wrap_button_cart_30151" class="az-template-submit">
+	<span class="az-button-left">
+	<span class="az-button-right">
+	<span class="az-button-middle">
+		<span class="az-button-text"><input id="button_cart_30151" type="submit" name="dispatch[checkout.add..30151]" value="Kup Teraz"/></span>
+	</span></span></span>
+	</span>
+    </span>
+
+																						</div>
+	
+			<div class="buttons-container" id="cart_buttons_block_30151">
+											</div>
+	
+		<!--add_to_cart_update_30151--></div>
+
+		</div>
+						</form>
+
+		</td>
+	<td class="product-spacer">&nbsp;</td>
 </tr>
 </table>
 
@@ -1420,7 +1419,6 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 									<a name="pagination" href="/zloto-inwestycyjne.html" rel="1" class="cm-history " rev="pagination_contents">1</a>
 												<a name="pagination" href="/zloto-inwestycyjne-page-2.html" rel="2" class="cm-history " rev="pagination_contents">2</a>
 												<strong class="pagination-selected-page">3</strong>
-												<a name="pagination" href="/zloto-inwestycyjne-page-4.html" rel="4" class="cm-history " rev="pagination_contents">4</a>
 					
 			</div>
 	
@@ -1620,7 +1618,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1626557103.7706
+			've[time_begin]': 1631809182.9454
 		},
 		hidden: true
 	});
@@ -1629,7 +1627,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-3.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1626557103.7706" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-3.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1631809182.9454" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
