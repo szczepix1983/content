@@ -171,7 +171,7 @@ autoComplete = new Autocomplete('main_search', {
 <p  class="box__title header-size-4 header-brand-bg">Filtrowanie</p>
 </header>
 <div  class="box_content contentToggle">
-<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','205','do 21 dni','do-21-dni','zQ')"><span class="change_to_link checkbox-link" data-href="/sztabki-srebra/termin-wysylki-do-21-dni,dDQ-zQ.html">do 21 dni (1)</span></span>                <script type="text/javascript">
+<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><span class="change_to_link checkbox-link" data-href="/sztabki-srebra/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (1)</span></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_13').click(function() {
                             var urlred = "/sztabki-srebra.html";
@@ -289,7 +289,7 @@ autoComplete = new Autocomplete('main_search', {
                 </script>
 <a id="filter_link_9" class="more" href="#">Filtruj &rsaquo;</a></div></div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -340,7 +340,7 @@ Srebna sztabka Germania 1 kg</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="4209.52">4 209,52 zł</span>
+<span class="price-value"  itemprop="price" content="3876.29">3 876,29 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -493,7 +493,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">7 033,97 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">99,61 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">4 282,35 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 822,07 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,11 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 651,90 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({

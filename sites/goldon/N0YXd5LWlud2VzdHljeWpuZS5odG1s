@@ -171,7 +171,7 @@ autoComplete = new Autocomplete('main_search', {
 <p  class="box__title header-size-4 header-brand-bg">Filtrowanie</p>
 </header>
 <div  class="box_content contentToggle">
-<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','205','do 21 dni','do-21-dni','zQ')"><a class="checkbox-link" href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-21-dni,dDQ-zQ.html">do 21 dni (5)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'13','212','do 28 dni','do-28-dni','1A')"><a class="checkbox-link" href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-28-dni,dDQ-1A.html">do 28 dni (3)</a></span>                <script type="text/javascript">
+<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','205','do 21 dni','do-21-dni','zQ')"><a class="checkbox-link" href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-21-dni,dDQ-zQ.html">do 21 dni (5)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'13','212','do 28 dni','do-28-dni','1A')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-28-dni,dDQ-1A.html">do 28 dni (1)</span></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_13').click(function() {
                             var urlred = "/srebrne-zestawy-inwestycyjne.html";
@@ -314,12 +314,12 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(3125.7600),
-					startMax: parseFloat(62801.1200),
-					rangeMin: parseFloat(3125.7600),
-					rangeMax: parseFloat(62801.1200),
-					currentFrom: parseFloat(3125.7600),
-					currentTo: parseFloat(62801.1200),
+					startMin: parseFloat(2796.2700),
+					startMax: parseFloat(56181.1800),
+					rangeMin: parseFloat(2796.2700),
+					rangeMax: parseFloat(56181.1800),
+					currentFrom: parseFloat(2796.2700),
+					currentTo: parseFloat(56181.1800),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -392,7 +392,7 @@ autoComplete = new Autocomplete('main_search', {
 		</script>
 		</div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -443,7 +443,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="61142.61">61 142,61 zł</span>
+<span class="price-value"  itemprop="price" content="54697.50">54 697,50 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -474,7 +474,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="62801.12">62 801,12 zł</span>
+<span class="price-value"  itemprop="price" content="56181.18">56 181,18 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -505,7 +505,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="61142.61">61 142,61 zł</span>
+<span class="price-value"  itemprop="price" content="53911.55">53 911,55 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -536,7 +536,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="31323.36">31 323,36 zł</span>
+<span class="price-value"  itemprop="price" content="28021.53">28 021,53 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -567,7 +567,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12324.75">12 324,75 zł</span>
+<span class="price-value"  itemprop="price" content="11025.58">11 025,58 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -598,7 +598,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12754.06">12 754,06 zł</span>
+<span class="price-value"  itemprop="price" content="11409.64">11 409,64 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -614,7 +614,7 @@ Srebrne Zestawy inwestycyjne</h1>
 <div class="image">
 <figure>
 <span class="change_to_link_follow" data-href="/100-szt-x-srebrna-moneta-britannia-1-oz-2021-r.html" onclick="">
-<img src="/100-szt-x-srebrna-moneta-britannia-1-oz-2021-r.0.1620744596.jpg" alt="100 szt x Srebrna moneta Britannia  1 oz   2021 r." width="200" height="200">
+<img src="/100-szt-x-srebrna-moneta-britannia-1-oz-2021-r.jpg" alt="100 szt x Srebrna moneta Britannia  1 oz   2021 r." width="200" height="200">
 </span>
 </figure>
 </div>
@@ -629,7 +629,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12351.64">12 351,64 zł</span>
+<span class="price-value"  itemprop="price" content="10871.42">10 871,42 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -660,7 +660,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="3125.76">3 125,76 zł</span>
+<span class="price-value"  itemprop="price" content="2796.27">2 796,27 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -676,7 +676,7 @@ Srebrne Zestawy inwestycyjne</h1>
 <div class="image">
 <figure>
 <span class="change_to_link_follow" data-href="/25-szt-x-srebrna-moneta-lisc-klonu-maple-leaf-1-oz-2021.html" onclick="">
-<img src="/25-szt-x-srebrna-moneta-lisc-klonu-maple-leaf-1-oz-2021.0.1621959812.jpg" alt="25 szt x Srebrna moneta  Liść Klonu (Maple Leaf)  1 oz 2021" width="200" height="200">
+<img src="/25-szt-x-srebrna-moneta-lisc-klonu-maple-leaf-1-oz-2021.jpg" alt="25 szt x Srebrna moneta  Liść Klonu (Maple Leaf)  1 oz 2021" width="200" height="200">
 </span>
 </figure>
 </div>
@@ -691,7 +691,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="3190.21">3 190,21 zł</span>
+<span class="price-value"  itemprop="price" content="2836.10">2 836,10 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -844,7 +844,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">7 033,97 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">99,61 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">4 282,35 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 822,07 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,11 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 651,90 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
