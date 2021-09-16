@@ -13,8 +13,8 @@
 		<meta name="robots" content="index,follow" />
 		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1612869109" />
-		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1612869109" />
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1628584619" />
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1628584619" />
 		<link rel="stylesheet" href="/themes/default-bootstrap/css/shop.css" type="text/css" media="all" />
 			<link rel="stylesheet" href="/themes/default-bootstrap/css/global.css" type="text/css" media="all" />
 			<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/highdpi.css" type="text/css" media="all" />
@@ -66,10 +66,10 @@ var contentOnly = false;
 var customizationIdMessage = 'Dostosowywanie #';
 var delete_txt = 'Usuń';
 var displayList = false;
-var filters = [{"type_lite":"manufacturer","type":"manufacturer","id_key":0,"name":"Producent","values":{"14":{"name":"HERAEUS","nbr":"10","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-heraeus","rel":"nofollow"},"18":{"name":"VALCAMBI","nbr":"3","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-valcambi","rel":"nofollow"}},"filter_show_limit":"0","filter_type":"0"},{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"232244","min":"290","values":{"1":"232244","0":"290"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"34":{"nbr":2,"name":"1 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_g","rel":""},"41":{"nbr":2,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_oz","rel":""},"35":{"nbr":2,"name":"2 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-2_g","rel":""},"38":{"nbr":2,"name":"5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-5_g","rel":""},"39":{"nbr":2,"name":"10 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-10_g","rel":""},"40":{"nbr":3,"name":"20 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-20_g","rel":""},"42":{"nbr":2,"name":"50 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-50_g","rel":""},"43":{"nbr":3,"name":"100 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-100_g","rel":""},"44":{"nbr":1,"name":"250 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-250_g","rel":""},"45":{"nbr":1,"name":"500 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-500_g","rel":""},"46":{"nbr":1,"name":"1000 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1000_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"}];
+var filters = [{"type_lite":"manufacturer","type":"manufacturer","id_key":0,"name":"Producent","values":{"14":{"name":"HERAEUS","nbr":"10","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-heraeus","rel":"nofollow"},"18":{"name":"VALCAMBI","nbr":"12","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-valcambi","rel":"nofollow"}},"filter_show_limit":"0","filter_type":"0"},{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"225146","min":"278","values":{"1":"225146","0":"278"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"34":{"nbr":3,"name":"1 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_g","rel":""},"41":{"nbr":4,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_oz","rel":""},"35":{"nbr":2,"name":"2 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-2_g","rel":""},"37":{"nbr":1,"name":"2.5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-25_g","rel":""},"38":{"nbr":3,"name":"5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-5_g","rel":""},"39":{"nbr":3,"name":"10 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-10_g","rel":""},"40":{"nbr":4,"name":"20 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-20_g","rel":""},"42":{"nbr":3,"name":"50 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-50_g","rel":""},"43":{"nbr":4,"name":"100 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-100_g","rel":""},"44":{"nbr":1,"name":"250 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-250_g","rel":""},"45":{"nbr":1,"name":"500 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-500_g","rel":""},"46":{"nbr":1,"name":"1000 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1000_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"}];
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1626556946;
+var generated_date = 1631822065;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -373,7 +373,7 @@ var usingSecureMode = true;
 		<div class="cat-title">Kategorie</div>
 		<ul class="sf-menu clearfix menu-content">
 			<li><a href="http://zlota-uncja.pl/" title="Home">Home</a></li>
-<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li><li><a href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Zapowiedzi">Zapowiedzi</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
+<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
 					</ul>
 	</div>
 	<!--/ Menu -->
@@ -401,22 +401,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 7045.16</div>
-      <div class="rtpriclist-other">XAU/EUR: 1535.19</div>
+      <div class="rtpriclist-current">XAU/PLN: 6824.85</div>
+      <div class="rtpriclist-other">XAU/EUR: 1490.97</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 99.79</div>
+      <div class="rtpriclist-current">XAG/PLN: 89.14</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 109.79</div>
-      <div class="rtpriclist-current">ASK: 89.79</div>-->
+      <!-- <div class="rtpriclist-current">BID: 99.14</div>
+      <div class="rtpriclist-current">ASK: 79.14</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 21.75</div>
+      <div class="rtpriclist-other">XAG/EUR: 19.47</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 31.75</div>
-      <div class="rtpriclist-other">ASK: 11.75</div> -->
+      <!-- <div class="rtpriclist-other">BID: 29.47</div>
+      <div class="rtpriclist-other">ASK: 9.47</div> -->
     </div>
   </div>
 </div>
@@ -445,7 +445,7 @@ var usingSecureMode = true;
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_manufacturer_18" id="layered_manufacturer_18" value="18" /> 
 																						<label for="layered_manufacturer_18">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#producent-valcambi" data-rel="nofollow">VALCAMBI<span> (3)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#producent-valcambi" data-rel="nofollow">VALCAMBI<span> (12)</span></a>
 																							</label>
 										</li>
 																																															</ul>
@@ -478,13 +478,13 @@ var usingSecureMode = true;
 																																												<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_34" id="layered_id_feature_34" value="34_8" /> 
 																						<label for="layered_id_feature_34">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-1_g">1 g<span> (2)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-1_g">1 g<span> (3)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_41" id="layered_id_feature_41" value="41_8" /> 
 																						<label for="layered_id_feature_41">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-1_oz">1 oz<span> (2)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-1_oz">1 oz<span> (4)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -494,33 +494,39 @@ var usingSecureMode = true;
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_37" id="layered_id_feature_37" value="37_8" /> 
+																						<label for="layered_id_feature_37">
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-25_g">2.5 g<span> (1)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_38" id="layered_id_feature_38" value="38_8" /> 
 																						<label for="layered_id_feature_38">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-5_g">5 g<span> (2)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-5_g">5 g<span> (3)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_39" id="layered_id_feature_39" value="39_8" /> 
 																						<label for="layered_id_feature_39">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-10_g">10 g<span> (2)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-10_g">10 g<span> (3)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_40" id="layered_id_feature_40" value="40_8" /> 
 																						<label for="layered_id_feature_40">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-20_g">20 g<span> (3)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-20_g">20 g<span> (4)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_42" id="layered_id_feature_42" value="42_8" /> 
 																						<label for="layered_id_feature_42">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-50_g">50 g<span> (2)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-50_g">50 g<span> (3)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_43" id="layered_id_feature_43" value="43_8" /> 
 																						<label for="layered_id_feature_43">
-																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-100_g">100 g<span> (3)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/3-zlote-sztabki#waga-100_g">100 g<span> (4)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -614,109 +620,106 @@ var usingSecureMode = true;
     <div class="block_content products-block">
                     <ul class="products">
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE "><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2524-small_default/canada-maple-leaf-au9999-1oz-backdated-issue-.jpg" alt="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE " /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2689-small_default/new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.jpg" alt="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE ">Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE </a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz">New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz</a>
                             </h5>
-                        	<p class="product-description">Kanadyjski Liść Klonowy to najpopularniejsza złota moneta produkowana...</p>
+                        	<p class="product-description">Srebrna moneta z serii "Władca Pierścieni" o wadze jednej uncji...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 502,26 zł                                        </span>
+                                        	152,75 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/polonia-/884-polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.html" title="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2521-small_default/polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.jpg" alt="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2687-small_default/grenada-2021-coat-of-arms-ag999-1oz-bu.jpg" alt="Grenada 2021 - Coat of Arms Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/polonia-/884-polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.html" title="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA">Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU">Grenada 2021 - Coat of Arms Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">ROLKA zawiera 20 sztuk monet.
-
-
-„Trójki” Mennicy Polonia to odpowiedź na...</p>
+                        	<p class="product-description">Kolejna moneta z serii EC8 "Eastern Caribbean 8" przedstawia herb...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	350,00 zł                                        </span>
+                                        	128,04 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/883-congo-2021-prehistoric-life-archaeopteryx-ag9999-1oz-bu.html" title="Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2519-small_default/congo-2021-prehistoric-life-archaeopteryx-ag9999-1oz-bu.jpg" alt="Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2685-small_default/australia-2022-year-of-the-tiger-au9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Au9999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/883-congo-2021-prehistoric-life-archaeopteryx-ag9999-1oz-bu.html" title="Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU">Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU">Australia 2022 - Year of the Tiger Au9999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta Archaeopteryx jest piątą z serii Prehistoric Life,...</p>
+                        	<p class="product-description">Seria Australian Lunar upamiętnia zwierzęta starożytnego chińskiego...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	152,56 zł                                        </span>
+                                        	7 438,25 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/882-great-britain-2021-the-queen-s-beasts-completer-coin-ag999-2oz-bu.html" title="Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2516-small_default/great-britain-2021-the-queen-s-beasts-completer-coin-ag999-2oz-bu.jpg" alt="Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2683-small_default/australia-2022-year-of-the-tiger-ag9999-12oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/882-great-britain-2021-the-queen-s-beasts-completer-coin-ag999-2oz-bu.html" title="Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU">Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU">Australia 2022 - Year of the Tiger Ag9999 1/2oz BU</a>
                             </h5>
-                        	<p class="product-description">Srebrna, 2 uncjowa, moneta Completer Coin jest zwieńczeniem wyjątkowej...</p>
+                        	<p class="product-description">Piękna srebrna moneta, o wadze 1/2 uncji trojańskiej, z serii Lunar...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	261,98 zł                                        </span>
+                                        	81,04 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/880-china-2021-panda-ag999-30g-sunset.html" title="China 2021 - Panda Ag999 30g SUNSET"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2509-small_default/china-2021-panda-ag999-30g-sunset.jpg" alt="China 2021 - Panda Ag999 30g SUNSET" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2681-small_default/australia-2022-year-of-the-tiger-ag9999-2oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 2oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/880-china-2021-panda-ag999-30g-sunset.html" title="China 2021 - Panda Ag999 30g SUNSET">China 2021 - Panda Ag999 30g SUNSET</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU">Australia 2022 - Year of the Tiger Ag9999 2oz BU</a>
                             </h5>
-                        	<p class="product-description">Monety uszlachetniane nie są wyrobami menniczymi. W związku z powyższym...</p>
+                        	<p class="product-description">Piękna srebrna moneta, o wadze 2 uncji trojańskich, z serii Lunar Series...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	210,00 zł                                        </span>
+                                        	276,67 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/879-usa-2021-american-eagle-ag999-1oz-sunset.html" title="USA 2021 - American Eagle Ag999 1oz SUNSET"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2504-small_default/usa-2021-american-eagle-ag999-1oz-sunset.jpg" alt="USA 2021 - American Eagle Ag999 1oz SUNSET" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag999.9 1 oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2679-small_default/australia-2022-year-of-the-tiger-ag9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/879-usa-2021-american-eagle-ag999-1oz-sunset.html" title="USA 2021 - American Eagle Ag999 1oz SUNSET">USA 2021 - American Eagle Ag999 1oz SUNSET</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1oz BU">Australia 2022 - Year of the Tiger Ag9999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Monety uszlachetniane nie są wyrobami menniczymi. W związku z powyższym...</p>
+                        	<p class="product-description">Piękna srebrna moneta, o wadze 1 uncji trojańskiej, z serii Lunar Series...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	210,00 zł                                        </span>
+                                        	141,77 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/878-canada-2021-maple-leaf-ag9999-1oz-sunset.html" title="Canada 2021 - Maple Leaf Ag9999 1oz SUNSET"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2499-small_default/canada-2021-maple-leaf-ag9999-1oz-sunset.jpg" alt="Canada 2021 - Maple Leaf Ag9999 1oz SUNSET" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2677-small_default/somalia-2021-elephant-ag9999-5oz.jpg" alt="Somalia 2021 - Elephant Ag999.9 5oz" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/878-canada-2021-maple-leaf-ag9999-1oz-sunset.html" title="Canada 2021 - Maple Leaf Ag9999 1oz SUNSET">Canada 2021 - Maple Leaf Ag9999 1oz SUNSET</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz">Somalia 2021 - Elephant Ag999.9 5oz</a>
                             </h5>
-                        	<p class="product-description">Monety uszlachetniane nie są wyrobami menniczymi. W związku z powyższym...</p>
+                        	<p class="product-description">Srebrna moneta bulionowa o wadze 5 uncji trojańskich "Słoń Somalijski"...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	200,00 zł                                        </span>
+                                        	752,33 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/877-usa-american-buffalo-au9999-1oz-backdated-issue.html" title="USA - American Buffalo Au9999 1oz - BACKDATED ISS"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2497-small_default/usa-american-buffalo-au9999-1oz-backdated-issue.jpg" alt="USA - American Buffalo Au9999 1oz - BACKDATED ISSUE" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2675-small_default/antigua-barbuda-2021-frigatebird-ag999-1oz-bu.jpg" alt="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/877-usa-american-buffalo-au9999-1oz-backdated-issue.html" title="USA - American Buffalo Au9999 1oz - BACKDATED ISSUE">USA - American Buffalo Au9999 1oz - BACKDATED ISSUE</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU">Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Amerykański Bizon to pierwsza moneta produkowana z 24-karatowego złota...</p>
+                        	<p class="product-description">Przedstawiamy kolejną srebrną monetę z serii EC8 pochodzącą z...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 875,61 zł                                        </span>
+                                        	130,32 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -732,7 +735,7 @@ var usingSecureMode = true;
 	
 
 	  
-		<h1 class="page-heading product-listing"><span class="cat-name">Złote sztabki&nbsp;</span><span class="heading-counter">Jest 21 produkt&oacute;w.</span>
+		<h1 class="page-heading product-listing"><span class="cat-name">Złote sztabki&nbsp;</span><span class="heading-counter">Jest 30 produkt&oacute;w.</span>
 </h1>
 							<div class="content_sortPagiBar clearfix">
             	<div class="sortPagiBar clearfix">
@@ -761,6 +764,19 @@ var usingSecureMode = true;
 			
 	
                 								<!-- nbr product/page -->
+			<form action="https://zlota-uncja.pl/pl/3-zlote-sztabki" method="get" class="nbrItemPage">
+			<div class="clearfix selector1">
+												<label for="nb_item">
+					Pokaż
+				</label>
+																																	<input type="hidden" name="id_category" value="3" />
+																			<select name="n" id="nb_item" class="form-control">
+																							<option value="24" selected="selected">24</option>
+																														<option value="48" >48</option>
+																																						</select>
+				<span>na stronę</span>
+			</div>
+		</form>
 		<!-- /nbr product/page -->
 
 				</div>
@@ -781,9 +797,40 @@ var usingSecureMode = true;
 	
 												<!-- Pagination -->
 	<div id="pagination" class="pagination clearfix">
-	    			</div>
+	    			<form class="showall" action="https://zlota-uncja.pl/pl/3-zlote-sztabki" method="get">
+				<div>
+											                <button type="submit" class="btn btn-default button exclusive-medium">
+	                	<span>Pokaż wszystkie</span>
+	                </button>
+																																							<input type="hidden" name="id_category" value="3" />
+																			                <input name="n" id="nb_item" class="hidden" value="30" />
+				</div>
+			</form>
+							<ul class="pagination">
+									<li id="pagination_previous" class="disabled pagination_previous">
+						<span>
+							<i class="icon-chevron-left"></i> <b>Poprzedni</b>
+						</span>
+					</li>
+																															<li class="active current">
+							<span>
+								<span>1</span>
+							</span>
+						</li>
+																				<li>
+							<a  href="/pl/3-zlote-sztabki?p=2">
+								<span>2</span>
+							</a>
+						</li>
+																																			<li id="pagination_next" class="pagination_next">
+						<a  href="/pl/3-zlote-sztabki?p=2" rel="next">
+							<b>Następny</b> <i class="icon-chevron-right"></i>
+						</a>
+					</li>
+							</ul>
+			</div>
     <div class="product-count">
-    	        	                        	                        	Pokazuje 1 - 21 z 21 element&oacute;w
+    	    		                        	                        	Pokazuje 1 - 24 z 30 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -802,19 +849,19 @@ var usingSecureMode = true;
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 20g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1229-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-20g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 20 g" title="Sztabka złota Au999,9 HERAEUS - 20 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-20g.html" title="Złota sztabka Au999.9 Heraeus - 20g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1229-home_default/zlota-sztabka-au9999-heraeus-20g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 20 g" title="Sztabka złota Au999,9 HERAEUS - 20 g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 20g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 20g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-20g.html" title="Złota sztabka Au999.9 Heraeus - 20g" itemprop="url" >
+								Złota sztabka Au999.9 Heraeus - 20g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										4 759,60 zł									</span>
+										4 617,35 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -830,11 +877,10 @@ var usingSecureMode = true;
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								4 759,60 zł							</span>
+								4 617,35 zł							</span>
 														
 							
 											</div>
@@ -842,7 +888,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=378&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="378" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-20g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -857,7 +903,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-argor-heraeus-20g.html" data-id-product="378">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/378-zlota-sztabka-au9999-heraeus-20g.html" data-id-product="378">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -870,19 +916,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 100g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1227-home_default/sztabka-zlota-au9999-heraeus-argor-heraeus-100g.jpg" alt="Złota sztabka Au999,9 HERAEUS - 100 g" title="Złota sztabka Au999,9 HERAEUS - 100 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-100g.html" title="Sztabka złota Au999.9 Heraeus - 100g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1227-home_default/sztabka-zlota-au9999-heraeus-100g.jpg" alt="Złota sztabka Au999,9 HERAEUS - 100 g" title="Złota sztabka Au999,9 HERAEUS - 100 g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 100g" itemprop="url" >
-								Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 100g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-100g.html" title="Sztabka złota Au999.9 Heraeus - 100g" itemprop="url" >
+								Sztabka złota Au999.9 Heraeus - 100g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										23 375,79 zł									</span>
+										22 665,63 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -898,12 +944,10 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								23 375,79 zł							</span>
+								22 665,63 zł							</span>
 														
 							
 											</div>
@@ -911,7 +955,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=376&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="376" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-100g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -926,7 +970,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-argor-heraeus-100g.html" data-id-product="376">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/376-sztabka-zlota-au9999-heraeus-100g.html" data-id-product="376">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -939,19 +983,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 31,1g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1230-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-311g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 31,1 g" title="Sztabka złota Au999,9 HERAEUS - 31,1 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-10g.html" title="Złota sztabka Au999.9 Heraeus - 10g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1228-home_default/zlota-sztabka-au9999-heraeus-10g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 10 g" title="Sztabka złota Au999,9 HERAEUS - 10 g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 31,1g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 31,1g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-10g.html" title="Złota sztabka Au999.9 Heraeus - 10g" itemprop="url" >
+								Złota sztabka Au999.9 Heraeus - 10g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 411,50 zł									</span>
+										2 391,07 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -967,20 +1011,18 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 411,50 zł							</span>
+								2 391,07 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=379&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="379" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=377&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="377" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-10g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -995,7 +1037,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-argor-heraeus-311g.html" data-id-product="379">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-10g.html" data-id-product="377">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -1008,19 +1050,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 50g " itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1231-home_default/sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.jpg" alt="Sztabka złota Au999,9 HERAEUS - 50 g " title="Sztabka złota Au999,9 HERAEUS - 50 g "  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-311g.html" title="Złota sztabka Au999.9 Heraeus - 31,1g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1230-home_default/zlota-sztabka-au9999-heraeus-311g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 31,1 g" title="Sztabka złota Au999,9 HERAEUS - 31,1 g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 50g " itemprop="url" >
-								Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 50g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-311g.html" title="Złota sztabka Au999.9 Heraeus - 31,1g" itemprop="url" >
+								Złota sztabka Au999.9 Heraeus - 31,1g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										11 830,16 zł									</span>
+										7 190,28 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1036,19 +1078,18 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								11 830,16 zł							</span>
+								7 190,28 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=380&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="380" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=379&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="379" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-311g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1063,7 +1104,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-argor-heraeus-50g-.html" data-id-product="380">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/379-zlota-sztabka-au9999-heraeus-311g.html" data-id-product="379">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -1076,19 +1117,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 1g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1648-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-1g.jpg" alt="Gold bar Au999,9 Heraeus - 1g" title="Gold bar Au999,9 Heraeus - 1g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-50g-.html" title="Sztabka złota Au999.9 Heraeus - 50g " itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1231-home_default/sztabka-zlota-au9999-heraeus-50g-.jpg" alt="Sztabka złota Au999,9 HERAEUS - 50 g " title="Sztabka złota Au999,9 HERAEUS - 50 g "  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 1g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 1g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-50g-.html" title="Sztabka złota Au999.9 Heraeus - 50g " itemprop="url" >
+								Sztabka złota Au999.9 Heraeus - 50g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										290,75 zł									</span>
+										11 474,71 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1104,20 +1145,18 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								290,75 zł							</span>
+								11 474,71 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=565&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="565" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=380&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="380" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-50g-.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1132,7 +1171,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-argor-heraeus-1g.html" data-id-product="565">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/380-sztabka-zlota-au9999-heraeus-50g-.html" data-id-product="380">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -1145,19 +1184,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 5g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1647-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-5g.jpg" alt="Gold bar Au999,9 Heraeus - 5g" title="Gold bar Au999,9 Heraeus - 5g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-2g.html" title="Sztabka złota Au999.9 Heraeus - 2g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1232-home_default/sztabka-zlota-au9999-heraeus-2g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 2 g" title="Sztabka złota Au999,9 HERAEUS - 2 g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 5g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 5g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-2g.html" title="Sztabka złota Au999.9 Heraeus - 2g" itemprop="url" >
+								Sztabka złota Au999.9 Heraeus - 2g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 279,39 zł									</span>
+										530,40 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1173,20 +1212,18 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 279,39 zł							</span>
+								530,40 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=564&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="564" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=381&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="381" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-2g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1201,7 +1238,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-argor-heraeus-5g.html" data-id-product="564">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-2g.html" data-id-product="381">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -1214,19 +1251,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 2g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1232-home_default/sztabka-zlota-au9999-heraeus-argor-heraeus-2g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 2 g" title="Sztabka złota Au999,9 HERAEUS - 2 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-1g.html" title="Złota sztabka Au999.9 Heraeus - 1g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1648-home_default/zlota-sztabka-au9999-heraeus-1g.jpg" alt="Gold bar Au999,9 Heraeus - 1g" title="Gold bar Au999,9 Heraeus - 1g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" title="Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 2g" itemprop="url" >
-								Sztabka złota Au999.9 Heraeus / Argor-Heraeus - 2g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-1g.html" title="Złota sztabka Au999.9 Heraeus - 1g" itemprop="url" >
+								Złota sztabka Au999.9 Heraeus - 1g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										544,80 zł									</span>
+										283,51 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1242,20 +1279,18 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
- 
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								544,80 zł							</span>
+								283,51 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=381&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="381" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=565&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="565" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-1g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1270,7 +1305,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/381-sztabka-zlota-au9999-heraeus-argor-heraeus-2g.html" data-id-product="381">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/565-zlota-sztabka-au9999-heraeus-1g.html" data-id-product="565">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -1283,19 +1318,19 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 10g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1228-home_default/zlota-sztabka-au9999-heraeus-argor-heraeus-10g.jpg" alt="Sztabka złota Au999,9 HERAEUS - 10 g" title="Sztabka złota Au999,9 HERAEUS - 10 g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-5g.html" title="Złota sztabka Au999.9 Heraeus - 5g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1647-home_default/zlota-sztabka-au9999-heraeus-5g.jpg" alt="Gold bar Au999,9 Heraeus - 5g" title="Gold bar Au999,9 Heraeus - 5g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" title="Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 10g" itemprop="url" >
-								Złota sztabka Au999.9 Heraeus / Argor-Heraeus - 10g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-5g.html" title="Złota sztabka Au999.9 Heraeus - 5g" itemprop="url" >
+								Złota sztabka Au999.9 Heraeus - 5g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 462,40 zł									</span>
+										1 243,60 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1311,19 +1346,18 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					<p class="product-desc" itemprop="description">
 						Każda sztabka ma wybitą nazwę mennicy, wagę i próbę oraz numer seryjny i znak certyfikacji.
 Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
-Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówienia i uzależniony jest od aktualnych dostaw.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 462,40 zł							</span>
+								1 243,60 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=377&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="377" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=564&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="564" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-5g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1338,7 +1372,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/377-zlota-sztabka-au9999-heraeus-argor-heraeus-10g.html" data-id-product="377">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/564-zlota-sztabka-au9999-heraeus-5g.html" data-id-product="564">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -1363,7 +1397,7 @@ Wybór producenta sztabek dokonywany jest losowo na etapie realizacji zamówieni
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										12 243,18 zł									</span>
+										11 886,69 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1382,7 +1416,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								12 243,18 zł							</span>
+								11 886,69 zł							</span>
 														
 							
 											</div>
@@ -1407,7 +1441,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 													<div class="compare">
 								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/374-zlota-sztabka-valcambi-au9999-50x1g-combibar-multicard-.html" data-id-product="374">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		Dostawa 14 dni
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1415,72 +1449,6 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 		
 		
 								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 31,1 g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1234-home_default/zlota-sztabka-heraeus-au9999-kinebar-311-g.jpg" alt="Sztabka złota Au999,9 HERAEUS Kinebar - 31,1 g" title="Sztabka złota Au999,9 HERAEUS Kinebar - 31,1 g"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 31,1 g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 31,1 g
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										7 466,57 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								7 466,57 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=383&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="383" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/383-zlota-sztabka-heraeus-au9999-kinebar-311-g.html" data-id-product="383">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1496,7 +1464,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										59 219,64 zł									</span>
+										57 442,23 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1514,7 +1482,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								59 219,64 zł							</span>
+								57 442,23 zł							</span>
 														
 							
 											</div>
@@ -1546,7 +1514,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1562,7 +1530,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										116 351,22 zł									</span>
+										112 801,72 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1580,7 +1548,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								116 351,22 zł							</span>
+								112 801,72 zł							</span>
 														
 							
 											</div>
@@ -1612,7 +1580,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1628,7 +1596,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										23 421,69 zł									</span>
+										22 711,40 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1646,7 +1614,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								23 421,69 zł							</span>
+								22 711,40 zł							</span>
 														
 							
 											</div>
@@ -1678,7 +1646,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1694,7 +1662,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 297,74 zł									</span>
+										1 261,91 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1712,7 +1680,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 297,74 zł							</span>
+								1 261,91 zł							</span>
 														
 							
 											</div>
@@ -1744,7 +1712,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1760,7 +1728,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										318,29 zł									</span>
+										310,97 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1778,7 +1746,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								318,29 zł							</span>
+								310,97 zł							</span>
 														
 							
 											</div>
@@ -1810,7 +1778,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1826,7 +1794,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 485,35 zł									</span>
+										2 413,96 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1844,7 +1812,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 485,35 zł							</span>
+								2 413,96 zł							</span>
 														
 							
 											</div>
@@ -1876,7 +1844,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1892,7 +1860,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										24 302,80 zł									</span>
+										23 590,27 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1910,7 +1878,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								24 302,80 zł							</span>
+								23 590,27 zł							</span>
 														
 							
 											</div>
@@ -1942,7 +1910,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1958,7 +1926,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										5 149,67 zł									</span>
+										5 006,43 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1977,7 +1945,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								5 149,67 zł							</span>
+								5 006,43 zł							</span>
 														
 							
 											</div>
@@ -2009,7 +1977,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line first-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -2025,7 +1993,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										232 243,53 zł									</span>
+										225 145,69 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2043,7 +2011,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								232 243,53 zł							</span>
+								225 145,69 zł							</span>
 														
 							
 											</div>
@@ -2075,29 +2043,32 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line last-item-of-tablet-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 2g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1783-home_default/zlota-sztabka-heraeus-au9999-kinebar-2g.jpg" alt="Złota sztabka Heraeus Au9999 Kinebar 2g" title="Złota sztabka Heraeus Au9999 Kinebar 2g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/886-zlota-sztabka-valcambi-au9999-1g.html" title="Złota sztabka Valcambi Au999.9 - 1g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2526-home_default/zlota-sztabka-valcambi-au9999-1g.jpg" alt="Gold bar Au999.9 Valcambi - 1g" title="Gold bar Au999.9 Valcambi - 1g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 2g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 2g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/886-zlota-sztabka-valcambi-au9999-1g.html" title="Złota sztabka Valcambi Au999.9 - 1g" itemprop="url" >
+								Złota sztabka Valcambi Au999.9 - 1g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										581,51 zł									</span>
+										278,93 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/886-zlota-sztabka-valcambi-au9999-1g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -2105,19 +2076,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
+						Szwajcarska firma Valcambi posiada certyfikat LBMA. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								581,51 zł							</span>
+								278,93 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=630&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="630" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=886&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="886" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/886-zlota-sztabka-valcambi-au9999-1g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2132,7 +2103,76 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/630-zlota-sztabka-heraeus-au9999-kinebar-2g.html" data-id-product="630">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/886-zlota-sztabka-valcambi-au9999-1g.html" data-id-product="886">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 14 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/887-zlota-sztabka-valcambi-au9999-25g.html" title="Złota sztabka Valcambi Au999.9 - 2,5g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2536-home_default/zlota-sztabka-valcambi-au9999-25g.jpg" alt="Złota sztabka Valcambi Au999.9 - 2,5g" title="Złota sztabka Valcambi Au999.9 - 2,5g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/887-zlota-sztabka-valcambi-au9999-25g.html" title="Złota sztabka Valcambi Au999.9 - 2,5g" itemprop="url" >
+								Złota sztabka Valcambi Au999.9 - 2,5g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										635,53 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/887-zlota-sztabka-valcambi-au9999-25g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Szwajcarska firma Valcambi posiada certyfikat LBMA. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								635,53 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=887&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="887" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/887-zlota-sztabka-valcambi-au9999-25g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/887-zlota-sztabka-valcambi-au9999-25g.html" data-id-product="887">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -2141,29 +2181,32 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line first-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 20g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1784-home_default/zlota-sztabka-heraeus-au9999-kinebar-20g.jpg" alt="Złota sztabka Heraeus Au9999 Kinebar 20g" title="Złota sztabka Heraeus Au9999 Kinebar 20g"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/888-zlota-sztabka-valcambi-au9999-5g.html" title="Złota sztabka Valcambi Au999.9 - 5g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2531-home_default/zlota-sztabka-valcambi-au9999-5g.jpg" alt="Złota sztabka Valcambi Au999.9 - 5g" title="Złota sztabka Valcambi Au999.9 - 5g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" title="Złota sztabka Heraeus Au999.9 Kinebar - 20g" itemprop="url" >
-								Złota sztabka Heraeus Au999.9 Kinebar - 20g
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/888-zlota-sztabka-valcambi-au9999-5g.html" title="Złota sztabka Valcambi Au999.9 - 5g" itemprop="url" >
+								Złota sztabka Valcambi Au999.9 - 5g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										4 782,54 zł									</span>
+										1 225,29 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/888-zlota-sztabka-valcambi-au9999-5g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -2171,19 +2214,19 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 
 					
 					<p class="product-desc" itemprop="description">
-						Sztabka KINEBAR zapakowana jest w opakowanie ochronne CertiPack, posiada numer seryjny oraz zabezpieczenie poligraficzne KINEBAR.
+						Szwajcarska firma Valcambi posiada certyfikat LBMA. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								4 782,54 zł							</span>
+								1 225,29 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=631&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="631" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=888&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="888" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/888-zlota-sztabka-valcambi-au9999-5g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2198,7 +2241,214 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/631-zlota-sztabka-heraeus-au9999-kinebar-20g.html" data-id-product="631">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/888-zlota-sztabka-valcambi-au9999-5g.html" data-id-product="888">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/889-zlota-sztabka-valcambi-au9999-10g.html" title="Złota sztabka Valcambi Au999.9 - 10g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2533-home_default/zlota-sztabka-valcambi-au9999-10g.jpg" alt="Złota sztabka Valcambi Au999.9 - 10g" title="Złota sztabka Valcambi Au999.9 - 10g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/889-zlota-sztabka-valcambi-au9999-10g.html" title="Złota sztabka Valcambi Au999.9 - 10g" itemprop="url" >
+								Złota sztabka Valcambi Au999.9 - 10g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										2 354,45 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/889-zlota-sztabka-valcambi-au9999-10g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Szwajcarska firma Valcambi posiada certyfikat LBMA. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								2 354,45 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=889&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="889" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/889-zlota-sztabka-valcambi-au9999-10g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/889-zlota-sztabka-valcambi-au9999-10g.html" data-id-product="889">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line first-item-of-tablet-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/890-zlota-sztabka-valcambi-au9999-20g.html" title="Złota sztabka Valcambi Au999.9 - 20g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2535-home_default/zlota-sztabka-valcambi-au9999-20g.jpg" alt="Złota sztabka Valcambi Au999.9 - 20g" title="Złota sztabka Valcambi Au999.9 - 20g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/890-zlota-sztabka-valcambi-au9999-20g.html" title="Złota sztabka Valcambi Au999.9 - 20g" itemprop="url" >
+								Złota sztabka Valcambi Au999.9 - 20g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										4 596,75 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/890-zlota-sztabka-valcambi-au9999-20g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Szwajcarska firma Valcambi posiada certyfikat LBMA. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								4 596,75 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=890&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="890" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/890-zlota-sztabka-valcambi-au9999-20g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/890-zlota-sztabka-valcambi-au9999-20g.html" data-id-product="890">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-sztabki/891-zlota-sztabka-valcambi-au9999-50g.html" title="Złota sztabka Valcambi Au999.9 - 50g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2537-home_default/zlota-sztabka-valcambi-au9999-50g.jpg" alt="Złota sztabka Valcambi Au999.9 - 50g" title="Złota sztabka Valcambi Au999.9 - 50g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-sztabki/891-zlota-sztabka-valcambi-au9999-50g.html" title="Złota sztabka Valcambi Au999.9 - 50g" itemprop="url" >
+								Złota sztabka Valcambi Au999.9 - 50g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										11 428,94 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-sztabki/891-zlota-sztabka-valcambi-au9999-50g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Szwajcarska firma Valcambi posiada certyfikat LBMA. Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią złoto przed zarysowaniami, a także ułatwiają ich przechowywanie.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								11 428,94 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=891&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="891" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-sztabki/891-zlota-sztabka-valcambi-au9999-50g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-sztabki/891-zlota-sztabka-valcambi-au9999-50g.html" data-id-product="891">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -2224,9 +2474,40 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 	
 												<!-- Pagination -->
 	<div id="pagination_bottom" class="pagination clearfix">
-	    			</div>
+	    			<form class="showall" action="https://zlota-uncja.pl/pl/3-zlote-sztabki" method="get">
+				<div>
+											                <button type="submit" class="btn btn-default button exclusive-medium">
+	                	<span>Pokaż wszystkie</span>
+	                </button>
+																																							<input type="hidden" name="id_category" value="3" />
+																			                <input name="n" id="nb_item" class="hidden" value="30" />
+				</div>
+			</form>
+							<ul class="pagination">
+									<li id="pagination_previous_bottom" class="disabled pagination_previous">
+						<span>
+							<i class="icon-chevron-left"></i> <b>Poprzedni</b>
+						</span>
+					</li>
+																															<li class="active current">
+							<span>
+								<span>1</span>
+							</span>
+						</li>
+																				<li>
+							<a  href="/pl/3-zlote-sztabki?p=2">
+								<span>2</span>
+							</a>
+						</li>
+																																			<li id="pagination_next_bottom" class="pagination_next">
+						<a  href="/pl/3-zlote-sztabki?p=2" rel="next">
+							<b>Następny</b> <i class="icon-chevron-right"></i>
+						</a>
+					</li>
+							</ul>
+			</div>
     <div class="product-count">
-    	        	                        	                        	Pokazuje 1 - 21 z 21 element&oacute;w
+    	    		                        	                        	Pokazuje 1 - 24 z 30 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -2362,18 +2643,10 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 	</a>
 			<ul>
 												
-<li >
+<li class="last">
 	<a 
 	href="https://zlota-uncja.pl/pl/44-nowosc-home" title="">
 		Nowość Home
-	</a>
-	</li>
-
-																
-<li class="last">
-	<a 
-	href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Monety, które już niedługo pojawią się w sprzedaży na Złotej Uncji.">
-		Zapowiedzi
 	</a>
 	</li>
 
@@ -2426,16 +2699,16 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 																
 <li >
 	<a 
-	href="https://zlota-uncja.pl/pl/51-monety-10-zl" title="">
-		Monety 10 zł
+	href="https://zlota-uncja.pl/pl/51-monety-nbp" title="">
+		Monety NBP
 	</a>
 	</li>
 
 																
 <li >
 	<a 
-	href="https://zlota-uncja.pl/pl/56-monety-20-zl" title="">
-		Monety 20 zł
+	href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="">
+		Monety Kolekcjonerskie
 	</a>
 	</li>
 
@@ -2545,7 +2818,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"378","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 20g\""},'',true);MBG.add({"id":"376","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 100g\""},'',true);MBG.add({"id":"379","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 31,1g\""},'',true);MBG.add({"id":"380","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 50g \""},'',true);MBG.add({"id":"565","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 1g\""},'',true);MBG.add({"id":"564","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 5g\""},'',true);MBG.add({"id":"381","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 2g\""},'',true);MBG.add({"id":"377","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 10g\""},'',true);MBG.add({"id":"374","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) \""},'',true);MBG.add({"id":"383","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 31,1 g\""},'',true);MBG.add({"id":"548","name":"\"Sztabka z\\u0142ota Au999.9 HERAEUS - 250g sztabka lana\""},'',true);MBG.add({"id":"549","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 500g sztabka lana\""},'',true);MBG.add({"id":"558","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 100g sztabka lana\""},'',true);MBG.add({"id":"632","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 5g\""},'',true);MBG.add({"id":"633","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 1g\""},'',true);MBG.add({"id":"634","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 10g\""},'',true);MBG.add({"id":"687","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) \""},'',true);MBG.add({"id":"758","name":"\"Z\\u0142ota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)\""},'',true);MBG.add({"id":"792","name":"\"Z\\u0142ota sztabka Au999,9 Heraeus - 1000g sztabka lana\""},'',true);MBG.add({"id":"630","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 2g\""},'',true);MBG.add({"id":"631","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 20g\""},'',true);MBG.addProductClick({"id":"378","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 20g\""});MBG.addProductClick({"id":"376","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 100g\""});MBG.addProductClick({"id":"379","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 31,1g\""});MBG.addProductClick({"id":"380","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 50g \""});MBG.addProductClick({"id":"565","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 1g\""});MBG.addProductClick({"id":"564","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 5g\""});MBG.addProductClick({"id":"381","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus \\\/ Argor-Heraeus - 2g\""});MBG.addProductClick({"id":"377","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus \\\/ Argor-Heraeus - 10g\""});MBG.addProductClick({"id":"374","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) \""});MBG.addProductClick({"id":"383","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 31,1 g\""});MBG.addProductClick({"id":"548","name":"\"Sztabka z\\u0142ota Au999.9 HERAEUS - 250g sztabka lana\""});MBG.addProductClick({"id":"549","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 500g sztabka lana\""});MBG.addProductClick({"id":"558","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 100g sztabka lana\""});MBG.addProductClick({"id":"632","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 5g\""});MBG.addProductClick({"id":"633","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 1g\""});MBG.addProductClick({"id":"634","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 10g\""});MBG.addProductClick({"id":"687","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) \""});MBG.addProductClick({"id":"758","name":"\"Z\\u0142ota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)\""});MBG.addProductClick({"id":"792","name":"\"Z\\u0142ota sztabka Au999,9 Heraeus - 1000g sztabka lana\""});MBG.addProductClick({"id":"630","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 2g\""});MBG.addProductClick({"id":"631","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 20g\""});
+						MBG.add({"id":"378","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 20g\""},'',true);MBG.add({"id":"376","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus - 100g\""},'',true);MBG.add({"id":"377","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 10g\""},'',true);MBG.add({"id":"379","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 31,1g\""},'',true);MBG.add({"id":"380","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus - 50g \""},'',true);MBG.add({"id":"381","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus - 2g\""},'',true);MBG.add({"id":"565","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 1g\""},'',true);MBG.add({"id":"564","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 5g\""},'',true);MBG.add({"id":"374","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) \""},'',true);MBG.add({"id":"548","name":"\"Sztabka z\\u0142ota Au999.9 HERAEUS - 250g sztabka lana\""},'',true);MBG.add({"id":"549","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 500g sztabka lana\""},'',true);MBG.add({"id":"558","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 100g sztabka lana\""},'',true);MBG.add({"id":"632","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 5g\""},'',true);MBG.add({"id":"633","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 1g\""},'',true);MBG.add({"id":"634","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 10g\""},'',true);MBG.add({"id":"687","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) \""},'',true);MBG.add({"id":"758","name":"\"Z\\u0142ota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)\""},'',true);MBG.add({"id":"792","name":"\"Z\\u0142ota sztabka Au999,9 Heraeus - 1000g sztabka lana\""},'',true);MBG.add({"id":"886","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 1g\""},'',true);MBG.add({"id":"887","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 2,5g\""},'',true);MBG.add({"id":"888","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 5g\""},'',true);MBG.add({"id":"889","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 10g\""},'',true);MBG.add({"id":"890","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 20g\""},'',true);MBG.add({"id":"891","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50g\""},'',true);MBG.addProductClick({"id":"378","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 20g\""});MBG.addProductClick({"id":"376","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus - 100g\""});MBG.addProductClick({"id":"377","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 10g\""});MBG.addProductClick({"id":"379","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 31,1g\""});MBG.addProductClick({"id":"380","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus - 50g \""});MBG.addProductClick({"id":"381","name":"\"Sztabka z\\u0142ota Au999.9 Heraeus - 2g\""});MBG.addProductClick({"id":"565","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 1g\""});MBG.addProductClick({"id":"564","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 5g\""});MBG.addProductClick({"id":"374","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50x1g CombiBar (Multicard) \""});MBG.addProductClick({"id":"548","name":"\"Sztabka z\\u0142ota Au999.9 HERAEUS - 250g sztabka lana\""});MBG.addProductClick({"id":"549","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 500g sztabka lana\""});MBG.addProductClick({"id":"558","name":"\"Z\\u0142ota sztabka Au999.9 Heraeus - 100g sztabka lana\""});MBG.addProductClick({"id":"632","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 5g\""});MBG.addProductClick({"id":"633","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 1g\""});MBG.addProductClick({"id":"634","name":"\"Z\\u0142ota sztabka Heraeus Au999.9 Kinebar - 10g\""});MBG.addProductClick({"id":"687","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 100x1g CombiBar (Multicard) \""});MBG.addProductClick({"id":"758","name":"\"Z\\u0142ota sztabka Valcambi Au999.9  - 20x1g CombiBar (Multicard)\""});MBG.addProductClick({"id":"792","name":"\"Z\\u0142ota sztabka Au999,9 Heraeus - 1000g sztabka lana\""});MBG.addProductClick({"id":"886","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 1g\""});MBG.addProductClick({"id":"887","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 2,5g\""});MBG.addProductClick({"id":"888","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 5g\""});MBG.addProductClick({"id":"889","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 10g\""});MBG.addProductClick({"id":"890","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 20g\""});MBG.addProductClick({"id":"891","name":"\"Z\\u0142ota sztabka Valcambi Au999.9 - 50g\""});
 					});
 				</script>
 				<script type="text/javascript">

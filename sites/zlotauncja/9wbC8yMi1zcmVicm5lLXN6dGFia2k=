@@ -13,8 +13,8 @@
 		<meta name="robots" content="index,follow" />
 		<meta name="viewport" content="width=device-width, minimum-scale=0.25, maximum-scale=1.6, initial-scale=1.0" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1612869109" />
-		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1612869109" />
+		<link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1628584619" />
+		<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1628584619" />
 		<link rel="stylesheet" href="/themes/default-bootstrap/css/shop.css" type="text/css" media="all" />
 			<link rel="stylesheet" href="/themes/default-bootstrap/css/global.css" type="text/css" media="all" />
 			<link rel="stylesheet" href="/themes/default-bootstrap/css/autoload/highdpi.css" type="text/css" media="all" />
@@ -63,7 +63,7 @@ var delete_txt = 'Usuń';
 var displayList = false;
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1626556962;
+var generated_date = 1631822082;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -361,7 +361,7 @@ var usingSecureMode = true;
 		<div class="cat-title">Kategorie</div>
 		<ul class="sf-menu clearfix menu-content">
 			<li><a href="http://zlota-uncja.pl/" title="Home">Home</a></li>
-<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li><li><a href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Zapowiedzi">Zapowiedzi</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
+<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
 					</ul>
 	</div>
 	<!--/ Menu -->
@@ -389,22 +389,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 7045.16</div>
-      <div class="rtpriclist-other">XAU/EUR: 1535.19</div>
+      <div class="rtpriclist-current">XAU/PLN: 6824.85</div>
+      <div class="rtpriclist-other">XAU/EUR: 1490.97</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 99.79</div>
+      <div class="rtpriclist-current">XAG/PLN: 89.14</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 109.79</div>
-      <div class="rtpriclist-current">ASK: 89.79</div>-->
+      <!-- <div class="rtpriclist-current">BID: 99.14</div>
+      <div class="rtpriclist-current">ASK: 79.14</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 21.75</div>
+      <div class="rtpriclist-other">XAG/EUR: 19.47</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 31.75</div>
-      <div class="rtpriclist-other">ASK: 11.75</div> -->
+      <!-- <div class="rtpriclist-other">BID: 29.47</div>
+      <div class="rtpriclist-other">ASK: 9.47</div> -->
     </div>
   </div>
 </div>
@@ -468,109 +468,106 @@ var usingSecureMode = true;
     <div class="block_content products-block">
                     <ul class="products">
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE "><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2524-small_default/canada-maple-leaf-au9999-1oz-backdated-issue-.jpg" alt="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE " /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2689-small_default/new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.jpg" alt="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/885-canada-maple-leaf-au9999-1oz-backdated-issue-.html" title="Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE ">Canada - Maple Leaf Au9999 1oz - BACKDATED ISSUE </a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz">New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz</a>
                             </h5>
-                        	<p class="product-description">Kanadyjski Liść Klonowy to najpopularniejsza złota moneta produkowana...</p>
+                        	<p class="product-description">Srebrna moneta z serii "Władca Pierścieni" o wadze jednej uncji...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 502,26 zł                                        </span>
+                                        	152,75 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/polonia-/884-polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.html" title="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2521-small_default/polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.jpg" alt="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2687-small_default/grenada-2021-coat-of-arms-ag999-1oz-bu.jpg" alt="Grenada 2021 - Coat of Arms Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/polonia-/884-polonia-2021-3-denary-500-rocznica-zawieszenia-dzwonu-zygmunt-na-wawelu-rolka.html" title="Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA">Polonia 2021 - 3 Denary 500. rocznica zawieszenia Dzwonu Zygmunt na Wawelu ROLKA</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU">Grenada 2021 - Coat of Arms Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">ROLKA zawiera 20 sztuk monet.
-
-
-„Trójki” Mennicy Polonia to odpowiedź na...</p>
+                        	<p class="product-description">Kolejna moneta z serii EC8 "Eastern Caribbean 8" przedstawia herb...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	350,00 zł                                        </span>
+                                        	128,04 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/883-congo-2021-prehistoric-life-archaeopteryx-ag9999-1oz-bu.html" title="Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2519-small_default/congo-2021-prehistoric-life-archaeopteryx-ag9999-1oz-bu.jpg" alt="Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2685-small_default/australia-2022-year-of-the-tiger-au9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Au9999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/883-congo-2021-prehistoric-life-archaeopteryx-ag9999-1oz-bu.html" title="Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU">Congo 2021 - Prehistoric Life - Archaeopteryx Ag999.9 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU">Australia 2022 - Year of the Tiger Au9999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta Archaeopteryx jest piątą z serii Prehistoric Life,...</p>
+                        	<p class="product-description">Seria Australian Lunar upamiętnia zwierzęta starożytnego chińskiego...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	152,56 zł                                        </span>
+                                        	7 438,25 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/882-great-britain-2021-the-queen-s-beasts-completer-coin-ag999-2oz-bu.html" title="Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2516-small_default/great-britain-2021-the-queen-s-beasts-completer-coin-ag999-2oz-bu.jpg" alt="Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2683-small_default/australia-2022-year-of-the-tiger-ag9999-12oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/882-great-britain-2021-the-queen-s-beasts-completer-coin-ag999-2oz-bu.html" title="Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU">Great Britain 2021 - The Queen&#039;s Beasts - Completer Coin Ag999 2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU">Australia 2022 - Year of the Tiger Ag9999 1/2oz BU</a>
                             </h5>
-                        	<p class="product-description">Srebrna, 2 uncjowa, moneta Completer Coin jest zwieńczeniem wyjątkowej...</p>
+                        	<p class="product-description">Piękna srebrna moneta, o wadze 1/2 uncji trojańskiej, z serii Lunar...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	261,98 zł                                        </span>
+                                        	81,04 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/880-china-2021-panda-ag999-30g-sunset.html" title="China 2021 - Panda Ag999 30g SUNSET"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2509-small_default/china-2021-panda-ag999-30g-sunset.jpg" alt="China 2021 - Panda Ag999 30g SUNSET" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2681-small_default/australia-2022-year-of-the-tiger-ag9999-2oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 2oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/880-china-2021-panda-ag999-30g-sunset.html" title="China 2021 - Panda Ag999 30g SUNSET">China 2021 - Panda Ag999 30g SUNSET</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU">Australia 2022 - Year of the Tiger Ag9999 2oz BU</a>
                             </h5>
-                        	<p class="product-description">Monety uszlachetniane nie są wyrobami menniczymi. W związku z powyższym...</p>
+                        	<p class="product-description">Piękna srebrna moneta, o wadze 2 uncji trojańskich, z serii Lunar Series...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	210,00 zł                                        </span>
+                                        	276,67 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/879-usa-2021-american-eagle-ag999-1oz-sunset.html" title="USA 2021 - American Eagle Ag999 1oz SUNSET"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2504-small_default/usa-2021-american-eagle-ag999-1oz-sunset.jpg" alt="USA 2021 - American Eagle Ag999 1oz SUNSET" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag999.9 1 oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2679-small_default/australia-2022-year-of-the-tiger-ag9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/879-usa-2021-american-eagle-ag999-1oz-sunset.html" title="USA 2021 - American Eagle Ag999 1oz SUNSET">USA 2021 - American Eagle Ag999 1oz SUNSET</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1oz BU">Australia 2022 - Year of the Tiger Ag9999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Monety uszlachetniane nie są wyrobami menniczymi. W związku z powyższym...</p>
+                        	<p class="product-description">Piękna srebrna moneta, o wadze 1 uncji trojańskiej, z serii Lunar Series...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	210,00 zł                                        </span>
+                                        	141,77 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/878-canada-2021-maple-leaf-ag9999-1oz-sunset.html" title="Canada 2021 - Maple Leaf Ag9999 1oz SUNSET"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2499-small_default/canada-2021-maple-leaf-ag9999-1oz-sunset.jpg" alt="Canada 2021 - Maple Leaf Ag9999 1oz SUNSET" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2677-small_default/somalia-2021-elephant-ag9999-5oz.jpg" alt="Somalia 2021 - Elephant Ag999.9 5oz" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/monety-uszlachetniane/878-canada-2021-maple-leaf-ag9999-1oz-sunset.html" title="Canada 2021 - Maple Leaf Ag9999 1oz SUNSET">Canada 2021 - Maple Leaf Ag9999 1oz SUNSET</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz">Somalia 2021 - Elephant Ag999.9 5oz</a>
                             </h5>
-                        	<p class="product-description">Monety uszlachetniane nie są wyrobami menniczymi. W związku z powyższym...</p>
+                        	<p class="product-description">Srebrna moneta bulionowa o wadze 5 uncji trojańskich "Słoń Somalijski"...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	200,00 zł                                        </span>
+                                        	752,33 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/877-usa-american-buffalo-au9999-1oz-backdated-issue.html" title="USA - American Buffalo Au9999 1oz - BACKDATED ISS"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2497-small_default/usa-american-buffalo-au9999-1oz-backdated-issue.jpg" alt="USA - American Buffalo Au9999 1oz - BACKDATED ISSUE" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2675-small_default/antigua-barbuda-2021-frigatebird-ag999-1oz-bu.jpg" alt="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/877-usa-american-buffalo-au9999-1oz-backdated-issue.html" title="USA - American Buffalo Au9999 1oz - BACKDATED ISSUE">USA - American Buffalo Au9999 1oz - BACKDATED ISSUE</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU">Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Amerykański Bizon to pierwsza moneta produkowana z 24-karatowego złota...</p>
+                        	<p class="product-description">Przedstawiamy kolejną srebrną monetę z serii EC8 pochodzącą z...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 875,61 zł                                        </span>
+                                        	130,32 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -586,7 +583,7 @@ var usingSecureMode = true;
 	
 
 	  
-		<h1 class="page-heading product-listing"><span class="cat-name">Srebrne sztabki&nbsp;</span><span class="heading-counter">Jest 2 produkt&oacute;w.</span>
+		<h1 class="page-heading product-listing"><span class="cat-name">Srebrne sztabki&nbsp;</span><span class="heading-counter">Jest 6 produkt&oacute;w.</span>
 </h1>
 							<div class="content_sortPagiBar clearfix">
             	<div class="sortPagiBar clearfix">
@@ -637,7 +634,7 @@ var usingSecureMode = true;
 	<div id="pagination" class="pagination clearfix">
 	    			</div>
     <div class="product-count">
-    	        	                        	                        	Pokazuje 1 - 2 z 2 element&oacute;w
+    	        	                        	                        	Pokazuje 1 - 6 z 6 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -652,29 +649,32 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line first-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-sztabki/701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html" title="Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1955-home_default/germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.jpg" alt="Srebrna Sztabka Ag999 Germania Mint - 1000,0g cast bar" title="Srebrna Sztabka Ag999 Germania Mint - 1000,0g cast bar"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" title="Silver bar Ag999 Archangel Michael - 31,1 g minted" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2640-home_default/silver-bar-ag999-archangel-michael-311-g-minted.jpg" alt="Silver bar Ag999 Archangel Michael - 31,1 g minted" title="Silver bar Ag999 Archangel Michael - 31,1 g minted"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-sztabki/701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html" title="Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar" itemprop="url" >
-								Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" title="Silver bar Ag999 Archangel Michael - 31,1 g minted" itemprop="url" >
+								Silver bar Ag999 Archangel Michael - 31,1 g minted
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										4 335,84 zł									</span>
+										164,81 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -682,20 +682,19 @@ var usingSecureMode = true;
 
 					
 					<p class="product-desc" itemprop="description">
-						Oferujemy Państwu sztabkę srebra o wadze 1 kg wykonanej ze srebra próby 999. Jej producentem jest znana ze swojej doskonałej precyzji Germania Mint.
-Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
+						Na monecie przedstawiony jest Archanioł Michał, który jest najczęściej uważany za anioła ochrony i najpotężniejszego ze wszystkich aniołów.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								4 335,84 zł							</span>
+								164,81 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=701&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="701" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=921&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="921" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-sztabki/701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -710,7 +709,76 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-sztabki/701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html" data-id-product="701">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" data-id-product="921">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 40. tydzie&#324;
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-sztabki/901-germania-mint-ag9999-cast-bar-100g.html" title="Germania Mint Ag999.9 Cast Bar 100g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2569-home_default/germania-mint-ag9999-cast-bar-100g.jpg" alt="Germania Mint Ag999.9 Cast Bar 100g" title="Germania Mint Ag999.9 Cast Bar 100g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-sztabki/901-germania-mint-ag9999-cast-bar-100g.html" title="Germania Mint Ag999.9 Cast Bar 100g" itemprop="url" >
+								Germania Mint Ag999.9 Cast Bar 100g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										465,10 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-sztabki/901-germania-mint-ag9999-cast-bar-100g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Germania Mint prezentuje Srebrne Sztabki Lane o wadze 100 gram, wykonane ze srebra próby 999.9 (seria “B”). Produkty mają wygrawerowane indywidualne numery i otrzymały nowy hologram z kodem identyfikacyjnym. Sztabki są próżniowo zafoliowane i spakowane w ekskluzywne pudełka, które sprawiają, że stanowią one nie tylko inwestycję, ale i produkt kolekcjonerski.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								465,10 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=901&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="901" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-sztabki/901-germania-mint-ag9999-cast-bar-100g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-sztabki/901-germania-mint-ag9999-cast-bar-100g.html" data-id-product="901">Dodaj do por&oacute;wania</a>
 							</div>
 																		W magazynie
 					</div>
@@ -719,7 +787,145 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line last-item-of-tablet-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-sztabki/902-germania-mint-ag9999-cast-bar-250g.html" title="Germania Mint Ag999.9 Cast Bar 250g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2574-home_default/germania-mint-ag9999-cast-bar-250g.jpg" alt="Germania Mint Ag999.9 Cast Bar 250g" title="Germania Mint Ag999.9 Cast Bar 250g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-sztabki/902-germania-mint-ag9999-cast-bar-250g.html" title="Germania Mint Ag999.9 Cast Bar 250g" itemprop="url" >
+								Germania Mint Ag999.9 Cast Bar 250g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										1 106,46 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-sztabki/902-germania-mint-ag9999-cast-bar-250g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Germania Mint prezentuje Srebrne Sztabki Lane o wadze 250 gram, wykonane ze srebra próby 999.9 (seria “B”). Produkty mają wygrawerowane indywidualne numery i otrzymały nowy hologram z kodem identyfikacyjnym. Sztabki są próżniowo zafoliowane i spakowane w ekskluzywne pudełka, które sprawiają, że stanowią one nie tylko inwestycję, ale i produkt kolekcjonerski.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								1 106,46 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=902&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="902" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-sztabki/902-germania-mint-ag9999-cast-bar-250g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-sztabki/902-germania-mint-ag9999-cast-bar-250g.html" data-id-product="902">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-sztabki/903-germania-mint-ag9999-cast-bar-500g.html" title="Germania Mint Ag999.9 Cast Bar 500g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2581-home_default/germania-mint-ag9999-cast-bar-500g.jpg" alt="Germania Mint Ag999.9 Cast Bar 500g" title="Germania Mint Ag999.9 Cast Bar 500g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-sztabki/903-germania-mint-ag9999-cast-bar-500g.html" title="Germania Mint Ag999.9 Cast Bar 500g" itemprop="url" >
+								Germania Mint Ag999.9 Cast Bar 500g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										2 089,04 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-sztabki/903-germania-mint-ag9999-cast-bar-500g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Germania Mint prezentuje Srebrne Sztabki Lane o wadze 500 gram, wykonane ze srebra próby 999.9 (seria “B”). Produkty mają wygrawerowane indywidualne numery i otrzymały nowy hologram z kodem identyfikacyjnym. Sztabki są próżniowo zafoliowane i spakowane w ekskluzywne pudełka, które sprawiają, że stanowią one nie tylko inwestycję, ale i produkt kolekcjonerski.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								2 089,04 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=903&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="903" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-sztabki/903-germania-mint-ag9999-cast-bar-500g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-sztabki/903-germania-mint-ag9999-cast-bar-500g.html" data-id-product="903">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line first-item-of-tablet-line last-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -735,7 +941,7 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										325,94 zł									</span>
+										312,32 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -753,7 +959,7 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								325,94 zł							</span>
+								312,32 zł							</span>
 														
 							
 											</div>
@@ -782,6 +988,75 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 					</div>
 							</div><!-- .product-container> -->
 		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-sztabki/909-germania-mint-ag9999-cast-bar-1000g.html" title="Germania Mint Ag999.9 Cast Bar 1000g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2604-home_default/germania-mint-ag9999-cast-bar-1000g.jpg" alt="Germania Mint Ag999.9 Cast Bar 1000g" title="Germania Mint Ag999.9 Cast Bar 1000g"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-sztabki/909-germania-mint-ag9999-cast-bar-1000g.html" title="Germania Mint Ag999.9 Cast Bar 1000g" itemprop="url" >
+								Germania Mint Ag999.9 Cast Bar 1000g
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										3 919,10 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-sztabki/909-germania-mint-ag9999-cast-bar-1000g.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Germania Mint prezentuje Srebrne Sztabki Lane o wadze 1 000 gram, wykonane ze srebra próby 999.9 (seria “B”). Produkty mają wygrawerowane indywidualne numery i otrzymały nowy hologram z kodem identyfikacyjnym. Sztabki są próżniowo zafoliowane i spakowane w ekskluzywne pudełka, które sprawiają, że stanowią one nie tylko inwestycję, ale i produkt...
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								3 919,10 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=909&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="909" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-sztabki/909-germania-mint-ag9999-cast-bar-1000g.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-sztabki/909-germania-mint-ag9999-cast-bar-1000g.html" data-id-product="909">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
 		</ul>
 
 
@@ -804,7 +1079,7 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 	<div id="pagination_bottom" class="pagination clearfix">
 	    			</div>
     <div class="product-count">
-    	        	                        	                        	Pokazuje 1 - 2 z 2 element&oacute;w
+    	        	                        	                        	Pokazuje 1 - 6 z 6 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -940,18 +1215,10 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 	</a>
 			<ul>
 												
-<li >
+<li class="last">
 	<a 
 	href="https://zlota-uncja.pl/pl/44-nowosc-home" title="">
 		Nowość Home
-	</a>
-	</li>
-
-																
-<li class="last">
-	<a 
-	href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Monety, które już niedługo pojawią się w sprzedaży na Złotej Uncji.">
-		Zapowiedzi
 	</a>
 	</li>
 
@@ -1004,16 +1271,16 @@ Sztabka jest w stanie menniczym, zapakowana w ochronne pudełko. 
 																
 <li >
 	<a 
-	href="https://zlota-uncja.pl/pl/51-monety-10-zl" title="">
-		Monety 10 zł
+	href="https://zlota-uncja.pl/pl/51-monety-nbp" title="">
+		Monety NBP
 	</a>
 	</li>
 
 																
 <li >
 	<a 
-	href="https://zlota-uncja.pl/pl/56-monety-20-zl" title="">
-		Monety 20 zł
+	href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="">
+		Monety Kolekcjonerskie
 	</a>
 	</li>
 
@@ -1123,7 +1390,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"701","name":"\"Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar\"","category":"\"srebrne-sztabki\"","brand":"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html","price":"4,335.84"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"325.94"},'',true);MBG.addProductClick({"id":"701","name":"\"Germania Mint - Srebrna Sztabka Ag999 - 1000g cast bar\"","category":"\"srebrne-sztabki\"","brand":"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F701-germania-mint-srebrna-sztabka-ag999-1000g-cast-bar.html","price":"4,335.84"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"325.94"});
+						MBG.add({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"164.81"},'',true);MBG.add({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"465.10"},'',true);MBG.add({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,106.46"},'',true);MBG.add({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,089.04"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.32"},'',true);MBG.add({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,919.10"},'',true);MBG.addProductClick({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"164.81"});MBG.addProductClick({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"465.10"});MBG.addProductClick({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,106.46"});MBG.addProductClick({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,089.04"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.32"});MBG.addProductClick({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,919.10"});
 					});
 				</script>
 				<script type="text/javascript">
