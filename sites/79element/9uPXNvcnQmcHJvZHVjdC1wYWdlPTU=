@@ -9,7 +9,7 @@
 <html lang="pl-PL">
 <!--<![endif]-->
 <head>
-
+<meta name="google-site-verification" content="7Mfjm58YvhJ5-G6BDdNTwRyqyZzc-E3Fiku0_pUkAQU" />
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="UTF-8">
@@ -510,9 +510,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li id="menu-item-27218" class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27218"><a>MONETY<span></span></a>
 	<ul class="sub-menu">
+		<li id="menu-item-34079" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-34079"><a href="https://79element.pl/top-6/">TOP 6</a></li>
 		<li id="menu-item-29987" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29987"><a>1 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-27653" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27653"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz/">Wszystkie</a></li>
+			<li id="menu-item-34070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34070"><a href="https://79element.pl/1-oz-top-6/">1 oz TOP 6</a></li>
 			<li id="menu-item-27654" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27654"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-african-wildlife/">1 oz African Wildlife</a></li>
 			<li id="menu-item-27655" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27655"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-american-eagle/">1 oz American Eagle</a></li>
 			<li id="menu-item-27656" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27656"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-australian-nugget/">1 oz Australian Nugget</a></li>
@@ -530,12 +532,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li id="menu-item-27668" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27668"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-philharmoniker/">1 oz Philharmoniker</a></li>
 			<li id="menu-item-27669" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27669"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-relikty-egiptu/">1 oz Relikty Egiptu</a></li>
 			<li id="menu-item-27670" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27670"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-rwanda-lunar/">1 oz Rwanda Lunar</a></li>
-			<li id="menu-item-30064" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./1-oz-inne/">1 oz inne</a></li>
+			<li id="menu-item-30064" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-inne/">1 oz inne</a></li>
 		</ul>
 </li>
 		<li id="menu-item-29988" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29988"><a>1/2 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-29991" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29991"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz/">Wszystkie</a></li>
+			<li id="menu-item-34071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34071"><a href="https://79element.pl/1-2-oz-top-6/">1/2 oz TOP 6</a></li>
 			<li id="menu-item-27673" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27673"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-african-wildlife/">1/2 oz African Wildlife</a></li>
 			<li id="menu-item-27674" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27674"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-american-eagle/">1/2 oz American Eagle</a></li>
 			<li id="menu-item-27675" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27675"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-australian-nugget/">1/2 oz Australian Nugget</a></li>
@@ -545,12 +548,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li id="menu-item-27679" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27679"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-libertad/">1/2 oz Libertad</a></li>
 			<li id="menu-item-27680" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27680"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-maple-leaf/">1/2 oz Maple Leaf</a></li>
 			<li id="menu-item-27681" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27681"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-philharmoniker/">1/2 oz Philharmoniker</a></li>
-			<li id="menu-item-30065" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./1-2-oz-inne/">1/2 oz inne</a></li>
+			<li id="menu-item-30065" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-inne/">1/2 oz inne</a></li>
 		</ul>
 </li>
 		<li id="menu-item-29989" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29989"><a>1/4 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-29992" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29992"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz/">Wszystkie</a></li>
+			<li id="menu-item-34072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34072"><a href="https://79element.pl/1-4-oz-top-6/">1/4 oz TOP 6</a></li>
 			<li id="menu-item-27683" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27683"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-african-wildlife/">1/4 oz African Wildlife</a></li>
 			<li id="menu-item-27684" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27684"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-american-eagle/">1/4 oz American Eagle</a></li>
 			<li id="menu-item-27685" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27685"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-australian-nugget/">1/4 oz Australian Nugget</a></li>
@@ -559,18 +563,19 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li id="menu-item-27688" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27688"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-krugerrand/">1/4 oz Krugerrand</a></li>
 			<li id="menu-item-27689" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27689"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-maple-leaf/">1/4 oz Maple Leaf</a></li>
 			<li id="menu-item-27690" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27690"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-philharmoniker/">1/4 oz Philharmoniker</a></li>
-			<li id="menu-item-30066" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./1-4-oz-inne/">1/4 oz inne</a></li>
+			<li id="menu-item-30066" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-inne/">1/4 oz inne</a></li>
 		</ul>
 </li>
 		<li id="menu-item-29990" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29990"><a>1/10 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-29993" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29993"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz/">Wszystkie</a></li>
+			<li id="menu-item-34073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34073"><a href="https://79element.pl/1-10-oz-top-6/">1/10 oz TOP 6</a></li>
 			<li id="menu-item-27693" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27693"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-american-eagle/">1/10 oz American Eagle</a></li>
 			<li id="menu-item-27694" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27694"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-australian-nugget/">1/10 oz Australian Nugget</a></li>
 			<li id="menu-item-27695" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27695"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-krugerrand/">1/10 oz Krugerrand</a></li>
 			<li id="menu-item-27696" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27696"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-maple-leaf/">1/10 oz Maple Leaf</a></li>
 			<li id="menu-item-27697" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27697"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-philharmoniker/">1/10 oz Philharmoniker</a></li>
-			<li id="menu-item-30067" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./1-10-oz-inne/">1/10 oz inne</a></li>
+			<li id="menu-item-30067" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-inne/">1/10 oz inne</a></li>
 		</ul>
 </li>
 	</ul>
@@ -587,6 +592,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li id="menu-item-27754" class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27754"><a>SREBRO<span></span></a>
 	<ul class="sub-menu">
+		<li id="menu-item-32146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32146"><a href="https://79element.pl/outlet-srebra/">Outlet srebra</a></li>
 		<li id="menu-item-27752" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27752"><a href="https://79element.pl/./srebro-inwestycyjne/">Srebro inwestycyjne</a></li>
 		<li id="menu-item-27750" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27750"><a href="https://79element.pl/./sztabki-srebra/">Sztabki srebra</a></li>
 	</ul>
@@ -600,6 +606,8 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li id="menu-item-27756" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27756"><a href="https://79element.pl/./akcesoria/">Akcesoria</a></li>
 	<li id="menu-item-27759" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27759"><a href="https://79element.pl/./rafinacja-kruszcow/">Rafinacja kruszców</a></li>
 	<li id="menu-item-27760" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27760"><a href="https://79element.pl/./wszystkie-produkty/">Wszystkie produkty</a></li>
+	<li id="menu-item-32194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32194"><a href="https://79element.pl/komis/">Komis</a></li>
+	<li id="menu-item-32544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32544"><a href="https://79element.pl/przedsprzedaz/">Przedsprzedaż</a></li>
 </ul>
 </li>
 <li id="menu-item-27787" class="megamenu mm-col-4 highlight pointer menuMobile-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27787"><a>INFORMACJE<span></span></a>
@@ -622,6 +630,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 		<li id="menu-item-27786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27786"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
 	</ul>
 </li>
+	<li id="menu-item-34285" class="menuDektop-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34285"><a><span></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-30056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
+	</ul>
+</li>
 </ul>
 </li>
 <li id="menu-item-30047" class="megamenu mm-col-4 display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30047"><a>INFORMACJE<span></span></a>
@@ -632,13 +645,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li id="menu-item-30052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30052"><a href="https://79element.pl/regulamin/">Regulamin</a></li>
 	<li id="menu-item-30053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30053"><a href="https://79element.pl/faq/">FAQ</a></li>
 	<li id="menu-item-30057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30057"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
-	<li id="menu-item-30056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul>
 </li>
 <li id="menu-item-25028" class="highlight menu-item menu-item-type-post_type menu-item-object-page menu-item-25028"><a href="https://79element.pl/my-account/">MOJE KONTO</a></li>
 <li id="menu-item-28538" class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28538"><a href="https://79element.pl/blog/">BLOG</a></li>
 <li id="menu-item-28537" class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28537"><a href="https://79element.pl/o-firmie/">O FIRMIE</a></li>
-<li id="menu-item-27781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27781"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul></div>					</div>
 					
 					
@@ -674,9 +685,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27218"><a>MONETY<span></span></a>
 	<ul class="sub-menu">
+		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-34079"><a href="https://79element.pl/top-6/">TOP 6</a></li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29987"><a>1 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27653"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34070"><a href="https://79element.pl/1-oz-top-6/">1 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27654"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-african-wildlife/">1 oz African Wildlife</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27655"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-american-eagle/">1 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27656"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-australian-nugget/">1 oz Australian Nugget</a></li>
@@ -694,12 +707,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27668"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-philharmoniker/">1 oz Philharmoniker</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27669"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-relikty-egiptu/">1 oz Relikty Egiptu</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27670"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-rwanda-lunar/">1 oz Rwanda Lunar</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./1-oz-inne/">1 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-inne/">1 oz inne</a></li>
 		</ul>
 </li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29988"><a>1/2 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29991"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34071"><a href="https://79element.pl/1-2-oz-top-6/">1/2 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27673"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-african-wildlife/">1/2 oz African Wildlife</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27674"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-american-eagle/">1/2 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27675"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-australian-nugget/">1/2 oz Australian Nugget</a></li>
@@ -709,12 +723,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27679"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-libertad/">1/2 oz Libertad</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27680"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-maple-leaf/">1/2 oz Maple Leaf</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27681"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-philharmoniker/">1/2 oz Philharmoniker</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./1-2-oz-inne/">1/2 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-inne/">1/2 oz inne</a></li>
 		</ul>
 </li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29989"><a>1/4 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29992"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34072"><a href="https://79element.pl/1-4-oz-top-6/">1/4 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27683"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-african-wildlife/">1/4 oz African Wildlife</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27684"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-american-eagle/">1/4 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27685"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-australian-nugget/">1/4 oz Australian Nugget</a></li>
@@ -723,18 +738,19 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27688"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-krugerrand/">1/4 oz Krugerrand</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27689"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-maple-leaf/">1/4 oz Maple Leaf</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27690"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-philharmoniker/">1/4 oz Philharmoniker</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./1-4-oz-inne/">1/4 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-inne/">1/4 oz inne</a></li>
 		</ul>
 </li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29990"><a>1/10 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29993"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34073"><a href="https://79element.pl/1-10-oz-top-6/">1/10 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27693"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-american-eagle/">1/10 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27694"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-australian-nugget/">1/10 oz Australian Nugget</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27695"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-krugerrand/">1/10 oz Krugerrand</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27696"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-maple-leaf/">1/10 oz Maple Leaf</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27697"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-philharmoniker/">1/10 oz Philharmoniker</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./1-10-oz-inne/">1/10 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-inne/">1/10 oz inne</a></li>
 		</ul>
 </li>
 	</ul>
@@ -751,6 +767,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27754"><a>SREBRO<span></span></a>
 	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32146"><a href="https://79element.pl/outlet-srebra/">Outlet srebra</a></li>
 		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27752"><a href="https://79element.pl/./srebro-inwestycyjne/">Srebro inwestycyjne</a></li>
 		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27750"><a href="https://79element.pl/./sztabki-srebra/">Sztabki srebra</a></li>
 	</ul>
@@ -764,6 +781,8 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27756"><a href="https://79element.pl/./akcesoria/">Akcesoria</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27759"><a href="https://79element.pl/./rafinacja-kruszcow/">Rafinacja kruszców</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27760"><a href="https://79element.pl/./wszystkie-produkty/">Wszystkie produkty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32194"><a href="https://79element.pl/komis/">Komis</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32544"><a href="https://79element.pl/przedsprzedaz/">Przedsprzedaż</a></li>
 </ul>
 </li>
 <li class="megamenu mm-col-4 highlight pointer menuMobile-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27787"><a>INFORMACJE<span></span></a>
@@ -786,6 +805,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27786"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
 	</ul>
 </li>
+	<li class="menuDektop-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34285"><a><span></span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
+	</ul>
+</li>
 </ul>
 </li>
 <li class="megamenu mm-col-4 display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30047"><a>INFORMACJE<span></span></a>
@@ -796,13 +820,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30052"><a href="https://79element.pl/regulamin/">Regulamin</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30053"><a href="https://79element.pl/faq/">FAQ</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30057"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul>
 </li>
 <li class="highlight menu-item menu-item-type-post_type menu-item-object-page menu-item-25028"><a href="https://79element.pl/my-account/">MOJE KONTO</a></li>
 <li class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28538"><a href="https://79element.pl/blog/">BLOG</a></li>
 <li class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28537"><a href="https://79element.pl/o-firmie/">O FIRMIE</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27781"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul>		</div>
 	
 	</header>
@@ -840,7 +862,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
 			<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Wyświetlanie 49&ndash;60 z 61 wyników</p>
+	Wyświetlanie 49&ndash;60 z 103 wyników</p>
 <form class="woocommerce-ordering" method="get">
 	<select name="orderby" class="orderby" aria-label="Zamówienie">
 					<option value="menu_order"  selected='selected'>Domyślne sortowanie</option>
@@ -857,52 +879,54 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
             <a><button type="submit" class="inStock-button" name="InStockbutton" value="no-sort">Pokaż wszystkie produkty</button> </a>
              </form>   
         <ul class="products columns-4">
-<li class="product type-product post-30650 status-publish first instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-sfinks-5-oz-2019/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="225" height="225" src="https://79element.pl/wp-content/uploads/2021/07/sfinks.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/sfinks.jpg 225w, https://79element.pl/wp-content/uploads/2021/07/sfinks-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/07/sfinks-100x100.jpg 100w" sizes="(max-width: 225px) 100vw, 225px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Sfinks, 5 oz, 2019</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>839&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=30650" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="30650" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Sfinks, 5 oz, 2019&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-29063 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-somalijski-leopard-1-oz-2020/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2020/12/somalia-2020-leopard-ag9999-1-oz-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2020/12/somalia-2020-leopard-ag9999-1-oz-300x300.png 300w, https://79element.pl/wp-content/uploads/2020/12/somalia-2020-leopard-ag9999-1-oz-150x150.png 150w, https://79element.pl/wp-content/uploads/2020/12/somalia-2020-leopard-ag9999-1-oz-768x768.png 768w, https://79element.pl/wp-content/uploads/2020/12/somalia-2020-leopard-ag9999-1-oz-600x600.png 600w, https://79element.pl/wp-content/uploads/2020/12/somalia-2020-leopard-ag9999-1-oz-100x100.png 100w, https://79element.pl/wp-content/uploads/2020/12/somalia-2020-leopard-ag9999-1-oz.png 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Somalijski Leopard 1 oz, 2020</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>150&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=29063" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29063" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Somalijski Leopard 1 oz, 2020&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-29841 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-somalijski-leopard-1-oz-2021/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/05/somalia-2021-african-wildlife-leopard-ag9999-1oz-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/05/somalia-2021-african-wildlife-leopard-ag9999-1oz-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/05/somalia-2021-african-wildlife-leopard-ag9999-1oz-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/05/somalia-2021-african-wildlife-leopard-ag9999-1oz-768x768.jpg 768w, https://79element.pl/wp-content/uploads/2021/05/somalia-2021-african-wildlife-leopard-ag9999-1oz-600x600.jpg 600w, https://79element.pl/wp-content/uploads/2021/05/somalia-2021-african-wildlife-leopard-ag9999-1oz-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/05/somalia-2021-african-wildlife-leopard-ag9999-1oz.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Somalijski Leopard 1 oz, 2021</h2>
+<li class="product type-product post-33334 status-publish first onbackorder product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-leopard-z-ghany-1-oz-2017/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/08/leopard-2017-ghana-rew.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Leopard z Ghany 1oz 2017 rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/08/leopard-2017-ghana-rew.jpg 300w, https://79element.pl/wp-content/uploads/2021/08/leopard-2017-ghana-rew-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/08/leopard-2017-ghana-rew-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Leopard z Ghany, 1oz, 2017</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>151&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=33334" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="33334" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Leopard z Ghany, 1oz, 2017&rdquo; do koszyka" rel="nofollow">Na zamówienie</a></li>
+<li class="product type-product post-31941 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-meksyk-libertad-5-oz-lata-losowe-kopia/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/08/Liberta-2021-5-oz-Mexican-Silver-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moneta srebrna Meksyk Libertad rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/08/Liberta-2021-5-oz-Mexican-Silver-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/08/Liberta-2021-5-oz-Mexican-Silver-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/08/Liberta-2021-5-oz-Mexican-Silver-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/08/Liberta-2021-5-oz-Mexican-Silver.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Libertad, 5 oz, 2021</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>749&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=31941" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="31941" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Libertad, 5 oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-29911 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lisc-kasztanowca-1oz-20121/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/06/Kasztanowiec-min-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Liść Kasztanowca 1oz rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/06/Kasztanowiec-min-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/06/Kasztanowiec-min-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/06/Kasztanowiec-min-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/06/Kasztanowiec-min.png 512w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Liść Kasztanowca 1oz, 2021</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>179&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=29911" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29911" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Liść Kasztanowca 1oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-32360 status-publish last instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-rok-kozy-1-kg-2015/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/08/rok-kozy-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar II Rok Kozy 1 kg rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/08/rok-kozy-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/08/rok-kozy-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/08/rok-kozy-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/08/rok-kozy.png 350w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar II &#8211; Rok Kozy, 1 kg, 2015</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>4 331&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=32360" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="32360" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar II - Rok Kozy, 1 kg, 2015&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-32370 status-publish first instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-ii-rok-myszy-1-kg-2008/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar II Rok Myszy 1 oz rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-768x768.jpg 768w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-600x600.jpg 600w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar II &#8211; Rok Myszy, 1 kg, 2008</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>4 579&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=32370" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="32370" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar II - Rok Myszy, 1 kg, 2008&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-29902 status-publish instock product_cat-outlet-srebra product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-ii-rok-koguta-1-oz-2017/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/05/rok-koguta-rew-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar II Rok Koguta 1 oz rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/05/rok-koguta-rew-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/05/rok-koguta-rew-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/05/rok-koguta-rew-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/05/rok-koguta-rew.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar II, Rok Koguta 1 oz, 2017</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>180&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=29902" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29902" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar II, Rok Koguta 1 oz, 2017&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-29899 status-publish instock product_cat-outlet-srebra product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-ii-rok-myszy-1-oz-2008/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar II Rok Myszy 1 oz rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-768x768.jpg 768w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-600x600.jpg 600w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/05/rok-myszy-2008.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar II, Rok Myszy 1 oz, 2008</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>190&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=29899" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29899" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar II, Rok Myszy 1 oz, 2008&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-32367 status-publish last instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-ii-rok-smoka-1-kg-2012/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/08/Rok-Smoka-1KG.-Srebrna-Moneta-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar II Rok Smoka 1 kg rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/08/Rok-Smoka-1KG.-Srebrna-Moneta-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/08/Rok-Smoka-1KG.-Srebrna-Moneta-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/08/Rok-Smoka-1KG.-Srebrna-Moneta-768x768.jpg 768w, https://79element.pl/wp-content/uploads/2021/08/Rok-Smoka-1KG.-Srebrna-Moneta-600x600.jpg 600w, https://79element.pl/wp-content/uploads/2021/08/Rok-Smoka-1KG.-Srebrna-Moneta-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/08/Rok-Smoka-1KG.-Srebrna-Moneta.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar II: Rok Smoka, 1 kg, 2012</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>4 302&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=32367" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="32367" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar II: Rok Smoka, 1 kg, 2012&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-29889 status-publish first instock product_cat-outlet-srebra product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-ii-rok-swini-1-oz-2019/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/05/rok-swini-2019-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar II Rok Świni 1 oz rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/05/rok-swini-2019-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/05/rok-swini-2019-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/05/rok-swini-2019-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/05/rok-swini-2019.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar II: Rok Świni 1 oz, 2019</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>199&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=29889" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29889" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar II: Rok Świni 1 oz, 2019&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-29016 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-iii-rok-bawolu-1-oz-2021/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar III Rok Bawołu 2 oz rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_.jpg 559w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar III, Rok Bawołu 1 oz, 2021</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>160&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=29841" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29841" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Somalijski Leopard 1 oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-30854 status-publish last instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-tutanchamon-5-oz-2016/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/tutanchamon-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/tutanchamon-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/07/tutanchamon-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/07/tutanchamon-768x770.jpg 768w, https://79element.pl/wp-content/uploads/2021/07/tutanchamon-600x601.jpg 600w, https://79element.pl/wp-content/uploads/2021/07/tutanchamon-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/07/tutanchamon.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Tutanchamon, 5 oz, 2016</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>869&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=30854" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="30854" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Tutanchamon, 5 oz, 2016&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-25362 status-publish first instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/34-srebrna-moneta-bulionowa-philharmoniker-1oz-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/34a-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/34a-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/34a-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/34a.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/34a-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Wiedeńscy Filharmonicy, 1oz, lata losowe</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>135&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=25362" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25362" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Wiedeńscy Filharmonicy, 1oz, lata losowe&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-25772 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/505-srebrna-moneta-cook-islands-2018-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/505a-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/505a-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/505a-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/505a.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/505a-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Wyspy Cooka- Bounty, 1 oz,  2021</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>145&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=25772" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25772" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Wyspy Cooka- Bounty, 1 oz,  2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-30865 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-zolw-szylkretowy-1oz-2020/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zolw-Szylkretowy-1-uncja-Srebra-rew2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zolw-Szylkretowy-1-uncja-Srebra-rew2-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/07/zolw-Szylkretowy-1-uncja-Srebra-rew2-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/07/zolw-Szylkretowy-1-uncja-Srebra-rew2-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/07/zolw-Szylkretowy-1-uncja-Srebra-rew2.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Żółw Szylkretowy 1oz, 2020</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>149&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=30865" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="30865" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Żółw Szylkretowy 1oz, 2020&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-25394 status-publish last instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/78-srebra-sztabka-inwestycyjna-w-ksztalcie-monety-jadwiga-1-oz/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/78a-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/78a-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/78a-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/78a.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/78a-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna sztabka inwestycyjna w kształcie monety Jadwiga, 1 oz</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>135&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=25394" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25394" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna sztabka inwestycyjna w kształcie monety Jadwiga, 1 oz&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-28984 status-publish first onbackorder product_cat-hurtownia-monety-srebrne product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/zestaw-100-srebrnych-monet-australijski-kangur-1oz-2020-21/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2020/11/kangur-srebrny-2020-1--300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2020/11/kangur-srebrny-2020-1--300x300.jpg 300w, https://79element.pl/wp-content/uploads/2020/11/kangur-srebrny-2020-1--150x150.jpg 150w, https://79element.pl/wp-content/uploads/2020/11/kangur-srebrny-2020-1--100x100.jpg 100w, https://79element.pl/wp-content/uploads/2020/11/kangur-srebrny-2020-1-.jpg 458w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Zestaw 100 srebrnych monet Australijski Kangur 1oz, 2021</h2></a><a href="?add-to-cart=28984" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="28984" data-product_sku="" aria-label="Dodaj &ldquo;Zestaw 100 srebrnych monet Australijski Kangur 1oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-25803 status-publish instock product_cat-hurtownia-monety-srebrne product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/540-zestaw-maple-leaf-2019-1oz-100szt-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/540-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/540-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/540-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/540.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/540-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Zestaw 100 srebrnych monet Kanadyjski Liść Klonowy 1oz, 2021</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>13 400&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=25803" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25803" data-product_sku="" aria-label="Dodaj &ldquo;Zestaw 100 srebrnych monet Kanadyjski Liść Klonowy 1oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-25779 status-publish instock product_cat-hurtownia-monety-srebrne product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/512-monety-srebrne-philharmoniker-20-szt-1oz-lata-losowe-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/128ab-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/128ab-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/128ab-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/128ab.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/128ab-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Zestaw 20 szt. srebrnych monet Filharmonicy Wiedeńscy, 1oz, lata losowe</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>2 600&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=25779" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25779" data-product_sku="" aria-label="Dodaj &ldquo;Zestaw 20 szt. srebrnych monet Filharmonicy Wiedeńscy, 1oz, lata losowe&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-29674 status-publish last instock product_cat-hurtownia-monety-srebrne product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/srebro-inwestycyjne/zestaw-25-srebrnych-monet-robin-hood-1-oz-2021/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899-1024x1024.jpg 1024w, https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899-768x768.jpg 768w, https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899-600x600.jpg 600w, https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2021/03/2021-bullion-robin-hood-1-oz-silver-coin-reverse-uks52899.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Zestaw 25 srebrnych monet Robin Hood, 1 oz, 2021</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>3 550&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=29674" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29674" data-product_sku="" aria-label="Dodaj &ldquo;Zestaw 25 srebrnych monet Robin Hood, 1 oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+</a><a href="?add-to-cart=29016" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="29016" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar III, Rok Bawołu 1 oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-31081 status-publish instock product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-iii-rok-bawolu-2-oz-2021/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar III Rok Bawołu 2 oz rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-300x300.jpg 300w, https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-150x150.jpg 150w, https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_-100x100.jpg 100w, https://79element.pl/wp-content/uploads/2020/12/rok-bawołu-_.jpg 559w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar III, Rok Bawołu 2 oz, 2021</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>309&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=31081" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="31081" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar III, Rok Bawołu 2 oz, 2021&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-33154 status-publish last onbackorder product_cat-srebrne-monety-bulionowe product_cat-srebro-inwestycyjne product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/srebro-inwestycyjne/srebrna-moneta-lunar-iii-rok-tygrysa-2-oz-2022/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/09/tiger_Ag-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Srebrna moneta Lunar III Rok Tygrysa 2 oz 2022 rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/09/tiger_Ag-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/09/tiger_Ag-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/09/tiger_Ag-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/09/tiger_Ag.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Srebrna moneta Lunar III: Rok Tygrysa 2 oz, 2022</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>292&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=33154" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="33154" data-product_sku="" aria-label="Dodaj &ldquo;Srebrna moneta Lunar III: Rok Tygrysa 2 oz, 2022&rdquo; do koszyka" rel="nofollow">Na zamówienie</a></li>
 </ul>
 <nav class="woocommerce-pagination">
 	<ul class='page-numbers'>
@@ -913,6 +937,9 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li><a class="page-numbers" href="/srebrne-monety-bulionowe/?InStockbutton=sort&#038;product-page=4">4</a></li>
 	<li><span aria-current="page" class="page-numbers current">5</span></li>
 	<li><a class="page-numbers" href="/srebrne-monety-bulionowe/?InStockbutton=sort&#038;product-page=6">6</a></li>
+	<li><a class="page-numbers" href="/srebrne-monety-bulionowe/?InStockbutton=sort&#038;product-page=7">7</a></li>
+	<li><a class="page-numbers" href="/srebrne-monety-bulionowe/?InStockbutton=sort&#038;product-page=8">8</a></li>
+	<li><a class="page-numbers" href="/srebrne-monety-bulionowe/?InStockbutton=sort&#038;product-page=9">9</a></li>
 	<li><a class="next page-numbers" href="/srebrne-monety-bulionowe/?InStockbutton=sort&#038;product-page=6">&rarr;</a></li>
 </ul>
 </nav>
@@ -993,6 +1020,22 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
                         top: 14px;
                     }
                 }
+
+                #header.scrolled #logo .logo_img > a > img{
+                    height: 64px;
+                }
+
+                @media only screen and (min-width: 769px) and (max-width: 1017px) {
+                    #logo .logo_img > a > img{
+                        height: 62px;
+                    }
+                }
+
+                @media only screen and (max-width: 768px) {
+                    #logo .logo_img > a > img{
+                        height: 62px;
+                    }
+                }
             </style>
 			
 			<div class="footer_btm"  id="newFooterStyle">
@@ -1043,7 +1086,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
                         <span class="newFooterRowHeader">Kontakt</span>
                         <span class="newFooterRowItem">79th Element sp. z o.o.</span>
                         <a href="tel:+48783340871" class="newFooterRowItem">+48 783 340 871</a>
-                        <a href="/cdn-cgi/l/email-protection#eb9880878e9babdcd28e878e868e859fc59b87" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="fc8f9790998cbccbc599909991999288d28c90">[email&#160;protected]</span></a>
+                        <a href="/cdn-cgi/l/email-protection#4e3d25222b3e0e79772b222b232b203a603e22" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="50233b3c3520106769353c353d353e247e203c">[email&#160;protected]</span></a>
                     </div>
                     <div class="newFooterRow" id="newFooterRow5">
                         <span class="newFooterRowHeader">Produkty</span>
@@ -1123,7 +1166,7 @@ var static_var = {"plugin_url":"https:\/\/79element.pl\/wp-content\/plugins\/fre
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/freshmail-integration/assets/js/user.js?ver=1.0' id='freshmail-script-js'></script>
 <script type='text/javascript' id='cwginstock_js-js-extra'>
 /* <![CDATA[ */
-var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"a11ade2d0f","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
+var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"789efd3079","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/js/frontend-dev.min.js?ver=2.2' id='cwginstock_js-js'></script>

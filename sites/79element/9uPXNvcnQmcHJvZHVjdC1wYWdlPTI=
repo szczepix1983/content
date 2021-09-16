@@ -9,7 +9,7 @@
 <html lang="pl-PL">
 <!--<![endif]-->
 <head>
-
+<meta name="google-site-verification" content="7Mfjm58YvhJ5-G6BDdNTwRyqyZzc-E3Fiku0_pUkAQU" />
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="UTF-8">
@@ -508,9 +508,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li id="menu-item-27218" class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27218"><a>MONETY<span></span></a>
 	<ul class="sub-menu">
+		<li id="menu-item-34079" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-34079"><a href="https://79element.pl/top-6/">TOP 6</a></li>
 		<li id="menu-item-29987" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29987"><a>1 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-27653" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27653"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz/">Wszystkie</a></li>
+			<li id="menu-item-34070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34070"><a href="https://79element.pl/1-oz-top-6/">1 oz TOP 6</a></li>
 			<li id="menu-item-27654" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27654"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-african-wildlife/">1 oz African Wildlife</a></li>
 			<li id="menu-item-27655" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27655"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-american-eagle/">1 oz American Eagle</a></li>
 			<li id="menu-item-27656" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27656"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-australian-nugget/">1 oz Australian Nugget</a></li>
@@ -528,12 +530,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li id="menu-item-27668" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27668"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-philharmoniker/">1 oz Philharmoniker</a></li>
 			<li id="menu-item-27669" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27669"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-relikty-egiptu/">1 oz Relikty Egiptu</a></li>
 			<li id="menu-item-27670" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27670"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-rwanda-lunar/">1 oz Rwanda Lunar</a></li>
-			<li id="menu-item-30064" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./1-oz-inne/">1 oz inne</a></li>
+			<li id="menu-item-30064" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-inne/">1 oz inne</a></li>
 		</ul>
 </li>
 		<li id="menu-item-29988" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29988"><a>1/2 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-29991" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29991"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz/">Wszystkie</a></li>
+			<li id="menu-item-34071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34071"><a href="https://79element.pl/1-2-oz-top-6/">1/2 oz TOP 6</a></li>
 			<li id="menu-item-27673" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27673"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-african-wildlife/">1/2 oz African Wildlife</a></li>
 			<li id="menu-item-27674" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27674"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-american-eagle/">1/2 oz American Eagle</a></li>
 			<li id="menu-item-27675" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27675"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-australian-nugget/">1/2 oz Australian Nugget</a></li>
@@ -543,12 +546,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li id="menu-item-27679" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27679"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-libertad/">1/2 oz Libertad</a></li>
 			<li id="menu-item-27680" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27680"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-maple-leaf/">1/2 oz Maple Leaf</a></li>
 			<li id="menu-item-27681" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27681"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-philharmoniker/">1/2 oz Philharmoniker</a></li>
-			<li id="menu-item-30065" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./1-2-oz-inne/">1/2 oz inne</a></li>
+			<li id="menu-item-30065" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-inne/">1/2 oz inne</a></li>
 		</ul>
 </li>
 		<li id="menu-item-29989" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29989"><a>1/4 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-29992" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29992"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz/">Wszystkie</a></li>
+			<li id="menu-item-34072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34072"><a href="https://79element.pl/1-4-oz-top-6/">1/4 oz TOP 6</a></li>
 			<li id="menu-item-27683" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27683"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-african-wildlife/">1/4 oz African Wildlife</a></li>
 			<li id="menu-item-27684" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27684"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-american-eagle/">1/4 oz American Eagle</a></li>
 			<li id="menu-item-27685" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27685"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-australian-nugget/">1/4 oz Australian Nugget</a></li>
@@ -557,18 +561,19 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li id="menu-item-27688" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27688"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-krugerrand/">1/4 oz Krugerrand</a></li>
 			<li id="menu-item-27689" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27689"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-maple-leaf/">1/4 oz Maple Leaf</a></li>
 			<li id="menu-item-27690" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27690"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-philharmoniker/">1/4 oz Philharmoniker</a></li>
-			<li id="menu-item-30066" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./1-4-oz-inne/">1/4 oz inne</a></li>
+			<li id="menu-item-30066" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-inne/">1/4 oz inne</a></li>
 		</ul>
 </li>
 		<li id="menu-item-29990" class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29990"><a>1/10 oz<span></span></a>
 		<ul class="sub-menu">
 			<li id="menu-item-29993" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29993"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz/">Wszystkie</a></li>
+			<li id="menu-item-34073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34073"><a href="https://79element.pl/1-10-oz-top-6/">1/10 oz TOP 6</a></li>
 			<li id="menu-item-27693" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27693"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-american-eagle/">1/10 oz American Eagle</a></li>
 			<li id="menu-item-27694" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27694"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-australian-nugget/">1/10 oz Australian Nugget</a></li>
 			<li id="menu-item-27695" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27695"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-krugerrand/">1/10 oz Krugerrand</a></li>
 			<li id="menu-item-27696" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27696"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-maple-leaf/">1/10 oz Maple Leaf</a></li>
 			<li id="menu-item-27697" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27697"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-philharmoniker/">1/10 oz Philharmoniker</a></li>
-			<li id="menu-item-30067" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./1-10-oz-inne/">1/10 oz inne</a></li>
+			<li id="menu-item-30067" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-inne/">1/10 oz inne</a></li>
 		</ul>
 </li>
 	</ul>
@@ -585,6 +590,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li id="menu-item-27754" class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27754"><a>SREBRO<span></span></a>
 	<ul class="sub-menu">
+		<li id="menu-item-32146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32146"><a href="https://79element.pl/outlet-srebra/">Outlet srebra</a></li>
 		<li id="menu-item-27752" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27752"><a href="https://79element.pl/./srebro-inwestycyjne/">Srebro inwestycyjne</a></li>
 		<li id="menu-item-27750" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27750"><a href="https://79element.pl/./sztabki-srebra/">Sztabki srebra</a></li>
 	</ul>
@@ -598,6 +604,8 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li id="menu-item-27756" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27756"><a href="https://79element.pl/./akcesoria/">Akcesoria</a></li>
 	<li id="menu-item-27759" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27759"><a href="https://79element.pl/./rafinacja-kruszcow/">Rafinacja kruszców</a></li>
 	<li id="menu-item-27760" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27760"><a href="https://79element.pl/./wszystkie-produkty/">Wszystkie produkty</a></li>
+	<li id="menu-item-32194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32194"><a href="https://79element.pl/komis/">Komis</a></li>
+	<li id="menu-item-32544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32544"><a href="https://79element.pl/przedsprzedaz/">Przedsprzedaż</a></li>
 </ul>
 </li>
 <li id="menu-item-27787" class="megamenu mm-col-4 highlight pointer menuMobile-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27787"><a>INFORMACJE<span></span></a>
@@ -620,6 +628,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 		<li id="menu-item-27786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27786"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
 	</ul>
 </li>
+	<li id="menu-item-34285" class="menuDektop-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34285"><a><span></span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-30056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
+	</ul>
+</li>
 </ul>
 </li>
 <li id="menu-item-30047" class="megamenu mm-col-4 display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30047"><a>INFORMACJE<span></span></a>
@@ -630,13 +643,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li id="menu-item-30052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30052"><a href="https://79element.pl/regulamin/">Regulamin</a></li>
 	<li id="menu-item-30053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30053"><a href="https://79element.pl/faq/">FAQ</a></li>
 	<li id="menu-item-30057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30057"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
-	<li id="menu-item-30056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul>
 </li>
 <li id="menu-item-25028" class="highlight menu-item menu-item-type-post_type menu-item-object-page menu-item-25028"><a href="https://79element.pl/my-account/">MOJE KONTO</a></li>
 <li id="menu-item-28538" class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28538"><a href="https://79element.pl/blog/">BLOG</a></li>
 <li id="menu-item-28537" class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28537"><a href="https://79element.pl/o-firmie/">O FIRMIE</a></li>
-<li id="menu-item-27781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27781"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul></div>					</div>
 					
 					
@@ -672,9 +683,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27218"><a>MONETY<span></span></a>
 	<ul class="sub-menu">
+		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-34079"><a href="https://79element.pl/top-6/">TOP 6</a></li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29987"><a>1 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27653"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34070"><a href="https://79element.pl/1-oz-top-6/">1 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27654"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-african-wildlife/">1 oz African Wildlife</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27655"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-american-eagle/">1 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27656"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-australian-nugget/">1 oz Australian Nugget</a></li>
@@ -692,12 +705,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27668"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-philharmoniker/">1 oz Philharmoniker</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27669"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-relikty-egiptu/">1 oz Relikty Egiptu</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27670"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-rwanda-lunar/">1 oz Rwanda Lunar</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./1-oz-inne/">1 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30064"><a href="https://79element.pl/./zlote-monety-inwestycyjne-1oz-inne/">1 oz inne</a></li>
 		</ul>
 </li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29988"><a>1/2 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29991"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34071"><a href="https://79element.pl/1-2-oz-top-6/">1/2 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27673"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-african-wildlife/">1/2 oz African Wildlife</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27674"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-american-eagle/">1/2 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27675"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-australian-nugget/">1/2 oz Australian Nugget</a></li>
@@ -707,12 +721,13 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27679"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-libertad/">1/2 oz Libertad</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27680"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-maple-leaf/">1/2 oz Maple Leaf</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27681"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-philharmoniker/">1/2 oz Philharmoniker</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./1-2-oz-inne/">1/2 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30065"><a href="https://79element.pl/./zlote-monety-inwestycyjne-12oz-inne/">1/2 oz inne</a></li>
 		</ul>
 </li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29989"><a>1/4 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29992"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34072"><a href="https://79element.pl/1-4-oz-top-6/">1/4 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27683"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-african-wildlife/">1/4 oz African Wildlife</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27684"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-american-eagle/">1/4 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27685"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-australian-nugget/">1/4 oz Australian Nugget</a></li>
@@ -721,18 +736,19 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27688"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-krugerrand/">1/4 oz Krugerrand</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27689"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-maple-leaf/">1/4 oz Maple Leaf</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27690"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-philharmoniker/">1/4 oz Philharmoniker</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./1-4-oz-inne/">1/4 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30066"><a href="https://79element.pl/./zlote-monety-inwestycyjne-14oz-inne/">1/4 oz inne</a></li>
 		</ul>
 </li>
 		<li class="rozdz no_arrow_effect pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29990"><a>1/10 oz<span></span></a>
 		<ul class="sub-menu">
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-29993"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz/">Wszystkie</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34073"><a href="https://79element.pl/1-10-oz-top-6/">1/10 oz TOP 6</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27693"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-american-eagle/">1/10 oz American Eagle</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27694"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-australian-nugget/">1/10 oz Australian Nugget</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27695"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-krugerrand/">1/10 oz Krugerrand</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27696"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-maple-leaf/">1/10 oz Maple Leaf</a></li>
 			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27697"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-philharmoniker/">1/10 oz Philharmoniker</a></li>
-			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./1-10-oz-inne/">1/10 oz inne</a></li>
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-30067"><a href="https://79element.pl/./zlote-monety-inwestycyjne-110oz-inne/">1/10 oz inne</a></li>
 		</ul>
 </li>
 	</ul>
@@ -749,6 +765,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 </li>
 	<li class="no-pointer menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27754"><a>SREBRO<span></span></a>
 	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32146"><a href="https://79element.pl/outlet-srebra/">Outlet srebra</a></li>
 		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27752"><a href="https://79element.pl/./srebro-inwestycyjne/">Srebro inwestycyjne</a></li>
 		<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27750"><a href="https://79element.pl/./sztabki-srebra/">Sztabki srebra</a></li>
 	</ul>
@@ -762,6 +779,8 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27756"><a href="https://79element.pl/./akcesoria/">Akcesoria</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27759"><a href="https://79element.pl/./rafinacja-kruszcow/">Rafinacja kruszców</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-27760"><a href="https://79element.pl/./wszystkie-produkty/">Wszystkie produkty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32194"><a href="https://79element.pl/komis/">Komis</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32544"><a href="https://79element.pl/przedsprzedaz/">Przedsprzedaż</a></li>
 </ul>
 </li>
 <li class="megamenu mm-col-4 highlight pointer menuMobile-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27787"><a>INFORMACJE<span></span></a>
@@ -784,6 +803,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27786"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
 	</ul>
 </li>
+	<li class="menuDektop-display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34285"><a><span></span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
+	</ul>
+</li>
 </ul>
 </li>
 <li class="megamenu mm-col-4 display-none menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-30047"><a>INFORMACJE<span></span></a>
@@ -794,13 +818,11 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30052"><a href="https://79element.pl/regulamin/">Regulamin</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30053"><a href="https://79element.pl/faq/">FAQ</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30057"><a href="https://79element.pl/terminy-i-koszty-wysylki/">Terminy i koszty wysyłki</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30056"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul>
 </li>
 <li class="highlight menu-item menu-item-type-post_type menu-item-object-page menu-item-25028"><a href="https://79element.pl/my-account/">MOJE KONTO</a></li>
 <li class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28538"><a href="https://79element.pl/blog/">BLOG</a></li>
 <li class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-28537"><a href="https://79element.pl/o-firmie/">O FIRMIE</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27781"><a href="https://79element.pl/rodo/">RODO</a></li>
 </ul>		</div>
 	
 	</header>
@@ -838,7 +860,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
 			<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Wyświetlanie 13&ndash;18 z 18 wyników</p>
+	Wyświetlanie 13&ndash;19 z 19 wyników</p>
 <form class="woocommerce-ordering" method="get">
 	<select name="orderby" class="orderby" aria-label="Zamówienie">
 					<option value="menu_order"  selected='selected'>Domyślne sortowanie</option>
@@ -856,29 +878,33 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
              </form>   
         <ul class="products columns-4">
 <li class="product type-product post-25575 status-publish first instock product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/284-zlota-moneta-inwestycyjna-suweren-2-randy-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/284-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/284-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/284-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/284.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/284-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta inwestycyjna Suweren / 2 Randy</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 838&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
-</a><a href="?add-to-cart=25575" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25575" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta inwestycyjna Suweren / 2 Randy&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/284-zlota-moneta-inwestycyjna-suweren-2-randy-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/284-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Złota moneta inwestycyjna Suweren Brytyjski" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/284-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/284-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/284.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/284-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta inwestycyjna Suweren Brytyjski</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 784&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=25575" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25575" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta inwestycyjna Suweren Brytyjski&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
 <li class="product type-product post-30933 status-publish instock product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/zlota-moneta-lokacyjna-10-frankow-napoleon/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 10 Franków Napoleon</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>754&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/zlota-moneta-lokacyjna-10-frankow-napoleon/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Złota moneta lokacyjna 10 Franków Napoleon rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-10-frankow-napoleon-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 10 Franków Napoleon</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>732&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a><a href="?add-to-cart=30933" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="30933" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta lokacyjna 10 Franków Napoleon&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
-<li class="product type-product post-30920 status-publish instock product_cat-home-page product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/home-page/zlota-moneta-lokacyjna-20-frankow-francja-marianna-i-kogut/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Franków Francja (Marianna i Kogut)</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 498&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+<li class="product type-product post-30920 status-publish instock product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/zlota-moneta-lokacyjna-20-frankow-francja-marianna-i-kogut/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Złota moneta lokacyjna 20 Franków Francja Marianna i Kogut rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francja-marianna__1_-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Franków Francja (Marianna i Kogut)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 428&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a><a href="?add-to-cart=30920" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="30920" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta lokacyjna 20 Franków Francja (Marianna i Kogut)&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
 <li class="product type-product post-30915 status-publish last instock product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Franków francuskich &#8222;Anioł&#8221;</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 472&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Złota moneta historyczna 20 franków francuskich &quot;Anioł&quot; rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-frankow-francuskich-aniol-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Franków francuskich &#8222;Anioł&#8221;</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 428&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a><a href="?add-to-cart=30915" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="30915" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta lokacyjna 20 Franków francuskich &quot;Anioł&quot;&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
 <li class="product type-product post-25385 status-publish first instock product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/67-zlota-moneta-lokacyjna-20-frankow-francja-rozne-typy-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/67-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/67-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/67-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/67.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/67-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Franków Napoleon</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 470&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/67-zlota-moneta-lokacyjna-20-frankow-francja-rozne-typy-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/67-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Złota moneta lokacyjna 20 Franków Napoleon rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/67-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/67-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/67.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/67-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Franków Napoleon</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 388&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a><a href="?add-to-cart=25385" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25385" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta lokacyjna 20 Franków Napoleon&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
 <li class="product type-product post-30908 status-publish instock product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/zlota-moneta-lokacyjna-20-lirow-wlochy/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Lirów Włochy</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 498&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<a href="https://79element.pl/product/zlote-monety-inwestycyjne/zlota-moneta-lokacyjna-20-lirow-wlochy/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-300x300.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Złota moneta lokacyjna 20 Lirów Włochy rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-300x300.png 300w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-150x150.png 150w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview-100x100.png 100w, https://79element.pl/wp-content/uploads/2021/07/zlota-moneta-lokacyjna-20-lirow-wlochy-removebg-preview.png 500w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 20 Lirów Włochy</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 453&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a><a href="?add-to-cart=30908" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="30908" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta lokacyjna 20 Lirów Włochy&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
+<li class="product type-product post-25481 status-publish instock product_cat-home-page product_cat-wszystkie-produkty product_cat-zlote-monety-historyczne product_cat-zlote-monety-inwestycyjne has-post-thumbnail shipping-taxable purchasable product-type-simple">
+	<a href="https://79element.pl/product/home-page/186-zlota-moneta-lokacyjna-5-rubli/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/186a-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Złota moneta lokacyjna 5 Rubli rewers" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/186a-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/186a-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/186a.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/186a-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Złota moneta lokacyjna 5 Rubli, Rosja</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 350&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+</a><a href="?add-to-cart=25481" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25481" data-product_sku="" aria-label="Dodaj &ldquo;Złota moneta lokacyjna 5 Rubli, Rosja&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
 </ul>
 <nav class="woocommerce-pagination">
 	<ul class='page-numbers'>
@@ -952,6 +978,22 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
                         top: 14px;
                     }
                 }
+
+                #header.scrolled #logo .logo_img > a > img{
+                    height: 64px;
+                }
+
+                @media only screen and (min-width: 769px) and (max-width: 1017px) {
+                    #logo .logo_img > a > img{
+                        height: 62px;
+                    }
+                }
+
+                @media only screen and (max-width: 768px) {
+                    #logo .logo_img > a > img{
+                        height: 62px;
+                    }
+                }
             </style>
 			
 			<div class="footer_btm"  id="newFooterStyle">
@@ -1002,7 +1044,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
                         <span class="newFooterRowHeader">Kontakt</span>
                         <span class="newFooterRowItem">79th Element sp. z o.o.</span>
                         <a href="tel:+48783340871" class="newFooterRowItem">+48 783 340 871</a>
-                        <a href="/cdn-cgi/l/email-protection#34475f58514474030d51585159515a401a4458" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="5f2c34333a2f1f68663a333a323a312b712f33">[email&#160;protected]</span></a>
+                        <a href="/cdn-cgi/l/email-protection#fd8e9691988dbdcac498919890989389d38d91" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="51223a3d3421116668343d343c343f257f213d">[email&#160;protected]</span></a>
                     </div>
                     <div class="newFooterRow" id="newFooterRow5">
                         <span class="newFooterRowHeader">Produkty</span>
@@ -1082,7 +1124,7 @@ var static_var = {"plugin_url":"https:\/\/79element.pl\/wp-content\/plugins\/fre
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/freshmail-integration/assets/js/user.js?ver=1.0' id='freshmail-script-js'></script>
 <script type='text/javascript' id='cwginstock_js-js-extra'>
 /* <![CDATA[ */
-var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"a11ade2d0f","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
+var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"789efd3079","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/js/frontend-dev.min.js?ver=2.2' id='cwginstock_js-js'></script>
