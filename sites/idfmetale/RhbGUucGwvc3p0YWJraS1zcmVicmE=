@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,9 +17,9 @@
 <script src="https://use.fontawesome.com/8b7a637e14.js"></script>
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/main.css" />
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/user.css" />
-<script type="text/javascript" src="/assets/js/frontstore/main.9b2c83b93d3c1bcb3c1c.min.js"></script>
-<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=367"></script>
-<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=367"></script>
+<script type="text/javascript" src="/assets/js/frontstore/main.9d3facad76c1cba38fa3.min.js"></script>
+<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=400"></script>
+<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=400"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/23.1.0/jssor.slider.min.js"></script>
 <link rel="canonical" href="https://idfmetale.pl/sztabki-srebra" />
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'NTU2,OTg1,';
             </script>
-</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1626456680154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1631821859154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </a>
 </li>
-<li class="dropdown" style="display: none;">
+ <li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
 <span class="fa fa-angle-down"> </span>
@@ -357,17 +357,18 @@ Sortuj wg:
 <table class="products viewphot">
 <tbody>
 <tr class="fewperrow">
-<td class="even col3">
+ <td class="even col3">
 <div class="product" id="product_556">
 <a class="details spanhover" href="/produkt/sztabka-srebra-1-kg-lbma" title="1 kg  sztabka srebra">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3374/1-kilo-srebra-sztabka.jpg" alt="1 kg  sztabka srebra" />
 </span> <span class="productname">1 kg sztabka srebra</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>4 450,06 zł</em>
+<em>3 985,17 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -384,7 +385,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
-<td class="odd col3">
+ <td class="odd col3">
 <div class="product" id="product_985">
 <a class="details spanhover" href="/produkt/sztaba-gaska-srebra-1000-uncji" title="1000 uncji Srebrna Sztabka Gąska">
 <span class="productlistimgsize">
@@ -394,7 +395,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>135 865,79 zł</em>
+<em>121 913,65 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -411,8 +412,8 @@ Sortuj wg:
 </div>
 </div>
 </td>
-<td class="spacefill even col3"></td>
- </tr>
+ <td class="spacefill even col3"></td>
+</tr>
 </tbody>
 </table> <div class="rightside"></div>
 </div>
@@ -535,20 +536,28 @@ jQuery(function($) {
 });
 </script>
 <script type="text/javascript">
-                    window.customerPrivacy.onAnalyticsConsentGranted(function () {
+                    
+                window.customerPrivacy.onAnalyticsConsentGranted(function () {
                 
                     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
                 
                 ga('create', 'UA-28882203-1', 'auto', 'client');
                                     ga('client.require', 'displayfeatures');
                 
                 
-                if (typeof window.gaEcommerce == 'function') { window.gaEcommerce() }
-                Shop.values = Shop.values || {}; Shop.values.clientEE = 1;
-            });
+                
+                    if (typeof gaEcommerce == 'function') { gaEcommerce() }
+                
+            
+                window.Shop = window.Shop || {};
+                Shop.values = Shop.values || {}; 
+                Shop.values.clientEE = 1;
+            
+            
+                }); 
+            
             </script>
 <div id="shoper-foot">
 <a href="https://www.shoper.pl/premium/" target="_blank" rel="noopener" title="Sklep internetowy Shoper Premium" class="popup">Sklep internetowy Shoper Premium</a>

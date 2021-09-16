@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,9 +17,9 @@
 <script src="https://use.fontawesome.com/8b7a637e14.js"></script>
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/main.css" />
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/user.css" />
-<script type="text/javascript" src="/assets/js/frontstore/main.9b2c83b93d3c1bcb3c1c.min.js"></script>
-<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=367"></script>
-<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=367"></script>
+<script type="text/javascript" src="/assets/js/frontstore/main.9d3facad76c1cba38fa3.min.js"></script>
+<script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=400"></script>
+<script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=400"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jssor-slider/23.1.0/jssor.slider.min.js"></script>
 <link rel="canonical" href="https://idfmetale.pl/zlote-monety-bulionowe" />
@@ -61,9 +61,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <script type="text/javascript">
                                             Shop.basket.basketProducts = '';
-            Shop.basket.categoryProducts = 'OTk1,OTU4,ODIx,MTAwOQ==,ODI1,ODc0,MTAwMg==,MTAwOA==,Nzgy,NTk4,ODc1,ODE0,';
+            Shop.basket.categoryProducts = 'OTk1,ODIx,ODI1,ODc0,MTAwMg==,Nzgy,MTAwOA==,ODc1,MTA1OQ==,MTA1OA==,';
             </script>
-</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1626461426154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1631821860154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </a>
 </li>
- <li class="dropdown" style="display: none;">
+<li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
 <span class="fa fa-angle-down"> </span>
@@ -254,7 +254,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <li>
 <h3>
-<a href="/bezpieczna-przystan" title="Pozostałe" id="headercategory69" class="spanhover">
+ <a href="/bezpieczna-przystan" title="Pozostałe" id="headercategory69" class="spanhover">
 <span>Bezpieczna Przystań</span>
 </a>
 </h3>
@@ -360,8 +360,7 @@ Sortuj wg:
 <tr class="fewperrow">
 <td class="even col3">
 <div class="product" id="product_995">
-<a class="details spanhover" href="/pl/p/1-uncja-zlota-moneta-ARMILLARY/995" title="1 uncja złota moneta ARMILLARY">
-
+<a class="details spanhover" href="/produkt/armillary-coin-ring-1-uncja-2015" title="1 uncja złota moneta ARMILLARY">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3350/1-uncja-zlota-sztabka-moneta-armillary-valcambi.jpg" alt="1 uncja złota moneta ARMILLARY" />
@@ -369,8 +368,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>8 504,50 zł</em>
+<em>8 308,41 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -387,46 +387,19 @@ Sortuj wg:
 </div>
 </td>
 <td class="odd col3">
-<div class="product" id="product_958">
-<a class="details spanhover" href="/pl/p/Amerykanski-Bizon-1-uncja-zlota/958" title="Amerykański Bizon 1 uncja złota">
-
-<span class="productlistimgsize">
-
-<img class="photo" src="/userdata/public/gfx/d346f14ca694e59f53bd300454e1c920.jpg" alt="Amerykański Bizon 1 uncja złota" />
-</span> <span class="productname">Amerykański Bizon 1 uncja złota</span>
-</a>
-<div class="price">
-<span>Cena:</span>
-<em>8 138,07 zł</em>
-</div>
-<div class="basket">
-<form class="basket " action="/pl/basket/add/post" method="post">
-<fieldset>
-<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
-<span class="unit">szt.</span>
-<input type="hidden" value="1015" name="stock_id" />
-<button class="addtobasket" type="submit">
-<img src="/public/images/1px.gif" alt="" class="px1" />
-<span>Dodaj do koszyka</span>
-</button>
-</fieldset>
-</form>
-</div>
-</div>
-</td>
-<td class="even col3">
 <div class="product" id="product_821">
-<a class="details spanhover" href="/pl/p/Australijski-Kangur-1-uncja-zlota/821" title="Australijski Kangur 1 uncja złota">
-
+<a class="details spanhover" href="/produkt/australijski-kangur-1-uncja-zlota" title="Australijski Kangur 1 uncja złota">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3335/australijski-kangur-1-uncja-zlota.jpg" alt="Australijski Kangur 1 uncja złota" />
 </span> <span class="productname">Australijski Kangur 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 773,24 zł</em>
+<em>7 495,60 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -442,38 +415,9 @@ Sortuj wg:
 </div>
 </div>
 </td>
-</tr><tr class="fewperrow"> <td class="odd col3">
-<div class="product" id="product_1009">
-<a class="details spanhover" href="/pl/p/Australijski-Kangur-12-uncji-zlota/1009" title="Australijski Kangur 1/2 uncji złota">
-
-<span class="productlistimgsize">
-
-<img class="photo" src="/userdata/public/gfx/3403/australijski-kangur-12-uncji-zlota-australian-kangaroo-12-oz.jpg" alt="Australijski Kangur 1/2 uncji złota" />
-</span> <span class="productname">Australijski Kangur 1/2 uncji złota</span>
-</a>
-<div class="price">
-<span>Cena:</span>
-<em>3 977,64 zł</em>
-</div>
-<div class="basket">
-<form class="basket " action="/pl/basket/add/post" method="post">
-<fieldset>
-<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
-<span class="unit">szt.</span>
-<input type="hidden" value="1066" name="stock_id" />
-<button class="addtobasket" type="submit">
-<img src="/public/images/1px.gif" alt="" class="px1" />
-<span>Dodaj do koszyka</span>
-</button>
-</fieldset>
-</form>
-</div>
-</div>
-</td>
 <td class="even col3">
 <div class="product" id="product_825">
-<a class="details spanhover" href="/pl/p/Britannia-1-uncja-zlota/825" title="Britannia 1 uncja złota">
-
+<a class="details spanhover" href="/produkt/britannia-1-uncja-zlota" title="Britannia 1 uncja złota">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/6cb5f8c781b666fd42ebaf9c22a5f86f.jpg" alt="Britannia 1 uncja złota" />
@@ -481,8 +425,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 773,24 zł</em>
+<em>7 495,60 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -498,10 +443,10 @@ Sortuj wg:
 </div>
 </div>
 </td>
-<td class="odd col3">
+</tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_874">
-<a class="details spanhover" href="/pl/p/Krugerrand-1-uncja-zlota/874" title="Krugerrand 1 uncja złota">
- <span class="productlistimgsize">
+<a class="details spanhover" href="/produkt/krugerrand-1-uncja-zlota" title="Krugerrand 1 uncja złota">
+<span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/8f746f84b5d476c9a28559e0d3002f45.jpg" alt="Krugerrand 1 uncja złota" />
@@ -509,8 +454,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 803,49 zł</em>
+<em>7 524,77 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -526,17 +472,18 @@ Sortuj wg:
 </div>
 </div>
 </td>
-</tr><tr class="fewperrow"> <td class="even col3">
+<td class="even col3">
 <div class="product" id="product_1002">
-<a class="details spanhover" href="/pl/p/Moneta-zlota-1-Dukat-Austriacki-2021/1002" title="Moneta złota 1 Dukat Austriacki 2021">
+<a class="details spanhover" href="/produkt/zloty-dukat-austriacki-moneta" title="Moneta złota 1 Dukat Austriacki 2021">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3405/dukat-austriacki-zlota-moneta.jpg" alt="Moneta złota 1 Dukat Austriacki 2021" />
 </span> <span class="productname">Moneta złota 1 Dukat Austriacki 2021</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>924,32 zł</em>
+<em>891,31 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -554,45 +501,18 @@ Sortuj wg:
 </div>
 </td>
 <td class="odd col3">
-<div class="product" id="product_1008">
-<a class="details spanhover" href="/pl/p/Wiedenski-Filharmonik-1-25-uncji-zlota/1008" title="Wiedeński Filharmonik 1 /25 uncji złota">
-<span class="productlistimgsize">
-
-<img class="photo" src="/userdata/public/gfx/3396/1-25-uncji-zlota-wiedenscy-filharmonicy.jpg" alt="Wiedeński Filharmonik 1 /25 uncji złota" />
-</span> <span class="productname">Wiedeński Filharmonik 1 /25 uncji złota</span>
-</a>
-<div class="price">
-<span>Cena:</span>
-<em>381,14 zł</em>
-</div>
-<div class="basket">
-<form class="basket " action="/pl/basket/add/post" method="post">
-<fieldset>
-<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
-<span class="unit">szt.</span>
-<input type="hidden" value="1065" name="stock_id" />
-<button class="addtobasket" type="submit">
-<img src="/public/images/1px.gif" alt="" class="px1" />
-<span>Dodaj do koszyka</span>
-</button>
-</fieldset>
-</form>
-</div>
-</div>
-</td>
-<td class="even col3">
 <div class="product" id="product_782">
-<a class="details spanhover" href="/pl/p/Wiedenski-Filharmonik-1-uncja-zlota/782" title="Wiedeński Filharmonik 1 uncja złota">
+<a class="details spanhover" href="/produkt/wiedenscy-filharmonicy-1-uncja-zlota" title="Wiedeński Filharmonik 1 uncja złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
-<img class="photo" src="/userdata/public/gfx/04d614dede7596358d853f3f2615d5b0.jpg" alt="Wiedeński Filharmonik 1 uncja złota" />
+<img class="photo" src="/userdata/public/gfx/3371/Wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt="Wiedeński Filharmonik 1 uncja złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 733,22 zł</em>
-</div>
+<em>7 495,60 zł</em>
+ </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -608,24 +528,25 @@ Sortuj wg:
 </div>
 </div>
 </td>
-</tr><tr class="fewperrow"> <td class="odd col3">
-<div class="product" id="product_598">
- <a class="details spanhover" href="/pl/p/Amerykanski-Orzel-1-uncja-zlota/598" title="Amerykański Orzeł 1 uncja złota">
+</tr><tr class="fewperrow"> <td class="even col3">
+<div class="product" id="product_1008">
+<a class="details spanhover" href="/produkt/wiedenski-filharmonik-1-25-uncji-zlota" title="Wiedeński Filharmonik 1/25 uncji złota">
 <span class="productlistimgsize">
 
-<img class="photo" src="/userdata/public/gfx/5b3595224ac11831426ed1e28140d09c.jpg" alt="Amerykański Orzeł 1 uncja złota" />
-</span> <span class="productname">Amerykański Orzeł 1 uncja złota</span>
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="photo" src="/userdata/public/gfx/3396/1-25-uncji-zlota-wiedenscy-filharmonicy.jpg" alt="Wiedeński Filharmonik 1/25 uncji złota" />
+</span> <span class="productname">Wiedeński Filharmonik 1/25 uncji złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>8 138,07 zł</em>
+ <em>367,53 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
-<input type="hidden" value="649" name="stock_id" />
+<input type="hidden" value="1065" name="stock_id" />
 <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
@@ -634,10 +555,10 @@ Sortuj wg:
 </form>
 </div>
 </div>
-</td>
-<td class="even col3">
+ </td>
+<td class="odd col3">
 <div class="product" id="product_875">
- <a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-1-uncja-zlota/875" title="Kanadyjski Liść Klonowy 1 uncja złota">
+<a class="details spanhover" href="/produkt/kanadyjski-lisc-klonowy-1-uncja-zlota" title="Kanadyjski Liść Klonowy 1 uncja złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -646,7 +567,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 773,24 zł</em>
+<em>7 495,60 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -663,22 +584,66 @@ Sortuj wg:
 </div>
 </div>
 </td>
-<td class="odd col3">
- <div class="product" id="product_814">
-<a class="details spanhover" href="/pl/p/Kanadyjski-Lisc-Klonowy-12-uncji/814" title="Kanadyjski Liść Klonowy 1/2 uncji">
+<td class="even col3">
+<div class="product" id="product_1059">
+<a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
 <span class="productlistimgsize">
 
-<img class="photo" src="/userdata/public/gfx/5d7704e53aa2ebe4ea2c238464fe43bb.jpg" alt="Kanadyjski Liść Klonowy 1/2 uncji" />
-</span> <span class="productname">Kanadyjski Liść Klonowy 1/2 uncji</span>
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="photo" src="/userdata/public/gfx/3559/moneta_Krugerrand_110_uncji_zlota_awers.jpg" alt="Krugerrand 1/10 uncji złota" />
+</span> <span class="productname">Krugerrand 1/10 uncji złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>4 127,74 zł</em>
+<em>872,31 zł</em>
 </div>
 <div class="basket">
+<form class="basket " action="/pl/basket/add/post" method="post">
+<fieldset>
+<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
+<span class="unit">szt.</span>
+<input type="hidden" value="1118" name="stock_id" />
+<button class="addtobasket" type="submit">
+<img src="/public/images/1px.gif" alt="" class="px1" />
+<span>Dodaj do koszyka</span>
+</button>
+</fieldset>
+</form>
 </div>
+<ul class="tags">
+<li class="new">new</li> </ul>
 </div>
 </td>
+</tr><tr class="fewperrow"> <td class="odd col3">
+<div class="product" id="product_1058">
+<a class="details spanhover" href="/pl/p/Krugerrand-12-uncji-zlota/1058" title="Krugerrand 1/2 uncji złota">
+<span class="productlistimgsize">
+
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="photo" src="/userdata/public/gfx/3557/moneta_Krugerrand_12_uncji_zlota_awers.jpg" alt="Krugerrand 1/2 uncji złota" />
+</span> <span class="productname">Krugerrand 1/2 uncji złota</span>
+</a>
+<div class="price">
+<span>Cena:</span>
+<em>4 001,31 zł</em>
+</div>
+<div class="basket">
+<form class="basket " action="/pl/basket/add/post" method="post">
+<fieldset>
+<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
+<span class="unit">szt.</span>
+<input type="hidden" value="1117" name="stock_id" />
+<button class="addtobasket" type="submit">
+<img src="/public/images/1px.gif" alt="" class="px1" />
+<span>Dodaj do koszyka</span>
+</button>
+</fieldset>
+</form>
+ </div>
+</div>
+</td>
+<td class="spacefill even col3"></td>
+<td class="spacefill odd col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>
@@ -738,7 +703,7 @@ Sortuj wg:
 </div>
 </div>
 </div>
- 
+
 <script type="text/javascript">
   (function () { 
     var _tsid = 'X10F8E74E3A02FFE27BDE8CD76F71D133'; 
@@ -803,20 +768,28 @@ jQuery(function($) {
 });
 </script>
 <script type="text/javascript">
-                    window.customerPrivacy.onAnalyticsConsentGranted(function () {
+                    
+                window.customerPrivacy.onAnalyticsConsentGranted(function () {
                 
                     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
                 
                 ga('create', 'UA-28882203-1', 'auto', 'client');
                                     ga('client.require', 'displayfeatures');
                 
                 
-                if (typeof window.gaEcommerce == 'function') { window.gaEcommerce() }
-                Shop.values = Shop.values || {}; Shop.values.clientEE = 1;
-            });
+                
+                    if (typeof gaEcommerce == 'function') { gaEcommerce() }
+                
+            
+                window.Shop = window.Shop || {};
+                Shop.values = Shop.values || {}; 
+                Shop.values.clientEE = 1;
+            
+            
+                }); 
+            
             </script>
 <div id="shoper-foot">
 <a href="https://www.shoper.pl/premium/" target="_blank" rel="noopener" title="Sklep internetowy Shoper Premium" class="popup">Sklep internetowy Shoper Premium</a>
