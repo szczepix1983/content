@@ -10,6 +10,7 @@ Table
                     <th>Obrazek</th>
                     <th>Nazwa</th>
                     <th>Cena</th>
+                    <th>Adres</th>
                 </tr>
             </thead>
             <tfoot>
@@ -17,6 +18,7 @@ Table
                     <th>Obrazek</th>
                     <th>Nazwa</th>
                     <th>Cena</th>
+                    <th>Adres</th>
                 </tr>
             </tfoot>
         </table>
