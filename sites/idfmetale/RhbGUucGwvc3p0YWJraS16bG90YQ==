@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'OTcy,OTY5,OTc2,OTc3,OTc4,ODkw,OTc0,OTcx,OTY0,OTcz,OTcw,NDU2,MTA0NQ==,';
             </script>
-</head><body id="shop_category18" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1631821860154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category18" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1631896164154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -136,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="  " id="hcategory_47">
 <h3>
 <a href="/zlote-monety-bulionowe/1/default/3" title="Monety bulionowe" id="headercategory47" class="spanhover">
- <span>Monety bulionowe</span>
+<span>Monety bulionowe</span>
 </a>
 </h3>
 </li>
@@ -223,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Kontakt
 </h3>
 </a>
-</li>
+ </li>
 <li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
@@ -245,7 +245,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </h3>
 </li>
- <li>
+<li>
 <h3>
 <a href="/pl/i/Hurt/36" title="Pozostałe" id="headercategory69" class="spanhover">
 <span>Współpraca</span>
@@ -360,16 +360,16 @@ Sortuj wg:
 <tr class="fewperrow">
 <td class="even col3">
 <div class="product" id="product_972">
-<a class="details spanhover" href="/produkt/sztabka-zlota-5g-lbma" title="5 g sztabka złota">
+ <a class="details spanhover" href="/produkt/sztabka-zlota-5g-lbma" title="5 g sztabka złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3341/5-gram-sztabka-zlota-Valcambi.jpg" alt="5 g sztabka złota" />
 </span> <span class="productname">5 g sztabka złota</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>1 245,54 zł</em>
+<em>1 253,07 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -395,9 +395,9 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3355/1-uncja-sztabka-zlota-valcambi.jpg" alt="1 uncja sztabka złota" />
 </span> <span class="productname">1 uncja sztabka złota</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>7 323,40 zł</em>
+<em>7 367,54 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -423,9 +423,9 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3338/50-g-sztabka-zlota-valcambi.jpg" alt="50 g sztabka złota" />
 </span> <span class="productname">50 g sztabka złota</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>11 740,05 zł</em>
+<em>11 810,68 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -443,16 +443,16 @@ Sortuj wg:
 </div>
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
-<div class="product" id="product_977">
+ <div class="product" id="product_977">
 <a class="details spanhover" href="/produkt/sztabka-zlota-100g-lbma" title="100 g sztabka złota">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3357/100-gram-sztabka-zlota-valcambi.jpg" alt="100 g sztabka złota" />
 </span> <span class="productname">100 g sztabka złota</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>23 570,82 zł</em>
+<em>23 712,10 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -477,9 +477,9 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3352/250-gram-sztabka-zlota-valcambi.jpg" alt="250 g sztabka złota" />
 </span> <span class="productname">250 g sztabka złota</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>58 652,45 zł</em>
+<em>59 015,54 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -498,16 +498,16 @@ Sortuj wg:
 </td>
 <td class="odd col3">
 <div class="product" id="product_890">
-<a class="details spanhover" href="/produkt/combibar-50-x-1g-valcambi-suisse" title="CombiBar 50g (50x1g) Valcambi Suisse">
+ <a class="details spanhover" href="/produkt/combibar-50-x-1g-valcambi-suisse" title="CombiBar 50g (50x1g) Valcambi Suisse">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3364/50-gram-sztabka-zlota-combibar-valcambi.jpg" alt="CombiBar 50g (50x1g) Valcambi Suisse" />
 </span> <span class="productname">CombiBar 50g (50x1g) Valcambi Suisse</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>12 599,17 zł</em>
+<em>12 599,19 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -525,7 +525,7 @@ Sortuj wg:
 </div>
 </td>
 </tr><tr class="fewperrow"> <td class="even col3">
-<div class="product" id="product_974">
+ <div class="product" id="product_974">
 <a class="details spanhover" href="/produkt/sztabka-zlota-1g-lbma" title="1 g Złota Sztabka">
 <span class="productlistimgsize">
 
@@ -533,10 +533,9 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3280/Valcambi_Sztabka_Zlota_1g.jpg" alt="1 g Złota Sztabka" />
 </span> <span class="productname">1 g Złota Sztabka</span>
 </a>
-
 <div class="price">
 <span>Cena:</span>
-<em>268,57 zł</em>
+<em>270,20 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -554,7 +553,7 @@ Sortuj wg:
 </div>
 </td>
 <td class="odd col3">
-<div class="product" id="product_971">
+ <div class="product" id="product_971">
 <a class="details spanhover" href="/produkt/sztabka-zlota-10g-lbma" title="10 g Złota Sztabka">
 <span class="productlistimgsize">
 
@@ -564,7 +563,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>2 448,93 zł</em>
+<em>2 463,73 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -580,7 +579,7 @@ Sortuj wg:
 </form>
 </div>
 </div>
- </td>
+</td>
 <td class="even col3">
 <div class="product" id="product_964">
 <a class="details spanhover" href="/produkt/valcambi-1kg-sztabka-zlota" title="1000 g sztabka złota - Valcambi">
@@ -591,7 +590,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>226 815,76 zł</em>
+<em>228 195,20 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -608,17 +607,18 @@ Sortuj wg:
 </div>
 </div>
 </td>
- </tr><tr class="fewperrow"> <td class="odd col3">
+</tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_973">
 <a class="details spanhover" href="/produkt/sztabka-zlota-2g-lbma" title="2 g Złota Sztabka">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3283/Munze_Osterreich_Sztabka_Zlota_2g.jpg" alt="2 g Złota Sztabka" />
 </span> <span class="productname">2 g Złota Sztabka</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>520,14 zł</em>
+<em>523,28 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -640,29 +640,39 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/sztabka-zlota-20g-lbma" title="20 g sztabka złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3360/20-gram-sztabka-zlota-valcambi.jpg" alt="20 g sztabka złota" />
 </span> <span class="productname">20 g sztabka złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>4 818,73 zł</em>
+<em>4 847,79 zł</em>
 </div>
 <div class="basket">
+<form class="basket " action="/pl/basket/add/post" method="post">
+<fieldset>
+<div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
+<span class="unit">szt.</span>
+<input type="hidden" value="1027" name="stock_id" />
+<button class="addtobasket" type="submit">
+<img src="/public/images/1px.gif" alt="" class="px1" />
+<span>Dodaj do koszyka</span>
+</button>
+</fieldset>
+</form>
 </div>
 </div>
 </td>
 <td class="odd col3">
-<div class="product" id="product_456">
+ <div class="product" id="product_456">
 <a class="details spanhover" href="/produkt/sztabka-zlota-500g-lbma" title="500 g sztabka złota">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/b6b7667c043a63de58ee9fc90d8ca382.jpg" alt="500 g sztabka złota" />
 </span> <span class="productname">500 g sztabka złota</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>119 560,79 zł</em>
+<em>119 579,16 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -684,12 +694,13 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/smartpack-10-x-1g-c-hafner" title="Sztabka złota 10 x 1g SmartPack C.Hafner">
 <span class="productlistimgsize">
 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3520/C-Hafner-SmartPack-10-x-1g.jpg" alt="Sztabka złota 10 x 1g SmartPack C.Hafner" />
 </span> <span class="productname">Sztabka złota 10 x 1g SmartPack C.Hafner</span>
 </a>
- <div class="price">
+<div class="price">
 <span>Cena:</span>
-<em>2 502,69 zł</em>
+<em>2 517,62 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -706,7 +717,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
-<td class="spacefill odd col3"></td>
+ <td class="spacefill odd col3"></td>
 <td class="spacefill even col3"></td>
 </tr>
 </tbody>
@@ -738,7 +749,7 @@ Sortuj wg:
 <ul class="overall">
 <li class="overall col5" id="footgroup3"><ul>
 <li class="head">Moje konto</li>
-<li><a href="/pl/reg" class="" title="Rejestracja" id="footlink54">Rejestracja</a></li>  <li><a href="/pl/login" class="" title="Logowanie" id="footlink13">Logowanie</a></li> <li><a href="https://idfmetale.pl/pl/panel/edit" class="" title="Edycja danych" id="footlink11">Edycja danych</a></li> <li><a href="/pl/panel" class="" title="Zamównienia" id="footlink55">Zamównienia</a></li> </ul></li>
+<li><a href="/pl/reg" class="" title="Rejestracja" id="footlink54">Rejestracja</a></li> <li><a href="/pl/login" class="" title="Logowanie" id="footlink13">Logowanie</a></li> <li><a href="https://idfmetale.pl/pl/panel/edit" class="" title="Edycja danych" id="footlink11">Edycja danych</a></li> <li><a href="/pl/panel" class="" title="Zamównienia" id="footlink55">Zamównienia</a></li> </ul></li>
 <li class="overall col5" id="footgroup4"><ul>
 <li class="head">Informacje</li>
 <li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li> <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
