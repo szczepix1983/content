@@ -16,7 +16,7 @@
 
 /* datalayer */
 dataLayer = [];
-dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Amerykanski Orzel 1 uncja srebra","id":"","reference":"AGI-MO-EAGLE1OZ","price":"243","brand":"US Mint","category":"Srebro lokacyjne","link":"amerykanski-orzel-1-uncja-srebra","price_tax_exc":"243","wholesale_price":"0","list":"category","position":1},{"name":"Krugerrand 1 uncja srebra","id":"","reference":"AGI-MO-KRUG1OZ","price":"144","brand":"Rand Refinery","category":"Srebro lokacyjne","link":"krugerrand-1-uncja-srebra","price_tax_exc":"144","wholesale_price":"0","list":"category","position":2},{"name":"Sztabka srebra 100 g Goldenmark","id":"","reference":"AGI-SZ-100GGOLDENMARK","price":"514","category":"Srebro lokacyjne","link":"sztabka-srebra-100-g-goldenmark","price_tax_exc":"514","wholesale_price":"0","list":"category","position":3},{"name":"Koala 1 uncja srebra","id":"","reference":"AGI-MO-KOALA1OZ","price":"209","brand":"Perth Mint","category":"Srebro lokacyjne","link":"koala-1-uncja-srebra-3064","price_tax_exc":"209","wholesale_price":"0","list":"category","position":4},{"name":"Slon Somalijski 1 uncja srebra","id":"","reference":"AGI-MO-ELEPHANT1OZ","price":"204","category":"Srebro lokacyjne","link":"slon-somalijski-1-uncja-srebra-3299","price_tax_exc":"204","wholesale_price":"0","list":"category","position":5},{"name":"Sztabka srebra 1 kg","id":"","reference":"AGI-SZ-1000GVAT","price":"3992","category":"Srebro lokacyjne","link":"sztabka-srebra-1-kilogram-6035","price_tax_exc":"3992","wholesale_price":"0","list":"category","position":6},{"name":"Kookaburra 1 uncja srebra","id":"","reference":"AGI-MO-KOOKA1OZ","price":"194","brand":"Perth Mint","category":"Srebro lokacyjne","link":"kookaburra-1-uncja-srebra","price_tax_exc":"194","wholesale_price":"0","list":"category","position":7},{"name":"Kookaburra - The Next Generation - 2 uncje Srebra 2020","id":"","reference":"AGI-MO-KOOKABURRAMOTHERANDBABY2OZ","price":"315","brand":"Perth Mint","category":"Srebro lokacyjne","link":"kookaburra-2-uncje-srebra-2020","price_tax_exc":"315","wholesale_price":"0","list":"category","position":8},{"name":"Bestie Krolowej: Bialy Kon Hanoweru - 2 uncje Srebra 2020","id":"","reference":"AGI-MO-WHITEHORSE2OZQB","price":"321","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-bialy-kon-hanoweru-2-uncje-srebra-2020","price_tax_exc":"321","wholesale_price":"0","list":"category","position":9},{"name":"Bestie Krolowej: Bialy Chart z Richmond - 2 Uncje Srebra 2021","id":"","reference":"AGI-MO-GREYHOUNDOFRICHMOND2OZ","price":"297","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-królowej-biały-chart-z-richmond-2-uncje-srebra-2021","price_tax_exc":"297","wholesale_price":"0","list":"category","position":10},{"name":"Zestaw: 25x Britannia 1 uncja srebra","id":"","reference":"ZES-25XBRITANNIA1OZAG","price":"3132","brand":"Rand Refinery","category":"Srebro lokacyjne","link":"zestaw-25x-britannia-1-uncja-srebra","price_tax_exc":"3132","wholesale_price":"0","list":"category","position":11},{"name":"Zestaw: 500x Britannia 1 uncja srebra","id":"","reference":"ZES-500XBRITANNIA1OZAG","price":"60183","brand":"Rand Refinery","category":"Srebro lokacyjne","link":"zestaw-500x-britannia-1-uncja-srebra","price_tax_exc":"60183","wholesale_price":"0","list":"category","position":12},{"name":"Drzewo zycia 1 uncja srebra","id":"","reference":"AGI-MO-TREEOFLIFE1OZ","price":"158","brand":"US Mint","category":"Srebro lokacyjne","link":"drzewo-życia-1-uncja-srebra","price_tax_exc":"158","wholesale_price":"0","list":"category","position":13},{"name":"Bestie Krolowej: Jednorozec 2 uncje srebra","id":"","reference":"AGI-MO-UNICORN2OZQB","price":"297","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-jednorozec-2-uncje-srebra","price_tax_exc":"297","wholesale_price":"0","list":"category","position":14},{"name":"Kookaburra 2020 - 1 kg srebra - 30-lecie","id":"","reference":"AGI-MO-KOOKA1000G","price":"4177","brand":"Perth Mint","category":"Srebro lokacyjne","link":"kookaburra-1-kg-srebra-2864","price_tax_exc":"4177","wholesale_price":"0","list":"category","position":15},{"name":"Bestie Krolowej: Bialy Lew Mortimerow 2 Uncje Srebra","id":"","reference":"AGI-MO-WHITELION2OZQB","price":"401","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-bialy-lew-mortimerow-2-uncje-srebra","price_tax_exc":"401","wholesale_price":"0","list":"category","position":16},{"name":"Bestie Krolowej: Lew 2 uncje srebra","id":"","reference":"AGI-MO-LION2OZQB","price":"297","category":"Srebro lokacyjne","link":"stworzenia-krolowej-lew-2-uncje-srebra","price_tax_exc":"297","wholesale_price":"0","list":"category","position":17},{"name":"Kanadyjska Krolewska Policja Konna 2020 - 100 Rocznica - 2 Uncje Srebra","id":"","reference":"AGI-MO-MOUNTEDPOLICE2OZ","price":"334","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"kanadyjska-krolewska-policja-konna-2020-100-rocznica-2-uncje-srebra","price_tax_exc":"334","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Srebro lokacyjne"}});
+dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Amerykanski Orzel 1 uncja srebra","id":"","reference":"AGI-MO-EAGLE1OZ","price":"240","brand":"US Mint","category":"Srebro lokacyjne","link":"amerykanski-orzel-1-uncja-srebra","price_tax_exc":"240","wholesale_price":"0","list":"category","position":1},{"name":"Krugerrand 1 uncja srebra","id":"","reference":"AGI-MO-KRUG1OZ","price":"142","brand":"Rand Refinery","category":"Srebro lokacyjne","link":"krugerrand-1-uncja-srebra","price_tax_exc":"142","wholesale_price":"0","list":"category","position":2},{"name":"Sztabka srebra 100 g Goldenmark","id":"","reference":"AGI-SZ-100GGOLDENMARK","price":"507","category":"Srebro lokacyjne","link":"sztabka-srebra-100-g-goldenmark","price_tax_exc":"507","wholesale_price":"0","list":"category","position":3},{"name":"Koala 1 uncja srebra","id":"","reference":"AGI-MO-KOALA1OZ","price":"206","brand":"Perth Mint","category":"Srebro lokacyjne","link":"koala-1-uncja-srebra-3064","price_tax_exc":"206","wholesale_price":"0","list":"category","position":4},{"name":"Slon Somalijski 1 uncja srebra","id":"","reference":"AGI-MO-ELEPHANT1OZ","price":"201","category":"Srebro lokacyjne","link":"slon-somalijski-1-uncja-srebra-3299","price_tax_exc":"201","wholesale_price":"0","list":"category","position":5},{"name":"Sztabka srebra 1 kg","id":"","reference":"AGI-SZ-1000GVAT","price":"3937","category":"Srebro lokacyjne","link":"sztabka-srebra-1-kilogram-6035","price_tax_exc":"3937","wholesale_price":"0","list":"category","position":6},{"name":"Kookaburra 1 uncja srebra","id":"","reference":"AGI-MO-KOOKA1OZ","price":"192","brand":"Perth Mint","category":"Srebro lokacyjne","link":"kookaburra-1-uncja-srebra","price_tax_exc":"192","wholesale_price":"0","list":"category","position":7},{"name":"Kookaburra - The Next Generation - 2 uncje Srebra 2020","id":"","reference":"AGI-MO-KOOKABURRAMOTHERANDBABY2OZ","price":"311","brand":"Perth Mint","category":"Srebro lokacyjne","link":"kookaburra-2-uncje-srebra-2020","price_tax_exc":"311","wholesale_price":"0","list":"category","position":8},{"name":"Bestie Krolowej: Bialy Kon Hanoweru - 2 uncje Srebra 2020","id":"","reference":"AGI-MO-WHITEHORSE2OZQB","price":"316","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-bialy-kon-hanoweru-2-uncje-srebra-2020","price_tax_exc":"316","wholesale_price":"0","list":"category","position":9},{"name":"Bestie Krolowej: Bialy Chart z Richmond - 2 Uncje Srebra 2021","id":"","reference":"AGI-MO-GREYHOUNDOFRICHMOND2OZ","price":"293","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-królowej-biały-chart-z-richmond-2-uncje-srebra-2021","price_tax_exc":"293","wholesale_price":"0","list":"category","position":10},{"name":"Zestaw: 25x Britannia 1 uncja srebra","id":"","reference":"ZES-25XBRITANNIA1OZAG","price":"3089","brand":"Rand Refinery","category":"Srebro lokacyjne","link":"zestaw-25x-britannia-1-uncja-srebra","price_tax_exc":"3089","wholesale_price":"0","list":"category","position":11},{"name":"Zestaw: 500x Britannia 1 uncja srebra","id":"","reference":"ZES-500XBRITANNIA1OZAG","price":"59359","brand":"Rand Refinery","category":"Srebro lokacyjne","link":"zestaw-500x-britannia-1-uncja-srebra","price_tax_exc":"59359","wholesale_price":"0","list":"category","position":12},{"name":"Drzewo zycia 1 uncja srebra","id":"","reference":"AGI-MO-TREEOFLIFE1OZ","price":"156","brand":"US Mint","category":"Srebro lokacyjne","link":"drzewo-życia-1-uncja-srebra","price_tax_exc":"156","wholesale_price":"0","list":"category","position":13},{"name":"Bestie Krolowej: Jednorozec 2 uncje srebra","id":"","reference":"AGI-MO-UNICORN2OZQB","price":"293","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-jednorozec-2-uncje-srebra","price_tax_exc":"293","wholesale_price":"0","list":"category","position":14},{"name":"Kookaburra 2020 - 1 kg srebra - 30-lecie","id":"","reference":"AGI-MO-KOOKA1000G","price":"4122","brand":"Perth Mint","category":"Srebro lokacyjne","link":"kookaburra-1-kg-srebra-2864","price_tax_exc":"4122","wholesale_price":"0","list":"category","position":15},{"name":"Bestie Krolowej: Bialy Lew Mortimerow 2 Uncje Srebra","id":"","reference":"AGI-MO-WHITELION2OZQB","price":"396","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-bialy-lew-mortimerow-2-uncje-srebra","price_tax_exc":"396","wholesale_price":"0","list":"category","position":16},{"name":"Bestie Krolowej: Lew 2 uncje srebra","id":"","reference":"AGI-MO-LION2OZQB","price":"293","category":"Srebro lokacyjne","link":"stworzenia-krolowej-lew-2-uncje-srebra","price_tax_exc":"293","wholesale_price":"0","list":"category","position":17},{"name":"Kanadyjska Krolewska Policja Konna 2020 - 100 Rocznica - 2 Uncje Srebra","id":"","reference":"AGI-MO-MOUNTEDPOLICE2OZ","price":"329","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"kanadyjska-krolewska-policja-konna-2020-100-rocznica-2-uncje-srebra","price_tax_exc":"329","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Srebro lokacyjne"}});
 /* call to GTM Tag */
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -82,7 +82,7 @@ cdcgtmreq.send();
         var as4_orderBySalesAsc = "Sales: Lower first";
         var as4_orderBySalesDesc = "Sales: Highest first";
         var baseDir = "https:\/\/goldenmark.com\/";
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=2","meta":{"title":"Srebro lokacyjne, inwestycja w srebrne monety - Goldenmark (2)","description":"Najpopularniejsze Lokacyjne Srebrne Monety Bulionowe Renomowanych Mennic z Ca\u0142ego \u015awiata. Inwestowanie w srebro mo\u017ce stanowi\u0107 doskona\u0142e uzupe\u0142nienie portfela","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-982":true,"category-Srebro lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=2","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_silver","pl-pl":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Srebro lokacyjne","url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/srebro-lokacyjne?page=2"},"time":1631820561,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=2","meta":{"title":"Srebro lokacyjne, inwestycja w srebrne monety - Goldenmark (2)","description":"Najpopularniejsze Lokacyjne Srebrne Monety Bulionowe Renomowanych Mennic z Ca\u0142ego \u015awiata. Inwestowanie w srebro mo\u017ce stanowi\u0107 doskona\u0142e uzupe\u0142nienie portfela","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-982":true,"category-Srebro lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=2","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_silver","pl-pl":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Srebro lokacyjne","url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/srebro-lokacyjne?page=2"},"time":1631995877,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
         var psemailsubscription_subscription = "https:\/\/goldenmark.com\/pl\/module\/ps_emailsubscription\/subscription";
         var showcat = "1";
         var text_nopr = "Wprowad\u017a co najmniej 3 s\u0142owa kluczowe";
@@ -917,7 +917,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										id="PM_ASInputCritRange2_6_min" 
 										value="100" 
 										class="form-control" 
-										min="0"										max="5100" 
+										min="0"										max="59400" 
 										step="100" />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -927,9 +927,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																<input 	data-id-criterion-group="6" 
 										type="number" 
 										id="PM_ASInputCritRange2_6_max" 
-										value="5100" 
+										value="59400" 
 										class="form-control" 
-										min="0"										max="5100" 
+										min="0"										max="59400" 
 										step="100"  />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -1192,10 +1192,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">243,00 zł</span>
+	od <span class="pricefrom-price">240,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">243,00 zł</span>
+								<span itemprop="price" class="price">240,00 zł</span>
 																
 								
 							</div>
@@ -1279,10 +1279,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">137,00 zł</span>
+	od <span class="pricefrom-price">136,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">144,00 zł</span>
+								<span itemprop="price" class="price">142,00 zł</span>
 																
 								
 							</div>
@@ -1359,7 +1359,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">514,00 zł</span>
+								<span itemprop="price" class="price">507,00 zł</span>
 																
 								
 							</div>
@@ -1439,7 +1439,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">209,00 zł</span>
+								<span itemprop="price" class="price">206,00 zł</span>
 																
 								
 							</div>
@@ -1519,7 +1519,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">204,00 zł</span>
+								<span itemprop="price" class="price">201,00 zł</span>
 																
 								
 							</div>
@@ -1564,7 +1564,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 															</a>
 						                    
                     					<div class="conditions-box">
-																		
+																		<span class="flag24h">Wysyłka już w 24h</span>
 					</div>
 				<div class="button-container">
 																					<div class="button_view_product">
@@ -1599,10 +1599,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">3 992,00 zł</span>
+	od <span class="pricefrom-price">3 937,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">3 992,00 zł</span>
+								<span itemprop="price" class="price">3 937,00 zł</span>
 																
 								
 							</div>
@@ -1686,7 +1686,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">194,00 zł</span>
+								<span itemprop="price" class="price">192,00 zł</span>
 																
 								
 							</div>
@@ -1766,7 +1766,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">315,00 zł</span>
+								<span itemprop="price" class="price">311,00 zł</span>
 																
 								
 							</div>
@@ -1846,7 +1846,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">321,00 zł</span>
+								<span itemprop="price" class="price">316,00 zł</span>
 																
 								
 							</div>
@@ -1926,7 +1926,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">297,00 zł</span>
+								<span itemprop="price" class="price">293,00 zł</span>
 																
 								
 							</div>
@@ -2006,10 +2006,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">3 132,00 zł</span>
+	od <span class="pricefrom-price">3 089,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">3 132,00 zł</span>
+								<span itemprop="price" class="price">3 089,00 zł</span>
 																
 								
 							</div>
@@ -2089,10 +2089,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">60 183,00 zł</span>
+	od <span class="pricefrom-price">59 359,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">60 183,00 zł</span>
+								<span itemprop="price" class="price">59 359,00 zł</span>
 																
 								
 							</div>
@@ -2172,7 +2172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">158,00 zł</span>
+								<span itemprop="price" class="price">156,00 zł</span>
 																
 								
 							</div>
@@ -2252,7 +2252,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">297,00 zł</span>
+								<span itemprop="price" class="price">293,00 zł</span>
 																
 								
 							</div>
@@ -2336,7 +2336,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">4 177,00 zł</span>
+								<span itemprop="price" class="price">4 122,00 zł</span>
 																
 								
 							</div>
@@ -2416,7 +2416,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">401,00 zł</span>
+								<span itemprop="price" class="price">396,00 zł</span>
 																
 								
 							</div>
@@ -2499,7 +2499,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">297,00 zł</span>
+								<span itemprop="price" class="price">293,00 zł</span>
 																
 								
 							</div>
@@ -2579,7 +2579,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">334,00 zł</span>
+								<span itemprop="price" class="price">329,00 zł</span>
 																
 								
 							</div>
@@ -2636,11 +2636,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">243,00 zł</span>
+	od <span class="pricefrom-price">240,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="243">243,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="240">240,00 zł</span>
 										</span>
 																				
 										
@@ -2717,11 +2717,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">137,00 zł</span>
+	od <span class="pricefrom-price">136,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="144">144,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="142">142,00 zł</span>
 										</span>
 																				
 										
@@ -2792,7 +2792,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="514">514,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="507">507,00 zł</span>
 										</span>
 																				
 										
@@ -2870,7 +2870,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="209">209,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="206">206,00 zł</span>
 										</span>
 																				
 										
@@ -2944,7 +2944,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="204">204,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="201">201,00 zł</span>
 										</span>
 																				
 										
@@ -3017,11 +3017,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">3 992,00 zł</span>
+	od <span class="pricefrom-price">3 937,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="3992">3 992,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="3937">3 937,00 zł</span>
 										</span>
 																				
 										
@@ -3095,7 +3095,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="194">194,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="192">192,00 zł</span>
 										</span>
 																				
 										
@@ -3173,7 +3173,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="315">315,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="311">311,00 zł</span>
 										</span>
 																				
 										
@@ -3247,7 +3247,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="321">321,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="316">316,00 zł</span>
 										</span>
 																				
 										
@@ -3321,7 +3321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="297">297,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="293">293,00 zł</span>
 										</span>
 																				
 										
@@ -3394,11 +3394,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">3 132,00 zł</span>
+	od <span class="pricefrom-price">3 089,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="3132">3 132,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="3089">3 089,00 zł</span>
 										</span>
 																				
 										
@@ -3471,11 +3471,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">60 183,00 zł</span>
+	od <span class="pricefrom-price">59 359,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="60183">60 183,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="59359">59 359,00 zł</span>
 										</span>
 																				
 										
@@ -3549,7 +3549,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="158">158,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="156">156,00 zł</span>
 										</span>
 																				
 										
@@ -3623,7 +3623,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="297">297,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="293">293,00 zł</span>
 										</span>
 																				
 										
@@ -3697,7 +3697,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4177">4 177,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4122">4 122,00 zł</span>
 										</span>
 																				
 										
@@ -3775,7 +3775,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="401">401,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="396">396,00 zł</span>
 										</span>
 																				
 										
@@ -3849,7 +3849,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="297">297,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="293">293,00 zł</span>
 										</span>
 																				
 										
@@ -3926,7 +3926,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="334">334,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="329">329,00 zł</span>
 										</span>
 																				
 										
@@ -4506,7 +4506,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "2b8bd0685ac78c0608f432e5ae8dadd55e343c33";
+									as4Plugin.localCacheKey = "7024ebac21e96e93f54b2a4a511d7aaf9c9d3924";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
@@ -4647,7 +4647,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "2b8bd0685ac78c0608f432e5ae8dadd55e343c33";
+									as4Plugin.localCacheKey = "7024ebac21e96e93f54b2a4a511d7aaf9c9d3924";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
