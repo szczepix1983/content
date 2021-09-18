@@ -7,22 +7,16 @@ Table
     <table id="my-table" class="display" style="width:100%">
             <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Position</th>
-                    <th>Office</th>
-                    <th>Extn.</th>
-                    <th>Start date</th>
-                    <th>Salary</th>
+                    <th>Obrazek</th>
+                    <th>Nazwa</th>
+                    <th>Cena</th>
                 </tr>
             </thead>
             <tfoot>
                 <tr>
-                    <th>Name</th>
-                    <th>Position</th>
-                    <th>Office</th>
-                    <th>Extn.</th>
-                    <th>Start date</th>
-                    <th>Salary</th>
+                    <th>Obrazek</th>
+                    <th>Nazwa</th>
+                    <th>Cena</th>
                 </tr>
             </tfoot>
         </table>
