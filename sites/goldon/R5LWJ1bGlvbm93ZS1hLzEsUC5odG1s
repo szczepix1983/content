@@ -318,11 +318,11 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(815.9200),
+					startMin: parseFloat(820.7500),
 					startMax: parseFloat(11350.0000),
-					rangeMin: parseFloat(815.9200),
+					rangeMin: parseFloat(820.7500),
 					rangeMax: parseFloat(11350.0000),
-					currentFrom: parseFloat(815.9200),
+					currentFrom: parseFloat(820.7500),
 					currentTo: parseFloat(11350.0000),
 					decimal_separator: ",",
 					thousand_separator: " ",
@@ -449,7 +449,7 @@ Złota moneta Bestie Królowej - Completer Coin, 1 oz , 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7285.97">7 285,97 zł</span>
+<span class="price-value"  itemprop="price" content="7329.11">7 329,11 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -511,7 +511,7 @@ Złota moneta EMU   1 oz . 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7224.57">7 224,57 zł</span>
+<span class="price-value"  itemprop="price" content="7267.35">7 267,35 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -573,7 +573,7 @@ Złota moneta Wiedeńscy Filharmonicy 1/4 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="1903.36">1 903,36 zł</span>
+<span class="price-value"  itemprop="price" content="1914.63">1 914,63 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -608,7 +608,7 @@ Złota moneta Wiedeńscy Filharmonicy 1/4 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="839.11">839,11 zł</span>
+<span class="price-value"  itemprop="price" content="844.08">844,08 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -639,7 +639,7 @@ Złota moneta Wiedeńscy Filharmonicy 1/4 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7180.23">7 180,23 zł</span>
+<span class="price-value"  itemprop="price" content="7222.74">7 222,74 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -666,7 +666,7 @@ Złota moneta  Chińska Panda ,  30 gramów   2020</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7279.15">7 279,15 zł</span>
+<span class="price-value"  itemprop="price" content="7322.24">7 322,24 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -720,7 +720,7 @@ Złota moneta Liść Klonowy / Maple Leaf  1/4 Oz</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="1937.47">1 937,47 zł</span>
+<span class="price-value"  itemprop="price" content="1948.94">1 948,94 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -778,7 +778,7 @@ Złota moneta  Australijski Kangur 1/10 Oz. 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="815.92">815,92 zł</span>
+<span class="price-value"  itemprop="price" content="820.75">820,75 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -927,7 +927,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 822,07 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,11 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 651,90 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 862,46 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">87,65 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 688,83 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({

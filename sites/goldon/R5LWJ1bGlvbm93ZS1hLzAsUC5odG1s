@@ -316,11 +316,11 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(815.9200),
+					startMin: parseFloat(820.7500),
 					startMax: parseFloat(11350.0000),
-					rangeMin: parseFloat(815.9200),
+					rangeMin: parseFloat(820.7500),
 					rangeMax: parseFloat(11350.0000),
-					currentFrom: parseFloat(815.9200),
+					currentFrom: parseFloat(820.7500),
 					currentTo: parseFloat(11350.0000),
 					decimal_separator: ",",
 					thousand_separator: " ",
@@ -447,7 +447,7 @@ Złota moneta Amerykański Bizon / American Buffalo  2021 1 oz</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7333.73">7 333,73 zł</span>
+<span class="price-value"  itemprop="price" content="7377.14">7 377,14 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -478,7 +478,7 @@ Złota moneta Australijski Kangur  1 oz  2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7163.17">od&nbsp;7 128,79 zł</span>
+<span class="price-value"  itemprop="price" content="7205.58">od&nbsp;7 170,99 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -509,7 +509,7 @@ Złota moneta  Kanadyjski Liść Klonu  (Maple Leaf )  1 oz  2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7163.17">od&nbsp;7 128,79 zł</span>
+<span class="price-value"  itemprop="price" content="7205.58">od&nbsp;7 170,99 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -540,7 +540,7 @@ Złota moneta Rok Bawołu / Lunar III OX  1 Oz. 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7367.84">od&nbsp;7 332,47 zł</span>
+<span class="price-value"  itemprop="price" content="7411.46">od&nbsp;7 375,88 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -571,7 +571,7 @@ Złota moneta Rok Myszy / Lunar III Mouse  1 Oz. 2020</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7401.95">7 401,95 zł</span>
+<span class="price-value"  itemprop="price" content="7445.77">7 445,77 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -602,7 +602,7 @@ Złota moneta Wiedeńscy Filharmonicy 1 Oz  2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7190.46">od&nbsp;7 155,95 zł</span>
+<span class="price-value"  itemprop="price" content="7233.03">od&nbsp;7 198,31 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -633,7 +633,7 @@ Złota moneta  Chińska Panda ,  30 gramów   2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7000.81">7 000,81 zł</span>
+<span class="price-value"  itemprop="price" content="7042.26">7 042,26 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -664,7 +664,7 @@ Złota moneta Amerykański Orzeł /  American Eagle  1 oz.  2021 (nowy wizerunek
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7299.61">od&nbsp;7 281,36 zł</span>
+<span class="price-value"  itemprop="price" content="7342.83">od&nbsp;7 324,47 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -726,7 +726,7 @@ Złota moneta  Dragon  1 oz 2021 (Australia )</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7258.68">7 258,68 zł</span>
+<span class="price-value"  itemprop="price" content="7301.66">7 301,66 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -757,7 +757,7 @@ Złota moneta  Krugerrand 1 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7204.11">od&nbsp;7 169,53 zł</span>
+<span class="price-value"  itemprop="price" content="7246.76">od&nbsp;7 211,98 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -788,7 +788,7 @@ Złota moneta 100 Funtów Britannia  1 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7190.46">od&nbsp;7 155,95 zł</span>
+<span class="price-value"  itemprop="price" content="7205.58">od&nbsp;7 170,99 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -941,7 +941,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 822,07 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,11 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 651,90 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 862,46 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">87,65 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 688,83 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
