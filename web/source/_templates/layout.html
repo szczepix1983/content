@@ -1,0 +1,4 @@
+{% extends "!layout.html" %}
+{% if pagename == 'table' %}
+{% set script_files = script_files + ["_static/init_table.js"] %}
+{% endif %}
