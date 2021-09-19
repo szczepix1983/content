@@ -6,6 +6,7 @@ $(document).ready(function() {
         "columns": [
             { data: "image", render: function(data, type) { return '<img loading="lazy" width="100" height="100" src="' + data + '">'; } },
             { data: "name" },
+            { data: "tags" },
             { data: "price" },
             { data: "url", render: function(data, type) { return '<a href="' + data + '">' + data + '</a>'; } },
         ]

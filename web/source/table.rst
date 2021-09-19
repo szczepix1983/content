@@ -9,16 +9,18 @@ Table
                 <tr>
                     <th>Obrazek</th>
                     <th>Nazwa</th>
+                    <th>Kategoria</th>
                     <th>Cena</th>
-                    <th>Adres</th>
+                    <th>Link</th>
                 </tr>
             </thead>
             <tfoot>
                 <tr>
                     <th>Obrazek</th>
                     <th>Nazwa</th>
+                    <th>Kategoria</th>
                     <th>Cena</th>
-                    <th>Adres</th>
+                    <th>Link</th>
                 </tr>
             </tfoot>
         </table>
