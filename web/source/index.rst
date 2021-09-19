@@ -1,13 +1,18 @@
 .. toctree::
-    :hidden:
-    :maxdepth: 1
+    :titlesonly:
 
     dynamic/sklepy
     sklepy
-    table
 
 .. toctree::
-   :maxdepth: 1
-   :hidden:
+    :titlesonly:
+    :caption: Produkty
+
+    products
+    silver_products
+    gold_products
+
+.. toctree::
+   :titlesonly:
 
    changelog

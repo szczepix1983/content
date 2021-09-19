@@ -1,4 +1,10 @@
 {% extends "!layout.html" %}
-{% if pagename == 'table' %}
-{% set script_files = script_files + ["_static/init_table.js"] %}
+{% if pagename == 'products' %}
+{% set script_files = script_files + ["_static/init_products.js"] %}
+{% endif %}
+{% if pagename == 'silver_products' %}
+{% set script_files = script_files + ["_static/init_silver_products.js"] %}
+{% endif %}
+{% if pagename == 'gold_products' %}
+{% set script_files = script_files + ["_static/init_gold_products.js"] %}
 {% endif %}

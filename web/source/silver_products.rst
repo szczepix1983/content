@@ -1,0 +1,26 @@
+******
+Srebro
+******
+
+.. raw:: html
+
+    <table id="my-table" class="table table-striped table-hover table-sm" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Obrazek</th>
+                    <th>Nazwa</th>
+                    <th>Kategoria</th>
+                    <th>Cena</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Obrazek</th>
+                    <th>Nazwa</th>
+                    <th>Kategoria</th>
+                    <th>Cena</th>
+                    <th>Link</th>
+                </tr>
+            </tfoot>
+        </table>
