@@ -4,7 +4,7 @@ Table
 
 .. raw:: html
 
-    <table id="my-table" class="display" style="width:100%">
+    <table id="my-table" class="table table-striped table-hover table-sm" style="width:100%">
             <thead>
                 <tr>
                     <th>Obrazek</th>
