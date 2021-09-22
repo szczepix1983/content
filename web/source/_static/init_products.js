@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('#my-table').DataTable( {
-        "ajax": 'https://raw.githubusercontent.com/szczepix1983/content/main/web/products.json?_=' + Date.now(),
+        "ajax": 'https://raw.githubusercontent.com/szczepix1983/content/main/web/source/_static/products.json?_=' + Date.now(),
         "columns": [
             { data: "image", render: function(data, type) { return '<img loading="lazy" width="120" height="80" src="' + data + '">'; } },
             { data: "name" },
