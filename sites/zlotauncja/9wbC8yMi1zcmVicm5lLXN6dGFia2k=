@@ -63,7 +63,7 @@ var delete_txt = 'Usuń';
 var displayList = false;
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1631822082;
+var generated_date = 1632340668;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -361,7 +361,7 @@ var usingSecureMode = true;
 		<div class="cat-title">Kategorie</div>
 		<ul class="sf-menu clearfix menu-content">
 			<li><a href="http://zlota-uncja.pl/" title="Home">Home</a></li>
-<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
+<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-oferta-dnia" title="Oferta Dnia">Oferta Dnia</a></li><li><a href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Zapowiedzi">Zapowiedzi</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
 					</ul>
 	</div>
 	<!--/ Menu -->
@@ -389,22 +389,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 6824.85</div>
-      <div class="rtpriclist-other">XAU/EUR: 1490.97</div>
+      <div class="rtpriclist-current">XAU/PLN: 6996.65</div>
+      <div class="rtpriclist-other">XAU/EUR: 1511.07</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 89.14</div>
+      <div class="rtpriclist-current">XAG/PLN: 89.85</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 99.14</div>
-      <div class="rtpriclist-current">ASK: 79.14</div>-->
+      <!-- <div class="rtpriclist-current">BID: 99.85</div>
+      <div class="rtpriclist-current">ASK: 79.85</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 19.47</div>
+      <div class="rtpriclist-other">XAG/EUR: 19.41</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 29.47</div>
-      <div class="rtpriclist-other">ASK: 9.47</div> -->
+      <!-- <div class="rtpriclist-other">BID: 29.41</div>
+      <div class="rtpriclist-other">ASK: 9.41</div> -->
     </div>
   </div>
 </div>
@@ -468,106 +468,102 @@ var usingSecureMode = true;
     <div class="block_content products-block">
                     <ul class="products">
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2689-small_default/new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.jpg" alt="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="Congo 2021 - Gorilla Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2713-small_default/oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.jpg" alt="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz">New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU">OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta z serii "Władca Pierścieni" o wadze jednej uncji...</p>
+                        	<p class="product-description">Moneta bulionowa o wadze jednej uncji trojańskiej wykonana z czystego...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	152,75 zł                                        </span>
+                                        	131,51 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2687-small_default/grenada-2021-coat-of-arms-ag999-1oz-bu.jpg" alt="Grenada 2021 - Coat of Arms Ag999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zapowiedzi/950-polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.html" title="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2707-small_default/polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.jpg" alt="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU">Grenada 2021 - Coat of Arms Ag999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zapowiedzi/950-polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.html" title="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)">Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)</a>
                             </h5>
-                        	<p class="product-description">Kolejna moneta z serii EC8 "Eastern Caribbean 8" przedstawia herb...</p>
+                        	<p class="product-description">Pierwszy numizmat kolekcjonerski z serii “Skarby Natury”. Seria będzie...</p>
+                                                    </div>
+                    </li>
+                                    <li class="clearfix">
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2704-small_default/oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.jpg" alt="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz" /></a>
+                        <div class="product-content">
+                        	<h5>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz">OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz</a>
+                            </h5>
+                        	<p class="product-description">Druga moneta z serii Disney'a Piraci z Karaibów: Niue 2021 Latający...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	128,04 zł                                        </span>
+                                        	177,82 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2685-small_default/australia-2022-year-of-the-tiger-au9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Au9999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="Niue 2021 - Star Wars The Mandalorian Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2702-small_default/oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.jpg" alt="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU">Australia 2022 - Year of the Tiger Au9999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU">OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Seria Australian Lunar upamiętnia zwierzęta starożytnego chińskiego...</p>
+                        	<p class="product-description">Prezentujemy kolejny egzemplarz z serii: Niue 2021 - Star Wars The...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 438,25 zł                                        </span>
+                                        	140,77 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2683-small_default/australia-2022-year-of-the-tiger-ag9999-12oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2699-small_default/canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.jpg" alt="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU">Australia 2022 - Year of the Tiger Ag9999 1/2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU">Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU</a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 1/2 uncji trojańskiej, z serii Lunar...</p>
+                        	<p class="product-description">Srebrna moneta Wilkołak, z renomowanej mennicy Royal Canadian Mint, jest...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	81,04 zł                                        </span>
+                                        	239,88 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2681-small_default/australia-2022-year-of-the-tiger-ag9999-2oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2697-small_default/australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.jpg" alt="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU">Australia 2022 - Year of the Tiger Ag9999 2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU">Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 2 uncji trojańskich, z serii Lunar Series...</p>
+                        	<p class="product-description">Przedstawiamy kolejną monetę z serii Najniebezpieczniejsze stworzenia...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	276,67 zł                                        </span>
+                                        	136,14 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag999.9 1 oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2679-small_default/australia-2022-year-of-the-tiger-ag9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 "><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2695-small_default/100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.jpg" alt="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 " /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1oz BU">Australia 2022 - Year of the Tiger Ag9999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 ">100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 </a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 1 uncji trojańskiej, z serii Lunar Series...</p>
+                        	<p class="product-description">22 września 2021 roku Narodowy Bank Polski wprowadził do obiegu złotą...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	141,77 zł                                        </span>
+                                        	2 500,00 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2677-small_default/somalia-2021-elephant-ag9999-5oz.jpg" alt="Somalia 2021 - Elephant Ag999.9 5oz" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/944-great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.html" title="Great Britain 2021 - Queen&#039;s Beasts - The White Lion of Mortimer Ag999.9 10oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2693-small_default/great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.jpg" alt="Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz">Somalia 2021 - Elephant Ag999.9 5oz</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/944-great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.html" title="Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz">Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta bulionowa o wadze 5 uncji trojańskich "Słoń Somalijski"...</p>
+                        	<p class="product-description">Kolekcja Queen's Beasts swój debiut miała w 2016 roku. Seria została...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	752,33 zł                                        </span>
-                                    </div>
-                                                                                    </div>
-                    </li>
-                                    <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2675-small_default/antigua-barbuda-2021-frigatebird-ag999-1oz-bu.jpg" alt="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" /></a>
-                        <div class="product-content">
-                        	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU">Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU</a>
-                            </h5>
-                        	<p class="product-description">Przedstawiamy kolejną srebrną monetę z serii EC8 pochodzącą z...</p>
-                                                        	                                    <div class="price-box">
-                                        <span class="price">
-                                        	130,32 zł                                        </span>
+                                        	1 386,91 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -665,7 +661,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										164,81 zł									</span>
+										166,32 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -686,7 +682,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								164,81 zł							</span>
+								166,32 zł							</span>
 														
 							
 											</div>
@@ -734,7 +730,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										465,10 zł									</span>
+										469,23 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -755,7 +751,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								465,10 zł							</span>
+								469,23 zł							</span>
 														
 							
 											</div>
@@ -803,7 +799,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 106,46 zł									</span>
+										1 116,11 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -824,7 +820,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 106,46 zł							</span>
+								1 116,11 zł							</span>
 														
 							
 											</div>
@@ -872,7 +868,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 089,04 zł									</span>
+										2 106,94 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -893,7 +889,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 089,04 zł							</span>
+								2 106,94 zł							</span>
 														
 							
 											</div>
@@ -941,7 +937,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										312,32 zł									</span>
+										315,53 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -959,7 +955,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								312,32 zł							</span>
+								315,53 zł							</span>
 														
 							
 											</div>
@@ -1007,7 +1003,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 919,10 zł									</span>
+										3 951,89 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1028,7 +1024,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 919,10 zł							</span>
+								3 951,89 zł							</span>
 														
 							
 											</div>
@@ -1390,7 +1386,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"164.81"},'',true);MBG.add({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"465.10"},'',true);MBG.add({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,106.46"},'',true);MBG.add({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,089.04"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.32"},'',true);MBG.add({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,919.10"},'',true);MBG.addProductClick({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"164.81"});MBG.addProductClick({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"465.10"});MBG.addProductClick({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,106.46"});MBG.addProductClick({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,089.04"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.32"});MBG.addProductClick({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,919.10"});
+						MBG.add({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"166.32"},'',true);MBG.add({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"469.23"},'',true);MBG.add({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,116.11"},'',true);MBG.add({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,106.94"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"315.53"},'',true);MBG.add({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,951.89"},'',true);MBG.addProductClick({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"166.32"});MBG.addProductClick({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"469.23"});MBG.addProductClick({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,116.11"});MBG.addProductClick({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,106.94"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"315.53"});MBG.addProductClick({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,951.89"});
 					});
 				</script>
 				<script type="text/javascript">

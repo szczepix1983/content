@@ -66,10 +66,10 @@ var contentOnly = false;
 var customizationIdMessage = 'Dostosowywanie #';
 var delete_txt = 'Usuń';
 var displayList = false;
-var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"3690","min":"81","values":{"1":"3690","0":"81"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":66,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_oz","rel":""},"75":{"nbr":1,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":2,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":1,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_20_oz","rel":""},"76":{"nbr":7,"name":"2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-2_oz","rel":""},"22129":{"nbr":4,"name":"5 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-5_oz","rel":""},"78":{"nbr":2,"name":"10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-10_oz","rel":""},"27101":{"nbr":1,"name":"14,14 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1414_g","rel":""},"22184":{"nbr":1,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":1,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-austrian_mint","rel":""},"22225":{"nbr":4,"name":"BAVARIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-bavarian_mint","rel":""},"22828":{"nbr":4,"name":"CASA DE MONEDA DE MEXICO  ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico","rel":""},"16857":{"nbr":3,"name":"GERMANIA MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-germania_mint","rel":""},"20696":{"nbr":3,"name":"LEIPZIGER EDELMETALLVERARBEITUNG     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung","rel":""},"402":{"nbr":3,"name":"MENNICA POLSKA","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-mennica_polska","rel":""},"50":{"nbr":6,"name":"NEW ZEALAND MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-new_zealand_mint","rel":""},"51":{"nbr":20,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-perth_mint","rel":""},"27029":{"nbr":1,"name":"POBJOY MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-pobjoy_mint","rel":""},"24647":{"nbr":2,"name":"PRESSBURG MINT          ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-pressburg_mint","rel":""},"52":{"nbr":1,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-rand_refinery","rel":""},"21868":{"nbr":7,"name":"ROYAL AUSTRALIAN MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_australian_mint","rel":""},"53":{"nbr":1,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":12,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_mint","rel":""},"22488":{"nbr":8,"name":"SCOTTSDALE MINT        ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-scottsdale_mint","rel":""},"54":{"nbr":1,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-shanghai_mint","rel":""},"23652":{"nbr":1,"name":"SOUTH AFRICAN MINT     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-south_african_mint","rel":""},"22591":{"nbr":1,"name":"THE EAST INDIA COMPANY    ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-the_east_india_company","rel":""},"55":{"nbr":3,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
+var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"3722","min":"81","values":{"1":"3722","0":"81"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":67,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_oz","rel":""},"75":{"nbr":1,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":1,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1_4_oz","rel":""},"76":{"nbr":8,"name":"2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-2_oz","rel":""},"22129":{"nbr":4,"name":"5 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-5_oz","rel":""},"78":{"nbr":3,"name":"10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-10_oz","rel":""},"27101":{"nbr":1,"name":"14,14 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-1414_g","rel":""},"22184":{"nbr":1,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":1,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-austrian_mint","rel":""},"22225":{"nbr":4,"name":"BAVARIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-bavarian_mint","rel":""},"22828":{"nbr":1,"name":"CASA DE MONEDA DE MEXICO  ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico","rel":""},"16857":{"nbr":3,"name":"GERMANIA MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-germania_mint","rel":""},"20696":{"nbr":2,"name":"LEIPZIGER EDELMETALLVERARBEITUNG     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung","rel":""},"402":{"nbr":3,"name":"MENNICA POLSKA","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-mennica_polska","rel":""},"50":{"nbr":7,"name":"NEW ZEALAND MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-new_zealand_mint","rel":""},"51":{"nbr":20,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-perth_mint","rel":""},"27029":{"nbr":1,"name":"POBJOY MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-pobjoy_mint","rel":""},"24647":{"nbr":2,"name":"PRESSBURG MINT          ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-pressburg_mint","rel":""},"52":{"nbr":1,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-rand_refinery","rel":""},"21868":{"nbr":7,"name":"ROYAL AUSTRALIAN MINT","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_australian_mint","rel":""},"53":{"nbr":2,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":13,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-royal_mint","rel":""},"22488":{"nbr":9,"name":"SCOTTSDALE MINT        ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-scottsdale_mint","rel":""},"54":{"nbr":1,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-shanghai_mint","rel":""},"23652":{"nbr":1,"name":"SOUTH AFRICAN MINT     ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-south_african_mint","rel":""},"22591":{"nbr":1,"name":"THE EAST INDIA COMPANY    ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-the_east_india_company","rel":""},"55":{"nbr":3,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/19-srebrne-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1631822080;
+var generated_date = 1632340666;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -373,7 +373,7 @@ var usingSecureMode = true;
 		<div class="cat-title">Kategorie</div>
 		<ul class="sf-menu clearfix menu-content">
 			<li><a href="http://zlota-uncja.pl/" title="Home">Home</a></li>
-<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
+<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-oferta-dnia" title="Oferta Dnia">Oferta Dnia</a></li><li><a href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Zapowiedzi">Zapowiedzi</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
 					</ul>
 	</div>
 	<!--/ Menu -->
@@ -401,22 +401,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 6824.85</div>
-      <div class="rtpriclist-other">XAU/EUR: 1490.97</div>
+      <div class="rtpriclist-current">XAU/PLN: 6996.65</div>
+      <div class="rtpriclist-other">XAU/EUR: 1511.07</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 89.14</div>
+      <div class="rtpriclist-current">XAG/PLN: 89.85</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 99.14</div>
-      <div class="rtpriclist-current">ASK: 79.14</div>-->
+      <!-- <div class="rtpriclist-current">BID: 99.85</div>
+      <div class="rtpriclist-current">ASK: 79.85</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 19.47</div>
+      <div class="rtpriclist-other">XAG/EUR: 19.41</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 29.47</div>
-      <div class="rtpriclist-other">ASK: 9.47</div> -->
+      <!-- <div class="rtpriclist-other">BID: 29.41</div>
+      <div class="rtpriclist-other">ASK: 9.41</div> -->
     </div>
   </div>
 </div>
@@ -456,7 +456,7 @@ var usingSecureMode = true;
 																																												<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_41" id="layered_id_feature_41" value="41_8" /> 
 																						<label for="layered_id_feature_41">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_oz">1 oz<span> (66)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_oz">1 oz<span> (67)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -468,25 +468,13 @@ var usingSecureMode = true;
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_77" id="layered_id_feature_77" value="77_8" /> 
 																						<label for="layered_id_feature_77">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_4_oz">1/4 oz<span> (2)</span></a>
-																							</label>
-										</li>
-																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_378" id="layered_id_feature_378" value="378_8" /> 
-																						<label for="layered_id_feature_378">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_10_oz">1/10 oz<span> (1)</span></a>
-																							</label>
-										</li>
-																																							<li class="nomargin hiddable col-lg-12">
-																							<input type="checkbox" class="checkbox" name="layered_id_feature_379" id="layered_id_feature_379" value="379_8" /> 
-																						<label for="layered_id_feature_379">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_20_oz">1/20 oz<span> (1)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-1_4_oz">1/4 oz<span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_76" id="layered_id_feature_76" value="76_8" /> 
 																						<label for="layered_id_feature_76">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-2_oz">2 oz<span> (7)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-2_oz">2 oz<span> (8)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -498,7 +486,7 @@ var usingSecureMode = true;
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_78" id="layered_id_feature_78" value="78_8" /> 
 																						<label for="layered_id_feature_78">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-10_oz">10 oz<span> (2)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#waga-10_oz">10 oz<span> (3)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -538,7 +526,7 @@ var usingSecureMode = true;
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_22828" id="layered_id_feature_22828" value="22828_10" /> 
 																						<label for="layered_id_feature_22828">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico">CASA DE MONEDA DE MEXICO  <span> (4)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-casa_de_moneda_de_mexico">CASA DE MONEDA DE MEXICO  <span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -550,7 +538,7 @@ var usingSecureMode = true;
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_20696" id="layered_id_feature_20696" value="20696_10" /> 
 																						<label for="layered_id_feature_20696">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung">LEIPZIGER EDELMETALLVERARBEITUNG     <span> (3)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-leipziger_edelmetallverarbeitung">LEIPZIGER EDELMETALLVERARBEITUNG     <span> (2)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -562,7 +550,7 @@ var usingSecureMode = true;
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_50" id="layered_id_feature_50" value="50_10" /> 
 																						<label for="layered_id_feature_50">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-new_zealand_mint">NEW ZEALAND MINT<span> (6)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-new_zealand_mint">NEW ZEALAND MINT<span> (7)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -598,19 +586,19 @@ var usingSecureMode = true;
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_53" id="layered_id_feature_53" value="53_10" /> 
 																						<label for="layered_id_feature_53">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint"> ROYAL CANADIAN MINT <span> (1)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-royal_canadian_mint"> ROYAL CANADIAN MINT <span> (2)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_74" id="layered_id_feature_74" value="74_10" /> 
 																						<label for="layered_id_feature_74">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-royal_mint">ROYAL MINT<span> (12)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-royal_mint">ROYAL MINT<span> (13)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_22488" id="layered_id_feature_22488" value="22488_10" /> 
 																						<label for="layered_id_feature_22488">
-																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-scottsdale_mint">SCOTTSDALE MINT        <span> (8)</span></a>
+																								<a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe#mennica-scottsdale_mint">SCOTTSDALE MINT        <span> (9)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -710,106 +698,102 @@ var usingSecureMode = true;
     <div class="block_content products-block">
                     <ul class="products">
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2689-small_default/new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.jpg" alt="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="Congo 2021 - Gorilla Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2713-small_default/oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.jpg" alt="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz">New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU">OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta z serii "Władca Pierścieni" o wadze jednej uncji...</p>
+                        	<p class="product-description">Moneta bulionowa o wadze jednej uncji trojańskiej wykonana z czystego...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	152,75 zł                                        </span>
+                                        	131,51 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2687-small_default/grenada-2021-coat-of-arms-ag999-1oz-bu.jpg" alt="Grenada 2021 - Coat of Arms Ag999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zapowiedzi/950-polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.html" title="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2707-small_default/polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.jpg" alt="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU">Grenada 2021 - Coat of Arms Ag999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zapowiedzi/950-polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.html" title="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)">Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)</a>
                             </h5>
-                        	<p class="product-description">Kolejna moneta z serii EC8 "Eastern Caribbean 8" przedstawia herb...</p>
+                        	<p class="product-description">Pierwszy numizmat kolekcjonerski z serii “Skarby Natury”. Seria będzie...</p>
+                                                    </div>
+                    </li>
+                                    <li class="clearfix">
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2704-small_default/oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.jpg" alt="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz" /></a>
+                        <div class="product-content">
+                        	<h5>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz">OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz</a>
+                            </h5>
+                        	<p class="product-description">Druga moneta z serii Disney'a Piraci z Karaibów: Niue 2021 Latający...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	128,04 zł                                        </span>
+                                        	177,82 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2685-small_default/australia-2022-year-of-the-tiger-au9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Au9999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="Niue 2021 - Star Wars The Mandalorian Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2702-small_default/oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.jpg" alt="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU">Australia 2022 - Year of the Tiger Au9999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU">OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Seria Australian Lunar upamiętnia zwierzęta starożytnego chińskiego...</p>
+                        	<p class="product-description">Prezentujemy kolejny egzemplarz z serii: Niue 2021 - Star Wars The...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 438,25 zł                                        </span>
+                                        	140,77 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2683-small_default/australia-2022-year-of-the-tiger-ag9999-12oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2699-small_default/canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.jpg" alt="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU">Australia 2022 - Year of the Tiger Ag9999 1/2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU">Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU</a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 1/2 uncji trojańskiej, z serii Lunar...</p>
+                        	<p class="product-description">Srebrna moneta Wilkołak, z renomowanej mennicy Royal Canadian Mint, jest...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	81,04 zł                                        </span>
+                                        	239,88 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2681-small_default/australia-2022-year-of-the-tiger-ag9999-2oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2697-small_default/australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.jpg" alt="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU">Australia 2022 - Year of the Tiger Ag9999 2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU">Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 2 uncji trojańskich, z serii Lunar Series...</p>
+                        	<p class="product-description">Przedstawiamy kolejną monetę z serii Najniebezpieczniejsze stworzenia...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	276,67 zł                                        </span>
+                                        	136,14 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag999.9 1 oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2679-small_default/australia-2022-year-of-the-tiger-ag9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 "><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2695-small_default/100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.jpg" alt="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 " /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1oz BU">Australia 2022 - Year of the Tiger Ag9999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 ">100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 </a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 1 uncji trojańskiej, z serii Lunar Series...</p>
+                        	<p class="product-description">22 września 2021 roku Narodowy Bank Polski wprowadził do obiegu złotą...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	141,77 zł                                        </span>
+                                        	2 500,00 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2677-small_default/somalia-2021-elephant-ag9999-5oz.jpg" alt="Somalia 2021 - Elephant Ag999.9 5oz" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/944-great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.html" title="Great Britain 2021 - Queen&#039;s Beasts - The White Lion of Mortimer Ag999.9 10oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2693-small_default/great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.jpg" alt="Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz">Somalia 2021 - Elephant Ag999.9 5oz</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/944-great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.html" title="Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz">Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta bulionowa o wadze 5 uncji trojańskich "Słoń Somalijski"...</p>
+                        	<p class="product-description">Kolekcja Queen's Beasts swój debiut miała w 2016 roku. Seria została...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	752,33 zł                                        </span>
-                                    </div>
-                                                                                    </div>
-                    </li>
-                                    <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2675-small_default/antigua-barbuda-2021-frigatebird-ag999-1oz-bu.jpg" alt="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" /></a>
-                        <div class="product-content">
-                        	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU">Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU</a>
-                            </h5>
-                        	<p class="product-description">Przedstawiamy kolejną srebrną monetę z serii EC8 pochodzącą z...</p>
-                                                        	                                    <div class="price-box">
-                                        <span class="price">
-                                        	130,32 zł                                        </span>
+                                        	1 386,91 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -962,7 +946,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										141,77 zł									</span>
+										143,09 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -983,7 +967,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								141,77 zł							</span>
+								143,09 zł							</span>
 														
 							
 											</div>
@@ -1031,7 +1015,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										166,94 zł									</span>
+										168,56 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1052,7 +1036,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								166,94 zł							</span>
+								168,56 zł							</span>
 														
 							
 											</div>
@@ -1088,25 +1072,25 @@ var usingSecureMode = true;
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" title="Somalia 2022 - Elephant Ag999.9 1oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2643-home_default/somalia-2022-elephant-ag9999-1oz-bu.jpg" alt="Somalia 2022 - Elephant Ag999.9 1 oz BU" title="Somalia 2022 - Elephant Ag999.9 1 oz BU"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2697-home_default/australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.jpg" alt="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" title="Somalia 2022 - Elephant Ag999.9 1oz BU" itemprop="url" >
-								Somalia 2022 - Elephant Ag999.9 1oz BU
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU" itemprop="url" >
+								Australia 2022 - Australia&#039;s Most Dangerous - Desert...
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										123,46 zł									</span>
+										136,14 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html">
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html">
 								<span class="new-label">Nowy</span>
 							</a>
 																	</div>
@@ -1117,19 +1101,19 @@ var usingSecureMode = true;
 
 					
 					<p class="product-desc" itemprop="description">
-						Kolejna odsłona serii powstałej w 1999 roku jako następna część edycji kolekcjonerskiej African Wildlife. Współcześnie słoń jest największym żyjącym zwierzęciem lądowym.
+						Przedstawiamy kolejną monetę z serii Najniebezpieczniejsze stworzenia Australii: Australia 2022 - Australia's Most Dangerous - Desert Scorpion. To trzecia moneta serii Australia's Most Dangerous, o masie 1 uncji trojańskiej, która wybita została w limitowanym nakładzie 25 000 sztuk.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								123,46 zł							</span>
+								136,14 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=923&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="923" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=946&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="946" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1144,9 +1128,9 @@ var usingSecureMode = true;
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" data-id-product="923">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" data-id-product="946">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa 39. tydzie&#324;
+																		Dostawa 44. tydzie&#324;
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1169,7 +1153,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										150,01 zł									</span>
+										151,42 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1190,7 +1174,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								150,01 zł							</span>
+								151,42 zł							</span>
 														
 							
 											</div>
@@ -1238,7 +1222,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										81,04 zł									</span>
+										81,82 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1259,7 +1243,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								81,04 zł							</span>
+								81,82 zł							</span>
 														
 							
 											</div>
@@ -1295,6 +1279,144 @@ var usingSecureMode = true;
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2702-home_default/oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.jpg" alt="Niue 2021 - Star Wars The Mandalorian Ag999 1oz BU" title="Niue 2021 - Star Wars The Mandalorian Ag999 1oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU" itemprop="url" >
+								OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian...
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										140,77 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Prezentujemy kolejny egzemplarz z serii: Niue 2021 - Star Wars The Mandalorian. Tym razem srebrna moneta upamiętnia The Mandalorian - amerykański serial telewizyjny osadzony w świecie Gwiezdnych Wojen.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								140,77 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=948&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="948" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" data-id-product="948">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 42. tydzie&#324;
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2713-home_default/oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.jpg" alt="Congo 2021 - Gorilla Ag999 1oz BU" title="Congo 2021 - Gorilla Ag999 1oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU" itemprop="url" >
+								OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										131,51 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Moneta bulionowa o wadze jednej uncji trojańskiej wykonana z czystego srebra próby Ag.999. To kolejne wydanie renomowanej mennicy Scottsdale Mint, w limitowanym nakładzie 75 000 szt., przedstawia imponujących rozmiarów, geometrycznego goryla.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								131,51 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=951&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="951" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" data-id-product="951">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 43. tydzie&#324;
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
 						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU" itemprop="url">
 							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2687-home_default/grenada-2021-coat-of-arms-ag999-1oz-bu.jpg" alt="Grenada 2021 - Coat of Arms Ag999 1oz BU" title="Grenada 2021 - Coat of Arms Ag999 1oz BU"  width="250" height="250" itemprop="image" />
 						</a>
@@ -1307,7 +1429,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										128,04 zł									</span>
+										129,20 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1328,7 +1450,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								128,04 zł							</span>
+								129,20 zł							</span>
 														
 							
 											</div>
@@ -1360,7 +1482,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1376,7 +1498,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										152,75 zł									</span>
+										151,89 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1397,7 +1519,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								152,75 zł							</span>
+								151,89 zł							</span>
 														
 							
 											</div>
@@ -1429,76 +1551,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2675-home_default/antigua-barbuda-2021-frigatebird-ag999-1oz-bu.jpg" alt="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" itemprop="url" >
-								Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										130,32 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html">
-								<span class="new-label">Nowy</span>
-							</a>
-																	</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Przedstawiamy kolejną srebrną monetę z serii EC8 pochodzącą z renomowanej mennicy Scottsdale Mint. Moneta o wadze 1 uncji trojańskiej wykonana jest ze srebra próby .999, nakład monety: 25000 sztuk.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								130,32 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=935&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="935" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" data-id-product="935">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa 43. tydzie&#324;
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1514,7 +1567,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										124,83 zł									</span>
+										125,96 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1532,7 +1585,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								124,83 zł							</span>
+								125,96 zł							</span>
 														
 							
 											</div>
@@ -1564,7 +1617,274 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2675-home_default/antigua-barbuda-2021-frigatebird-ag999-1oz-bu.jpg" alt="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" itemprop="url" >
+								Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										131,51 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Przedstawiamy kolejną srebrną monetę z serii EC8 pochodzącą z renomowanej mennicy Scottsdale Mint. Moneta o wadze 1 uncji trojańskiej wykonana jest ze srebra próby .999, nakład monety: 25000 sztuk.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								131,51 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=935&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="935" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" data-id-product="935">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 43. tydzie&#324;
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu-promocja.html" title="Great Britain 2021 - Britannia Ag999 1oz BU - PROMOCJA" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1761-home_default/great-britain-2021-britannia-ag999-1oz-bu-promocja.jpg" alt="Great Britain 2021 - Britannia Ag999 1 oz BU" title="Great Britain 2021 - Britannia Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu-promocja.html" title="Great Britain 2021 - Britannia Ag999 1oz BU - PROMOCJA" itemprop="url" >
+								Great Britain 2021 - Britannia Ag999 1oz BU - PROMOCJA
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										115,31 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Srebrna Britannia to moneta bulionowa, która zajmuje jedno z najwyższych miejsc w rankingu najlepiej sprzedających się oraz najbardziej popularnych monet bulionowych na świecie. Srebrna Britannia jest bita z czystego kruszcu próby 999, o wadze jednej uncji trojańskiej. Za jej produkcję odpowiada renomowana, europejska mennica The Royal Mint.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								115,31 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=619&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="619" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu-promocja.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/619-great-britain-2021-britannia-ag999-1oz-bu-promocja.html" data-id-product="619">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz-promocja.html" title="RPA 2021 - Krugerrand Ag999 1oz - PROMOCJA" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1848-home_default/rpa-2021-krugerrand-ag999-1oz-promocja.jpg" alt="RPA 2021 - Krugerrand Ag999 1 oz" title="RPA 2021 - Krugerrand Ag999 1 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz-promocja.html" title="RPA 2021 - Krugerrand Ag999 1oz - PROMOCJA" itemprop="url" >
+								RPA 2021 - Krugerrand Ag999 1oz - PROMOCJA
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										117,62 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Krugerrand to jedna z najbardziej rozpoznawalnych monet bulionowych na świecie. Ten inwestycyjny walor został wykonany ze srebra o wadzę jednej uncji trojańskiej oraz czystości kruszcu 999. Po raz pierwszy srebrny Krugerrand został wyprodukowany w 2017 roku jako produkt jubileuszowy. Od roku 2018 srebrne monety z wizerunkiem springbok’a posiadają...
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								117,62 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=655&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="655" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz-promocja.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/655-rpa-2021-krugerrand-ag999-1oz-promocja.html" data-id-product="655">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz-promocja.html" title="Canada 2021 - Maple Leaf Ag9999 1oz  - PROMOCJA" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1890-home_default/canada-2021-maple-leaf-ag9999-1oz-promocja.jpg" alt="Kanada 2021 - Maple Leaf Ag9999 1oz" title="Kanada 2021 - Maple Leaf Ag9999 1oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz-promocja.html" title="Canada 2021 - Maple Leaf Ag9999 1oz  - PROMOCJA" itemprop="url" >
+								Canada 2021 - Maple Leaf Ag9999 1oz  - PROMOCJA
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										117,85 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Kanadyjski Liść Klonowy to jedna z najbardziej rozpoznawalnych monet bulionowych na świecie. Produkowana jest nieprzerwanie od 1988 roku w Royal Canadian Mint. Srebrna moneta przedstawiająca botaniczny symbol Kanady jest wybijana z czystego srebra próby 9999 w wadze jednej uncji trojańskiej.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								117,85 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=671&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="671" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz-promocja.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/671-canada-2021-maple-leaf-ag9999-1oz-promocja.html" data-id-product="671">Dodaj do por&oacute;wania</a>
+							</div>
+																		W magazynie
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1580,7 +1900,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										137,19 zł									</span>
+										138,46 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1598,7 +1918,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								137,19 zł							</span>
+								138,46 zł							</span>
 														
 							
 											</div>
@@ -1630,29 +1950,29 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" title="St. Helena 2021 - Napoleon Angel Ag999 1oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2651-home_default/st-helena-2021-napoleon-angel-ag999-1oz-bu.jpg" alt="St. Helena 2021 - Napoleon Angel Ag999 1 oz BU" title="St. Helena 2021 - Napoleon Angel Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" title="Somalia 2022 - Elephant Ag999.9 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2643-home_default/somalia-2022-elephant-ag9999-1oz-bu.jpg" alt="Somalia 2022 - Elephant Ag999.9 1 oz BU" title="Somalia 2022 - Elephant Ag999.9 1 oz BU"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" title="St. Helena 2021 - Napoleon Angel Ag999 1oz BU" itemprop="url" >
-								St. Helena 2021 - Napoleon Angel Ag999 1oz BU
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" title="Somalia 2022 - Elephant Ag999.9 1oz BU" itemprop="url" >
+								Somalia 2022 - Elephant Ag999.9 1oz BU
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										125,29 zł									</span>
+										124,57 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html">
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html">
 								<span class="new-label">Nowy</span>
 							</a>
 																	</div>
@@ -1663,19 +1983,19 @@ var usingSecureMode = true;
 
 					
 					<p class="product-desc" itemprop="description">
-						Pierwsze wydanie monety z motywem anioła Napoleona. Upamiętniające 200 rocznicę śmierci Napoleona Bonaparte. Moneta składa się z jednej uncji srebra próby 999 BU, w nominale jednego funta.
+						Kolejna odsłona serii powstałej w 1999 roku jako następna część edycji kolekcjonerskiej African Wildlife. Współcześnie słoń jest największym żyjącym zwierzęciem lądowym. W starożytności były wykorzystywane jako zwierzęta bojowe, obecnie jest gatunkiem pod ścisłą ochroną.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								125,29 zł							</span>
+								124,57 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=926&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="926" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=923&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="923" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1690,16 +2010,16 @@ var usingSecureMode = true;
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" data-id-product="926">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/923-somalia-2022-elephant-ag9999-1oz-bu.html" data-id-product="923">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa 40. tydzie&#324;
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1715,7 +2035,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										135,82 zł									</span>
+										137,07 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1736,7 +2056,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								135,82 zł							</span>
+								137,07 zł							</span>
 														
 							
 											</div>
@@ -1768,7 +2088,145 @@ var usingSecureMode = true;
 			
 		
 		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2704-home_default/oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.jpg" alt="Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz" title="Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz" itemprop="url" >
+								OFERTA DNIA: Niue 2021 - Pirates of the Caribbean -...
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										177,82 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Druga moneta z serii Disney'a Piraci z Karaibów: Niue 2021 Latający Holender. Pierwsza moneta przedstawia znany z kultowego filmu statek piracki - Czarna Perła. Latający Holender to statek, którego kaptanem był nieustraszony i doświadczony wilk morski - Holender Hendrik Van der Decken. Legenda głosi, że Latający Holender przynosi nieszczęście, a jego...
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								177,82 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=949&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="949" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" data-id-product="949">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 43. tydzie&#324;
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
 								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" title="St. Helena 2021 - Napoleon Angel Ag999 1oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2651-home_default/st-helena-2021-napoleon-angel-ag999-1oz-bu.jpg" alt="St. Helena 2021 - Napoleon Angel Ag999 1 oz BU" title="St. Helena 2021 - Napoleon Angel Ag999 1 oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" title="St. Helena 2021 - Napoleon Angel Ag999 1oz BU" itemprop="url" >
+								St. Helena 2021 - Napoleon Angel Ag999 1oz BU
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										126,42 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Pierwsze wydanie monety z motywem anioła Napoleona. Upamiętniające 200 rocznicę śmierci Napoleona Bonaparte. Moneta składa się z jednej uncji srebra próby 999 BU, w nominale jednego funta.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								126,42 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=926&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="926" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/926-st-helena-2021-napoleon-angel-ag999-1oz-bu.html" data-id-product="926">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 40. tydzie&#324;
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1784,7 +2242,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										156,87 zł									</span>
+										158,37 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1805,7 +2263,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								156,87 zł							</span>
+								158,37 zł							</span>
 														
 							
 											</div>
@@ -1837,7 +2295,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1853,7 +2311,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										117,97 zł									</span>
+										119,01 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1871,7 +2329,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								117,97 zł							</span>
+								119,01 zł							</span>
 														
 							
 											</div>
@@ -1903,7 +2361,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1919,7 +2377,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										168,74 zł									</span>
+										170,31 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1938,7 +2396,7 @@ Emisja ta jest drugą z serii po monecie Oak Leaf, która cieszyła się dużym 
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								168,74 zł							</span>
+								170,31 zł							</span>
 														
 							
 											</div>
@@ -1970,7 +2428,76 @@ Emisja ta jest drugą z serii po monecie Oak Leaf, która cieszyła się dużym 
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line first-item-of-tablet-line last-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2699-home_default/canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.jpg" alt="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU" itemprop="url" >
+								Canada 2021 - Creatures of the North Series - The...
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										239,88 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Srebrna moneta Wilkołak, z renomowanej mennicy Royal Canadian Mint, jest drugim projektem z serii Creatures of the North.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								239,88 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=947&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="947" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" data-id-product="947">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa 42. tydzie&#324; 
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1986,7 +2513,7 @@ Emisja ta jest drugą z serii po monecie Oak Leaf, która cieszyła się dużym 
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										132,61 zł									</span>
+										133,83 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2007,7 +2534,7 @@ Emisja ta jest drugą z serii po monecie Oak Leaf, która cieszyła się dużym 
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								132,61 zł							</span>
+								133,83 zł							</span>
 														
 							
 											</div>
@@ -2031,544 +2558,6 @@ Emisja ta jest drugą z serii po monecie Oak Leaf, która cieszyła się dużym 
 						
 													<div class="compare">
 								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/908-great-britain-2022-myths-and-legends-maid-marian-ag999-1oz.html" data-id-product="908">Dodaj do por&oacute;wania</a>
-							</div>
-																		W magazynie
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" title="Silver bar Ag999 Archangel Michael - 31,1 g minted" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2640-home_default/silver-bar-ag999-archangel-michael-311-g-minted.jpg" alt="Silver bar Ag999 Archangel Michael - 31,1 g minted" title="Silver bar Ag999 Archangel Michael - 31,1 g minted"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" title="Silver bar Ag999 Archangel Michael - 31,1 g minted" itemprop="url" >
-								Silver bar Ag999 Archangel Michael - 31,1 g minted
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										164,81 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html">
-								<span class="new-label">Nowy</span>
-							</a>
-																	</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Na monecie przedstawiony jest Archanioł Michał, który jest najczęściej uważany za anioła ochrony i najpotężniejszego ze wszystkich aniołów.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								164,81 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=921&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="921" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-sztabki/921-silver-bar-ag999-archangel-michael-311-g-minted.html" data-id-product="921">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa 40. tydzie&#324;
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/591-somalia-2021-elephant-ag9999-1oz-.html" title="Somalia 2021 - Elephant Ag999.9 1oz " itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1701-home_default/somalia-2021-elephant-ag9999-1oz-.jpg" alt="Somalia 2021 - Elephant Ag9999 1 oz" title="Somalia 2021 - Elephant Ag9999 1 oz"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/591-somalia-2021-elephant-ag9999-1oz-.html" title="Somalia 2021 - Elephant Ag999.9 1oz " itemprop="url" >
-								Somalia 2021 - Elephant Ag999.9 1oz
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										134,90 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Srebrna moneta Słoń Somalijski to kolejna już odsłona powstałej w 1999 roku serii noszącą nazwę Słoń Somalijski. Seria srebrnych oraz złotych monet Słoń Somalijski jest częścią programu kolekcjonerskiego African Wildlife.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								134,90 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=591&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="591" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/591-somalia-2021-elephant-ag9999-1oz-.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/591-somalia-2021-elephant-ag9999-1oz-.html" data-id-product="591">Dodaj do por&oacute;wania</a>
-							</div>
-																		W magazynie
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz-promocja.html" title="Austria 2021 - Wiener Philharmoniker Ag999,9 1oz - PROMOCJA" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1912-home_default/austria-2021-wiener-philharmoniker-ag9999-1oz-promocja.jpg" alt="Austria 2021 - Philharmoniker Ag9999 1 oz" title="Austria 2021 - Philharmoniker Ag9999 1 oz"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz-promocja.html" title="Austria 2021 - Wiener Philharmoniker Ag999,9 1oz - PROMOCJA" itemprop="url" >
-								Austria 2021 - Wiener Philharmoniker Ag999,9 1oz -...
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										116,59 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Srebrny Wiedeński Filharmonik 2021 to kolejna odsłona kultowej, inwestycyjnej serii. Srebrna moneta jest produkowana z czystego srebra w wadze jednej uncji trojańskiej.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								116,59 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=682&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="682" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz-promocja.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/682-austria-2021-wiener-philharmoniker-ag9999-1oz-promocja.html" data-id-product="682">Dodaj do por&oacute;wania</a>
-							</div>
-																		W magazynie
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/843-australia-2021-australia-s-coat-of-arms-ag999-1oz-bu.html" title="Australia 2021 - Australia&#039;s Coat of Arms Ag999 1oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2393-home_default/australia-2021-australia-s-coat-of-arms-ag999-1oz-bu.jpg" alt="Australia 2021 - Australia&#039;s Coat of Arms Ag999 1oz BU" title="Australia 2021 - Australia&#039;s Coat of Arms Ag999 1oz BU"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/843-australia-2021-australia-s-coat-of-arms-ag999-1oz-bu.html" title="Australia 2021 - Australia&#039;s Coat of Arms Ag999 1oz BU" itemprop="url" >
-								Australia 2021 - Australia&#039;s Coat of Arms Ag999 1oz BU
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										145,43 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Wybita przez mennicę Royal Australian, srebrna moneta jest pierwszą z nowej serii Australia's Coat of Arms. Moneta prezentuje australijski design, inspirowany godłem Wspólnoty Narodów, a jednocześnie wyróżnia się licznymi detalami. Jest to doskonała propozycja dla inwestorów oraz początkujących kolekcjonerów. 
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								145,43 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=843&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="843" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/843-australia-2021-australia-s-coat-of-arms-ag999-1oz-bu.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/843-australia-2021-australia-s-coat-of-arms-ag999-1oz-bu.html" data-id-product="843">Dodaj do por&oacute;wania</a>
-							</div>
-																		W magazynie
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/928-cayman-islands-2021-marlin-ag999-1oz-bu.html" title="Cayman Islands 2021 - Marlin Ag999 1oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2653-home_default/cayman-islands-2021-marlin-ag999-1oz-bu.jpg" alt="Cayman Islands 2021 - Marlin - Ag 999 1 oz BU" title="Cayman Islands 2021 - Marlin - Ag 999 1 oz BU"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/928-cayman-islands-2021-marlin-ag999-1oz-bu.html" title="Cayman Islands 2021 - Marlin Ag999 1oz BU" itemprop="url" >
-								Cayman Islands 2021 - Marlin Ag999 1oz BU
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										125,75 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/928-cayman-islands-2021-marlin-ag999-1oz-bu.html">
-								<span class="new-label">Nowy</span>
-							</a>
-																	</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Szkocka Mennica we współpracy z Kajmanami wydała srebrną monetę Marlin o wadze 1 uncji. Kajmany są egzotycznym miejscem marzeń dla milionów ludzi na całym świecie, wobec tego zarówno entuzjaści metali szlachetnych, jak i kolekcjonerzy mogą teraz doświadczyć własnego kawałka kajmańskiego luksusu.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								125,75 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=928&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="928" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/928-cayman-islands-2021-marlin-ag999-1oz-bu.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/928-cayman-islands-2021-marlin-ag999-1oz-bu.html" data-id-product="928">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa 41. tydzie&#324;
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2681-home_default/australia-2022-year-of-the-tiger-ag9999-2oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 2oz BU" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU" itemprop="url" >
-								Australia 2022 - Year of the Tiger Ag9999 2oz BU
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										276,67 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																			<a class="new-box" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html">
-								<span class="new-label">Nowy</span>
-							</a>
-																	</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Piękna srebrna moneta, o wadze 2 uncji trojańskich, z serii Lunar Series III upamiętnia Rok Tygrysa, trzecie zwierzę w 12-letnim cyklu chińskiego zodiaku i jest częścią Srebrnej Serii Księżycowej III. Kolekcja Australian Lunar Series III Perth Mint kontynuuje bogatą tradycję bicia spektakularnych monet bulionowych, przedstawiając motywy zwierzęce z...
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								276,67 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=938&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="938" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" data-id-product="938">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa 43. tydzie&#324;
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line first-item-of-tablet-line last-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/824-great-britain-2021-music-legends-the-who-ag999-1oz-bu.html" title="Great Britain 2021 - Music Legends - The Who Ag999 1oz BU" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2335-home_default/great-britain-2021-music-legends-the-who-ag999-1oz-bu.jpg" alt="Great Britain 2021 - Music Legends - The Who Ag999 1oz BU" title="Great Britain 2021 - Music Legends - The Who Ag999 1oz BU"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/824-great-britain-2021-music-legends-the-who-ag999-1oz-bu.html" title="Great Britain 2021 - Music Legends - The Who Ag999 1oz BU" itemprop="url" >
-								Great Britain 2021 - Music Legends - The Who Ag999...
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										144,06 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Music Legends to seria monet, oddająca hołd najważniejszym osobistościom ze świata muzyki.
-Czwarta moneta z tej serii poświęcona została jednemu z najbardziej wpływowych zespołów rockowych - grupie The Who.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								144,06 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=824&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="824" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/824-great-britain-2021-music-legends-the-who-ag999-1oz-bu.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/824-great-britain-2021-music-legends-the-who-ag999-1oz-bu.html" data-id-product="824">Dodaj do por&oacute;wania</a>
-							</div>
-																		W magazynie
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/679-usa-2021-american-eagle-ag999-1oz.html" title="USA 2021 - American Eagle Ag999 1oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1908-home_default/usa-2021-american-eagle-ag999-1oz.jpg" alt="USA 2021 - American Eagle Ag999 1 oz" title="USA 2021 - American Eagle Ag999 1 oz"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/679-usa-2021-american-eagle-ag999-1oz.html" title="USA 2021 - American Eagle Ag999 1oz" itemprop="url" >
-								USA 2021 - American Eagle Ag999 1oz
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										180,68 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Srebrna moneta Amerykański Orzeł to jedna z najpopularniejszych i najchętniej wybieranych przez inwestorów monet bulionowych na świecie. Od lat cieszy się niesłabnącą renomą i uznaniem. Wagę i czystość Amerykańskiego Orła gwarantuje rząd Stanów Zjednoczonych.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								180,68 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=679&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="679" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/679-usa-2021-american-eagle-ag999-1oz.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/679-usa-2021-american-eagle-ag999-1oz.html" data-id-product="679">Dodaj do por&oacute;wania</a>
 							</div>
 																		W magazynie
 					</div>
@@ -2947,7 +2936,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"937","name":"\"Australia 2022 - Year of the Tiger Ag9999 1oz BU\""},'',true);MBG.add({"id":"934","name":"\"Niue 2021 - Back To The Future II Ag999 1oz BU\""},'',true);MBG.add({"id":"923","name":"\"Somalia 2022 - Elephant Ag999.9 1oz BU\""},'',true);MBG.add({"id":"912","name":"\"Australia 2021 - Australian Brumby Ag9999 1oz\""},'',true);MBG.add({"id":"939","name":"\"Australia 2022 - Year of the Tiger Ag9999 1\\\/2oz BU\""},'',true);MBG.add({"id":"941","name":"\"Grenada 2021 - Coat of Arms Ag999 1oz BU\""},'',true);MBG.add({"id":"942","name":"\"New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz\""},'',true);MBG.add({"id":"935","name":"\"Antigua & Barbuda 2021 - Frigatebird Ag999 1oz BU\""},'',true);MBG.add({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""},'',true);MBG.add({"id":"926","name":"\"St. Helena 2021 - Napoleon Angel Ag999 1oz BU\""},'',true);MBG.add({"id":"932","name":"\"British Indian Ocean Territory 2021 - The Cutty Sark Ag999 1oz BU\""},'',true);MBG.add({"id":"907","name":"\"Australia 2021 - Quokka Ag9999 1oz\""},'',true);MBG.add({"id":"677","name":"\" Niue 2021 - Athenian Owl Ag999 1oz BU\""},'',true);MBG.add({"id":"812","name":"\"Mythical Forest: 2021 Chestnut Leaf Ag999.9 1oz BU\""},'',true);MBG.add({"id":"908","name":"\"Great Britain 2022 - Myths and Legends - Maid Marian Ag999 1oz\""},'',true);MBG.add({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\""},'',true);MBG.add({"id":"591","name":"\"Somalia 2021 - Elephant Ag999.9 1oz \""},'',true);MBG.add({"id":"682","name":"\"Austria 2021 - Wiener Philharmoniker Ag999,9 1oz - PROMOCJA\""},'',true);MBG.add({"id":"843","name":"\"Australia 2021 - Australia's Coat of Arms Ag999 1oz BU\""},'',true);MBG.add({"id":"928","name":"\"Cayman Islands 2021 - Marlin Ag999 1oz BU\""},'',true);MBG.add({"id":"938","name":"\"Australia 2022 - Year of the Tiger Ag9999 2oz BU\""},'',true);MBG.add({"id":"824","name":"\"Great Britain 2021 - Music Legends - The Who Ag999 1oz BU\""},'',true);MBG.add({"id":"679","name":"\"USA 2021 - American Eagle Ag999 1oz\""},'',true);MBG.addProductClick({"id":"937","name":"\"Australia 2022 - Year of the Tiger Ag9999 1oz BU\""});MBG.addProductClick({"id":"934","name":"\"Niue 2021 - Back To The Future II Ag999 1oz BU\""});MBG.addProductClick({"id":"923","name":"\"Somalia 2022 - Elephant Ag999.9 1oz BU\""});MBG.addProductClick({"id":"912","name":"\"Australia 2021 - Australian Brumby Ag9999 1oz\""});MBG.addProductClick({"id":"939","name":"\"Australia 2022 - Year of the Tiger Ag9999 1\\\/2oz BU\""});MBG.addProductClick({"id":"941","name":"\"Grenada 2021 - Coat of Arms Ag999 1oz BU\""});MBG.addProductClick({"id":"942","name":"\"New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz\""});MBG.addProductClick({"id":"935","name":"\"Antigua & Barbuda 2021 - Frigatebird Ag999 1oz BU\""});MBG.addProductClick({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""});MBG.addProductClick({"id":"926","name":"\"St. Helena 2021 - Napoleon Angel Ag999 1oz BU\""});MBG.addProductClick({"id":"932","name":"\"British Indian Ocean Territory 2021 - The Cutty Sark Ag999 1oz BU\""});MBG.addProductClick({"id":"907","name":"\"Australia 2021 - Quokka Ag9999 1oz\""});MBG.addProductClick({"id":"677","name":"\" Niue 2021 - Athenian Owl Ag999 1oz BU\""});MBG.addProductClick({"id":"812","name":"\"Mythical Forest: 2021 Chestnut Leaf Ag999.9 1oz BU\""});MBG.addProductClick({"id":"908","name":"\"Great Britain 2022 - Myths and Legends - Maid Marian Ag999 1oz\""});MBG.addProductClick({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\""});MBG.addProductClick({"id":"591","name":"\"Somalia 2021 - Elephant Ag999.9 1oz \""});MBG.addProductClick({"id":"682","name":"\"Austria 2021 - Wiener Philharmoniker Ag999,9 1oz - PROMOCJA\""});MBG.addProductClick({"id":"843","name":"\"Australia 2021 - Australia's Coat of Arms Ag999 1oz BU\""});MBG.addProductClick({"id":"928","name":"\"Cayman Islands 2021 - Marlin Ag999 1oz BU\""});MBG.addProductClick({"id":"938","name":"\"Australia 2022 - Year of the Tiger Ag9999 2oz BU\""});MBG.addProductClick({"id":"824","name":"\"Great Britain 2021 - Music Legends - The Who Ag999 1oz BU\""});MBG.addProductClick({"id":"679","name":"\"USA 2021 - American Eagle Ag999 1oz\""});
+						MBG.add({"id":"937","name":"\"Australia 2022 - Year of the Tiger Ag9999 1oz BU\""},'',true);MBG.add({"id":"934","name":"\"Niue 2021 - Back To The Future II Ag999 1oz BU\""},'',true);MBG.add({"id":"946","name":"\"Australia 2022 - Australia's Most Dangerous - Desert Scorpion Ag999 1oz BU\""},'',true);MBG.add({"id":"912","name":"\"Australia 2021 - Australian Brumby Ag9999 1oz\""},'',true);MBG.add({"id":"939","name":"\"Australia 2022 - Year of the Tiger Ag9999 1\\\/2oz BU\""},'',true);MBG.add({"id":"948","name":"\"OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU\""},'',true);MBG.add({"id":"951","name":"\"OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU\""},'',true);MBG.add({"id":"941","name":"\"Grenada 2021 - Coat of Arms Ag999 1oz BU\""},'',true);MBG.add({"id":"942","name":"\"New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz\""},'',true);MBG.add({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""},'',true);MBG.add({"id":"935","name":"\"Antigua & Barbuda 2021 - Frigatebird Ag999 1oz BU\""},'',true);MBG.add({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU - PROMOCJA\""},'',true);MBG.add({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz - PROMOCJA\""},'',true);MBG.add({"id":"671","name":"\"Canada 2021 - Maple Leaf Ag9999 1oz  - PROMOCJA\""},'',true);MBG.add({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""},'',true);MBG.add({"id":"923","name":"\"Somalia 2022 - Elephant Ag999.9 1oz BU\""},'',true);MBG.add({"id":"932","name":"\"British Indian Ocean Territory 2021 - The Cutty Sark Ag999 1oz BU\""},'',true);MBG.add({"id":"949","name":"\"OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz\""},'',true);MBG.add({"id":"926","name":"\"St. Helena 2021 - Napoleon Angel Ag999 1oz BU\""},'',true);MBG.add({"id":"907","name":"\"Australia 2021 - Quokka Ag9999 1oz\""},'',true);MBG.add({"id":"677","name":"\" Niue 2021 - Athenian Owl Ag999 1oz BU\""},'',true);MBG.add({"id":"812","name":"\"Mythical Forest: 2021 Chestnut Leaf Ag999.9 1oz BU\""},'',true);MBG.add({"id":"947","name":"\"Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU\""},'',true);MBG.add({"id":"908","name":"\"Great Britain 2022 - Myths and Legends - Maid Marian Ag999 1oz\""},'',true);MBG.addProductClick({"id":"937","name":"\"Australia 2022 - Year of the Tiger Ag9999 1oz BU\""});MBG.addProductClick({"id":"934","name":"\"Niue 2021 - Back To The Future II Ag999 1oz BU\""});MBG.addProductClick({"id":"946","name":"\"Australia 2022 - Australia's Most Dangerous - Desert Scorpion Ag999 1oz BU\""});MBG.addProductClick({"id":"912","name":"\"Australia 2021 - Australian Brumby Ag9999 1oz\""});MBG.addProductClick({"id":"939","name":"\"Australia 2022 - Year of the Tiger Ag9999 1\\\/2oz BU\""});MBG.addProductClick({"id":"948","name":"\"OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU\""});MBG.addProductClick({"id":"951","name":"\"OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU\""});MBG.addProductClick({"id":"941","name":"\"Grenada 2021 - Coat of Arms Ag999 1oz BU\""});MBG.addProductClick({"id":"942","name":"\"New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz\""});MBG.addProductClick({"id":"629","name":"\"Australia 2021 - Kangaroo Ag9999 1oz\""});MBG.addProductClick({"id":"935","name":"\"Antigua & Barbuda 2021 - Frigatebird Ag999 1oz BU\""});MBG.addProductClick({"id":"619","name":"\"Great Britain 2021 - Britannia Ag999 1oz BU - PROMOCJA\""});MBG.addProductClick({"id":"655","name":"\"RPA 2021 - Krugerrand Ag999 1oz - PROMOCJA\""});MBG.addProductClick({"id":"671","name":"\"Canada 2021 - Maple Leaf Ag9999 1oz  - PROMOCJA\""});MBG.addProductClick({"id":"838","name":"\"Niue 2021 - Hawksbill Turtle Ag999 1oz BU\""});MBG.addProductClick({"id":"923","name":"\"Somalia 2022 - Elephant Ag999.9 1oz BU\""});MBG.addProductClick({"id":"932","name":"\"British Indian Ocean Territory 2021 - The Cutty Sark Ag999 1oz BU\""});MBG.addProductClick({"id":"949","name":"\"OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz\""});MBG.addProductClick({"id":"926","name":"\"St. Helena 2021 - Napoleon Angel Ag999 1oz BU\""});MBG.addProductClick({"id":"907","name":"\"Australia 2021 - Quokka Ag9999 1oz\""});MBG.addProductClick({"id":"677","name":"\" Niue 2021 - Athenian Owl Ag999 1oz BU\""});MBG.addProductClick({"id":"812","name":"\"Mythical Forest: 2021 Chestnut Leaf Ag999.9 1oz BU\""});MBG.addProductClick({"id":"947","name":"\"Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU\""});MBG.addProductClick({"id":"908","name":"\"Great Britain 2022 - Myths and Legends - Maid Marian Ag999 1oz\""});
 					});
 				</script>
 				<script type="text/javascript">

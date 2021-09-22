@@ -66,10 +66,10 @@ var contentOnly = false;
 var customizationIdMessage = 'Dostosowywanie #';
 var delete_txt = 'Usuń';
 var displayList = false;
-var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"7694","min":"408","values":{"1":"7694","0":"408"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":11,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_oz","rel":""},"27156":{"nbr":1,"name":"1,2 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-12_g","rel":""},"75":{"nbr":5,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":2,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":2,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_20_oz","rel":""},"22500":{"nbr":1,"name":"1\/25 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_25_oz","rel":""},"22510":{"nbr":1,"name":"25 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-25_g","rel":""},"22184":{"nbr":2,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":6,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-austrian_mint","rel":""},"51":{"nbr":6,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-perth_mint","rel":""},"52":{"nbr":3,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-rand_refinery","rel":""},"53":{"nbr":2,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":4,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_mint","rel":""},"54":{"nbr":2,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-shanghai_mint","rel":""},"55":{"nbr":2,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
+var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"7876","min":"418","values":{"1":"7876","0":"418"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":11,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_oz","rel":""},"27156":{"nbr":1,"name":"1,2 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-12_g","rel":""},"75":{"nbr":5,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":2,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":2,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_20_oz","rel":""},"22500":{"nbr":1,"name":"1\/25 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_25_oz","rel":""},"22510":{"nbr":1,"name":"25 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-25_g","rel":""},"22184":{"nbr":2,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":6,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-austrian_mint","rel":""},"402":{"nbr":1,"name":"MENNICA POLSKA","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-mennica_polska","rel":""},"51":{"nbr":6,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-perth_mint","rel":""},"52":{"nbr":3,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-rand_refinery","rel":""},"53":{"nbr":2,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":4,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_mint","rel":""},"54":{"nbr":2,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-shanghai_mint","rel":""},"55":{"nbr":2,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1631822069;
+var generated_date = 1632340654;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -373,7 +373,7 @@ var usingSecureMode = true;
 		<div class="cat-title">Kategorie</div>
 		<ul class="sf-menu clearfix menu-content">
 			<li><a href="http://zlota-uncja.pl/" title="Home">Home</a></li>
-<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-nowosc-home" title="Nowość Home">Nowość Home</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
+<li><a href="https://zlota-uncja.pl/pl/26-zloto" title="Złoto">Złoto</a><ul><li><a href="https://zlota-uncja.pl/pl/3-zlote-sztabki" title="Złote sztabki">Złote sztabki</a></li><li class="sfHoverForce"><a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe" title="Złote monety">Złote monety</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/27-srebro" title="Srebro">Srebro</a><ul><li><a href="https://zlota-uncja.pl/pl/19-srebrne-monety-bulionowe" title="Srebrne monety">Srebrne monety</a></li><li><a href="https://zlota-uncja.pl/pl/22-srebrne-sztabki" title="Srebrne sztabki">Srebrne sztabki</a></li><li><a href="https://zlota-uncja.pl/pl/30-monety-uszlachetniane" title="Monety uszlachetniane">Monety uszlachetniane</a><ul></ul></li><li><a href="https://zlota-uncja.pl/pl/50-granulat-srebra" title="Granulat Srebra">Granulat Srebra</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/41-nowosc" title="Nowość">Nowość</a><ul><li><a href="https://zlota-uncja.pl/pl/44-oferta-dnia" title="Oferta Dnia">Oferta Dnia</a></li><li><a href="https://zlota-uncja.pl/pl/55-zapowiedzi" title="Zapowiedzi">Zapowiedzi</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/42-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a><ul><li><a href="https://zlota-uncja.pl/pl/24-monety-okolicznosciowe-5-zl" title="Monety okolicznościowe 5 zł">Monety okolicznościowe 5 zł</a></li><li><a href="https://zlota-uncja.pl/pl/51-monety-nbp" title="Monety NBP">Monety NBP</a></li><li><a href="https://zlota-uncja.pl/pl/56-monety-kolekcjonerskie" title="Monety Kolekcjonerskie">Monety Kolekcjonerskie</a></li><li><a href="https://zlota-uncja.pl/pl/62-polonia-" title="Polonia ">Polonia </a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/45-promocje" title="PROMOCJE">PROMOCJE</a><ul><li><a href="https://zlota-uncja.pl/pl/63-ostatnie-egzemplarze" title="Ostatnie Egzemplarze">Ostatnie Egzemplarze</a></li><li><a href="https://zlota-uncja.pl/pl/64-obnizka-ceny" title="Obniżka ceny">Obniżka ceny</a></li></ul></li><li><a href="https://zlota-uncja.pl/pl/49-monety-euro" title="Monety EURO">Monety EURO</a><ul><li><a href="https://zlota-uncja.pl/pl/59-monety-2-euro-okolicznosciowe" title="Monety 2 Euro okolicznościowe">Monety 2 Euro okolicznościowe</a></li><li><a href="https://zlota-uncja.pl/pl/60-monety-euro-kolekcjonerskie" title="Monety Euro kolekcjonerskie">Monety Euro kolekcjonerskie</a></li></ul></li>
 					</ul>
 	</div>
 	<!--/ Menu -->
@@ -401,22 +401,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 6824.85</div>
-      <div class="rtpriclist-other">XAU/EUR: 1490.97</div>
+      <div class="rtpriclist-current">XAU/PLN: 6996.65</div>
+      <div class="rtpriclist-other">XAU/EUR: 1511.07</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 89.14</div>
+      <div class="rtpriclist-current">XAG/PLN: 89.85</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 99.14</div>
-      <div class="rtpriclist-current">ASK: 79.14</div>-->
+      <!-- <div class="rtpriclist-current">BID: 99.85</div>
+      <div class="rtpriclist-current">ASK: 79.85</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 19.47</div>
+      <div class="rtpriclist-other">XAG/EUR: 19.41</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 29.47</div>
-      <div class="rtpriclist-other">ASK: 9.47</div> -->
+      <!-- <div class="rtpriclist-other">BID: 29.41</div>
+      <div class="rtpriclist-other">ASK: 9.41</div> -->
     </div>
   </div>
 </div>
@@ -521,6 +521,12 @@ var usingSecureMode = true;
 																							<input type="checkbox" class="checkbox" name="layered_id_feature_22487" id="layered_id_feature_22487" value="22487_10" /> 
 																						<label for="layered_id_feature_22487">
 																								<a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe#mennica-austrian_mint">AUSTRIAN MINT <span> (6)</span></a>
+																							</label>
+										</li>
+																																							<li class="nomargin hiddable col-lg-12">
+																							<input type="checkbox" class="checkbox" name="layered_id_feature_402" id="layered_id_feature_402" value="402_10" /> 
+																						<label for="layered_id_feature_402">
+																								<a href="https://zlota-uncja.pl/pl/16-zlote-monety-bulionowe#mennica-mennica_polska">MENNICA POLSKA<span> (1)</span></a>
 																							</label>
 										</li>
 																																							<li class="nomargin hiddable col-lg-12">
@@ -632,106 +638,102 @@ var usingSecureMode = true;
     <div class="block_content products-block">
                     <ul class="products">
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2689-small_default/new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.jpg" alt="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="Congo 2021 - Gorilla Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2713-small_default/oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.jpg" alt="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/942-new-zeland-2021-lord-of-the-ring-frodo-ag999-1oz.html" title="New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz">New Zeland 2021- Lord Of The Ring- Frodo Ag999 1oz</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/951-oferta-dnia-congo-2021-gorilla-ag999-1oz-bu.html" title="OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU">OFERTA DNIA: Congo 2021 - Gorilla Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta z serii "Władca Pierścieni" o wadze jednej uncji...</p>
+                        	<p class="product-description">Moneta bulionowa o wadze jednej uncji trojańskiej wykonana z czystego...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	152,75 zł                                        </span>
+                                        	131,51 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2687-small_default/grenada-2021-coat-of-arms-ag999-1oz-bu.jpg" alt="Grenada 2021 - Coat of Arms Ag999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zapowiedzi/950-polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.html" title="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2707-small_default/polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.jpg" alt="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/941-grenada-2021-coat-of-arms-ag999-1oz-bu.html" title="Grenada 2021 - Coat of Arms Ag999 1oz BU">Grenada 2021 - Coat of Arms Ag999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zapowiedzi/950-polonia-2021-3-denary-skarby-natury-dab-bartek-poczatek-serii.html" title="Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)">Polonia 2021 - 3 Denary Skarby Natury: Dąb Bartek (początek serii)</a>
                             </h5>
-                        	<p class="product-description">Kolejna moneta z serii EC8 "Eastern Caribbean 8" przedstawia herb...</p>
+                        	<p class="product-description">Pierwszy numizmat kolekcjonerski z serii “Skarby Natury”. Seria będzie...</p>
+                                                    </div>
+                    </li>
+                                    <li class="clearfix">
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2704-small_default/oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.jpg" alt="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz" /></a>
+                        <div class="product-content">
+                        	<h5>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/949-oferta-dnia-niue-2021-pirates-of-the-caribbean-flying-dutchman-ag999-1oz.html" title="OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz">OFERTA DNIA: Niue 2021 - Pirates of the Caribbean - Flying Dutchman Ag999 1oz</a>
+                            </h5>
+                        	<p class="product-description">Druga moneta z serii Disney'a Piraci z Karaibów: Niue 2021 Latający...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	128,04 zł                                        </span>
+                                        	177,82 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2685-small_default/australia-2022-year-of-the-tiger-au9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Au9999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="Niue 2021 - Star Wars The Mandalorian Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2702-small_default/oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.jpg" alt="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/940-australia-2022-year-of-the-tiger-au9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Au9999 1oz BU">Australia 2022 - Year of the Tiger Au9999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/948-oferta-dnia-niue-2021-star-wars-the-mandalorian-ag999-1oz-bu.html" title="OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU">OFERTA DNIA: Niue 2021 - Star Wars - The Mandalorian Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Seria Australian Lunar upamiętnia zwierzęta starożytnego chińskiego...</p>
+                        	<p class="product-description">Prezentujemy kolejny egzemplarz z serii: Niue 2021 - Star Wars The...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	7 438,25 zł                                        </span>
+                                        	140,77 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2683-small_default/australia-2022-year-of-the-tiger-ag9999-12oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2699-small_default/canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.jpg" alt="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/939-australia-2022-year-of-the-tiger-ag9999-12oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1/2oz BU">Australia 2022 - Year of the Tiger Ag9999 1/2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/947-canada-2021-creatures-of-the-north-series-the-werewolf-ag9999-2oz-bu.html" title="Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU">Canada 2021 - Creatures of the North Series - The Werewolf Ag9999 2oz BU</a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 1/2 uncji trojańskiej, z serii Lunar...</p>
+                        	<p class="product-description">Srebrna moneta Wilkołak, z renomowanej mennicy Royal Canadian Mint, jest...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	81,04 zł                                        </span>
+                                        	239,88 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2681-small_default/australia-2022-year-of-the-tiger-ag9999-2oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 2oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2697-small_default/australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.jpg" alt="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/938-australia-2022-year-of-the-tiger-ag9999-2oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 2oz BU">Australia 2022 - Year of the Tiger Ag9999 2oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/946-australia-2022-australia-s-most-dangerous-desert-scorpion-ag999-1oz-bu.html" title="Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU">Australia 2022 - Australia&#039;s Most Dangerous - Desert Scorpion Ag999 1oz BU</a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 2 uncji trojańskich, z serii Lunar Series...</p>
+                        	<p class="product-description">Przedstawiamy kolejną monetę z serii Najniebezpieczniejsze stworzenia...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	276,67 zł                                        </span>
+                                        	136,14 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag999.9 1 oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2679-small_default/australia-2022-year-of-the-tiger-ag9999-1oz-bu.jpg" alt="Australia 2022 - Year of the Tiger Ag9999 1oz BU" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 "><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2695-small_default/100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.jpg" alt="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 " /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/937-australia-2022-year-of-the-tiger-ag9999-1oz-bu.html" title="Australia 2022 - Year of the Tiger Ag9999 1oz BU">Australia 2022 - Year of the Tiger Ag9999 1oz BU</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 ">100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 </a>
                             </h5>
-                        	<p class="product-description">Piękna srebrna moneta, o wadze 1 uncji trojańskiej, z serii Lunar Series...</p>
+                        	<p class="product-description">22 września 2021 roku Narodowy Bank Polski wprowadził do obiegu złotą...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	141,77 zł                                        </span>
+                                        	2 500,00 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
                                     <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2677-small_default/somalia-2021-elephant-ag9999-5oz.jpg" alt="Somalia 2021 - Elephant Ag999.9 5oz" /></a>
+                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/944-great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.html" title="Great Britain 2021 - Queen&#039;s Beasts - The White Lion of Mortimer Ag999.9 10oz"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2693-small_default/great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.jpg" alt="Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz" /></a>
                         <div class="product-content">
                         	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/936-somalia-2021-elephant-ag9999-5oz.html" title="Somalia 2021 - Elephant Ag999.9 5oz">Somalia 2021 - Elephant Ag999.9 5oz</a>
+                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/944-great-britain-2021-the-queen-s-beasts-white-lion-of-mortimer-ag9999-10oz.html" title="Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz">Great Britain 2021 - The Queen&#039;s Beasts - White Lion of Mortimer Ag999.9 10oz</a>
                             </h5>
-                        	<p class="product-description">Srebrna moneta bulionowa o wadze 5 uncji trojańskich "Słoń Somalijski"...</p>
+                        	<p class="product-description">Kolekcja Queen's Beasts swój debiut miała w 2016 roku. Seria została...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	752,33 zł                                        </span>
-                                    </div>
-                                                                                    </div>
-                    </li>
-                                    <li class="clearfix">
-                        <a class="products-block-image" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU"><img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2675-small_default/antigua-barbuda-2021-frigatebird-ag999-1oz-bu.jpg" alt="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU" /></a>
-                        <div class="product-content">
-                        	<h5>
-                            	<a class="product-name" href="https://zlota-uncja.pl/pl/srebrne-monety-bulionowe/935-antigua-barbuda-2021-frigatebird-ag999-1oz-bu.html" title="Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU">Antigua &amp; Barbuda 2021 - Frigatebird Ag999 1oz BU</a>
-                            </h5>
-                        	<p class="product-description">Przedstawiamy kolejną srebrną monetę z serii EC8 pochodzącą z...</p>
-                                                        	                                    <div class="price-box">
-                                        <span class="price">
-                                        	130,32 zł                                        </span>
+                                        	1 386,91 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -747,7 +749,7 @@ var usingSecureMode = true;
 	
 
 	  
-		<h1 class="page-heading product-listing"><span class="cat-name">Złote monety&nbsp;</span><span class="heading-counter">Jest 27 produkt&oacute;w.</span>
+		<h1 class="page-heading product-listing"><span class="cat-name">Złote monety&nbsp;</span><span class="heading-counter">Jest 28 produkt&oacute;w.</span>
 </h1>
 							<div class="content_sortPagiBar clearfix">
             	<div class="sortPagiBar clearfix">
@@ -815,7 +817,7 @@ var usingSecureMode = true;
 	                	<span>Pokaż wszystkie</span>
 	                </button>
 																																							<input type="hidden" name="id_category" value="16" />
-																			                <input name="n" id="nb_item" class="hidden" value="27" />
+																			                <input name="n" id="nb_item" class="hidden" value="28" />
 				</div>
 			</form>
 							<ul class="pagination">
@@ -842,7 +844,7 @@ var usingSecureMode = true;
 							</ul>
 			</div>
     <div class="product-count">
-    	    		                        	                        	Pokazuje 1 - 24 z 27 element&oacute;w
+    	    		                        	                        	Pokazuje 1 - 24 z 28 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -873,7 +875,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 438,25 zł									</span>
+										7 625,50 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -891,7 +893,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 438,25 zł							</span>
+								7 625,50 zł							</span>
 														
 							
 											</div>
@@ -927,6 +929,72 @@ var usingSecureMode = true;
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1745-home_default/australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.jpg" alt="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20 oz" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20oz" itemprop="url" >
+								Australia 2021 - Lunar Series III - Year of the Ox...
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										505,57 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Rok Wołu 2021 to niezwykle starannie wykonana złota moneta wybita z najwyższej próby 9999 przez australijską mennicę Perth Mint. Złota moneta z serii Lunar III jest zaprojektowana zgodnie z chińskim kalendarzem księżycowy – dzięki czemu zachwyca nie tylko inwestorów, ale także kolekcjonerów i entuzjastów kultury chińskiej.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								505,57 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=613&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="613" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" data-id-product="613">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
 						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/656-australia-2021-kangaroo-au9999-1oz.html" title="Australia 2021 - Kangaroo Au9999 1oz" itemprop="url">
 							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1854-home_default/australia-2021-kangaroo-au9999-1oz.jpg" alt="Australia 2021 - Kangur Au999,9 1 oz" title="Australia 2021 - Kangur Au999,9 1 oz"  width="250" height="250" itemprop="image" />
 						</a>
@@ -939,7 +1007,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 271,06 zł									</span>
+										7 454,10 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -957,7 +1025,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 271,06 zł							</span>
+								7 454,10 zł							</span>
 														
 							
 											</div>
@@ -989,7 +1057,73 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" title="Australia 2021 - Kangaroo Au999 1/2oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1856-home_default/australia-2021-kangaroo-au999-12oz.jpg" alt="Australia 2021 - Kangur Au9999 1/2 oz" title="Australia 2021 - Kangur Au9999 1/2 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" title="Australia 2021 - Kangaroo Au999 1/2oz" itemprop="url" >
+								Australia 2021 - Kangaroo Au999 1/2oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										3 952,67 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Kangur Australijski to jedna z najbardziej rozpoznawalnych monet bulionowych świata. Moneta ma nominał 100 dolarów australijskich i wykonana jest ze złota o próbie 999,9. Reprezentuje grono monet o najwyższym współczynniku zawartości kruszcu.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								3 952,67 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=657&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="657" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" data-id-product="657">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1005,7 +1139,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 271,06 zł									</span>
+										7 454,10 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1023,7 +1157,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 271,06 zł							</span>
+								7 454,10 zł							</span>
 														
 							
 											</div>
@@ -1055,7 +1189,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1071,7 +1205,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 838,55 zł									</span>
+										3 935,18 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1089,7 +1223,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 838,55 zł							</span>
+								3 935,18 zł							</span>
 														
 							
 											</div>
@@ -1121,7 +1255,73 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" title="Great Britain 2021 - Britannia Au999.9 1/10oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1876-home_default/great-britain-2021-britannia-au9999-110oz.jpg" alt="Wielka Brytania 2021 - Brytania Au999,9 1/10 oz" title="Wielka Brytania 2021 - Brytania Au999,9 1/10 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" title="Great Britain 2021 - Britannia Au999.9 1/10oz" itemprop="url" >
+								Great Britain 2021 - Britannia Au999.9 1/10oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										860,49 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Złota Britannia to moneta bulionowa o próbie 999,9 wprowadzona do obiegu w 1987 r. przez Mennicę Królewską Wielkiej Brytanii. Britannia ma rządową gwarancję wagi i czystości złota, dzięki czemu cieszy się dużym zaufaniem, jej wartość nominalna to sto funtów brytyjskich i jest pełnoprawnym środkiem płatniczym w Wielkiej Brytanii.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								860,49 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=665&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="665" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" data-id-product="665">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1137,7 +1337,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 335,89 zł									</span>
+										7 520,56 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1155,7 +1355,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 335,89 zł							</span>
+								7 520,56 zł							</span>
 														
 							
 											</div>
@@ -1187,7 +1387,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1203,7 +1403,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 855,61 zł									</span>
+										3 952,67 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1221,7 +1421,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 855,61 zł							</span>
+								3 952,67 zł							</span>
 														
 							
 											</div>
@@ -1253,7 +1453,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1269,7 +1469,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										835,95 zł									</span>
+										856,99 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1287,7 +1487,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								835,95 zł							</span>
+								856,99 zł							</span>
 														
 							
 											</div>
@@ -1319,7 +1519,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1335,7 +1535,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 349,54 zł									</span>
+										7 534,55 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1353,7 +1553,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 349,54 zł							</span>
+								7 534,55 zł							</span>
 														
 							
 											</div>
@@ -1385,7 +1585,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1401,7 +1601,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 233,53 zł									</span>
+										7 415,62 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1419,7 +1619,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 233,53 zł							</span>
+								7 415,62 zł							</span>
 														
 							
 											</div>
@@ -1451,7 +1651,139 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" title="RPA 2021 - Krugerrand Au999 1/2oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1961-home_default/rpa-2021-krugerrand-au999-12oz.jpg" alt="RPA 2021 - Krugerrand Au999 1/2 oz" title="RPA 2021 - Krugerrand Au999 1/2 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" title="RPA 2021 - Krugerrand Au999 1/2oz" itemprop="url" >
+								RPA 2021 - Krugerrand Au999 1/2oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										3 952,67 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Złoty Krugerrand jest najbardziej znaną i najczęściej bitą monetą bulionową na świecie. Uważana jest za jedną z najpiękniejszych monet inwestycyjnych na świecie. Krugerrandy są produkowane przez Południowoafrykańską mennicę Rand Refinery.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								3 952,67 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=705&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="705" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" data-id-product="705">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" title="RPA 2021 - Krugerrand Au999 1/4oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1963-home_default/rpa-2021-krugerrand-au999-14oz.jpg" alt="RPA 2021 - Krugerrand Au999 1/4 oz" title="RPA 2021 - Krugerrand Au999 1/4 oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" title="RPA 2021 - Krugerrand Au999 1/4oz" itemprop="url" >
+								RPA 2021 - Krugerrand Au999 1/4oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										2 030,11 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Złoty Krugerrand jest najbardziej znaną i najczęściej bitą monetą bulionową na świecie. Uważana jest za jedną z najpiękniejszych monet inwestycyjnych na świecie. Krugerrandy są produkowane przez Południowoafrykańską mennicę Rand Refinery.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								2 030,11 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=706&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="706" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" data-id-product="706">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -1467,7 +1799,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 271,06 zł									</span>
+										7 454,10 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1485,7 +1817,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 271,06 zł							</span>
+								7 454,10 zł							</span>
 														
 							
 											</div>
@@ -1517,6 +1849,72 @@ var usingSecureMode = true;
 			
 		
 		
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
+			<div class="product-container" itemscope itemtype="http://schema.org/Product">
+				<div class="left-block">
+					<div class="product-image-container">
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" title="Austria 2021- Wiener Philharmoniker Au999.9 1/25oz" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2126-home_default/austria-2021-wiener-philharmoniker-au9999-125oz.jpg" alt="Austria 2021- Wiener Philharmoniker Au999 1/25oz" title="Austria 2021- Wiener Philharmoniker Au999 1/25oz"  width="250" height="250" itemprop="image" />
+						</a>
+						<h5 itemprop="name">
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" title="Austria 2021- Wiener Philharmoniker Au999.9 1/25oz" itemprop="url" >
+								Austria 2021- Wiener Philharmoniker Au999.9 1/25oz
+							</a>
+						</h5>
+						
+						
+																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+																	<span itemprop="price" class="price product-price">
+										418,40 zł									</span>
+									<meta itemprop="priceCurrency" content="PLN" />
+																																						<br><strong>Dostępność: </strong>
+												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
+									
+															</div>
+																							</div>
+					
+					
+				</div>
+				<div class="right-block">
+
+					
+					<p class="product-desc" itemprop="description">
+						Wiedeński Filharmonik to złota moneta produkowana przez austriacką mennicę Austrian Mint. Pierwszy raz do obiegu trafiła już w 1989 roku i od tamtej pory jej wizerunek niewiele się zmienił.
+					</p>
+										<div class="content_price">
+													<span class="price product-price">
+								418,40 zł							</span>
+														
+							
+											</div>
+										<div class="button-container">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=755&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="755" data-minimal_quantity="1">
+									<span>Dodaj do koszyka</span>
+								</a>
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" title="Zobacz">
+							<span>Więcej</span>
+						</a>
+					</div>
+											<div class="color-list-container"></div>
+										<div class="product-flags">
+																														</div>
+																		<span class="availability">
+																	<span class="available-now">
+										W magazynie									</span>
+															</span>
+															</div>
+					 				<div class="functional-buttons clearfix">
+						
+													<div class="compare">
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" data-id-product="755">Dodaj do por&oacute;wania</a>
+							</div>
+																		Dostawa: 7-10 dni
+					</div>
+							</div><!-- .product-container> -->
+		</li>
+			
+		
+		
 								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
@@ -1533,7 +1931,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										6 195,10 zł									</span>
+										6 341,38 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1551,7 +1949,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								6 195,10 zł							</span>
+								6 341,38 zł							</span>
 														
 							
 											</div>
@@ -1587,25 +1985,28 @@ var usingSecureMode = true;
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1745-home_default/australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.jpg" alt="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20 oz" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20 oz"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 " itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2695-home_default/100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.jpg" alt="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 " title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 "  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/20oz" itemprop="url" >
-								Australia 2021 - Lunar Series III - Year of the Ox...
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="100 zł 2021 Pałac Biskupi w Krakowie 8g Au900 " itemprop="url" >
+								100 zł 2021 Pałac Biskupi w Krakowie 8g Au900
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										493,16 zł									</span>
+										2 500,00 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
 									
 															</div>
-																							</div>
+																			<a class="new-box" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html">
+								<span class="new-label">Nowy</span>
+							</a>
+																	</div>
 					
 					
 				</div>
@@ -1613,19 +2014,19 @@ var usingSecureMode = true;
 
 					
 					<p class="product-desc" itemprop="description">
-						Rok Wołu 2021 to niezwykle starannie wykonana złota moneta wybita z najwyższej próby 9999 przez australijską mennicę Perth Mint. Złota moneta z serii Lunar III jest zaprojektowana zgodnie z chińskim kalendarzem księżycowy – dzięki czemu zachwyca nie tylko inwestorów, ale także kolekcjonerów i entuzjastów kultury chińskiej.
+						22 września 2021 roku Narodowy Bank Polski wprowadził do obiegu złotą monetę o nominale 100 zł „Pałac Biskupi w Krakowie”.Projektant monety złotej: Urszula WalerzakEmitent: NBP.  Na zlecenie NBP monety wyprodukowała Mennica Polska S.A.Nominał 100 zł. Metal: Au 900/1000. Stempel: lustrzany. Brzeg (bok): gładki.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								493,16 zł							</span>
+								2 500,00 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=613&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="613" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=945&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="945" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1640,9 +2041,9 @@ var usingSecureMode = true;
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/613-australia-2021-lunar-series-iii-year-of-the-ox-au9999-120oz.html" data-id-product="613">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/945-100-zl-2021-palac-biskupi-w-krakowie-8g-au900-.html" data-id-product="945">Dodaj do por&oacute;wania</a>
 							</div>
-																		Dostawa: 7-10 dni
+																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -1665,7 +2066,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 980,26 zł									</span>
+										2 030,11 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1683,7 +2084,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 980,26 zł							</span>
+								2 030,11 zł							</span>
 														
 							
 											</div>
@@ -1719,138 +2120,6 @@ var usingSecureMode = true;
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" title="Austria - 1 Dukat 1915 (nowe bicie) Au986" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2360-home_default/austria-1-dukat-1915-nowe-bicie-au986.jpg" alt="1 Złoty Dukat Austriacki" title="1 Złoty Dukat Austriacki"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" title="Austria - 1 Dukat 1915 (nowe bicie) Au986" itemprop="url" >
-								Austria - 1 Dukat 1915 (nowe bicie) Au986
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										869,17 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Złoty Dukat Austriacki to legendarna moneta z czasów cesarstwa Austriackiego. Za precyzyjne wykonanie oraz doskonałą jakość dukata odpowiada słynna Mennica Austriacka. Austriackie Dukaty są rozpoznawalne nie tylko w Europie, ale również w USA, co powoduje, że są bardzo łatwe w odsprzedaży.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								869,17 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=124&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="124" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" data-id-product="124">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" title="China 2020 - Panda Au999 30g" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1484-home_default/china-2020-panda-au999-30g.jpg" alt="Chiny 2020 - Panda Au999 30 g" title="Chiny 2020 - Panda Au999 30 g"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" title="China 2020 - Panda Au999 30g" itemprop="url" >
-								China 2020 - Panda Au999 30g
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										7 233,53 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Chińska Panda to złota moneta wydawana przez Mennicę Chińską, której premiera odbyła się w roku 1982. Limitowany wolumen egzemplarzy i modyfikowany corocznie rewers  stanowi nie tylko zabezpieczenie kapitału, ale także jest doskonałym uzupełnieniem każdego portfolio.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								7 233,53 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=481&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="481" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" data-id-product="481">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-item-of-tablet-line first-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
 						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/610-australia-2021-lunar-series-iii-year-of-the-ox-au9999-12oz.html" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/2oz" itemprop="url">
 							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1739-home_default/australia-2021-lunar-series-iii-year-of-the-ox-au9999-12oz.jpg" alt="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/2 oz" title="Australia 2021 - Lunar Series III - Year of the Ox Au9999 1/2 oz"  width="250" height="250" itemprop="image" />
 						</a>
@@ -1863,7 +2132,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 855,61 zł									</span>
+										3 952,67 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1881,7 +2150,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 855,61 zł							</span>
+								3 952,67 zł							</span>
 														
 							
 											</div>
@@ -1913,23 +2182,23 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-item-of-tablet-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" title="Australia 2021 - Kangaroo Au999 1/2oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1856-home_default/australia-2021-kangaroo-au999-12oz.jpg" alt="Australia 2021 - Kangur Au9999 1/2 oz" title="Australia 2021 - Kangur Au9999 1/2 oz"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" title="China 2020 - Panda Au999 30g" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1484-home_default/china-2020-panda-au999-30g.jpg" alt="Chiny 2020 - Panda Au999 30 g" title="Chiny 2020 - Panda Au999 30 g"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" title="Australia 2021 - Kangaroo Au999 1/2oz" itemprop="url" >
-								Australia 2021 - Kangaroo Au999 1/2oz
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" title="China 2020 - Panda Au999 30g" itemprop="url" >
+								China 2020 - Panda Au999 30g
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 855,61 zł									</span>
+										7 415,62 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1943,19 +2212,19 @@ var usingSecureMode = true;
 
 					
 					<p class="product-desc" itemprop="description">
-						Kangur Australijski to jedna z najbardziej rozpoznawalnych monet bulionowych świata. Moneta ma nominał 100 dolarów australijskich i wykonana jest ze złota o próbie 999,9. Reprezentuje grono monet o najwyższym współczynniku zawartości kruszcu.
+						Chińska Panda to złota moneta wydawana przez Mennicę Chińską, której premiera odbyła się w roku 1982. Limitowany wolumen egzemplarzy i modyfikowany corocznie rewers  stanowi nie tylko zabezpieczenie kapitału, ale także jest doskonałym uzupełnieniem każdego portfolio.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 855,61 zł							</span>
+								7 415,62 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=657&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="657" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=481&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="481" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -1970,7 +2239,7 @@ var usingSecureMode = true;
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/657-australia-2021-kangaroo-au999-12oz.html" data-id-product="657">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/481-china-2020-panda-au999-30g.html" data-id-product="481">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -1979,23 +2248,23 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-item-of-tablet-line last-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" title="Great Britain 2021 - Britannia Au999.9 1/10oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1876-home_default/great-britain-2021-britannia-au9999-110oz.jpg" alt="Wielka Brytania 2021 - Brytania Au999,9 1/10 oz" title="Wielka Brytania 2021 - Brytania Au999,9 1/10 oz"  width="250" height="250" itemprop="image" />
+						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" title="Austria - 1 Dukat 1915 (nowe bicie) Au986" itemprop="url">
+							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2360-home_default/austria-1-dukat-1915-nowe-bicie-au986.jpg" alt="1 Złoty Dukat Austriacki" title="1 Złoty Dukat Austriacki"  width="250" height="250" itemprop="image" />
 						</a>
 						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" title="Great Britain 2021 - Britannia Au999.9 1/10oz" itemprop="url" >
-								Great Britain 2021 - Britannia Au999.9 1/10oz
+														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" title="Austria - 1 Dukat 1915 (nowe bicie) Au986" itemprop="url" >
+								Austria - 1 Dukat 1915 (nowe bicie) Au986
 							</a>
 						</h5>
 						
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										839,36 zł									</span>
+										891,05 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2009,19 +2278,19 @@ var usingSecureMode = true;
 
 					
 					<p class="product-desc" itemprop="description">
-						Złota Britannia to moneta bulionowa o próbie 999,9 wprowadzona do obiegu w 1987 r. przez Mennicę Królewską Wielkiej Brytanii. Britannia ma rządową gwarancję wagi i czystości złota, dzięki czemu cieszy się dużym zaufaniem, jej wartość nominalna to sto funtów brytyjskich i jest pełnoprawnym środkiem płatniczym w Wielkiej Brytanii.
+						Złoty Dukat Austriacki to legendarna moneta z czasów cesarstwa Austriackiego. Za precyzyjne wykonanie oraz doskonałą jakość dukata odpowiada słynna Mennica Austriacka. Austriackie Dukaty są rozpoznawalne nie tylko w Europie, ale również w USA, co powoduje, że są bardzo łatwe w odsprzedaży.
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								839,36 zł							</span>
+								891,05 zł							</span>
 														
 							
 											</div>
 										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=665&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="665" data-minimal_quantity="1">
+																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=124&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="124" data-minimal_quantity="1">
 									<span>Dodaj do koszyka</span>
 								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" title="Zobacz">
+																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" title="Zobacz">
 							<span>Więcej</span>
 						</a>
 					</div>
@@ -2036,7 +2305,7 @@ var usingSecureMode = true;
 					 				<div class="functional-buttons clearfix">
 						
 													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/665-great-britain-2021-britannia-au9999-110oz.html" data-id-product="665">Dodaj do por&oacute;wania</a>
+								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/124-austria-1-dukat-1915-nowe-bicie-au986.html" data-id-product="124">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
 					</div>
@@ -2045,7 +2314,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line first-item-of-tablet-line first-item-of-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line first-item-of-tablet-line last-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -2061,7 +2330,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 625,91 zł									</span>
+										7 817,88 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2079,7 +2348,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 625,91 zł							</span>
+								7 817,88 zł							</span>
 														
 							
 											</div>
@@ -2111,205 +2380,7 @@ var usingSecureMode = true;
 			
 		
 		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-item-of-tablet-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" title="RPA 2021 - Krugerrand Au999 1/2oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1961-home_default/rpa-2021-krugerrand-au999-12oz.jpg" alt="RPA 2021 - Krugerrand Au999 1/2 oz" title="RPA 2021 - Krugerrand Au999 1/2 oz"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" title="RPA 2021 - Krugerrand Au999 1/2oz" itemprop="url" >
-								RPA 2021 - Krugerrand Au999 1/2oz
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										3 855,61 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Złoty Krugerrand jest najbardziej znaną i najczęściej bitą monetą bulionową na świecie. Uważana jest za jedną z najpiękniejszych monet inwestycyjnych na świecie. Krugerrandy są produkowane przez Południowoafrykańską mennicę Rand Refinery.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								3 855,61 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=705&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="705" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/705-rpa-2021-krugerrand-au999-12oz.html" data-id-product="705">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line first-item-of-tablet-line last-item-of-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" title="RPA 2021 - Krugerrand Au999 1/4oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/1963-home_default/rpa-2021-krugerrand-au999-14oz.jpg" alt="RPA 2021 - Krugerrand Au999 1/4 oz" title="RPA 2021 - Krugerrand Au999 1/4 oz"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" title="RPA 2021 - Krugerrand Au999 1/4oz" itemprop="url" >
-								RPA 2021 - Krugerrand Au999 1/4oz
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										1 980,26 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Złoty Krugerrand jest najbardziej znaną i najczęściej bitą monetą bulionową na świecie. Uważana jest za jedną z najpiękniejszych monet inwestycyjnych na świecie. Krugerrandy są produkowane przez Południowoafrykańską mennicę Rand Refinery.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								1 980,26 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=706&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="706" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/706-rpa-2021-krugerrand-au999-14oz.html" data-id-product="706">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 first-in-line last-line last-item-of-tablet-line first-item-of-mobile-line last-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" title="Austria 2021- Wiener Philharmoniker Au999.9 1/25oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2126-home_default/austria-2021-wiener-philharmoniker-au9999-125oz.jpg" alt="Austria 2021- Wiener Philharmoniker Au999 1/25oz" title="Austria 2021- Wiener Philharmoniker Au999 1/25oz"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" title="Austria 2021- Wiener Philharmoniker Au999.9 1/25oz" itemprop="url" >
-								Austria 2021- Wiener Philharmoniker Au999.9 1/25oz
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										408,13 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Wiedeński Filharmonik to złota moneta produkowana przez austriacką mennicę Austrian Mint. Pierwszy raz do obiegu trafiła już w 1989 roku i od tamtej pory jej wizerunek niewiele się zmienił.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								408,13 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=755&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="755" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/755-austria-2021-wiener-philharmoniker-au9999-125oz.html" data-id-product="755">Dodaj do por&oacute;wania</a>
-							</div>
-																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-line first-item-of-tablet-line last-mobile-line">
+								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
 			<div class="product-container" itemscope itemtype="http://schema.org/Product">
 				<div class="left-block">
 					<div class="product-image-container">
@@ -2325,7 +2396,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 438,25 zł									</span>
+										7 625,50 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2343,7 +2414,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 438,25 zł							</span>
+								7 625,50 zł							</span>
 														
 							
 											</div>
@@ -2369,72 +2440,6 @@ var usingSecureMode = true;
 								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/794-great-britain-2021-the-queen-s-beasts-completer-coin-au9999-1oz-bu.html" data-id-product="794">Dodaj do por&oacute;wania</a>
 							</div>
 																		Dostawa: 7-10 dni
-					</div>
-							</div><!-- .product-container> -->
-		</li>
-			
-		
-		
-								<li class="ajax_block_product col-xs-12 col-sm-6 col-md-4 last-in-line last-line last-item-of-tablet-line last-item-of-mobile-line last-mobile-line">
-			<div class="product-container" itemscope itemtype="http://schema.org/Product">
-				<div class="left-block">
-					<div class="product-image-container">
-						<a class="product_img_link" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/809-st-helena-2021-the-queen-s-virtues-victory-au9999-1oz.html" title="St. Helena 2021 - The Queen&#039;s Virtues - Victory Au9999 1oz" itemprop="url">
-							<img class="replace-2x img-responsive" src="https://zlota-uncja.pl/2284-home_default/st-helena-2021-the-queen-s-virtues-victory-au9999-1oz.jpg" alt="St. Helena 2021 - The Queen&#039;s Virtues - Victory Au999.9 1oz" title="St. Helena 2021 - The Queen&#039;s Virtues - Victory Au999.9 1oz"  width="250" height="250" itemprop="image" />
-						</a>
-						<h5 itemprop="name">
-														<a class="product-name" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/809-st-helena-2021-the-queen-s-virtues-victory-au9999-1oz.html" title="St. Helena 2021 - The Queen&#039;s Virtues - Victory Au9999 1oz" itemprop="url" >
-								St. Helena 2021 - The Queen&#039;s Virtues - Victory...
-							</a>
-						</h5>
-						
-						
-																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-																	<span itemprop="price" class="price product-price">
-										7 693,80 zł									</span>
-									<meta itemprop="priceCurrency" content="PLN" />
-																																						<br><strong>Dostępność: </strong>
-												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
-									
-															</div>
-																							</div>
-					
-					
-				</div>
-				<div class="right-block">
-
-					
-					<p class="product-desc" itemprop="description">
-						Victory to pierwsza złota moneta z serii The Queen's Virtues. Seria ta nawiązuje do zbioru zasad ustanowionych w XIX wieku przez królową Anglii - Wiktorię. Ich zadaniem jest kierowanie poglądami i zachowaniem monarchy.
-					</p>
-										<div class="content_price">
-													<span class="price product-price">
-								7 693,80 zł							</span>
-														
-							
-											</div>
-										<div class="button-container">
-																													<a class="button ajax_add_to_cart_button btn btn-default" href="https://zlota-uncja.pl/pl/koszyk?add=1&amp;id_product=809&amp;token=44732b18d08d4e50f32df6974f9b152e" rel="nofollow" title="Dodaj do koszyka" data-id-product="809" data-minimal_quantity="1">
-									<span>Dodaj do koszyka</span>
-								</a>
-																			<a class="button lnk_view btn btn-default" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/809-st-helena-2021-the-queen-s-virtues-victory-au9999-1oz.html" title="Zobacz">
-							<span>Więcej</span>
-						</a>
-					</div>
-											<div class="color-list-container"></div>
-										<div class="product-flags">
-																														</div>
-																		<span class="availability">
-																	<span class="available-now">
-										W magazynie									</span>
-															</span>
-															</div>
-					 				<div class="functional-buttons clearfix">
-						
-													<div class="compare">
-								<a class="add_to_compare" href="https://zlota-uncja.pl/pl/zlote-monety-bulionowe/809-st-helena-2021-the-queen-s-virtues-victory-au9999-1oz.html" data-id-product="809">Dodaj do por&oacute;wania</a>
-							</div>
-																		W magazynie
 					</div>
 							</div><!-- .product-container> -->
 		</li>
@@ -2464,7 +2469,7 @@ var usingSecureMode = true;
 	                	<span>Pokaż wszystkie</span>
 	                </button>
 																																							<input type="hidden" name="id_category" value="16" />
-																			                <input name="n" id="nb_item" class="hidden" value="27" />
+																			                <input name="n" id="nb_item" class="hidden" value="28" />
 				</div>
 			</form>
 							<ul class="pagination">
@@ -2491,7 +2496,7 @@ var usingSecureMode = true;
 							</ul>
 			</div>
     <div class="product-count">
-    	    		                        	                        	Pokazuje 1 - 24 z 27 element&oacute;w
+    	    		                        	                        	Pokazuje 1 - 24 z 28 element&oacute;w
 		    </div>
 	<!-- /Pagination -->
 
@@ -2808,7 +2813,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"609","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1oz BU\""},'',true);MBG.add({"id":"656","name":"\"Australia 2021 - Kangaroo Au9999 1oz\""},'',true);MBG.add({"id":"661","name":"\"Great Britain 2021 - Britannia Au999.9 1oz\""},'',true);MBG.add({"id":"662","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/2oz\""},'',true);MBG.add({"id":"666","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1oz\""},'',true);MBG.add({"id":"667","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/2oz\""},'',true);MBG.add({"id":"669","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/10oz\""},'',true);MBG.add({"id":"683","name":"\"RPA 2021 - Krugerrand Au999.9 1oz\""},'',true);MBG.add({"id":"695","name":"\"China 2021 - Panda Au999 30g\""},'',true);MBG.add({"id":"713","name":"\"Canada 2021 - Maple Leaf Au9999 1oz\""},'',true);MBG.add({"id":"759","name":"\"Canada 2021 - 25 Gram Maplegram Au9999 25x1g\""},'',true);MBG.add({"id":"613","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/20oz\""},'',true);MBG.add({"id":"668","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/4oz\""},'',true);MBG.add({"id":"124","name":"\"Austria - 1 Dukat 1915 (nowe bicie) Au986\""},'',true);MBG.add({"id":"481","name":"\"China 2020 - Panda Au999 30g\""},'',true);MBG.add({"id":"610","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/2oz\""},'',true);MBG.add({"id":"657","name":"\"Australia 2021 - Kangaroo Au999 1\\\/2oz\""},'',true);MBG.add({"id":"665","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/10oz\""},'',true);MBG.add({"id":"745","name":"\"USA 2021 - American Buffalo Au9999 1oz\""},'',true);MBG.add({"id":"705","name":"\"RPA 2021 - Krugerrand Au999 1\\\/2oz\""},'',true);MBG.add({"id":"706","name":"\"RPA 2021 - Krugerrand Au999 1\\\/4oz\""},'',true);MBG.add({"id":"755","name":"\"Austria 2021- Wiener Philharmoniker Au999.9 1\\\/25oz\""},'',true);MBG.add({"id":"794","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Au999.9 1oz BU\""},'',true);MBG.add({"id":"809","name":"\"St. Helena 2021 - The Queen's Virtues - Victory Au9999 1oz\""},'',true);MBG.addProductClick({"id":"609","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1oz BU\""});MBG.addProductClick({"id":"656","name":"\"Australia 2021 - Kangaroo Au9999 1oz\""});MBG.addProductClick({"id":"661","name":"\"Great Britain 2021 - Britannia Au999.9 1oz\""});MBG.addProductClick({"id":"662","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/2oz\""});MBG.addProductClick({"id":"666","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1oz\""});MBG.addProductClick({"id":"667","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/2oz\""});MBG.addProductClick({"id":"669","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/10oz\""});MBG.addProductClick({"id":"683","name":"\"RPA 2021 - Krugerrand Au999.9 1oz\""});MBG.addProductClick({"id":"695","name":"\"China 2021 - Panda Au999 30g\""});MBG.addProductClick({"id":"713","name":"\"Canada 2021 - Maple Leaf Au9999 1oz\""});MBG.addProductClick({"id":"759","name":"\"Canada 2021 - 25 Gram Maplegram Au9999 25x1g\""});MBG.addProductClick({"id":"613","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/20oz\""});MBG.addProductClick({"id":"668","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/4oz\""});MBG.addProductClick({"id":"124","name":"\"Austria - 1 Dukat 1915 (nowe bicie) Au986\""});MBG.addProductClick({"id":"481","name":"\"China 2020 - Panda Au999 30g\""});MBG.addProductClick({"id":"610","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/2oz\""});MBG.addProductClick({"id":"657","name":"\"Australia 2021 - Kangaroo Au999 1\\\/2oz\""});MBG.addProductClick({"id":"665","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/10oz\""});MBG.addProductClick({"id":"745","name":"\"USA 2021 - American Buffalo Au9999 1oz\""});MBG.addProductClick({"id":"705","name":"\"RPA 2021 - Krugerrand Au999 1\\\/2oz\""});MBG.addProductClick({"id":"706","name":"\"RPA 2021 - Krugerrand Au999 1\\\/4oz\""});MBG.addProductClick({"id":"755","name":"\"Austria 2021- Wiener Philharmoniker Au999.9 1\\\/25oz\""});MBG.addProductClick({"id":"794","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Au999.9 1oz BU\""});MBG.addProductClick({"id":"809","name":"\"St. Helena 2021 - The Queen's Virtues - Victory Au9999 1oz\""});
+						MBG.add({"id":"609","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1oz BU\""},'',true);MBG.add({"id":"613","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/20oz\""},'',true);MBG.add({"id":"656","name":"\"Australia 2021 - Kangaroo Au9999 1oz\""},'',true);MBG.add({"id":"657","name":"\"Australia 2021 - Kangaroo Au999 1\\\/2oz\""},'',true);MBG.add({"id":"661","name":"\"Great Britain 2021 - Britannia Au999.9 1oz\""},'',true);MBG.add({"id":"662","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/2oz\""},'',true);MBG.add({"id":"665","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/10oz\""},'',true);MBG.add({"id":"666","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1oz\""},'',true);MBG.add({"id":"667","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/2oz\""},'',true);MBG.add({"id":"669","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/10oz\""},'',true);MBG.add({"id":"683","name":"\"RPA 2021 - Krugerrand Au999.9 1oz\""},'',true);MBG.add({"id":"695","name":"\"China 2021 - Panda Au999 30g\""},'',true);MBG.add({"id":"705","name":"\"RPA 2021 - Krugerrand Au999 1\\\/2oz\""},'',true);MBG.add({"id":"706","name":"\"RPA 2021 - Krugerrand Au999 1\\\/4oz\""},'',true);MBG.add({"id":"713","name":"\"Canada 2021 - Maple Leaf Au9999 1oz\""},'',true);MBG.add({"id":"755","name":"\"Austria 2021- Wiener Philharmoniker Au999.9 1\\\/25oz\""},'',true);MBG.add({"id":"759","name":"\"Canada 2021 - 25 Gram Maplegram Au9999 25x1g\""},'',true);MBG.add({"id":"945","name":"\"100 z\\u0142 2021 Pa\\u0142ac Biskupi w Krakowie 8g Au900 \""},'',true);MBG.add({"id":"668","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/4oz\""},'',true);MBG.add({"id":"610","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/2oz\""},'',true);MBG.add({"id":"481","name":"\"China 2020 - Panda Au999 30g\""},'',true);MBG.add({"id":"124","name":"\"Austria - 1 Dukat 1915 (nowe bicie) Au986\""},'',true);MBG.add({"id":"745","name":"\"USA 2021 - American Buffalo Au9999 1oz\""},'',true);MBG.add({"id":"794","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Au999.9 1oz BU\""},'',true);MBG.addProductClick({"id":"609","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1oz BU\""});MBG.addProductClick({"id":"613","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/20oz\""});MBG.addProductClick({"id":"656","name":"\"Australia 2021 - Kangaroo Au9999 1oz\""});MBG.addProductClick({"id":"657","name":"\"Australia 2021 - Kangaroo Au999 1\\\/2oz\""});MBG.addProductClick({"id":"661","name":"\"Great Britain 2021 - Britannia Au999.9 1oz\""});MBG.addProductClick({"id":"662","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/2oz\""});MBG.addProductClick({"id":"665","name":"\"Great Britain 2021 - Britannia Au999.9 1\\\/10oz\""});MBG.addProductClick({"id":"666","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1oz\""});MBG.addProductClick({"id":"667","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/2oz\""});MBG.addProductClick({"id":"669","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/10oz\""});MBG.addProductClick({"id":"683","name":"\"RPA 2021 - Krugerrand Au999.9 1oz\""});MBG.addProductClick({"id":"695","name":"\"China 2021 - Panda Au999 30g\""});MBG.addProductClick({"id":"705","name":"\"RPA 2021 - Krugerrand Au999 1\\\/2oz\""});MBG.addProductClick({"id":"706","name":"\"RPA 2021 - Krugerrand Au999 1\\\/4oz\""});MBG.addProductClick({"id":"713","name":"\"Canada 2021 - Maple Leaf Au9999 1oz\""});MBG.addProductClick({"id":"755","name":"\"Austria 2021- Wiener Philharmoniker Au999.9 1\\\/25oz\""});MBG.addProductClick({"id":"759","name":"\"Canada 2021 - 25 Gram Maplegram Au9999 25x1g\""});MBG.addProductClick({"id":"945","name":"\"100 z\\u0142 2021 Pa\\u0142ac Biskupi w Krakowie 8g Au900 \""});MBG.addProductClick({"id":"668","name":"\"Austria 2021 - Wiener Philharmoniker Au999.9 1\\\/4oz\""});MBG.addProductClick({"id":"610","name":"\"Australia 2021 - Lunar Series III - Year of the Ox Au9999 1\\\/2oz\""});MBG.addProductClick({"id":"481","name":"\"China 2020 - Panda Au999 30g\""});MBG.addProductClick({"id":"124","name":"\"Austria - 1 Dukat 1915 (nowe bicie) Au986\""});MBG.addProductClick({"id":"745","name":"\"USA 2021 - American Buffalo Au9999 1oz\""});MBG.addProductClick({"id":"794","name":"\"Great Britain 2021 - The Queen's Beasts - Completer Coin Au999.9 1oz BU\""});
 					});
 				</script>
 				<script type="text/javascript">
