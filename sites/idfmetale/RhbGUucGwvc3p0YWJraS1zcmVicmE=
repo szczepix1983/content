@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,7 +17,7 @@
 <script src="https://use.fontawesome.com/8b7a637e14.js"></script>
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/main.css" />
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/user.css" />
-<script type="text/javascript" src="/assets/js/frontstore/main.9d3facad76c1cba38fa3.min.js"></script>
+<script type="text/javascript" src="/assets/js/frontstore/main.dc4171ede553da25d260.min.js"></script>
 <script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=400"></script>
 <script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=400"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'NTU2,OTg1,';
             </script>
-</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1631897183154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632340193154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="navbar" class="navbar-collapse collapse">
 <ul class="nav nav-justified">
 <li class=" dropdown" id="hcategory_9">
- <a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+<a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Złoto
 <span class="fa fa-angle-down"> </span>
 </h3>
@@ -368,7 +368,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>3 931,35 zł</em>
+<em>4 040,90 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -395,7 +395,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>120 239,99 zł</em>
+<em>123 129,46 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">

@@ -17,7 +17,7 @@
 <script src="https://use.fontawesome.com/8b7a637e14.js"></script>
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/main.css" />
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/user.css" />
-<script type="text/javascript" src="/assets/js/frontstore/main.9d3facad76c1cba38fa3.min.js"></script>
+<script type="text/javascript" src="/assets/js/frontstore/main.dc4171ede553da25d260.min.js"></script>
 <script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=400"></script>
 <script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=400"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'ODU4,Nzc5,MTA0OA==,OTAz,Nzc2,OTI3,';
             </script>
-</head><body id="shop_category39" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1631900443154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category39" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632339102154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -368,7 +368,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>121,10 zł</em>
+<em>124,05 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -383,20 +383,20 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="odd col3">
 <div class="product" id="product_779">
 <a class="details spanhover" href="/produkt/britannia-1-uncja-srebra" title="Britannia 1 uncja srebra">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" /> 
 <img class="photo" src="/userdata/public/gfx/3320/moneta-inwestycyjna-britannia-1-uncja-srebra-rewers.jpg" alt="Britannia 1 uncja srebra" />
 </span> <span class="productname">Britannia 1 uncja srebra</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>117,94 zł</em>
+<em>120,81 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -411,7 +411,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="even col3">
 <div class="product" id="product_1048">
@@ -424,7 +424,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>240,44 zł</em>
+<em>246,29 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -439,7 +439,6 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
-
 </div>
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
@@ -453,7 +452,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>123,20 zł</em>
+<em>126,20 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -467,7 +466,7 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
- </div>
+</div>
 </div>
 </td>
 <td class="even col3">
@@ -480,7 +479,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>121,10 zł</em>
+<em>124,05 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -494,7 +493,7 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
- </div>
+</div>
 </div>
 </td>
 <td class="odd col3">
@@ -508,7 +507,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>121,10 zł</em>
+<em>124,05 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -521,7 +520,7 @@ Sortuj wg:
 <span>Dodaj do koszyka</span>
 </button>
 </fieldset>
- </form>
+</form>
 </div>
 </div>
 </td>

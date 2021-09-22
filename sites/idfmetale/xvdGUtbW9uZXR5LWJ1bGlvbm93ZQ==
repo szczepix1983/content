@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,7 +17,7 @@
 <script src="https://use.fontawesome.com/8b7a637e14.js"></script>
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/main.css" />
 <link id="csslink" rel="stylesheet" type="text/css" href="/skins/user/rwd_shoper_1/styles/user.css" />
-<script type="text/javascript" src="/assets/js/frontstore/main.9d3facad76c1cba38fa3.min.js"></script>
+<script type="text/javascript" src="/assets/js/frontstore/main.dc4171ede553da25d260.min.js"></script>
 <script type="text/javascript" src="/userdata/public/locales/pl_PL.js?sci=400"></script>
 <script type="text/javascript" src="/skins/user/rwd_shoper_1/js/user.js?sci=400"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'OTk1,ODIx,ODI1,ODc0,MTA2MA==,MTAwMg==,Nzgy,MTAwOA==,ODc1,MTA1OQ==,MTA1OA==,';
             </script>
-</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1631897183154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632340194154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -223,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Kontakt
 </h3>
 </a>
- </li>
+</li>
 <li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
@@ -252,7 +252,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </h3>
 </li>
-<li>
+ <li>
 <h3>
 <a href="/bezpieczna-przystan" title="Pozostałe" id="headercategory69" class="spanhover">
 <span>Bezpieczna Przystań</span>
@@ -304,7 +304,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="topbar"> <div class="leftcorner"></div> <div class="rightcorner"></div> </div>
 <div class="boxhead">
 <div class="leftside"></div>
- <h3><img src="/public/images/1px.gif" alt="" class="px1" />Przeczytaj przed zakupem</h3>
+<h3><img src="/public/images/1px.gif" alt="" class="px1" />Przeczytaj przed zakupem</h3>
 <div class="rightside"></div>
 </div>
 <div class="innerbox">
@@ -368,8 +368,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>8 308,42 zł</em>
+<em>8 463,87 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -396,8 +397,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 541,19 zł</em>
+<em>7 729,84 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -423,8 +425,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 541,19 zł</em>
+<em>7 729,84 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -445,14 +448,14 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/krugerrand-1-uncja-zlota" title="Krugerrand 1 uncja złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/8f746f84b5d476c9a28559e0d3002f45.jpg" alt="Krugerrand 1 uncja złota" />
 </span> <span class="productname">Krugerrand 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 570,54 zł</em>
+<em>7 759,91 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -478,8 +481,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>14 390,12 zł</em>
+<em>14 749,51 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -507,8 +511,8 @@ Sortuj wg:
 </span> <span class="productname">Moneta złota 1 Dukat Austriacki 2021</span>
 </a>
 <div class="price">
-<span>Cena:</span>
-<em>896,73 zł</em>
+ <span>Cena:</span>
+<em>919,16 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -523,20 +527,19 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 </tr><tr class="fewperrow"> <td class="even col3">
 <div class="product" id="product_782">
 <a class="details spanhover" href="/produkt/wiedenscy-filharmonicy-1-uncja-zlota" title="Wiedeński Filharmonik 1 uncja złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3371/Wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt="Wiedeński Filharmonik 1 uncja złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 541,19 zł</em>
+<em>7 729,84 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -551,7 +554,6 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
-
 </div>
 </td>
 <td class="odd col3">
@@ -565,7 +567,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>369,77 zł</em>
+<em>379,02 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -579,21 +581,20 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
- </div>
+</div>
 </div>
 </td>
 <td class="even col3">
 <div class="product" id="product_875">
-<a class="details spanhover" href="/produkt/kanadyjski-lisc-klonowy-1-uncja-zlota" title="Kanadyjski Liść Klonowy 1 uncja złota">
+ <a class="details spanhover" href="/produkt/kanadyjski-lisc-klonowy-1-uncja-zlota" title="Kanadyjski Liść Klonowy 1 uncja złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/893b6dbfeb0ebaa95b99a41ef27c5626.jpg" alt="Kanadyjski Liść Klonowy 1 uncja złota" />
 </span> <span class="productname">Kanadyjski Liść Klonowy 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>7 541,19 zł</em>
+<em>7 729,84 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -608,11 +609,11 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_1059">
-<a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
+ <a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -621,7 +622,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>872,31 zł</em>
+<em>894,85 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -636,10 +637,9 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
-
 <ul class="tags">
 <li class="new">new</li> </ul>
-</div>
+ </div>
 </td>
 <td class="even col3">
 <div class="product" id="product_1058">
@@ -652,7 +652,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>4 001,32 zł</em>
+<em>4 104,69 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -667,6 +667,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
+
 </div>
 </td>
 <td class="spacefill odd col3"></td>
