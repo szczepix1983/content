@@ -171,7 +171,7 @@ autoComplete = new Autocomplete('main_search', {
 <p  class="box__title header-size-4 header-brand-bg">Filtrowanie</p>
 </header>
 <div  class="box_content contentToggle">
-<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','205','do 21 dni','do-21-dni','zQ')"><a class="checkbox-link" href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-21-dni,dDQ-zQ.html">do 21 dni (5)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'13','212','do 28 dni','do-28-dni','1A')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-28-dni,dDQ-1A.html">do 28 dni (1)</span></span>                <script type="text/javascript">
+<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','205','do 21 dni','do-21-dni','zQ')"><a class="checkbox-link" href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-21-dni,dDQ-zQ.html">do 21 dni (4)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><a class="checkbox-link" href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (3)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'13','212','do 28 dni','do-28-dni','1A')"><span class="change_to_link checkbox-link" data-href="/srebrne-zestawy-inwestycyjne/termin-wysylki-do-28-dni,dDQ-1A.html">do 28 dni (1)</span></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_13').click(function() {
                             var urlred = "/srebrne-zestawy-inwestycyjne.html";
@@ -314,12 +314,12 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(2750.4600),
-					startMax: parseFloat(55260.7000),
-					rangeMin: parseFloat(2750.4600),
-					rangeMax: parseFloat(55260.7000),
-					currentFrom: parseFloat(2750.4600),
-					currentTo: parseFloat(55260.7000),
+					startMin: parseFloat(2815.1000),
+					startMax: parseFloat(56559.4600),
+					rangeMin: parseFloat(2815.1000),
+					rangeMax: parseFloat(56559.4600),
+					currentFrom: parseFloat(2815.1000),
+					currentTo: parseFloat(56559.4600),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -443,7 +443,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="53801.32">53 801,32 zł</span>
+<span class="price-value"  itemprop="price" content="55065.79">55 065,79 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -474,7 +474,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="55260.70">55 260,70 zł</span>
+<span class="price-value"  itemprop="price" content="56559.46">56 559,46 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -505,7 +505,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="53028.25">53 028,25 zł</span>
+<span class="price-value"  itemprop="price" content="54274.55">54 274,55 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -536,7 +536,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="27562.42">27 562,42 zł</span>
+<span class="price-value"  itemprop="price" content="28210.21">28 210,21 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -567,7 +567,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="10844.93">10 844,93 zł</span>
+<span class="price-value"  itemprop="price" content="11099.82">11 099,82 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -598,7 +598,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="11222.71">11 222,71 zł</span>
+<span class="price-value"  itemprop="price" content="11486.47">11 486,47 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -629,7 +629,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="10693.30">10 693,30 zł</span>
+<span class="price-value"  itemprop="price" content="10944.62">10 944,62 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -660,7 +660,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2750.46">2 750,46 zł</span>
+<span class="price-value"  itemprop="price" content="2815.10">2 815,10 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -691,7 +691,7 @@ Srebrne Zestawy inwestycyjne</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2789.64">2 789,64 zł</span>
+<span class="price-value"  itemprop="price" content="2855.20">2 855,20 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -844,7 +844,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 862,46 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">87,65 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 688,83 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 987,28 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,71 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 949,26 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
