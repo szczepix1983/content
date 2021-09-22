@@ -352,6 +352,165 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 							</ul>
 		</div>
 	</div>
+	
+	
+
+
+<script type="text/javascript" src="/js/exceptions.js"></script>
+
+			<div class="pagination-container" id="pagination_contents">
+
+	
+	
+			
+	<div class="pagination cm-pagination-wraper center">
+		Strony:&nbsp;&nbsp;
+	
+		
+									<a name="pagination" href="/zloto-inwestycyjne.html" rel="1" class="cm-history " rev="pagination_contents">1</a>
+												<a name="pagination" href="/zloto-inwestycyjne-page-2.html" rel="2" class="cm-history " rev="pagination_contents">2</a>
+												<a name="pagination" href="/zloto-inwestycyjne-page-3.html" rel="3" class="cm-history " rev="pagination_contents">3</a>
+												<strong class="pagination-selected-page">4</strong>
+					
+			</div>
+	
+		
+
+	
+	
+
+<div class="right">
+<strong>Sortuj wg.:</strong>&nbsp;
+
+<span class="select-link cm-combo-on cm-combination " id="sw_select_wrap_sort_by">		<a class="sort-asc">Popularność</a>
+	</span>
+
+<div id="select_wrap_sort_by" class="select-popup cm-popup-box cm-smart-position hidden left">
+	<img src="/skins/CS03C00500/customer/images/icons/icon_close.gif" width="13" height="13" border="0" alt="" class="close-icon no-margin cm-popup-switch"/>
+		<ul class="cm-select-list">
+																								<li><a class=" " rev="pagination_contents" href="/zloto-inwestycyjne-page-4.html?sort_by=position&amp;sort_order=asc" rel="nofollow" name="sorting_callback">Domyślne</a>
+			</li>
+																								<li><a class=" " rev="pagination_contents" href="/zloto-inwestycyjne-page-4.html?sort_by=product&amp;sort_order=asc" rel="nofollow" name="sorting_callback">Nazwa</a>
+			</li>
+																								<li><a class=" " rev="pagination_contents" href="/zloto-inwestycyjne-page-4.html?sort_by=price&amp;sort_order=asc" rel="nofollow" name="sorting_callback">Cena</a>
+			</li>
+															<li><a class=" active" rev="pagination_contents" href="/zloto-inwestycyjne-page-4.html?sort_by=popularity&amp;sort_order=asc" rel="nofollow" name="sorting_callback">Popularność&nbsp;<img src="/skins/CS03C00500/customer/images/icons/sort_asc.gif" width="7" height="6" border="0" alt=""/></a>
+			</li>
+																								<li><a class=" " rev="pagination_contents" href="/zloto-inwestycyjne-page-4.html?sort_by=bestsellers&amp;sort_order=desc" rel="nofollow" name="sorting_callback">Bestseller</a>
+			</li>
+			</ul>
+
+</div></div>
+
+<hr/>
+
+
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0" class="fixed-layout multicolumns-list">
+<tr>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<td class="product-spacer">&nbsp;</td>
+	<td class="center image-border compact" valign="top" width="100%">
+					<form action="/" method="post" name="product_form_30151" enctype="multipart/form-data" class="cm-disable-empty-files cm-ajax">
+<input type="hidden" name="result_ids" value="cart_status,wish_list"/>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=165&amp;page=4"/>
+<input type="hidden" name="product_data[30151][product_id]" value="30151"/>
+
+				<a href="/kanadyjski-lisc-klonowy-1g-zlota.html"><img class=" " id="det_img_30151" src="/images/thumbnails/1/105/x1g-kanadyjski_lisc_klonowy.jpg.pagespeed.ic.Ovqwx3OIi4.jpg" width="105" alt="" border="0"/>
+</a>
+	
+		<p>
+					<a href="/kanadyjski-lisc-klonowy-1g-zlota.html" class="product-title" title="Kanadyjski Liść Klonowy 1g złota">Kanadyjski Liść Klonowy 1g złota</a>	
+		</p>
+		
+						
+					<span class="cm-reload-30151 price-update" id="price_update_30151">
+		<input type="hidden" name="appearance[show_price_values]" value="1"/>
+		<input type="hidden" name="appearance[show_price]" value="1"/>
+																	<span class="price" id="line_discounted_price_30151"><span id="sec_discounted_price_30151" class="price">298.59</span>&nbsp;<span class="price">PLN</span></span>
+							
+						<!--price_update_30151--></span>
+
+		
+					
+		
+		<div class="buttons-container">
+						<div class="cm-reload-30151" id="add_to_cart_update_30151">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1"/>
+<input type="hidden" name="appearance[separate_buttons]" value="1"/>
+<input type="hidden" name="appearance[show_list_buttons]" value="1"/>
+<input type="hidden" name="appearance[but_role]" value="action"/>
+			<div class="buttons-container" id="cart_add_block_30151">
+																									
+		
+ 
+	<span class="az_button">
+    <span id="wrap_button_cart_30151" class="az-template-submit">
+	<span class="az-button-left">
+	<span class="az-button-right">
+	<span class="az-button-middle">
+		<span class="az-button-text"><input id="button_cart_30151" type="submit" name="dispatch[checkout.add..30151]" value="Kup Teraz"/></span>
+	</span></span></span>
+	</span>
+    </span>
+
+																						</div>
+	
+			<div class="buttons-container" id="cart_buttons_block_30151">
+											</div>
+	
+		<!--add_to_cart_update_30151--></div>
+
+		</div>
+						</form>
+
+		</td>
+	<td class="product-spacer">&nbsp;</td>
+</tr>
+</table>
+
+	
+			
+	<div class="pagination cm-pagination-wraper center">
+		Strony:&nbsp;&nbsp;
+	
+		
+									<a name="pagination" href="/zloto-inwestycyjne.html" rel="1" class="cm-history " rev="pagination_contents">1</a>
+												<a name="pagination" href="/zloto-inwestycyjne-page-2.html" rel="2" class="cm-history " rev="pagination_contents">2</a>
+												<a name="pagination" href="/zloto-inwestycyjne-page-3.html" rel="3" class="cm-history " rev="pagination_contents">3</a>
+												<strong class="pagination-selected-page">4</strong>
+					
+			</div>
+	
+	<!--pagination_contents--></div>
+	
+
+
 
 </div>
 </div>
@@ -544,7 +703,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1631820178.8078
+			've[time_begin]': 1632340241.1158
 		},
 		hidden: true
 	});
@@ -553,7 +712,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-4.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1631820178.8078" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-4.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1632340241.1158" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
