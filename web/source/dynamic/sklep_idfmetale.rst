@@ -15,7 +15,7 @@
                 </tr>
             </thead>
             <tbody>
-                        {content}
+                        $content
             </tbody>
             <tfoot>
                 <tr>
