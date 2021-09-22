@@ -29,7 +29,7 @@ Sklepy
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://79element.pl" target="_blank">79element.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48783340871">+48 783 340 871</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:sklep@79element.pl">sklep@79element.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_79element.html">179 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_79element.html">181 produktów</a></li>
       </ul>
     </div>
 
@@ -59,7 +59,7 @@ Ascoin
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://ascoin.pl/" target="_blank">ascoin.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48607655377">+48 607 655 377</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:sklep@ascoin.pl">sklep@ascoin.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_ascoin.html">87 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_ascoin.html">88 produktów</a></li>
       </ul>
     </div>
 
@@ -89,7 +89,7 @@ Coininvest
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://www.coininvest.com/" target="_blank">coininvest.com</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48588812316">+48 58 881 23 16</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:sales@coininvest.com">sales@coininvest.com</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_coininvest.html">48 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_coininvest.html">47 produktów</a></li>
       </ul>
     </div>
 
@@ -120,7 +120,7 @@ Goldenmark
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://goldenmark.com" target="_blank">goldenmark.com</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48801000478">+48 801 000 478</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:info@goldenmark.com">info@goldenmark.com</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_goldenmark.html">348 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_goldenmark.html">351 produktów</a></li>
       </ul>
     </div>
 
@@ -178,7 +178,7 @@ Guldener
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://guldener.pl" target="_blank">guldener.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48585588559">+48 58 558 85 59</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:sklep@guldener.pl">sklep@guldener.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_guldener.html">55 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_guldener.html">58 produktów</a></li>
       </ul>
     </div>
 
@@ -237,7 +237,7 @@ Mennica 24
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://mennica24.pl" target="_blank">mennica24.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48880400030">+48 880 400 030</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:kontakt@mennica24.pl">kontakt@mennica24.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennica24.html">44 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennica24.html">45 produktów</a></li>
       </ul>
     </div>
 
@@ -267,7 +267,7 @@ Mennica Kapitałowa
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://mennicakapitalowa.pl" target="_blank">mennicakapitalowa.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48801550141">+48 801 550 141</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:biuro@mennicakapitalowa.pl">biuro@mennicakapitalowa.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicakapitalowa.html">225 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicakapitalowa.html">210 produktów</a></li>
       </ul>
     </div>
 
@@ -296,7 +296,7 @@ Mennica Krajowa
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://www.mennicakrajowa.pl" target="_blank">www.mennicakrajowa.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48516173067">+48 516 173 067</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:zakupy@mennicakrajowa.pl">zakupy@mennicakrajowa.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicakrajowa.html">54 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicakrajowa.html">44 produktów</a></li>
       </ul>
     </div>
 
@@ -326,7 +326,7 @@ Mennica Mazovia
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://mennicamazovia.pl" target="_blank">mennicamazovia.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48226022248">+48 22 602 22 48</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:info@mennicamazovia.pl">info@mennicamazovia.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicamazovia.html">153 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicamazovia.html">144 produktów</a></li>
       </ul>
     </div>
 
@@ -356,7 +356,7 @@ Mennica Skarbowa
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://www.mennicaskarbowa.pl" target="_blank">mennicaskarbowa.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48801501521">+48 801 501 521</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:sklep@mennicaskarbowa.pl">sklep@mennicaskarbowa.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicaskarbowa.html">62 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_mennicaskarbowa.html">70 produktów</a></li>
       </ul>
     </div>
 
@@ -386,7 +386,7 @@ Metale Lokacyjne
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://www.metalelokacyjne.pl" target="_blank">metalelokacyjne.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48226238561">+48 22 623 85 61</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:biuro@metalelokacyjne.pl">biuro@metalelokacyjne.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_metalelokacyjne.html">298 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_metalelokacyjne.html">297 produktów</a></li>
       </ul>
     </div>
 
@@ -415,7 +415,7 @@ Szlachetne Inwestycje
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://sklep.szlachetneinwestycje.pl" target="_blank">sklep.szlachetneinwestycje.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48604807266">+48 604 807 266</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:sklep@szlachetneinwestycje.pl">sklep@szlachetneinwestycje.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_szlachetneinwestycje.html">176 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_szlachetneinwestycje.html">185 produktów</a></li>
       </ul>
     </div>
 
@@ -444,7 +444,7 @@ Tavex
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://tavex.pl" target="_blank">tavex.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48221140020">+48 22 114 00 20</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:kontakt@tavex.pl">kontakt@tavex.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_tavex.html">10 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_tavex.html">60 produktów</a></li>
       </ul>
     </div>
 
@@ -475,7 +475,7 @@ Złota Uncja
         <li class="list-group-item"><span class="glyphicon glyphicon-globe"></span> <a href="https://zlota-uncja.pl" target="_blank">zlota-uncja.pl</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-earphone"></span> <a href="tel:+48577300171">+48 577 300 171</a></li>
         <li class="list-group-item"><span class="glyphicon glyphicon-envelope"></span> <a href="mailto:info@zlota-uncja.pl">info@zlota-uncja.pl</a></li>
-        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_zlotauncja.html">77 produktów</a></li>
+        <li class="list-group-item"><span class="glyphicon glyphicon-info-sign"></span> <a href="sklep_zlotauncja.html">78 produktów</a></li>
       </ul>
     </div>
 
