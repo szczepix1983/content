@@ -2,7 +2,6 @@
     :titlesonly:
 
     dynamic/sklepy
-    sklepy
 
 .. toctree::
     :titlesonly:
@@ -14,5 +13,6 @@
 
 .. toctree::
    :titlesonly:
+   :caption: Inne
 
    changelog
