@@ -16,3 +16,5 @@
    :caption: Inne
 
    changelog
+
+.. include:: readme.rst
