@@ -316,12 +316,12 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(1240.2400),
-					startMax: parseFloat(57980.4500),
-					rangeMin: parseFloat(1240.2400),
-					rangeMax: parseFloat(57980.4500),
-					currentFrom: parseFloat(1240.2400),
-					currentTo: parseFloat(57980.4500),
+					startMin: parseFloat(1221.6500),
+					startMax: parseFloat(57111.4800),
+					rangeMin: parseFloat(1221.6500),
+					rangeMax: parseFloat(57111.4800),
+					currentFrom: parseFloat(1221.6500),
+					currentTo: parseFloat(57111.4800),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -450,7 +450,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="57980.45">57 980,45 zł</span>
+<span class="price-value"  itemprop="price" content="57111.48">57 111,48 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -481,7 +481,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="23197.77">23 197,77 zł</span>
+<span class="price-value"  itemprop="price" content="22850.10">22 850,10 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -512,7 +512,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="24092.14">24 092,14 zł</span>
+<span class="price-value"  itemprop="price" content="23731.07">23 731,07 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -543,7 +543,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="12108.96">12 108,96 zł</span>
+<span class="price-value"  itemprop="price" content="11927.48">11 927,48 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -574,7 +574,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7266.77">7 266,77 zł</span>
+<span class="price-value"  itemprop="price" content="7157.86">7 157,86 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -605,7 +605,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7229.04">7 229,04 zł</span>
+<span class="price-value"  itemprop="price" content="7120.70">7 120,70 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -636,7 +636,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2375.68">2 375,68 zł</span>
+<span class="price-value"  itemprop="price" content="2340.07">2 340,07 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -667,7 +667,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="1240.24">1 240,24 zł</span>
+<span class="price-value"  itemprop="price" content="1221.65">1 221,65 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -698,7 +698,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="23323.54">23 323,54 zł</span>
+<span class="price-value"  itemprop="price" content="22973.99">22 973,99 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -725,7 +725,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7307.30">7 307,30 zł</span>
+<span class="price-value"  itemprop="price" content="7197.78">7 197,78 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -752,7 +752,7 @@ Sztabki złota</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7266.77">7 266,77 zł</span>
+<span class="price-value"  itemprop="price" content="7157.86">7 157,86 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -901,7 +901,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 987,28 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,71 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 949,26 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 882,56 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,90 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 913,65 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({

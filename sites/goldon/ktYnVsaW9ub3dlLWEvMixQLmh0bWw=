@@ -319,11 +319,11 @@ autoComplete = new Autocomplete('main_search', {
 
 				var price = {
 					startMin: parseFloat(75.0000),
-					startMax: parseFloat(56559.4600),
+					startMax: parseFloat(56048.7800),
 					rangeMin: parseFloat(75.0000),
-					rangeMax: parseFloat(56559.4600),
+					rangeMax: parseFloat(56048.7800),
 					currentFrom: parseFloat(75.0000),
-					currentTo: parseFloat(56559.4600),
+					currentTo: parseFloat(56048.7800),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -511,7 +511,7 @@ Srebrna moneta   Amerykański   Orzeł   1 oz    2021 ( nowy wizerunek)</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="137.08">137,08 zł</span>
+<span class="price-value"  itemprop="price" content="135.84">135,84 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -666,7 +666,7 @@ Srebrna moneta   Kangur  1 oz   2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="115.73">115,73 zł</span>
+<span class="price-value"  itemprop="price" content="114.68">114,68 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -943,7 +943,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 987,28 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,71 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 949,26 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 882,56 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,90 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 913,65 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({

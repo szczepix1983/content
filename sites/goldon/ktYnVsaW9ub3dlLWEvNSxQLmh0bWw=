@@ -319,11 +319,11 @@ autoComplete = new Autocomplete('main_search', {
 
 				var price = {
 					startMin: parseFloat(75.0000),
-					startMax: parseFloat(56559.4600),
+					startMax: parseFloat(56048.7800),
 					rangeMin: parseFloat(75.0000),
-					rangeMax: parseFloat(56559.4600),
+					rangeMax: parseFloat(56048.7800),
 					currentFrom: parseFloat(75.0000),
-					currentTo: parseFloat(56559.4600),
+					currentTo: parseFloat(56048.7800),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -396,7 +396,7 @@ autoComplete = new Autocomplete('main_search', {
 		</script>
 		</div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -450,37 +450,6 @@ Srebrna moneta  Robin Hood  1 oz   2019</a>
 <div class="price clear">
 <div class="price-regular">
 <span class="price-value"  itemprop="price" content="150.00">150,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1076"  data-cart-id="1076">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-slon-somalia-1-oz-2019-r.html" onclick="">
-<img src="/srebrna-moneta-slon-somalia-1-oz-2019-r.jpg" alt="Srebrna moneta  Słoń  Somalia  1 oz  2019  r." width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-slon-somalia-1-oz-2019-r.html" class="product-name-link" itemprop="url">
-Srebrna moneta  Słoń  Somalia  1 oz  2019  r.</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="160.00">160,00 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -740,37 +709,6 @@ Srebrna moneta Anguilla / Homar  (EC8) - 1 oz    2018  r.</a>
 </div>
 </footer>
 </article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1182"  data-cart-id="1182">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-australijski-orzel-wedge-tailed-eagle-1-oz-2019.html" onclick="">
-<img src="/srebrna-moneta-australijski-orzel-wedge-tailed-eagle-1-oz-2019.jpg" alt="Srebrna moneta Australijski  Orzeł  / Wedge-tailed Eagle  1 oz  2019" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-australijski-orzel-wedge-tailed-eagle-1-oz-2019.html" class="product-name-link" itemprop="url">
-Srebrna moneta Australijski  Orzeł  / Wedge-tailed Eagle  1 oz  2019</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="155.00">155,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
 <article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="990"  data-cart-id="990">
 <div class="image">
 <figure>
@@ -791,6 +729,68 @@ Srebrna moneta Australijski  Orzeł  /Wedge-tailed Eagle  1 oz  2018</a>
 <div class="price clear">
 <div class="price-regular">
 <span class="price-value"  itemprop="price" content="150.00">150,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1560"  data-cart-id="1560">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-australijski-wombat-1-oz-2021.html" onclick="">
+<img src="/srebrna-moneta-australijski-wombat-1-oz-2021.jpg" alt="Srebrna moneta Australijski Wombat  1 oz 2021" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-australijski-wombat-1-oz-2021.html" class="product-name-link" itemprop="url">
+Srebrna moneta Australijski Wombat  1 oz 2021</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="195.00">195,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1605"  data-cart-id="1605">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-bogowie-olimpu-hades-2021.html" onclick="">
+<img src="/srebrna-moneta-bogowie-olimpu-hades-2021.0.1628858611.jpg" alt="Srebrna moneta Bogowie Olimpu: Hades  2021" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-bogowie-olimpu-hades-2021.html" class="product-name-link" itemprop="url">
+Srebrna moneta Bogowie Olimpu: Hades  2021</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="255.00">255,00 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -943,7 +943,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 987,28 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,71 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 949,26 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 882,56 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,90 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 913,65 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({

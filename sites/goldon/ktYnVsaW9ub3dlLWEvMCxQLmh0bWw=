@@ -317,11 +317,11 @@ autoComplete = new Autocomplete('main_search', {
 
 				var price = {
 					startMin: parseFloat(75.0000),
-					startMax: parseFloat(56559.4600),
+					startMax: parseFloat(56048.7800),
 					rangeMin: parseFloat(75.0000),
-					rangeMax: parseFloat(56559.4600),
+					rangeMax: parseFloat(56048.7800),
 					currentFrom: parseFloat(75.0000),
-					currentTo: parseFloat(56559.4600),
+					currentTo: parseFloat(56048.7800),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -447,7 +447,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="55065.79">55 065,79 zł</span>
+<span class="price-value"  itemprop="price" content="54568.60">54 568,60 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -478,7 +478,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="56559.46">56 559,46 zł</span>
+<span class="price-value"  itemprop="price" content="56048.78">56 048,78 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -509,7 +509,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="54274.55">54 274,55 zł</span>
+<span class="price-value"  itemprop="price" content="53784.50">53 784,50 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -540,7 +540,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="28210.21">28 210,21 zł</span>
+<span class="price-value"  itemprop="price" content="27955.49">27 955,49 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -571,7 +571,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="11099.82">11 099,82 zł</span>
+<span class="price-value"  itemprop="price" content="10999.60">10 999,60 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -602,7 +602,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="11486.47">11 486,47 zł</span>
+<span class="price-value"  itemprop="price" content="11382.76">11 382,76 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -633,7 +633,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="10944.62">10 944,62 zł</span>
+<span class="price-value"  itemprop="price" content="10845.80">10 845,80 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -664,7 +664,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2815.10">2 815,10 zł</span>
+<span class="price-value"  itemprop="price" content="2789.68">2 789,68 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -695,7 +695,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2855.20">2 855,20 zł</span>
+<span class="price-value"  itemprop="price" content="2829.42">2 829,42 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -941,7 +941,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 987,28 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,71 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 949,26 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 882,56 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,90 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 913,65 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
