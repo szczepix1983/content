@@ -9,7 +9,7 @@
 
     products
     silver_products
-    gold_products
+    dynamic/gold_products
 
 .. toctree::
    :titlesonly:
