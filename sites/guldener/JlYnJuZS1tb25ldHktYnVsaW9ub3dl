@@ -17,9 +17,9 @@
 <link rel="preload" href="themes/child_classic/assets/css/noto-sans-v9-latin-ext_latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="themes/child_classic/assets/css/noto-sans-v9-latin-ext_latin-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="themes/child_classic/assets/css/570eb83859dc23dd0eec423a49e147fe.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="stylesheet" href="https://guldener.pl/themes/child_classic/assets/cache/theme-fafa29116415.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://guldener.pl/themes/child_classic/assets/cache/theme-fafa29116638.css" type="text/css" media="all">
 <script type="text/javascript">
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Wysy\u0142ka","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"Liczba produkt\u00f3w: 0","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":1},"page":{"title":"","canonical":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","meta":{"title":"Srebrne monety bulionowe","description":"Srebrne monety bulionowe to pomys\u0142 na inwestycj\u0119. U nas kupisz monety wydane w krajach ca\u0142ego \u015bwiata, o r\u00f3\u017cnej wadze i doskona\u0142ej jako\u015bci. Sprawd\u017a ofert\u0119!","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-10":true,"category-Srebrne monety":true,"category-id-parent-2":true,"category-depth-level-2":true},"admin_notifications":[]},"shop":{"name":"guldener.pl","logo":"\/img\/guldenerpl-logo-1592755651.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/guldener.pl\/","current_url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","shop_domain_url":"https:\/\/guldener.pl","img_ps_url":"https:\/\/guldener.pl\/img\/","img_cat_url":"https:\/\/guldener.pl\/img\/c\/","img_lang_url":"https:\/\/guldener.pl\/img\/l\/","img_prod_url":"https:\/\/guldener.pl\/img\/p\/","img_manu_url":"https:\/\/guldener.pl\/img\/m\/","img_sup_url":"https:\/\/guldener.pl\/img\/su\/","img_ship_url":"https:\/\/guldener.pl\/img\/s\/","img_store_url":"https:\/\/guldener.pl\/img\/st\/","img_col_url":"https:\/\/guldener.pl\/img\/co\/","img_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/img\/","css_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/css\/","js_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/js\/","pic_url":"https:\/\/guldener.pl\/upload\/","pages":{"address":"https:\/\/guldener.pl\/adres","addresses":"https:\/\/guldener.pl\/adresy","authentication":"https:\/\/guldener.pl\/logowanie","cart":"https:\/\/guldener.pl\/koszyk","category":"https:\/\/guldener.pl\/index.php?controller=category","cms":"https:\/\/guldener.pl\/index.php?controller=cms","contact":"https:\/\/guldener.pl\/kontakt","discount":"https:\/\/guldener.pl\/rabaty","guest_tracking":"https:\/\/guldener.pl\/sledzenie-zamowien-gosci","history":"https:\/\/guldener.pl\/historia-zamowien","identity":"https:\/\/guldener.pl\/dane-osobiste","index":"https:\/\/guldener.pl\/","my_account":"https:\/\/guldener.pl\/moje-konto","order_confirmation":"https:\/\/guldener.pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/guldener.pl\/index.php?controller=order-detail","order_follow":"https:\/\/guldener.pl\/sledzenie-zamowienia","order":"https:\/\/guldener.pl\/zam\u00f3wienie","order_return":"https:\/\/guldener.pl\/index.php?controller=order-return","order_slip":"https:\/\/guldener.pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/guldener.pl\/nie-znaleziono-strony","password":"https:\/\/guldener.pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/guldener.pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/guldener.pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/guldener.pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/guldener.pl\/promocje","product":"https:\/\/guldener.pl\/index.php?controller=product","search":"https:\/\/guldener.pl\/szukaj","sitemap":"https:\/\/guldener.pl\/Mapa strony","stores":"https:\/\/guldener.pl\/nasze-sklepy","supplier":"https:\/\/guldener.pl\/dostawcy","register":"https:\/\/guldener.pl\/logowanie?create_account=1","order_login":"https:\/\/guldener.pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"pl":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"},"theme_assets":"\/themes\/child_classic\/assets\/","actions":{"logout":"https:\/\/guldener.pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"medium_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"medium":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"large":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/guldener.pl\/"},{"title":"Srebrne monety","url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"}],"count":2},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1632340155,"static_token":"f38b28d2ecbe99c2bbc5c22d378bdc9c","token":"04e84b0386ae0e8e28295a68f83884c4"};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Wysy\u0142ka","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"Liczba produkt\u00f3w: 0","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":1},"page":{"title":"","canonical":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","meta":{"title":"Srebrne monety bulionowe","description":"Srebrne monety bulionowe to pomys\u0142 na inwestycj\u0119. U nas kupisz monety wydane w krajach ca\u0142ego \u015bwiata, o r\u00f3\u017cnej wadze i doskona\u0142ej jako\u015bci. Sprawd\u017a ofert\u0119!","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-10":true,"category-Srebrne monety":true,"category-id-parent-2":true,"category-depth-level-2":true},"admin_notifications":[]},"shop":{"name":"guldener.pl","logo":"\/img\/guldenerpl-logo-1592755651.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/guldener.pl\/","current_url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","shop_domain_url":"https:\/\/guldener.pl","img_ps_url":"https:\/\/guldener.pl\/img\/","img_cat_url":"https:\/\/guldener.pl\/img\/c\/","img_lang_url":"https:\/\/guldener.pl\/img\/l\/","img_prod_url":"https:\/\/guldener.pl\/img\/p\/","img_manu_url":"https:\/\/guldener.pl\/img\/m\/","img_sup_url":"https:\/\/guldener.pl\/img\/su\/","img_ship_url":"https:\/\/guldener.pl\/img\/s\/","img_store_url":"https:\/\/guldener.pl\/img\/st\/","img_col_url":"https:\/\/guldener.pl\/img\/co\/","img_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/img\/","css_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/css\/","js_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/js\/","pic_url":"https:\/\/guldener.pl\/upload\/","pages":{"address":"https:\/\/guldener.pl\/adres","addresses":"https:\/\/guldener.pl\/adresy","authentication":"https:\/\/guldener.pl\/logowanie","cart":"https:\/\/guldener.pl\/koszyk","category":"https:\/\/guldener.pl\/index.php?controller=category","cms":"https:\/\/guldener.pl\/index.php?controller=cms","contact":"https:\/\/guldener.pl\/kontakt","discount":"https:\/\/guldener.pl\/rabaty","guest_tracking":"https:\/\/guldener.pl\/sledzenie-zamowien-gosci","history":"https:\/\/guldener.pl\/historia-zamowien","identity":"https:\/\/guldener.pl\/dane-osobiste","index":"https:\/\/guldener.pl\/","my_account":"https:\/\/guldener.pl\/moje-konto","order_confirmation":"https:\/\/guldener.pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/guldener.pl\/index.php?controller=order-detail","order_follow":"https:\/\/guldener.pl\/sledzenie-zamowienia","order":"https:\/\/guldener.pl\/zam\u00f3wienie","order_return":"https:\/\/guldener.pl\/index.php?controller=order-return","order_slip":"https:\/\/guldener.pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/guldener.pl\/nie-znaleziono-strony","password":"https:\/\/guldener.pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/guldener.pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/guldener.pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/guldener.pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/guldener.pl\/promocje","product":"https:\/\/guldener.pl\/index.php?controller=product","search":"https:\/\/guldener.pl\/szukaj","sitemap":"https:\/\/guldener.pl\/Mapa strony","stores":"https:\/\/guldener.pl\/nasze-sklepy","supplier":"https:\/\/guldener.pl\/dostawcy","register":"https:\/\/guldener.pl\/logowanie?create_account=1","order_login":"https:\/\/guldener.pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"pl":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"},"theme_assets":"\/themes\/child_classic\/assets\/","actions":{"logout":"https:\/\/guldener.pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"medium_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"medium":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"large":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/guldener.pl\/"},{"title":"Srebrne monety","url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"}],"count":2},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1632407034,"static_token":"f38b28d2ecbe99c2bbc5c22d378bdc9c","token":"04e84b0386ae0e8e28295a68f83884c4"};
         var xprt_base_dir = "https:\/\/guldener.pl\/";
       </script>
 <script data-cfasync="false" title="Aktualna cena srebra i aktualna cena złota">  var limit = 767;   if(window.innerWidth>limit){  var html = '<div class="tradingview-widget-container hidden-sm-down" style="width: 100%; height: 46px;">' +  '<div class="tradingview-widget-container__widget"></div>' +  '<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>' +  '{' +  '"symbols": [' +  '{' +  '"description": "XAG/USD",' +  '"proName": "SAXO:XAGUSD"' +  '},{' +  '"description": "XAU/USD",' +  '"proName": "SAXO:XAUUSD"' +  '},' +  '{' +  '"description": "USD/PLN",' +  '"proName": "SAXO:USDPLN"' +  '},' +  '{' +  '"description": "EUR/PLN",' +  '"proName": "SAXO:EURPLN"' +  '}' +  '],' +  '"colorTheme": "light",' +  '"isTransparent": false,' +  '"displayMode": "adaptive",' +  '"locale": "pl"' +  '}' +  '<\/script>' +  '<\/div>';  document.write(html);  }  </script> <div style="background-color:#d40000;color:#ffffff;text-align:center;padding:1rem;font-weight:600">Uwaga! W dniach 20.09 - 24.09 w związku z przerwą wakacyjną zamówienia nie będą wysyłane.</div>
@@ -130,14 +130,14 @@
 <li class="category current " id="category-10">
 <a class="dropdown-item" href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe" data-depth="0">
 <span class="float-xs-right hidden-md-up">
-<span data-target="#top_sub_menu_4996" data-toggle="collapse" class="navbar-toggler collapse-icons">
+<span data-target="#top_sub_menu_45763" data-toggle="collapse" class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </span>
 Srebrne monety
 </a>
-<div class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_4996">
+<div class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_45763">
 <ul class="top-menu" data-depth="1">
 <li class="category" id="category-28">
 <a class="dropdown-item dropdown-submenu" href="https://guldener.pl/kategoria-28-pakiety-inwestycyjne" data-depth="1">
@@ -247,18 +247,18 @@ Tak
 <p class="text-uppercase h6 hidden-sm-down">Filtruj według</p>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Kategorie</p>
-<div class="title hidden-md-up" data-target="#facet_65234" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_5185" data-toggle="collapse">
 <p class="h6 facet-title">Kategorie</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_65234" class="collapse">
+<ul id="facet_5185" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_65234_0">
+<label class="facet-label" for="facet_input_5185_0">
 <span class="custom-checkbox">
-<input id="facet_input_65234_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-1+uncja+srebra" type="checkbox">
+<input id="facet_input_5185_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-1+uncja+srebra" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-1+uncja+srebra" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -268,9 +268,9 @@ Tak
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_65234_1">
+<label class="facet-label" for="facet_input_5185_1">
 <span class="custom-checkbox">
-<input id="facet_input_65234_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-2+uncje+srebra" type="checkbox">
+<input id="facet_input_5185_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-2+uncje+srebra" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-2+uncje+srebra" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -280,9 +280,9 @@ Tak
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_65234_2">
+<label class="facet-label" for="facet_input_5185_2">
 <span class="custom-checkbox">
-<input id="facet_input_65234_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pakiety+inwestycyjne" type="checkbox">
+<input id="facet_input_5185_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pakiety+inwestycyjne" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pakiety+inwestycyjne" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -292,9 +292,9 @@ Pakiety inwestycyjne
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_65234_3">
+<label class="facet-label" for="facet_input_5185_3">
 <span class="custom-checkbox">
-<input id="facet_input_65234_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pozosta%C5%82e" type="checkbox">
+<input id="facet_input_5185_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pozosta%C5%82e" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pozosta%C5%82e" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -304,9 +304,9 @@ Pozostałe
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_65234_4">
+<label class="facet-label" for="facet_input_5185_4">
 <span class="custom-checkbox">
-<input id="facet_input_65234_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Tuby+mennicze" type="checkbox">
+<input id="facet_input_5185_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Tuby+mennicze" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Tuby+mennicze" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -320,36 +320,36 @@ Tuby mennicze
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Cena</p>
 
-<div class="title hidden-md-up" data-target="#facet_18813" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_69334" data-toggle="collapse">
 <p class="h6 facet-title">Cena</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_18813" class="faceted-slider collapse" data-slider-min="45" data-slider-max="58448" data-slider-id="18813" data-slider-values="null" data-slider-unit="zł" data-slider-label="Cena" data-slider-specifications="{&quot;symbol&quot;:[&quot;,&quot;,&quot;\u00a0&quot;,&quot;;&quot;,&quot;%&quot;,&quot;-&quot;,&quot;+&quot;,&quot;E&quot;,&quot;\u00d7&quot;,&quot;\u2030&quot;,&quot;\u221e&quot;,&quot;NaN&quot;],&quot;currencyCode&quot;:&quot;PLN&quot;,&quot;currencySymbol&quot;:&quot;z\u0142&quot;,&quot;positivePattern&quot;:&quot;#,##0.00\u00a0\u00a4&quot;,&quot;negativePattern&quot;:&quot;-#,##0.00\u00a0\u00a4&quot;,&quot;maxFractionDigits&quot;:2,&quot;minFractionDigits&quot;:2,&quot;groupingUsed&quot;:true,&quot;primaryGroupSize&quot;:3,&quot;secondaryGroupSize&quot;:3}" data-slider-encoded-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe">
+<ul id="facet_69334" class="faceted-slider collapse" data-slider-min="45" data-slider-max="58448" data-slider-id="69334" data-slider-values="null" data-slider-unit="zł" data-slider-label="Cena" data-slider-specifications="{&quot;symbol&quot;:[&quot;,&quot;,&quot;\u00a0&quot;,&quot;;&quot;,&quot;%&quot;,&quot;-&quot;,&quot;+&quot;,&quot;E&quot;,&quot;\u00d7&quot;,&quot;\u2030&quot;,&quot;\u221e&quot;,&quot;NaN&quot;],&quot;currencyCode&quot;:&quot;PLN&quot;,&quot;currencySymbol&quot;:&quot;z\u0142&quot;,&quot;positivePattern&quot;:&quot;#,##0.00\u00a0\u00a4&quot;,&quot;negativePattern&quot;:&quot;-#,##0.00\u00a0\u00a4&quot;,&quot;maxFractionDigits&quot;:2,&quot;minFractionDigits&quot;:2,&quot;groupingUsed&quot;:true,&quot;primaryGroupSize&quot;:3,&quot;secondaryGroupSize&quot;:3}" data-slider-encoded-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe">
 <li>
-<p id="facet_label_18813">
+<p id="facet_label_69334">
 45,00 zł - 58 448,00 zł
 </p>
-<div id="slider-range_18813"></div>
+<div id="slider-range_69334"></div>
 </li>
 </ul>
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Rok</p>
-<div class="title hidden-md-up" data-target="#facet_30159" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_79502" data-toggle="collapse">
 <p class="h6 facet-title">Rok</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_30159" class="collapse">
+<ul id="facet_79502" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_30159_0">
+<label class="facet-label" for="facet_input_79502_0">
 <span class="custom-checkbox">
-<input id="facet_input_30159_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2020" type="checkbox">
+<input id="facet_input_79502_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2020" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2020" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -359,9 +359,9 @@ Tuby mennicze
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_30159_1">
+<label class="facet-label" for="facet_input_79502_1">
 <span class="custom-checkbox">
-<input id="facet_input_30159_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2021" type="checkbox">
+<input id="facet_input_79502_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2021" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
  </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2021" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -374,18 +374,18 @@ Tuby mennicze
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Producent</p>
-<div class="title hidden-md-up" data-target="#facet_3069" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_74518" data-toggle="collapse">
 <p class="h6 facet-title">Producent</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_3069" class="collapse">
+<ul id="facet_74518" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_3069_0">
+<label class="facet-label" for="facet_input_74518_0">
 <span class="custom-checkbox">
-<input id="facet_input_3069_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Argor+Heraeus" type="checkbox">
+<input id="facet_input_74518_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Argor+Heraeus" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Argor+Heraeus" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -395,9 +395,9 @@ Argor Heraeus
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_1">
+<label class="facet-label" for="facet_input_74518_1">
 <span class="custom-checkbox">
-<input id="facet_input_3069_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Austrian+Mint" type="checkbox">
+<input id="facet_input_74518_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Austrian+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Austrian+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -407,9 +407,9 @@ Austrian Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_2">
+<label class="facet-label" for="facet_input_74518_2">
 <span class="custom-checkbox">
-<input id="facet_input_3069_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-China+Gold+Coin+Inc" type="checkbox">
+<input id="facet_input_74518_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-China+Gold+Coin+Inc" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-China+Gold+Coin+Inc" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -419,9 +419,9 @@ China Gold Coin Inc
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_3">
+<label class="facet-label" for="facet_input_74518_3">
 <span class="custom-checkbox">
-<input id="facet_input_3069_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Geiger+Edelmetalle+Mint" type="checkbox">
+<input id="facet_input_74518_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Geiger+Edelmetalle+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Geiger+Edelmetalle+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -431,9 +431,9 @@ Geiger Edelmetalle Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_4">
+<label class="facet-label" for="facet_input_74518_4">
 <span class="custom-checkbox">
-<input id="facet_input_3069_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Germania+Mint" type="checkbox">
+<input id="facet_input_74518_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Germania+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Germania+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -443,9 +443,9 @@ Germania Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_5">
+<label class="facet-label" for="facet_input_74518_5">
 <span class="custom-checkbox">
-<input id="facet_input_3069_5" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Mexican+Mint" type="checkbox">
+<input id="facet_input_74518_5" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Mexican+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 
@@ -456,9 +456,9 @@ Mexican Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_6">
+<label class="facet-label" for="facet_input_74518_6">
 <span class="custom-checkbox">
-<input id="facet_input_3069_6" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-New+Zealand+Mint" type="checkbox">
+<input id="facet_input_74518_6" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-New+Zealand+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-New+Zealand+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -468,9 +468,9 @@ New Zealand Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_7">
+<label class="facet-label" for="facet_input_74518_7">
 <span class="custom-checkbox">
-<input id="facet_input_3069_7" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Perth+Mint" type="checkbox">
+<input id="facet_input_74518_7" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Perth+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Perth+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -480,9 +480,9 @@ Perth Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_8">
+<label class="facet-label" for="facet_input_74518_8">
 <span class="custom-checkbox">
-<input id="facet_input_3069_8" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Canadian+Mint" type="checkbox">
+<input id="facet_input_74518_8" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Canadian+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Canadian+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -492,9 +492,9 @@ Royal Canadian Mint
  </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_9">
+<label class="facet-label" for="facet_input_74518_9">
 <span class="custom-checkbox">
-<input id="facet_input_3069_9" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Mint" type="checkbox">
+<input id="facet_input_74518_9" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -504,9 +504,9 @@ Royal Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_10">
+<label class="facet-label" for="facet_input_74518_10">
 <span class="custom-checkbox">
-<input id="facet_input_3069_10" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-South+African+Mint" type="checkbox">
+<input id="facet_input_74518_10" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-South+African+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-South+African+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -516,9 +516,9 @@ South African Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_11">
+<label class="facet-label" for="facet_input_74518_11">
 <span class="custom-checkbox">
-<input id="facet_input_3069_11" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Sunshine+Mint" type="checkbox">
+<input id="facet_input_74518_11" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Sunshine+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Sunshine+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -528,9 +528,9 @@ Sunshine Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_12">
+<label class="facet-label" for="facet_input_74518_12">
 <span class="custom-checkbox">
-<input id="facet_input_3069_12" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-The+Bavarian+State+Mint" type="checkbox">
+<input id="facet_input_74518_12" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-The+Bavarian+State+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-The+Bavarian+State+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -540,9 +540,9 @@ The Bavarian State Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_3069_13">
+<label class="facet-label" for="facet_input_74518_13">
 <span class="custom-checkbox">
-<input id="facet_input_3069_13" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-U.S.+Mint" type="checkbox">
+<input id="facet_input_74518_13" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-U.S.+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-U.S.+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -555,30 +555,30 @@ U.S. Mint
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Dostępność</p>
-<div class="title hidden-md-up" data-target="#facet_52138" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_65809" data-toggle="collapse">
 <p class="h6 facet-title">Dostępność</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_52138" class="collapse">
+<ul id="facet_65809" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_52138_0">
+<label class="facet-label" for="facet_input_65809_0">
 <span class="custom-checkbox">
-<input id="facet_input_52138_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-Niedost%C4%99pne" type="checkbox">
+<input id="facet_input_65809_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-Niedost%C4%99pne" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-Niedost%C4%99pne" class="_gray-darker search-link js-search-link" rel="nofollow">
 Niedostępne
-<span class="magnitude">(6)</span>
+<span class="magnitude">(7)</span>
 </a>
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_52138_1">
-<span class="custom-checkbox">
-<input id="facet_input_52138_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-W+magazynie" type="checkbox">
+<label class="facet-label" for="facet_input_65809_1">
+ <span class="custom-checkbox">
+<input id="facet_input_65809_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-W+magazynie" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-W+magazynie" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -591,18 +591,18 @@ W magazynie
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Próba</p>
-<div class="title hidden-md-up" data-target="#facet_98468" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_22982" data-toggle="collapse">
 <p class="h6 facet-title">Próba</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_98468" class="collapse">
+<ul id="facet_22982" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_98468_0">
+<label class="facet-label" for="facet_input_22982_0">
 <span class="custom-checkbox">
-<input id="facet_input_98468_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999" type="checkbox">
+<input id="facet_input_22982_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -612,9 +612,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_98468_1">
+<label class="facet-label" for="facet_input_22982_1">
 <span class="custom-checkbox">
-<input id="facet_input_98468_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999.9" type="checkbox">
+<input id="facet_input_22982_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999.9" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999.9" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -627,18 +627,18 @@ W magazynie
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Zawartość metalu</p>
-<div class="title hidden-md-up" data-target="#facet_36840" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_82904" data-toggle="collapse">
 <p class="h6 facet-title">Zawartość metalu</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_36840" class="collapse">
+<ul id="facet_82904" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_36840_0">
+<label class="facet-label" for="facet_input_82904_0">
 <span class="custom-checkbox">
-<input id="facet_input_36840_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1+oz" type="checkbox">
+<input id="facet_input_82904_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1+oz" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1+oz" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -648,9 +648,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_36840_1">
+<label class="facet-label" for="facet_input_82904_1">
 <span class="custom-checkbox">
-<input id="facet_input_36840_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1kg" type="checkbox">
+<input id="facet_input_82904_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1kg" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1kg" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -660,9 +660,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_36840_2">
+<label class="facet-label" for="facet_input_82904_2">
 <span class="custom-checkbox">
-<input id="facet_input_36840_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-2+oz" type="checkbox">
+<input id="facet_input_82904_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-2+oz" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-2+oz" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -672,9 +672,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_36840_3">
+<label class="facet-label" for="facet_input_82904_3">
 <span class="custom-checkbox">
-<input id="facet_input_36840_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-30g" type="checkbox">
+<input id="facet_input_82904_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-30g" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-30g" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -689,7 +689,6 @@ W magazynie
 </div>
 </div>
 <div id="content-wrapper" class="left-column col-xs-12 col-sm-8 col-md-9">
-
 <section id="main">
 <div id="js-product-list-header">
 <div class="block-category card card-block">
@@ -770,8 +769,8 @@ Pokazano 1-58 z 58 pozycji
 <div class="product-description">
 <h2 class="h3 product-title"><a href="https://guldener.pl/219-libertad-2021-01-uncji-srebrna-moneta-bulionowa" class="thumbnail product-thumbnail">Libertad 2021 - 0,1 uncji - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
- <span class="sr-only">Cena</span>
-<span class="price">45,26 zł</span>
+<span class="sr-only">Cena</span>
+<span class="price">44,86 zł</span>
 </div>
 </div>
 
@@ -793,7 +792,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/218-libertad-2021-025-uncji-srebrna-moneta-bulionowa" class="thumbnail product-thumbnail">Libertad 2021 - 0,25 uncji - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">63,37 zł</span>
+<span class="price">62,81 zł</span>
 </div>
 </div>
 
@@ -815,7 +814,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/217-libertad-2021-05-uncji-srebrna-moneta-bulionowa" class="thumbnail product-thumbnail">Libertad 2021 - 0,5 uncji - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">86,00 zł</span>
+<span class="price">85,24 zł</span>
 </div>
 </div>
 
@@ -824,6 +823,7 @@ Wysyłka w 24h
 <i class="material-icons rtl-no-flip" style="margin-top: -6px;">&#xE5CA;</i>
 Wysyłka w 24h
 </li>
+
 <li class="product-flag new">Nowy</li>
 </ul>
 </div>
@@ -837,7 +837,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/215-libertad-2021-5-uncji-srebrna-moneta-bulionowa" class="thumbnail product-thumbnail">Libertad 2021 - 5 uncji - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">821,08 zł</span>
+<span class="price">813,79 zł</span>
 </div>
 </div>
 
@@ -858,7 +858,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/213-275-ghana-2021-5-alien-obcy-1-uncja-srebra#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Ghana 2021 5$ Alien Obcy - 1 uncja srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">134,88 zł</span>
+<span class="price">133,69 zł</span>
 </div>
 </div>
 
@@ -879,7 +879,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/210-libertad-2021-tuba-25-uncji-srebra" class="thumbnail product-thumbnail">Libertad 2021 - tuba 25 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">3 403,80 zł</span>
+<span class="price">3 373,59 zł</span>
 </div>
 </div>
 
@@ -901,7 +901,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/208-263-libertad-2021-2-uncje-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Libertad 2021 - 2 uncje - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">380,21 zł</span>
+<span class="price">376,84 zł</span>
 </div>
 </div>
 
@@ -923,7 +923,7 @@ Wysyłka w 24h
 
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">136,70 zł</span>
+<span class="price">135,48 zł</span>
 </div>
 </div>
 
@@ -944,7 +944,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/205-256-australia-coat-of-arms-2021-1-uncja-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Australia - Coat of Arms 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">134,88 zł</span>
+<span class="price">133,69 zł</span>
 </div>
 </div>
 
@@ -965,13 +965,12 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/203-252-libertad-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Libertad 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">135,79 zł</span>
+<span class="price">134,58 zł</span>
 </div>
 </div>
 
 <ul class="product-flags">
-
-<li class="product-flag discount">
+ <li class="product-flag discount">
 <i class="material-icons rtl-no-flip" style="margin-top: -6px;">&#xE5CA;</i>
 Wysyłka w 24h
 </li>
@@ -987,7 +986,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/202-247-lisc-kasztanowca-2021-germania-1-uncja-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Liść Kasztanowca 2021 Germania - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">164,76 zł</span>
+<span class="price">163,30 zł</span>
 </div>
 </div>
 
@@ -1013,10 +1012,6 @@ Wysyłka w 24h
 </div>
 
 <ul class="product-flags">
-<li class="product-flag discount">
-<i class="material-icons rtl-no-flip" style="margin-top: -6px;">&#xE5CA;</i>
-Wysyłka w 24h
-</li>
 </ul>
 </div>
 </article>
@@ -1062,12 +1057,12 @@ Wysyłka w 24h
 <div class="thumbnail-container">
 <a href="https://guldener.pl/194-233-robin-hood-2021-1-uncja-srebra#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">
 <img loading="lazy" src="https://guldener.pl/707-home_default/robin-hood-2021-1-uncja-srebra.jpg" alt="Robin Hood 2021 - 1 uncja srebra" data-full-size-image-url="https://guldener.pl/707-large_default/robin-hood-2021-1-uncja-srebra.jpg" />
- </a>
+</a>
 <div class="product-description">
 <h2 class="h3 product-title"><a href="https://guldener.pl/194-233-robin-hood-2021-1-uncja-srebra#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Robin Hood 2021 - 1 uncja srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">119,49 zł</span>
+<span class="price">118,43 zł</span>
 </div>
 </div>
 
@@ -1088,7 +1083,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/192-100-uncji-srebra-krugerrand-2021-4-tuby" class="thumbnail product-thumbnail">100 uncji srebra Krugerrand 2021 - 4 tuby</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">11 361,07 zł</span>
+<span class="price">11 260,26 zł</span>
 </div>
 </div>
 
@@ -1110,7 +1105,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/178-krugerrand-2021-pakiet-500-uncji-srebra" class="thumbnail product-thumbnail">Krugerrand 2021 - pakiet 500 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">56 035,90 zł</span>
+<span class="price">55 538,66 zł</span>
 </div>
 </div>
 
@@ -1131,7 +1126,7 @@ Najtaniej
 <h2 class="h3 product-title"><a href="https://guldener.pl/175-222-amerykanski-orzel-1-uncja-rocznik-2007#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Amerykański Orzeł - 1 uncja - rocznik 2007</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">143,94 zł</span>
+<span class="price">142,66 zł</span>
 </div>
 </div>
 
@@ -1152,7 +1147,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/172-209-australian-nugget-2021-1-uncja-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Australian Nugget 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">146,65 zł</span>
+<span class="price">145,35 zł</span>
 </div>
 </div>
 
@@ -1194,7 +1189,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/162-australijski-kangur-2021-tuba-25-uncji-srebra" class="thumbnail product-thumbnail">Australijski Kangur 2021 - tuba 25 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">2 842,53 zł</span>
+<span class="price">2 817,31 zł</span>
 </div>
 </div>
 
@@ -1216,7 +1211,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/161-202-australijski-kangur-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Australijski Kangur 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">114,06 zł</span>
+<span class="price">113,05 zł</span>
 </div>
 </div>
 
@@ -1237,7 +1232,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/160-197-atenska-sowa-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Ateńska Sowa 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">117,68 zł</span>
+<span class="price">116,64 zł</span>
 </div>
 </div>
 
@@ -1258,10 +1253,10 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/158-192-chinska-panda-2021-30-gram-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Chińska Panda 2021 - 30 gram - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">127,64 zł</span>
+<span class="price">126,51 zł</span>
 </div>
 </div>
-
+ 
 <ul class="product-flags">
 <li class="product-flag discount">
 <i class="material-icons rtl-no-flip" style="margin-top: -6px;">&#xE5CA;</i>
@@ -1279,7 +1274,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/157-britannia-2021-masterbox-500-uncji-srebra" class="thumbnail product-thumbnail">Britannia 2021 - masterbox 500 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">55 130,63 zł</span>
+<span class="price">54 641,42 zł</span>
 </div>
 </div>
 
@@ -1300,7 +1295,7 @@ Najtaniej
 <h2 class="h3 product-title"><a href="https://guldener.pl/155-arka-noego-2021-tuba-20-uncji-srebra" class="thumbnail product-thumbnail">Arka Noego 2021 - tuba 20 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">2 308,43 zł</span>
+<span class="price">2 287,94 zł</span>
 </div>
 </div>
 
@@ -1322,7 +1317,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/154-189-arka-noego-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Arka Noego 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">115,87 zł</span>
+<span class="price">114,85 zł</span>
 </div>
 </div>
 
@@ -1343,7 +1338,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/144-britannia-2021-tuba-25-uncji-srebra" class="thumbnail product-thumbnail">Britannia 2021 - tuba 25 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">2 797,27 zł</span>
+<span class="price">2 772,45 zł</span>
 </div>
 </div>
 
@@ -1365,7 +1360,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/143-169-britannia-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Britannia 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">113,16 zł</span>
+<span class="price">112,15 zł</span>
 </div>
 </div>
 
@@ -1386,7 +1381,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/138-bounty-1kg-sztabka-srebra" class="thumbnail product-thumbnail">Bounty - 1kg - sztabka srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">3 756,85 zł</span>
+<span class="price">3 723,51 zł</span>
 </div>
 </div>
 
@@ -1407,7 +1402,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/136-157-bounty-2020-2-uncje-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Bounty 2020 - 2 uncje - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">271,58 zł</span>
+<span class="price">269,17 zł</span>
 </div>
 </div>
 
@@ -1428,7 +1423,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/135-170-lunar-iii-rok-bawola-2021-2-uncje-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Lunar III: Rok Bawoła 2021 - 2 uncje - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">316,84 zł</span>
+<span class="price">314,03 zł</span>
 </div>
 </div>
 
@@ -1449,7 +1444,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/133-198-bestie-krolowej-bialy-chart-z-richmond-2021-2-uncje-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Bestie Królowej: Biały Chart z Richmond 2021 - 2 uncje - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">253,47 zł</span>
+<span class="price">251,22 zł</span>
 </div>
 </div>
 
@@ -1470,7 +1465,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/128-79-lunar-iii-rok-bawola-2021-1-uncja-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Lunar III: Rok Bawoła 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">144,84 zł</span>
+<span class="price">143,56 zł</span>
 </div>
 </div>
 
@@ -1491,7 +1486,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/109-71-disney-krol-lew-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Disney: Król Lew 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">147,56 zł</span>
+<span class="price">146,25 zł</span>
 </div>
 </div>
 
@@ -1512,7 +1507,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/108-112-somalijski-slon-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Somalijski Słoń 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">121,31 zł</span>
+<span class="price">120,23 zł</span>
 </div>
 </div>
 
@@ -1533,7 +1528,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/104-wiedenscy-filharmonicy-2021-tuba-20-uncji-srebra" class="thumbnail product-thumbnail">Wiedeńscy Filharmonicy 2021 - tuba 20 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">2 344,64 zł</span>
+<span class="price">2 323,83 zł</span>
 </div>
 </div>
 
@@ -1552,10 +1547,10 @@ Wysyłka w 24h
 <img loading="lazy" src="https://guldener.pl/260-home_default/bounty-2020-1-uncja-srebrna-moneta-bulionowa.jpg" alt="Bounty 2020 - 1 uncja - srebrna moneta bulionowa" data-full-size-image-url="https://guldener.pl/260-large_default/bounty-2020-1-uncja-srebrna-moneta-bulionowa.jpg" />
 </a>
 <div class="product-description">
- <h2 class="h3 product-title"><a href="https://guldener.pl/97-108-bounty-2020-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Bounty 2020 - 1 uncja - srebrna moneta bulionowa</a></h2>
+<h2 class="h3 product-title"><a href="https://guldener.pl/97-108-bounty-2020-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Bounty 2020 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">128,55 zł</span>
+<span class="price">127,41 zł</span>
 </div>
 </div>
 
@@ -1576,7 +1571,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/94-krugerrand-2021-tuba-25-uncji-srebra" class="thumbnail product-thumbnail">Krugerrand 2021 - tuba 25 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">2 878,74 zł</span>
+<span class="price">2 853,20 zł</span>
 </div>
 </div>
 
@@ -1598,7 +1593,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/91-kanadyjski-lisc-klonu-2021-tuba-25-uncji-srebra" class="thumbnail product-thumbnail">Kanadyjski Liść Klonu 2021 - tuba 25 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">2 987,37 zł</span>
+<span class="price">2 960,87 zł</span>
 </div>
 </div>
 
@@ -1620,7 +1615,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/89-masterbox-australijski-kangur-2021-250-uncji-srebra" class="thumbnail product-thumbnail">Masterbox Australijski Kangur 2021 - 250 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">27 972,69 zł</span>
+<span class="price">27 724,47 zł</span>
 </div>
 </div>
 
@@ -1641,7 +1636,7 @@ Najtaniej
 <h2 class="h3 product-title"><a href="https://guldener.pl/25-62-wiedenscy-filharmonicy-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Wiedeńscy Filharmonicy 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">117,23 zł</span>
+<span class="price">116,19 zł</span>
 </div>
 </div>
 
@@ -1662,7 +1657,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/23-92-krugerrand-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Krugerrand 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">115,87 zł</span>
+<span class="price">114,85 zł</span>
 </div>
 </div>
 
@@ -1683,7 +1678,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/22-64-kanadyjski-lisc-klonu-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Kanadyjski Liść Klonu 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">117,68 zł</span>
+<span class="price">116,64 zł</span>
 </div>
 </div>
 
@@ -1722,7 +1717,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/209-267-bestie-krolowej-completer-coin-2021-2-uncje-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Bestie Królowej: Completer Coin 2021 - 2 uncje - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">252,57 zł</span>
+<span class="price">250,33 zł</span>
 </div>
 </div>
 
@@ -1739,7 +1734,8 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/184-pakiet-inwestora-australijski-kangur-2021-4-tuby-100-uncji-srebra-najtaniej" class="thumbnail product-thumbnail">Pakiet inwestora - Australijski Kangur 2021 - 4 tuby - 100 uncji srebra - najtaniej</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">11 225,29 zł</span>
+<span class="price">11 125,68 zł</span>
+
 </div>
 </div>
 
@@ -1756,7 +1752,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/183-wiedenscy-filharmonicy-2021-tuba-100-uncji-srebra-najtaniej" class="thumbnail product-thumbnail">Wiedeńscy Filharmonicy 2021 - tuba 100 uncji srebra - najtaniej</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">11 496,86 zł</span>
+<span class="price">11 394,85 zł</span>
 </div>
 </div>
 
@@ -1773,7 +1769,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/182-100-uncji-srebra-britannia-2021-4-tuby-najtaniej" class="thumbnail product-thumbnail">100 uncji srebra Britannia 2021 - 4 tuby - najtaniej</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">11 116,65 zł</span>
+<span class="price">11 018,01 zł</span>
 </div>
 </div>
 
@@ -1790,7 +1786,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/173-214-kanada-2021-creatures-of-the-north-series-the-werewolf#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Kanada 2021 - Creatures Of The North Series - The Werewolf</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">262,53 zł</span>
+<span class="price">260,20 zł</span>
 </div>
 </div>
 
@@ -1807,7 +1803,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/171-kanadyjski-lisc-klonu-2021-500-uncji-srebra-masterbox" class="thumbnail product-thumbnail">Kanadyjski Liść Klonu 2021 - 500 uncji srebra masterbox</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">57 846,43 zł</span>
+<span class="price">57 333,12 zł</span>
 </div>
 </div>
 
@@ -1824,7 +1820,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/170-wiedenscy-filharmonicy-2021-pakiet-500-uncji-srebra" class="thumbnail product-thumbnail">Wiedeńscy Filharmonicy 2021 - pakiet 500 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">56 760,11 zł</span>
+<span class="price">56 256,44 zł</span>
 </div>
 </div>
 
@@ -1841,7 +1837,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/88-174-bestie-krolowej-bialy-kon-2020-2-uncje-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Bestie Królowej: Biały Koń 2020 - 2 uncje - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">262,53 zł</span>
+<span class="price">260,20 zł</span>
 </div>
 </div>
 
@@ -1858,7 +1854,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/204-254-prehistoric-life-plesiosaurus-2020-1-uncja-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Prehistoric Life: Plesiosaurus 2020 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">136,70 zł</span>
+<span class="price">135,48 zł</span>
 </div>
 </div>
 
@@ -1871,11 +1867,12 @@ Wysyłka w 24h
 <a href="https://guldener.pl/199-246-bounty-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">
 <img loading="lazy" src="https://guldener.pl/737-home_default/bounty-2021-1-uncja-srebrna-moneta-bulionowa.jpg" alt="Bounty 2021 - 1 uncja - srebrna moneta bulionowa" data-full-size-image-url="https://guldener.pl/737-large_default/bounty-2021-1-uncja-srebrna-moneta-bulionowa.jpg" />
 </a>
+
 <div class="product-description">
 <h2 class="h3 product-title"><a href="https://guldener.pl/199-246-bounty-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Bounty 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">126,74 zł</span>
+<span class="price">125,61 zł</span>
 </div>
 </div>
 
@@ -1892,7 +1889,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/148-181-australijska-kookaburra-2021-1-uncja-srebrna-moneta-bulionowa#/29-opakowanie-kapsel" class="thumbnail product-thumbnail">Australijska Kookaburra 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">139,41 zł</span>
+<span class="price">138,17 zł</span>
 </div>
 </div>
 
@@ -1909,13 +1906,13 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/107-amerykanski-orzel-2021-tuba-20-uncji-srebra" class="thumbnail product-thumbnail">Amerykański Orzeł 2021 - tuba 20 uncji srebra</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">2 724,85 zł</span>
+<span class="price">2 700,67 zł</span>
 </div>
 </div>
 
 <ul class="product-flags">
 <li class="product-flag pack">Pakiet</li>
-</ul>
+ </ul>
 </div>
 </article>
 <article class="product-miniature js-product-miniature" data-id-product="27" data-id-product-attribute="66">
@@ -1927,7 +1924,7 @@ Wysyłka w 24h
 <h2 class="h3 product-title"><a href="https://guldener.pl/27-66-amerykanski-orzel-2021-1-uncja-srebrna-moneta-bulionowa#/28-opakowanie-standardowe" class="thumbnail product-thumbnail">Amerykański Orzeł 2021 - 1 uncja - srebrna moneta bulionowa</a></h2>
 <div class="product-price-and-shipping">
 <span class="sr-only">Cena</span>
-<span class="price">140,32 zł</span>
+<span class="price">139,07 zł</span>
 </div>
 </div>
 
@@ -2004,7 +2001,7 @@ Powrót do góry
 </div>
 <div class="col-md-6 wrapper">
 <p class="h3 hidden-sm-down">Nasza firma</p>
-<div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_93000" data-toggle="collapse">
+<div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_56060" data-toggle="collapse">
 <span class="h3">Nasza firma</span>
 <span class="float-xs-right">
 <span class="navbar-toggler collapse-icons">
@@ -2013,7 +2010,7 @@ Powrót do góry
 </span>
 </span>
 </div>
-<ul id="footer_sub_menu_93000" class="collapse">
+<ul id="footer_sub_menu_56060" class="collapse">
 <li>
 <a id="link-cms-page-1-2" class="cms-page-link" href="https://guldener.pl/content/1-warunki-dostawy" title="Paczki wysyłamy w ciągu 24h od otrzymania płatności. Termin wysyłki może się wydłużyć dla zamówień produktów aktualnie niedostępnych.">
 Warunki dostawy
@@ -2059,7 +2056,7 @@ Twoje konto
 Twoje dane
 </a>
 </li>
- <li>
+<li>
 <a href="https://guldener.pl/historia-zamowien" title="Zamówienia" rel="nofollow">
 Zamówienia
 </a>
@@ -2129,7 +2126,7 @@ s0.parentNode.insertBefore(s1,s0);
 </div>
 </footer>
 </main>
-<script type="text/javascript" src="https://guldener.pl/themes/child_classic/assets/cache/bottom-5d94f8116414.js"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"692e0e33cce4416c","version":"2021.8.1","r":1,"token":"fdc1d2b6e953463eb899e9740254d792","si":10}'></script>
+<script type="text/javascript" src="https://guldener.pl/themes/child_classic/assets/cache/bottom-5d94f8116637.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"69346efcecb14c7a","version":"2021.8.1","r":1,"token":"fdc1d2b6e953463eb899e9740254d792","si":10}'></script>
 </body>
 </html>
