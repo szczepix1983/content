@@ -466,8 +466,8 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 					<div id="logo">
 											<div class='logo_img transparent_logo_flip'>
 								<a href="https://79element.pl/" title="79element" rel="home">
-									<img src="https://dev.79element.pl/wp-content/uploads/2021/06/logo-low-res.png" alt="79element"/>
-																			<span id="transparent_logo"><img src="https://dev.79element.pl/wp-content/uploads/2021/06/logo-low-res.png" alt="79element"/></span>
+									<img src="https://79element.pl/wp-content/uploads/2021/06/logo-low-res.png" alt="79element"/>
+																			<span id="transparent_logo"><img src="https://79element.pl/wp-content/uploads/2021/06/logo-low-res.png" alt="79element"/></span>
 																	</a>
 							</div>
 								
@@ -882,7 +882,7 @@ Sztabki podzieliliśmy na różne rozmiary, aby każdy Klient mógł zakupić il
         <ul class="products columns-4">
 <li class="product type-product post-25493 status-publish first instock product_cat-srebro-inwestycyjne product_cat-sztabki-srebra product_cat-wszystkie-produkty has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://79element.pl/product/sztabki-srebra/198-sztabka-srebra-1kg-o-c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://79element.pl/wp-content/uploads/2019/04/198-300x300.png.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Sztabka srebra 1kg" loading="lazy" srcset="https://79element.pl/wp-content/uploads/2019/04/198-300x300.png.jpg 300w, https://79element.pl/wp-content/uploads/2019/04/198-150x150.png.jpg 150w, https://79element.pl/wp-content/uploads/2019/04/198.png.jpg 600w, https://79element.pl/wp-content/uploads/2019/04/198-100x100.png.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Sztabka srebra 1kg</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>3 686&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>3 648&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a><a href="?add-to-cart=25493" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="25493" data-product_sku="4080" aria-label="Dodaj &ldquo;Sztabka srebra 1kg&rdquo; do koszyka" rel="nofollow">Dodaj do koszyka</a></li>
 </ul>
 </div>
@@ -1016,7 +1016,7 @@ Sztabki podzieliliśmy na różne rozmiary, aby każdy Klient mógł zakupić il
                         <span class="newFooterRowHeader">Kontakt</span>
                         <span class="newFooterRowItem">79th Element sp. z o.o.</span>
                         <a href="tel:+48783340871" class="newFooterRowItem">+48 783 340 871</a>
-                        <a href="/cdn-cgi/l/email-protection#3c4f5750594c7c0b0559505951595248124c50" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="11627a7d7461512628747d747c747f653f617d">[email&#160;protected]</span></a>
+                        <a href="/cdn-cgi/l/email-protection#83f0e8efe6f3c3b4bae6efe6eee6edf7adf3ef" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="c0b3abaca5b080f7f9a5aca5ada5aeb4eeb0ac">[email&#160;protected]</span></a>
                     </div>
                     <div class="newFooterRow" id="newFooterRow5">
                         <span class="newFooterRowHeader">Produkty</span>
@@ -1029,17 +1029,17 @@ Sztabki podzieliliśmy na różne rozmiary, aby każdy Klient mógł zakupić il
                 <div class="newFooterSeparator"></div>
                 <div class="newFooterRowBottom">
                     <div class="newFooterRowBottomLeft">
-                        <img src="https://dev.79element.pl/wp-content/uploads/2021/06/logo-low-res.png" alt="">
+                        <img src="https://79element.pl/wp-content/uploads/2021/06/logo-low-res.png" alt="">
                         <span class="rightsReserved">Wszystkie prawa zastrzeżone @2020-2021</span>
                     </div>
                     <div class="newFooterRowBottomRight">
                         <a class="newFooterRowBottomRightSpan" href="https://79element.pl/regulamin/">Regulamin</a>
                         <a class="newFooterRowBottomRightSpan" href="https://79element.pl/rodo/">Dane osobowe</a>
                         <a class="newFooterRowBottomRightSpan" href="https://www.facebook.com/79element/" style="flex-shrink: 0">
-                            <img src="https://dev.79element.pl/wp-content/uploads/2021/07/facebook.png" alt="">
+                            <img src="https://79element.pl/wp-content/uploads/2021/07/facebook.png" alt="">
                         </a>
                         <a class="newFooterRowBottomRightSpan" href="https://www.youtube.com/channel/UCR7s0-kHW-gD05nFbPP9BYw" style="flex-shrink: 0">
-                            <img src="https://dev.79element.pl/wp-content/uploads/2021/07/youtube-icon.png" alt="">
+                            <img src="https://79element.pl/wp-content/uploads/2021/07/youtube-icon.png" alt="">
                         </a>
                     </div>
                 </div>
@@ -1096,7 +1096,7 @@ var static_var = {"plugin_url":"https:\/\/79element.pl\/wp-content\/plugins\/fre
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/freshmail-integration/assets/js/user.js?ver=1.0' id='freshmail-script-js'></script>
 <script type='text/javascript' id='cwginstock_js-js-extra'>
 /* <![CDATA[ */
-var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"8ad5a0743e","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
+var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"f1108e1ee0","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/js/frontend-dev.min.js?ver=2.2' id='cwginstock_js-js'></script>
