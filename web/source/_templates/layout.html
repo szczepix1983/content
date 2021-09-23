@@ -1,9 +1,9 @@
 {% extends "!layout.html" %}
-{% if pagename == 'products' %}
+{% if pagename == 'dynamic/products' %}
 {% set script_files = script_files + ["_static/init_products.js"] %}
 {% endif %}
-{% if pagename == 'silver_products' %}
-{% set script_files = script_files + ["_static/init_silver_products.js"] %}
+{% if pagename == 'dynamic/silver_products' %}
+{% set script_files = script_files + ["_static/init_sklep.js"] %}
 {% endif %}
 {% if pagename == 'dynamic/gold_products' %}
 {% set script_files = script_files + ["_static/init_sklep.js"] %}

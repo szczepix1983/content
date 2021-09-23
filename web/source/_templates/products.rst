@@ -1,6 +1,6 @@
-*****
-Złoto
-*****
+************
+Złoto/Srebro
+************
 
 .. raw:: html
 
@@ -14,6 +14,9 @@ Złoto
                     <th>Link</th>
                 </tr>
             </thead>
+            <tbody>
+                        content
+            </tbody>
             <tfoot>
                 <tr>
                     <th>Obrazek</th>

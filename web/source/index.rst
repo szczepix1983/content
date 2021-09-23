@@ -7,8 +7,8 @@
     :titlesonly:
     :caption: Produkty
 
-    products
-    silver_products
+    dynamic/products
+    dynamic/silver_products
     dynamic/gold_products
 
 .. toctree::
