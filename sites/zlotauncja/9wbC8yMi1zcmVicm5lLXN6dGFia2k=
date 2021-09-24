@@ -63,7 +63,7 @@ var delete_txt = 'Usuń';
 var displayList = false;
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1632515491;
+var generated_date = 1632522702;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -389,22 +389,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 6880.75</div>
-      <div class="rtpriclist-other">XAU/EUR: 1491.67</div>
+      <div class="rtpriclist-current">XAU/PLN: 6884.82</div>
+      <div class="rtpriclist-other">XAU/EUR: 1492.94</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 88.16</div>
+      <div class="rtpriclist-current">XAG/PLN: 88.25</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 98.16</div>
-      <div class="rtpriclist-current">ASK: 78.16</div>-->
+      <!-- <div class="rtpriclist-current">BID: 98.25</div>
+      <div class="rtpriclist-current">ASK: 78.25</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 19.11</div>
+      <div class="rtpriclist-other">XAG/EUR: 19.14</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 29.11</div>
-      <div class="rtpriclist-other">ASK: 9.11</div> -->
+      <!-- <div class="rtpriclist-other">BID: 29.14</div>
+      <div class="rtpriclist-other">ASK: 9.14</div> -->
     </div>
   </div>
 </div>
@@ -489,7 +489,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Przedstawiamy Państwu srebrną monetę z serii Barbados Caribbean o wadze...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	152,67 zł                                        </span>
+                                        	152,80 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -502,7 +502,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Moneta bulionowa o wadze jednej uncji trojańskiej wykonana z czystego...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	129,62 zł                                        </span>
+                                        	129,75 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -524,7 +524,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Druga moneta z serii Disney'a Piraci z Karaibów: Niue 2021 Latający...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	175,73 zł                                        </span>
+                                        	175,86 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -537,7 +537,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Prezentujemy kolejny egzemplarz z serii: Niue 2021 - Star Wars The...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	138,84 zł                                        </span>
+                                        	138,97 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -550,7 +550,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Srebrna moneta Wilkołak, z renomowanej mennicy Royal Canadian Mint, jest...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	236,17 zł                                        </span>
+                                        	236,44 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -563,7 +563,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Przedstawiamy kolejną monetę z serii Najniebezpieczniejsze stworzenia...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	134,23 zł                                        </span>
+                                        	134,36 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -661,7 +661,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										163,97 zł									</span>
+										164,13 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -682,7 +682,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								163,97 zł							</span>
+								164,13 zł							</span>
 														
 							
 											</div>
@@ -730,7 +730,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										461,93 zł									</span>
+										462,44 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -751,7 +751,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								461,93 zł							</span>
+								462,44 zł							</span>
 														
 							
 											</div>
@@ -799,7 +799,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 098,09 zł									</span>
+										1 099,39 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -820,7 +820,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 098,09 zł							</span>
+								1 099,39 zł							</span>
 														
 							
 											</div>
@@ -868,7 +868,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 071,39 zł									</span>
+										2 073,99 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -889,7 +889,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 071,39 zł							</span>
+								2 073,99 zł							</span>
 														
 							
 											</div>
@@ -937,7 +937,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										312,58 zł									</span>
+										312,74 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -955,7 +955,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								312,58 zł							</span>
+								312,74 zł							</span>
 														
 							
 											</div>
@@ -1003,7 +1003,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 881,86 zł									</span>
+										3 887,05 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1024,7 +1024,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 881,86 zł							</span>
+								3 887,05 zł							</span>
 														
 							
 											</div>
@@ -1386,7 +1386,7 @@ Poniedziałek - Piątek  8:00-16:00            	</li>
 					jQuery(document).ready(function(){
 						var MBG = GoogleAnalyticEnhancedECommerce;
 						MBG.setCurrency('PLN');
-						MBG.add({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"163.97"},'',true);MBG.add({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"461.93"},'',true);MBG.add({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,098.09"},'',true);MBG.add({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,071.39"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.58"},'',true);MBG.add({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,881.86"},'',true);MBG.addProductClick({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"163.97"});MBG.addProductClick({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"461.93"});MBG.addProductClick({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,098.09"});MBG.addProductClick({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,071.39"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.58"});MBG.addProductClick({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,881.86"});
+						MBG.add({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"164.13"},'',true);MBG.add({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"462.44"},'',true);MBG.add({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,099.39"},'',true);MBG.add({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,073.99"},'',true);MBG.add({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.74"},'',true);MBG.add({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,887.05"},'',true);MBG.addProductClick({"id":"921","name":"\"Silver bar Ag999 Archangel Michael - 31,1 g minted\"","category":"\"srebrne-sztabki\"","brand":"\"SCOTTSDALE MINT\"","variant":"null","type":"typical","position":"0","quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F921-silver-bar-ag999-archangel-michael-311-g-minted.html","price":"164.13"});MBG.addProductClick({"id":"901","name":"\"Germania Mint Ag999.9 Cast Bar 100g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":1,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F901-germania-mint-ag9999-cast-bar-100g.html","price":"462.44"});MBG.addProductClick({"id":"902","name":"\"Germania Mint Ag999.9 Cast Bar 250g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":2,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F902-germania-mint-ag9999-cast-bar-250g.html","price":"1,099.39"});MBG.addProductClick({"id":"903","name":"\"Germania Mint Ag999.9 Cast Bar 500g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":3,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F903-germania-mint-ag9999-cast-bar-500g.html","price":"2,073.99"});MBG.addProductClick({"id":"810","name":"\"Niue 2021 - Star Wars - Mandalorian Beskar Steel Ag999 1oz\"","category":"\"srebrne-sztabki\"","brand":"\"NEW ZEALAND MINT\"","variant":"null","type":"typical","position":4,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F810-niue-2021-star-wars-mandalorian-beskar-steel-ag999-1oz.html","price":"312.74"});MBG.addProductClick({"id":"909","name":"\"Germania Mint Ag999.9 Cast Bar 1000g\"","category":"\"srebrne-sztabki\"","brand":"\"GERMANIA MINT\"","variant":"null","type":"typical","position":5,"quantity":1,"list":"category","url":"https%3A%2F%2Fzlota-uncja.pl%2Fpl%2Fsrebrne-sztabki%2F909-germania-mint-ag9999-cast-bar-1000g.html","price":"3,887.05"});
 					});
 				</script>
 				<script type="text/javascript">
