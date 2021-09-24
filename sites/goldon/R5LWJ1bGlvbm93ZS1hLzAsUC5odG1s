@@ -173,7 +173,7 @@ autoComplete = new Autocomplete('main_search', {
 <p  class="box__title header-size-4 header-brand-bg">Filtrowanie</p>
 </header>
 <div  class="box_content contentToggle">
-<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','200','do 14 dni','do-14-dni','yA')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-14-dni,dDQ-yA.html">do 14 dni (7)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (14)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (4)</a></span>                <script type="text/javascript">
+<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','200','do 14 dni','do-14-dni','yA')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-14-dni,dDQ-yA.html">do 14 dni (7)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (14)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (5)</a></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_13').click(function() {
                             var urlred = "/zlote-monety-bulionowe-a.html";
@@ -202,7 +202,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_13" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Metal</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'12','97','Au 999,9','au-999-9','YQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/metal-au-999-9,dDA-YQ.html">Au 999,9 (18)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','101','Au 916,7','au-916-7','ZQ')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-916-7,dDA-ZQ.html">Au 916,7 (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'12','48','Au 999','au-999','MA')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-999,dDA-MA.html">Au 999 (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'12','105','Au 900','au-900','aQ')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-900,dDA-aQ.html">Au 900 (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'12','176','Au 986','au-986','sA')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-986,dDA-sA.html">Au 986 (1)</span></span><a href="/ajax.php?dict_id=12&amp;ref=%2Fzlote-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=12&amp;ref=%2Fzlote-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<a id="filter_link_13" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Metal</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'12','97','Au 999,9','au-999-9','YQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/metal-au-999-9,dDA-YQ.html">Au 999,9 (19)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','101','Au 916,7','au-916-7','ZQ')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-916-7,dDA-ZQ.html">Au 916,7 (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'12','48','Au 999','au-999','MA')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-999,dDA-MA.html">Au 999 (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'12','105','Au 900','au-900','aQ')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-900,dDA-aQ.html">Au 900 (1)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'12','176','Au 986','au-986','sA')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/metal-au-986,dDA-sA.html">Au 986 (1)</span></span><a href="/ajax.php?dict_id=12&amp;ref=%2Fzlote-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=12&amp;ref=%2Fzlote-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_12').click(function() {
                             var urlred = "/zlote-monety-bulionowe-a.html";
@@ -231,7 +231,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/zlote-monety-bulionowe-a/producent-austrian-mint,dCg-Ew.html">Austrian Mint (4)</a><a class="" href="/zlote-monety-bulionowe-a/producent-the-royal-mint,dCg-Gg.html">The Royal Mint (6)</a><a class="" href="/zlote-monety-bulionowe-a/producent-perth-mint,dCg-FQ.html">Perth Mint (6)</a><a class="" href="/zlote-monety-bulionowe-a/producent-royal-canadian-mint,dCg-Jg.html">Royal Canadian Mint (4)</a><span class=" change_to_link" data-href="/zlote-monety-bulionowe-a/producent-chinese-mint,dCg-Ig.html">Chinese Mint (2)</span><span class=" change_to_link" data-href="/zlote-monety-bulionowe-a/producent-united-states-mint,dCg-NA.html">United States Mint (2)</span><span class=" change_to_link" data-href="/zlote-monety-bulionowe-a/producent-rand-refinery,dCg-KA.html">Rand Refinery (1)</span></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/masa-1-oz,dCw-FA.html">1 oz (17)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','30','1/10 oz','1-10-oz','Hg')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-1-10-oz,dCw-Hg.html">1/10 oz (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','28','1/4 oz','1-4-oz','HA')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-1-4-oz,dCw-HA.html">1/4 oz (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','35','30 g','30-g','Iw')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-30-g,dCw-Iw.html">30 g (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','194','6,10 g','6-10-g','wg')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-6-10-g,dCw-wg.html">6,10 g (1)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fzlote-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fzlote-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/zlote-monety-bulionowe-a/producent-austrian-mint,dCg-Ew.html">Austrian Mint (4)</a><a class="" href="/zlote-monety-bulionowe-a/producent-perth-mint,dCg-FQ.html">Perth Mint (7)</a><a class="" href="/zlote-monety-bulionowe-a/producent-the-royal-mint,dCg-Gg.html">The Royal Mint (6)</a><a class="" href="/zlote-monety-bulionowe-a/producent-royal-canadian-mint,dCg-Jg.html">Royal Canadian Mint (4)</a><span class=" change_to_link" data-href="/zlote-monety-bulionowe-a/producent-chinese-mint,dCg-Ig.html">Chinese Mint (2)</span><span class=" change_to_link" data-href="/zlote-monety-bulionowe-a/producent-united-states-mint,dCg-NA.html">United States Mint (2)</span><span class=" change_to_link" data-href="/zlote-monety-bulionowe-a/producent-rand-refinery,dCg-KA.html">Rand Refinery (1)</span></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/masa-1-oz,dCw-FA.html">1 oz (18)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','30','1/10 oz','1-10-oz','Hg')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-1-10-oz,dCw-Hg.html">1/10 oz (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','28','1/4 oz','1-4-oz','HA')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-1-4-oz,dCw-HA.html">1/4 oz (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','35','30 g','30-g','Iw')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-30-g,dCw-Iw.html">30 g (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'11','194','6,10 g','6-10-g','wg')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/masa-6-10-g,dCw-wg.html">6,10 g (1)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fzlote-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fzlote-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_11').click(function() {
                             var urlred = "/zlote-monety-bulionowe-a.html";
@@ -260,7 +260,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_11" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','22','Wiedeńscy Filharmonicy','wiedenscy-filharmonicy','Fg')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/seria-wiedenscy-filharmonicy,dCQ-Fg.html">Wiedeńscy Filharmonicy (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','23','Australijski Kangur','australijski-kangur','Fw')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/seria-australijski-kangur,dCQ-Fw.html">Australijski Kangur (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','69','The Queens Beasts','the-queen-s-beasts','RQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/seria-the-queen-s-beasts,dCQ-RQ.html">The Queen's Beasts (5)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','37','Kanadyjski Liść Klonu','kanadyjski-lisc-klonu','JQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/seria-kanadyjski-lisc-klonu,dCQ-JQ.html">Kanadyjski Liść Klonu (4)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','33','Chińska Panda','chinska-panda','IQ')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/seria-chinska-panda,dCQ-IQ.html">Chińska Panda (2)</span></span><a href="/ajax.php?dict_id=9&amp;ref=%2Fzlote-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=9&amp;ref=%2Fzlote-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<a id="filter_link_11" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','22','Wiedeńscy Filharmonicy','wiedenscy-filharmonicy','Fg')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/seria-wiedenscy-filharmonicy,dCQ-Fg.html">Wiedeńscy Filharmonicy (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','23','Australijski Kangur','australijski-kangur','Fw')"><span class="change_to_link checkbox-link" data-href="/zlote-monety-bulionowe-a/seria-australijski-kangur,dCQ-Fw.html">Australijski Kangur (2)</span></span><span class="checkbox-item" onclick="product_change_filter(this,'9','69','The Queens Beasts','the-queen-s-beasts','RQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/seria-the-queen-s-beasts,dCQ-RQ.html">The Queen's Beasts (5)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','37','Kanadyjski Liść Klonu','kanadyjski-lisc-klonu','JQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/seria-kanadyjski-lisc-klonu,dCQ-JQ.html">Kanadyjski Liść Klonu (4)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','170','Lunar Series III','lunar-series-iii','qg')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/seria-lunar-series-iii,dCQ-qg.html">Lunar Series III (3)</a></span><a href="/ajax.php?dict_id=9&amp;ref=%2Fzlote-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=9&amp;ref=%2Fzlote-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_9').click(function() {
                             var urlred = "/zlote-monety-bulionowe-a.html";
@@ -316,11 +316,11 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(823.1500),
+					startMin: parseFloat(821.8500),
 					startMax: parseFloat(11350.0000),
-					rangeMin: parseFloat(823.1500),
+					rangeMin: parseFloat(821.8500),
 					rangeMax: parseFloat(11350.0000),
-					currentFrom: parseFloat(823.1500),
+					currentFrom: parseFloat(821.8500),
 					currentTo: parseFloat(11350.0000),
 					decimal_separator: ",",
 					thousand_separator: " ",
@@ -447,7 +447,7 @@ Złota moneta Amerykański Bizon / American Buffalo  2021 1 oz</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7364.34">7 364,34 zł</span>
+<span class="price-value"  itemprop="price" content="7297.70">7 297,70 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -478,7 +478,7 @@ Złota moneta Australijski Kangur  1 oz  2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7226.69">od&nbsp;7 192,00 zł</span>
+<span class="price-value"  itemprop="price" content="7215.24">od&nbsp;7 180,61 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -509,7 +509,7 @@ Złota moneta  Kanadyjski Liść Klonu  (Maple Leaf )  1 oz  2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7226.69">od&nbsp;7 192,00 zł</span>
+<span class="price-value"  itemprop="price" content="7215.24">od&nbsp;7 180,61 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -540,7 +540,7 @@ Złota moneta Rok Bawołu / Lunar III OX  1 Oz. 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7433.16">od&nbsp;7 397,48 zł</span>
+<span class="price-value"  itemprop="price" content="7421.39">od&nbsp;7 385,77 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -571,7 +571,38 @@ Złota moneta Rok Myszy / Lunar III Mouse  1 Oz. 2020</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7467.58">7 467,58 zł</span>
+<span class="price-value"  itemprop="price" content="7455.75">7 455,75 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1618"  data-cart-id="1618">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/zlota-moneta-rok-tygrysa-lunar-iii-tiger-1-oz-2022.html" onclick="">
+<img src="/zlota-moneta-rok-tygrysa-lunar-iii-tiger-1-oz-2022.0.1632413871.jpg" alt="Złota moneta Rok Tygrysa  / Lunar III Tiger   1 Oz. 2022" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/zlota-moneta-rok-tygrysa-lunar-iii-tiger-1-oz-2022.html" class="product-name-link" itemprop="url">
+Złota moneta Rok Tygrysa  / Lunar III Tiger   1 Oz. 2022</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="7362.98">7 362,98 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -602,7 +633,7 @@ Złota moneta Wiedeńscy Filharmonicy 1 Oz  2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7254.22">od&nbsp;7 219,40 zł</span>
+<span class="price-value"  itemprop="price" content="7242.73">od&nbsp;7 207,96 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -633,7 +664,7 @@ Złota moneta  Chińska Panda ,  30 gramów   2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7062.88">7 062,88 zł</span>
+<span class="price-value"  itemprop="price" content="7051.70">7 051,70 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -664,7 +695,7 @@ Złota moneta Amerykański Orzeł /  American Eagle  1 oz.  2021 (nowy wizerunek
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7364.34">od&nbsp;7 345,93 zł</span>
+<span class="price-value"  itemprop="price" content="7352.68">od&nbsp;7 334,30 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -726,7 +757,7 @@ Złota moneta  Dragon  1 oz 2021 (Australia )</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7323.04">7 323,04 zł</span>
+<span class="price-value"  itemprop="price" content="7311.45">7 311,45 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -757,38 +788,7 @@ Złota moneta  Krugerrand 1 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7267.98">od&nbsp;7 233,09 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1286"  data-cart-id="1286">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/zlota-moneta-100-funtow-britannia-1-oz-2021.html" onclick="">
-<img src="/zlota-moneta-100-funtow-britannia-1-oz-2021.jpg" alt="Złota moneta 100 Funtów Britannia  1 oz 2021" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/zlota-moneta-100-funtow-britannia-1-oz-2021.html" class="product-name-link" itemprop="url">
-Złota moneta 100 Funtów Britannia  1 oz 2021</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="7226.69">od&nbsp;7 192,00 zł</span>
+<span class="price-value"  itemprop="price" content="7256.47">od&nbsp;7 221,64 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -941,7 +941,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 882,56 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,90 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 913,65 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 871,66 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,02 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 875,66 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({

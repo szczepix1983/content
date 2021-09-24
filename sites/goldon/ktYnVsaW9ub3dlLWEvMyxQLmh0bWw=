@@ -319,11 +319,11 @@ autoComplete = new Autocomplete('main_search', {
 
 				var price = {
 					startMin: parseFloat(75.0000),
-					startMax: parseFloat(56048.7800),
+					startMax: parseFloat(55493.9700),
 					rangeMin: parseFloat(75.0000),
-					rangeMax: parseFloat(56048.7800),
+					rangeMax: parseFloat(55493.9700),
 					currentFrom: parseFloat(75.0000),
-					currentTo: parseFloat(56048.7800),
+					currentTo: parseFloat(55493.9700),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -430,37 +430,6 @@ Srebrne monety bulionowe</h1>
 </div>
 </aside>
 <div class="row clear products_container">
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1533"  data-cart-id="1533">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-black-turtle-niue-2021.html" onclick="">
-<img src="/srebrna-moneta-black-turtle-niue-2021.jpg" alt="Srebrna moneta  Black Turtle  , Niue 2021" width="200" height="194">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-black-turtle-niue-2021.html" class="product-name-link" itemprop="url">
-Srebrna moneta  Black Turtle  , Niue 2021</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="155.00">155,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
 <article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="726"  data-cart-id="726">
 <div class="image">
 <figure>
@@ -802,6 +771,37 @@ Srebrna moneta  Koala 1 oz  2020  r</a>
 </div>
 </footer>
 </article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1537"  data-cart-id="1537">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-koala-1-oz-2021-r.html" onclick="">
+<img src="/srebrna-moneta-koala-1-oz-2021-r.jpg" alt="Srebrna moneta  Koala 1 oz  2021  r" width="198" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-koala-1-oz-2021-r.html" class="product-name-link" itemprop="url">
+Srebrna moneta  Koala 1 oz  2021  r</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="143.00">143,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
 </div>
 <aside class="pagination"><div class="clear"><div class="pagination-nav-wrap"><a class="pagination-nav-controller pagination-nav-controller--prev" rel="prev" href="/srebrne-monety-bulionowe-a/2,P.html">Poprzednia</a><div class="pagination-page-list"><a class="pagination-page-item" href="/srebrne-monety-bulionowe-a/1,P.html">2</a><a class="pagination-page-item" href="/srebrne-monety-bulionowe-a/2,P.html">3</a><span class="pagination-page-item pagination-page-item--current">4</span><a class="pagination-page-item" href="/srebrne-monety-bulionowe-a/4,P.html">5</a><a class="pagination-page-item" href="/srebrne-monety-bulionowe-a/5,P.html">6</a></div><a class="pagination-nav-controller pagination-nav-controller--next" rel="next" href="/srebrne-monety-bulionowe-a/4,P.html">Następna</a></div></div><div class='button-align-center clear-both'><a class="button button-secondary" href="/srebrne-monety-bulionowe-a.html?show_all=1" onclick="">Pokaż wszystkie produkty</a></div></aside></aside>
 </aside>
@@ -943,7 +943,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 882,56 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,90 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 913,65 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 871,66 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,02 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 875,66 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
