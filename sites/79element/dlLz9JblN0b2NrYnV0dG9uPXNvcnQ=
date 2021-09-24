@@ -862,7 +862,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
 			<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Wyświetlanie 1&ndash;12 z 111 wyników</p>
+	Wyświetlanie 1&ndash;12 z 110 wyników</p>
 <form class="woocommerce-ordering" method="get">
 	<select name="orderby" class="orderby" aria-label="Zamówienie">
 					<option value="menu_order"  selected='selected'>Domyślne sortowanie</option>
@@ -1084,7 +1084,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
                         <span class="newFooterRowHeader">Kontakt</span>
                         <span class="newFooterRowItem">79th Element sp. z o.o.</span>
                         <a href="tel:+48783340871" class="newFooterRowItem">+48 783 340 871</a>
-                        <a href="/cdn-cgi/l/email-protection#3d4e5651584d7d0a0458515850585349134d51" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="01726a6d6471413638646d646c646f752f716d">[email&#160;protected]</span></a>
+                        <a href="/cdn-cgi/l/email-protection#34475f58514474030d51585159515a401a4458" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="98ebf3f4fde8d8afa1fdf4fdf5fdf6ecb6e8f4">[email&#160;protected]</span></a>
                     </div>
                     <div class="newFooterRow" id="newFooterRow5">
                         <span class="newFooterRowHeader">Produkty</span>
