@@ -16,7 +16,7 @@
 
 /* datalayer */
 dataLayer = [];
-dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Rajski Ptak: Ozdobnik Maly - Platerowany Zlotem 1 uncja srebra","id":"","reference":"AGI-MO-VICTORIASRIFLEBIRD1OZBP","price":"288","brand":"Perth Mint","category":"Srebro lokacyjne","link":"rajski-ptak-ozdobnik-maly-platerowany-1-uncja-srebra","price_tax_exc":"288","wholesale_price":"0","list":"category","position":1},{"name":"Sztabka Krokodyl 20g Ag","id":"","reference":"WKL-AG-CROCODILE20GBAR","price":"319","category":"Srebro lokacyjne","link":"sztabka-krokodyl-20g-ag","price_tax_exc":"319","wholesale_price":"0","list":"category","position":2},{"name":"Bestie Krolowej: Czarny Byk 2 uncje srebra","id":"","reference":"AGI-MO-BULL2OZQB","price":"297","category":"Srebro lokacyjne","link":"bestie-krolowej-byk-2-uncje-srebra","price_tax_exc":"297","wholesale_price":"0","list":"category","position":3},{"name":"Sztabka Liscie Klonowe 10g Ag","id":"","reference":"WKL-AG-MAPLELEAVES10GBAR","price":"199","category":"Srebro lokacyjne","link":"sztabka-liscie-klonowe-10g-ag","price_tax_exc":"199","wholesale_price":"0","list":"category","position":4},{"name":"Bielik Amerykanski 1oz Ag","id":"","reference":"AGI-MO-BALDEAGLE20141OZ","price":"0","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"bielik-amerykanski-1oz-ag-8992","price_tax_exc":"0","wholesale_price":"0","list":"category","position":5},{"name":"1 kg sztabka srebra","id":"","reference":"AGI-SZ-1000GGOLDENMARK","price":"4183","category":"Srebro lokacyjne","link":"sztabka-srebra-goldenmark-1-kg","price_tax_exc":"4183","wholesale_price":"0","list":"category","position":6},{"name":"Ptaki Drapiezne: Orzel Bielik 1 uncja srebra","id":"","reference":"AGI-MO-BALDEAGLE1OZ","price":"171","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"orzel-bielik-ptaki-drapiezne-1-oz-3974","price_tax_exc":"171","wholesale_price":"0","list":"category","position":7},{"name":"Sztabka Lampart 10g Ag","id":"","reference":"WKL-AG-LEOPARD10GBAR","price":"199","category":"Srebro lokacyjne","link":"sztabka-lampart-10g-ag","price_tax_exc":"199","wholesale_price":"0","list":"category","position":8},{"name":"Puchacz Wirginijski 1 uncja srebra","id":"","reference":"AGI-MO-OWL1OZ","price":"144","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"puchacz-wirginijski-1-oz-ag-4921","price_tax_exc":"144","wholesale_price":"0","list":"category","position":9},{"name":"Sztabka Czestochowa 1oz Ag","id":"","reference":"WKL-AG-CZESTOCHOWA1OZBAR","price":"249","category":"Srebro lokacyjne","link":"sztabka-czestochowa-1oz-ag","price_tax_exc":"249","wholesale_price":"0","list":"category","position":10},{"name":"Smok i Tygrys 1 uncja srebra","id":"","reference":"AGI-MO-DRAGONTIGER1OZ","price":"326","category":"Srebro lokacyjne","link":"smok-i-tyrgys-1-uncja-srebra","price_tax_exc":"326","wholesale_price":"0","list":"category","position":11},{"name":"Bestie Krolowej: Smok 2 uncje srebra","id":"","reference":"AGI-MO-DRAGON2OZQB","price":"297","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-smok-2-uncje-srebra","price_tax_exc":"297","wholesale_price":"0","list":"category","position":12},{"name":"Britannia 2011 1/2 Uncji Srebra","id":"","reference":"AGI-MO-BRITANNIA1/2OZ","price":"86","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"britannia-2011-1-2-uncji-srebra-3034","price_tax_exc":"86","wholesale_price":"0","list":"category","position":13},{"name":"Australijski krokodyl rozancowy 1 uncja","id":"","reference":"AGI-MO-CROCODILE1OZ","price":"145","brand":"Perth Mint","category":"Srebro lokacyjne","link":"australijski-krokodyl-rozancowy-1-uncja-3714","price_tax_exc":"145","wholesale_price":"0","list":"category","position":14},{"name":"Sztabka Poznan 1oz Ag","id":"","reference":"WKL-AG-POZNAN1OZBAR","price":"249","category":"Srebro lokacyjne","link":"sztabka-poznan-1oz-ag","price_tax_exc":"249","wholesale_price":"0","list":"category","position":15},{"name":"Rwanda Santa Maria 1 uncja srebra","id":"","reference":"AGI-MO-SANTAMARIA1OZ","price":"195","category":"Srebro lokacyjne","link":"rwanda-santa-maria-1-uncja-srebra","price_tax_exc":"195","wholesale_price":"0","list":"category","position":16},{"name":"Sztabka Los 1oz Ag","id":"","reference":"WKL-AG-ELK1OZBAR","price":"249","category":"Srebro lokacyjne","link":"sztabka-los-1oz-ag","price_tax_exc":"249","wholesale_price":"0","list":"category","position":17},{"name":"Libertad 1 uncja srebra","id":"","reference":"AGI-MO-LIBERTAD1OZ","price":"175","category":"Srebro lokacyjne","link":"libertad-1-uncja-srebra-3089","price_tax_exc":"175","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Srebro lokacyjne"}});
+dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Zabytki Wielkiej Brytanii: Palac Buckingham 1 uncja srebra","id":"","reference":"AGI-MO-BUCKINGHAM1OZ","price":"152","category":"Srebro lokacyjne","link":"zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra","price_tax_exc":"152","wholesale_price":"0","list":"category","position":1},{"name":"Sztabka Kamienie Rzeczne 10g Ag","id":"","reference":"WKL-AG-KAMIENIERZECZNE10GBAR","price":"199","category":"Srebro lokacyjne","link":"sztabka-kamienie-rzeczne-10g-ag","price_tax_exc":"199","wholesale_price":"0","list":"category","position":2},{"name":"Drapiezniki: Rys 1 uncja srebra","id":"","reference":"AGI-MO-LYNX1OZPS","price":"152","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"drapiezniki-rys-1-uncja-srebra","price_tax_exc":"152","wholesale_price":"0","list":"category","position":3},{"name":"Rajski Ptak: Ozdobnik Maly - Platerowany Zlotem 1 uncja srebra","id":"","reference":"AGI-MO-VICTORIASRIFLEBIRD1OZBP","price":"285","brand":"Perth Mint","category":"Srebro lokacyjne","link":"rajski-ptak-ozdobnik-maly-platerowany-1-uncja-srebra","price_tax_exc":"285","wholesale_price":"0","list":"category","position":4},{"name":"Sztabka Krokodyl 20g Ag","id":"","reference":"WKL-AG-CROCODILE20GBAR","price":"319","category":"Srebro lokacyjne","link":"sztabka-krokodyl-20g-ag","price_tax_exc":"319","wholesale_price":"0","list":"category","position":5},{"name":"Bestie Krolowej: Czarny Byk 2 uncje srebra","id":"","reference":"AGI-MO-BULL2OZQB","price":"294","category":"Srebro lokacyjne","link":"bestie-krolowej-byk-2-uncje-srebra","price_tax_exc":"294","wholesale_price":"0","list":"category","position":6},{"name":"Sztabka Liscie Klonowe 10g Ag","id":"","reference":"WKL-AG-MAPLELEAVES10GBAR","price":"199","category":"Srebro lokacyjne","link":"sztabka-liscie-klonowe-10g-ag","price_tax_exc":"199","wholesale_price":"0","list":"category","position":7},{"name":"Bielik Amerykanski 1oz Ag","id":"","reference":"AGI-MO-BALDEAGLE20141OZ","price":"0","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"bielik-amerykanski-1oz-ag-8992","price_tax_exc":"0","wholesale_price":"0","list":"category","position":8},{"name":"1 kg sztabka srebra","id":"","reference":"AGI-SZ-1000GGOLDENMARK","price":"4142","category":"Srebro lokacyjne","link":"sztabka-srebra-goldenmark-1-kg","price_tax_exc":"4142","wholesale_price":"0","list":"category","position":9},{"name":"Ptaki Drapiezne: Orzel Bielik 1 uncja srebra","id":"","reference":"AGI-MO-BALDEAGLE1OZ","price":"170","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"orzel-bielik-ptaki-drapiezne-1-oz-3974","price_tax_exc":"170","wholesale_price":"0","list":"category","position":10},{"name":"Sztabka Lampart 10g Ag","id":"","reference":"WKL-AG-LEOPARD10GBAR","price":"199","category":"Srebro lokacyjne","link":"sztabka-lampart-10g-ag","price_tax_exc":"199","wholesale_price":"0","list":"category","position":11},{"name":"Puchacz Wirginijski 1 uncja srebra","id":"","reference":"AGI-MO-OWL1OZ","price":"143","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"puchacz-wirginijski-1-oz-ag-4921","price_tax_exc":"143","wholesale_price":"0","list":"category","position":12},{"name":"Sztabka Czestochowa 1oz Ag","id":"","reference":"WKL-AG-CZESTOCHOWA1OZBAR","price":"249","category":"Srebro lokacyjne","link":"sztabka-czestochowa-1oz-ag","price_tax_exc":"249","wholesale_price":"0","list":"category","position":13},{"name":"Smok i Tygrys 1 uncja srebra","id":"","reference":"AGI-MO-DRAGONTIGER1OZ","price":"322","category":"Srebro lokacyjne","link":"smok-i-tyrgys-1-uncja-srebra","price_tax_exc":"322","wholesale_price":"0","list":"category","position":14},{"name":"Bestie Krolowej: Smok 2 uncje srebra","id":"","reference":"AGI-MO-DRAGON2OZQB","price":"294","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"bestie-krolowej-smok-2-uncje-srebra","price_tax_exc":"294","wholesale_price":"0","list":"category","position":15},{"name":"Britannia 2011 1/2 Uncji Srebra","id":"","reference":"AGI-MO-BRITANNIA1/2OZ","price":"85","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"britannia-2011-1-2-uncji-srebra-3034","price_tax_exc":"85","wholesale_price":"0","list":"category","position":16},{"name":"Australijski krokodyl rozancowy 1 uncja","id":"","reference":"AGI-MO-CROCODILE1OZ","price":"144","brand":"Perth Mint","category":"Srebro lokacyjne","link":"australijski-krokodyl-rozancowy-1-uncja-3714","price_tax_exc":"144","wholesale_price":"0","list":"category","position":17},{"name":"Sztabka Poznan 1oz Ag","id":"","reference":"WKL-AG-POZNAN1OZBAR","price":"249","category":"Srebro lokacyjne","link":"sztabka-poznan-1oz-ag","price_tax_exc":"249","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Srebro lokacyjne"}});
 /* call to GTM Tag */
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -67,13 +67,13 @@ cdcgtmreq.send();
 
   <link rel="preload" href="https://goldenmark.com/themes/erado_theme2/assets/css/570eb83859dc23dd0eec423a49e147fe.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="https://goldenmark.com/themes/erado_theme2/assets/field-css/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin>
-   <link rel="stylesheet" href="https://goldenmark.com/themes/child/assets/cache/theme-d98aad241.css" type="text/css" media="all">
+   <link rel="stylesheet" href="https://goldenmark.com/themes/child/assets/cache/theme-d98aad243.css" type="text/css" media="all">
 
 
 
 
 
-    <script  src="https://goldenmark.com/themes/child/assets/cache/head-873d0a240.js" ></script>
+    <script  src="https://goldenmark.com/themes/child/assets/cache/head-873d0a242.js" ></script>
 
 
   <script >
@@ -82,7 +82,7 @@ cdcgtmreq.send();
         var as4_orderBySalesAsc = "Sales: Lower first";
         var as4_orderBySalesDesc = "Sales: Highest first";
         var baseDir = "https:\/\/goldenmark.com\/";
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=4","meta":{"title":"Srebro lokacyjne, inwestycja w srebrne monety - Goldenmark (4)","description":"Najpopularniejsze Lokacyjne Srebrne Monety Bulionowe Renomowanych Mennic z Ca\u0142ego \u015awiata. Inwestowanie w srebro mo\u017ce stanowi\u0107 doskona\u0142e uzupe\u0142nienie portfela","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-982":true,"category-Srebro lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=4","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_silver","pl-pl":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Srebro lokacyjne","url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/srebro-lokacyjne?page=4"},"time":1632406933,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=4","meta":{"title":"Srebro lokacyjne, inwestycja w srebrne monety - Goldenmark (4)","description":"Najpopularniejsze Lokacyjne Srebrne Monety Bulionowe Renomowanych Mennic z Ca\u0142ego \u015awiata. Inwestowanie w srebro mo\u017ce stanowi\u0107 doskona\u0142e uzupe\u0142nienie portfela","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-982":true,"category-Srebro lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=4","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_silver","pl-pl":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Srebro lokacyjne","url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/srebro-lokacyjne?page=4"},"time":1632518600,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
         var psemailsubscription_subscription = "https:\/\/goldenmark.com\/pl\/module\/ps_emailsubscription\/subscription";
         var showcat = "1";
         var text_nopr = "Wprowad\u017a co najmniej 3 s\u0142owa kluczowe";
@@ -917,7 +917,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										id="PM_ASInputCritRange2_6_min" 
 										value="100" 
 										class="form-control" 
-										min="0"										max="60700" 
+										min="0"										max="60100" 
 										step="100" />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -927,9 +927,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																<input 	data-id-criterion-group="6" 
 										type="number" 
 										id="PM_ASInputCritRange2_6_max" 
-										value="60700" 
+										value="60100" 
 										class="form-control" 
-										min="0"										max="60700" 
+										min="0"										max="60100" 
 										step="100"  />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -1055,7 +1055,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div class="click-product-list d-inline-block"><i class="fa fa-th-list"></i></div>
 	</div>
 	<div class="total-products">
-				  <p>Znaleziono 142 produkty.</p>
+				  <p>Znaleziono 143 produkty.</p>
 		    </div>    
     <div class="box-sort-by">
       
@@ -1132,6 +1132,248 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
 
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature prod--grayed" data-id-product="19266" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+                <div class="left-product">
+                    
+													<a href="https://goldenmark.com/pl/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra/" class="thumbnail product-thumbnail">
+								<span class="cover_image">
+									<img loading="lazy" class="img-responsive"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4597-home_default/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg"
+										alt="Zabytki Wielkiej Brytanii: Pałac Buckingham 1 uncja srebra"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4597-large_gallery/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg"
+									/>
+								</span>
+																	<span class="hover_image">
+										<img loading="lazy" class="img-responsive"
+											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4598-home_default/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg"
+											alt="Zabytki Wielkiej Brytanii: Pałac Buckingham 1 uncja srebra"
+											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4597-large_gallery/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg"
+										/>
+									</span>
+															</a>
+						                    
+                    					<div class="conditions-box">
+																		
+					</div>
+				<div class="button-container">
+																				<form class="btn-add-to-cart" action="https://goldenmark.com/pl/koszyk" method="post">
+									<input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
+									<input type="hidden" name="id_product" value="19266">
+									<input type="hidden" name="qty" value="1">
+									<button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
+										<i class="fa fa-shopping-basket"></i><span class="des_button">Dodaj do koszyka</span>
+									</button>
+								</form>
+																			
+						
+						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
+							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
+						</a>
+				</div>
+                </div>
+                <div class="right-product">
+					
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra/">Zabytki Wielkiej Brytanii: Pałac Buckingham 1 uncja srebra</a></div>
+					
+					
+						            <div class="comments_note" >
+            <div class="star_content clearfix">
+                                                            <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                </div>
+                    </div>
+    
+					
+					
+					
+							<div class="product-price-and-shipping">
+								
+								<span itemprop="price" class="price">152,00 zł</span>
+																
+								
+							</div>
+
+										
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                                                    
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+                        
+	  
+                                            
+                            
+
+
+	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
+
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature prod--grayed" data-id-product="9391" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+                <div class="left-product">
+                    
+													<a href="https://goldenmark.com/pl/sztabka-kamienie-rzeczne-10g-ag/" class="thumbnail product-thumbnail">
+								<span class="cover_image">
+									<img loading="lazy" class="img-responsive"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4557-home_default/sztabka-kamienie-rzeczne-10g-ag.jpg"
+										alt="Sztabka Kamienie Rzeczne 10g Ag"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4557-large_gallery/sztabka-kamienie-rzeczne-10g-ag.jpg"
+									/>
+								</span>
+															</a>
+						                    
+                    					<div class="conditions-box">
+																		
+					</div>
+				<div class="button-container">
+																				<form class="btn-add-to-cart" action="https://goldenmark.com/pl/koszyk" method="post">
+									<input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
+									<input type="hidden" name="id_product" value="9391">
+									<input type="hidden" name="qty" value="1">
+									<button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
+										<i class="fa fa-shopping-basket"></i><span class="des_button">Dodaj do koszyka</span>
+									</button>
+								</form>
+																			
+						
+						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
+							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
+						</a>
+				</div>
+                </div>
+                <div class="right-product">
+					
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/sztabka-kamienie-rzeczne-10g-ag/">Sztabka Kamienie Rzeczne 10g Ag</a></div>
+					
+					
+						            <div class="comments_note" >
+            <div class="star_content clearfix">
+                                                            <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                </div>
+                    </div>
+    
+					
+					
+					
+							<div class="product-price-and-shipping">
+								
+								<span itemprop="price" class="price">199,00 zł</span>
+																
+								
+							</div>
+
+										
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                                                    
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+                        
+	  
+                                            
+                            
+
+
+	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
+
+						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature prod--grayed" data-id-product="8064" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+                <div class="left-product">
+                    
+													<a href="https://goldenmark.com/pl/drapiezniki-rys-1-uncja-srebra/" class="thumbnail product-thumbnail">
+								<span class="cover_image">
+									<img loading="lazy" class="img-responsive"
+										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4109-home_default/drapiezniki-rys-1-uncja-srebra.jpg"
+										alt="Drapieżniki: Ryś 1 uncja srebra"
+										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4109-large_gallery/drapiezniki-rys-1-uncja-srebra.jpg"
+									/>
+								</span>
+																	<span class="hover_image">
+										<img loading="lazy" class="img-responsive"
+											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4110-home_default/drapiezniki-rys-1-uncja-srebra.jpg"
+											alt="Drapieżniki: Ryś 1 uncja srebra"
+											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4109-large_gallery/drapiezniki-rys-1-uncja-srebra.jpg"
+										/>
+									</span>
+															</a>
+						                    
+                    					<div class="conditions-box">
+																		
+					</div>
+				<div class="button-container">
+																				<form class="btn-add-to-cart" action="https://goldenmark.com/pl/koszyk" method="post">
+									<input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
+									<input type="hidden" name="id_product" value="8064">
+									<input type="hidden" name="qty" value="1">
+									<button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
+										<i class="fa fa-shopping-basket"></i><span class="des_button">Dodaj do koszyka</span>
+									</button>
+								</form>
+																			
+						
+						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
+							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
+						</a>
+				</div>
+                </div>
+                <div class="right-product">
+					
+						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/drapiezniki-rys-1-uncja-srebra/">Drapieżniki: Ryś 1 uncja srebra</a></div>
+					
+					
+						            <div class="comments_note" >
+            <div class="star_content clearfix">
+                                                            <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                </div>
+                    </div>
+    
+					
+					
+					
+							<div class="product-price-and-shipping">
+								
+								<span itemprop="price" class="price">152,00 zł</span>
+																
+								
+							</div>
+
+										
+                    <div class="highlighted-informations no-variants hidden-sm-down">
+                        
+                                                    
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+                        
+	  
+                                            
+                            
+
+
+	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
+
 						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature prod--grayed" data-id-product="19267" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
                 <div class="left-product">
                     
@@ -1191,7 +1433,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">288,00 zł</span>
+								<span itemprop="price" class="price">285,00 zł</span>
 																
 								
 							</div>
@@ -1346,7 +1588,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">297,00 zł</span>
+								<span itemprop="price" class="price">294,00 zł</span>
 																
 								
 							</div>
@@ -1573,7 +1815,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">4 183,00 zł</span>
+								<span itemprop="price" class="price">4 142,00 zł</span>
 																
 								
 							</div>
@@ -1656,7 +1898,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">171,00 zł</span>
+								<span itemprop="price" class="price">170,00 zł</span>
 																
 								
 							</div>
@@ -1815,7 +2057,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">144,00 zł</span>
+								<span itemprop="price" class="price">143,00 zł</span>
 																
 								
 							</div>
@@ -1970,7 +2212,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">326,00 zł</span>
+								<span itemprop="price" class="price">322,00 zł</span>
 																
 								
 							</div>
@@ -2053,7 +2295,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">297,00 zł</span>
+								<span itemprop="price" class="price">294,00 zł</span>
 																
 								
 							</div>
@@ -2136,7 +2378,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">86,00 zł</span>
+								<span itemprop="price" class="price">85,00 zł</span>
 																
 								
 							</div>
@@ -2219,7 +2461,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">145,00 zł</span>
+								<span itemprop="price" class="price">144,00 zł</span>
 																
 								
 							</div>
@@ -2309,248 +2551,234 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                         
 	  
-                                            
-                            
-
-
-	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
-
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature prod--grayed" data-id-product="8072" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                <div class="left-product">
-                    
-													<a href="https://goldenmark.com/pl/rwanda-santa-maria-1-uncja-srebra/" class="thumbnail product-thumbnail">
-								<span class="cover_image">
-									<img loading="lazy" class="img-responsive"
-										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4121-home_default/rwanda-santa-maria-1-uncja-srebra.jpg"
-										alt="Rwanda Santa Maria 1 uncja srebra"
-										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4121-large_gallery/rwanda-santa-maria-1-uncja-srebra.jpg"
-									/>
-								</span>
-																	<span class="hover_image">
-										<img loading="lazy" class="img-responsive"
-											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4122-home_default/rwanda-santa-maria-1-uncja-srebra.jpg"
-											alt="Rwanda Santa Maria 1 uncja srebra"
-											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4121-large_gallery/rwanda-santa-maria-1-uncja-srebra.jpg"
-										/>
-									</span>
-															</a>
-						                    
-                    					<div class="conditions-box">
-																		
-					</div>
-				<div class="button-container">
-																				<form class="btn-add-to-cart" action="https://goldenmark.com/pl/koszyk" method="post">
-									<input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
-									<input type="hidden" name="id_product" value="8072">
-									<input type="hidden" name="qty" value="1">
-									<button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
-										<i class="fa fa-shopping-basket"></i><span class="des_button">Dodaj do koszyka</span>
-									</button>
-								</form>
-																			
-						
-						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
-							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
-						</a>
-				</div>
-                </div>
-                <div class="right-product">
-					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/rwanda-santa-maria-1-uncja-srebra/">Rwanda Santa Maria 1 uncja srebra</a></div>
-					
-					
-						            <div class="comments_note" >
-            <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
-                    </div>
-    
-					
-					
-					
-							<div class="product-price-and-shipping">
-								
-								<span itemprop="price" class="price">195,00 zł</span>
-																
-								
-							</div>
-
-										
-                    <div class="highlighted-informations no-variants hidden-sm-down">
-                        
-                                                    
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-                        
-	  
-                                            
-                            
-
-
-	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
-
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature prod--grayed" data-id-product="8304" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                <div class="left-product">
-                    
-													<a href="https://goldenmark.com/pl/sztabka-los-1oz-ag/" class="thumbnail product-thumbnail">
-								<img loading="lazy" class="img-responsive"
-									src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/img/p/pl-default-home_default.jpg"
-									>
-							</a>
-						                    
-                    					<div class="conditions-box">
-																		
-					</div>
-				<div class="button-container">
-																				<form class="btn-add-to-cart" action="https://goldenmark.com/pl/koszyk" method="post">
-									<input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
-									<input type="hidden" name="id_product" value="8304">
-									<input type="hidden" name="qty" value="1">
-									<button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
-										<i class="fa fa-shopping-basket"></i><span class="des_button">Dodaj do koszyka</span>
-									</button>
-								</form>
-																			
-						
-						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
-							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
-						</a>
-				</div>
-                </div>
-                <div class="right-product">
-					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/sztabka-los-1oz-ag/">Sztabka Łoś 1oz Ag</a></div>
-					
-					
-						            <div class="comments_note" >
-            <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
-                    </div>
-    
-					
-					
-					
-							<div class="product-price-and-shipping">
-								
-								<span itemprop="price" class="price">249,00 zł</span>
-																
-								
-							</div>
-
-										
-                    <div class="highlighted-informations no-variants hidden-sm-down">
-                        
-                                                    
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-                        
-	  
-                                            
-                            
-
-
-	<div class="item col-xs-12 col-sm-6 col-md-6  col-lg-4" >
-
-						<div class="item-inner thumbnail-container">            <div class=" product-miniature js-product-miniature -grayed" data-id-product="8063" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                <div class="left-product">
-                    
-													<a href="https://goldenmark.com/pl/libertad-1-uncja-srebra-3089/" class="thumbnail product-thumbnail">
-								<span class="cover_image">
-									<img loading="lazy" class="img-responsive"
-										 										src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4107-home_default/libertad-1-uncja-srebra-3089.jpg"
-										alt="Libertad 1 uncja srebra"
-										data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4107-large_gallery/libertad-1-uncja-srebra-3089.jpg"
-									/>
-								</span>
-																	<span class="hover_image">
-										<img loading="lazy" class="img-responsive"
-											 											src="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4108-home_default/libertad-1-uncja-srebra-3089.jpg"
-											alt="Libertad 1 uncja srebra"
-											data-full-size-image-url="https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4107-large_gallery/libertad-1-uncja-srebra-3089.jpg"
-										/>
-									</span>
-															</a>
-						                    
-                    					<div class="conditions-box">
-																		
-					</div>
-				<div class="button-container">
-																				<form class="btn-add-to-cart" action="https://goldenmark.com/pl/koszyk" method="post">
-									<input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
-									<input type="hidden" name="id_product" value="8063">
-									<input type="hidden" name="qty" value="1">
-									<button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" >
-										<i class="fa fa-shopping-basket"></i><span class="des_button">Dodaj do koszyka</span>
-									</button>
-								</form>
-																			
-						
-						<a href="javascript:void(0)" class="quick-view" data-link-action="quickview">
-							<i class="fa fa-eye"></i><span class="des_button">Quick view</span>
-						</a>
-				</div>
-                </div>
-                <div class="right-product">
-					
-						<div class="product_name" itemprop="name"><a href="https://goldenmark.com/pl/libertad-1-uncja-srebra-3089/">Libertad 1 uncja srebra</a></div>
-					
-					
-						            <div class="comments_note" >
-            <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
-                    </div>
-    
-					
-					
-					
-							<div class="product-price-and-shipping">
-								
-								<span itemprop="price" class="price">175,00 zł</span>
-																
-								
-							</div>
-
-										
-                    <div class="highlighted-informations no-variants hidden-sm-down">
-                        
-                                                    
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-                        
-	  
                                     	    
             </div>
         </div>
         <div id="box-product-list">
+                            <div class="item-product-list">
+                    <div class="product-miniature js-product-miniature" data-id-product="19266" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+                        <div class="left-product">
+                            <a href="https://goldenmark.com/pl/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra/" class="thumbnail product-thumbnail">
+                                <span class="cover_image">
+                                    <img  class="img-responsive"
+                                          itemprop="image"
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4597-home_default/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4597-large_gallery/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg" alt=""
+                                          width="270"                                          height="330" 
+                                          >
+                                </span>
+                                                                    <span class="hover_image">
+                                        <img class="img-responsive"
+                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4598-home_default/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg"
+                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4598-large_default/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra.jpg" alt=""
+                                             width="270"                                             height="330" 
+                                             > 
+                                    </span>
+                                               
+                            </a> 
+                            <div class="conditions-box">
+																						
+									  
+							</div>
+                                                       
+                        </div>  
+                        <div class="right-product">	
+							<div class="des_left">
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/zabytki-wielkiej-brytanii-palac-buckingham-1-uncja-srebra/">Zabytki Wielkiej Brytanii:...</a></div> 
+								<div class="title_font product_category_name">Srebro lokacyjne</div>
+							</div>
+							<div class="des_right">								
+																	<div class="product-price-and-shipping">
+										
+										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="152">152,00 zł</span>
+										</span>
+																				
+										
+									</div>
+								 
+								            <div class="comments_note" >
+            <div class="star_content clearfix">
+                                                            <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                </div>
+                    </div>
+    	
+							</div>
+							<div class="decriptions-short">
+                                
+                            </div>							                          
+                            <div class="button-action-list">								
+								 
+																			<form class="btn-add-to-cart-list" action="" method="post">
+                                            <input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
+                                            <input type="hidden" name="id_product" value="19266">
+                                            <input type="hidden" name="qty" value="1">
+                                            <button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
+												<i class="fa fa-shopping-basket"></i><span>Dodaj do koszyka</span>
+											</button>
+										</form>
+																									
+								
+								<div class="btn-quickview-list">
+									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
+										<i class="fa fa-eye"></i>
+									</a> 
+								</div>								
+                            </div>							
+                        </div>
+                    </div>
+                </div>
+                            <div class="item-product-list">
+                    <div class="product-miniature js-product-miniature" data-id-product="9391" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+                        <div class="left-product">
+                            <a href="https://goldenmark.com/pl/sztabka-kamienie-rzeczne-10g-ag/" class="thumbnail product-thumbnail">
+                                <span class="cover_image">
+                                    <img  class="img-responsive"
+                                          itemprop="image"
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4557-home_default/sztabka-kamienie-rzeczne-10g-ag.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4557-large_gallery/sztabka-kamienie-rzeczne-10g-ag.jpg" alt=""
+                                          width="270"                                          height="330" 
+                                          >
+                                </span>
+                                               
+                            </a> 
+                            <div class="conditions-box">
+																						
+									  
+							</div>
+                                                       
+                        </div>  
+                        <div class="right-product">	
+							<div class="des_left">
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/sztabka-kamienie-rzeczne-10g-ag/">Sztabka Kamienie Rzeczne...</a></div> 
+								<div class="title_font product_category_name">Fauna i flora</div>
+							</div>
+							<div class="des_right">								
+																	<div class="product-price-and-shipping">
+										
+										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="199">199,00 zł</span>
+										</span>
+																				
+										
+									</div>
+								 
+								            <div class="comments_note" >
+            <div class="star_content clearfix">
+                                                            <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                </div>
+                    </div>
+    	
+							</div>
+							<div class="decriptions-short">
+                                
+                            </div>							                          
+                            <div class="button-action-list">								
+								 
+																			<form class="btn-add-to-cart-list" action="" method="post">
+                                            <input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
+                                            <input type="hidden" name="id_product" value="9391">
+                                            <input type="hidden" name="qty" value="1">
+                                            <button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
+												<i class="fa fa-shopping-basket"></i><span>Dodaj do koszyka</span>
+											</button>
+										</form>
+																									
+								
+								<div class="btn-quickview-list">
+									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
+										<i class="fa fa-eye"></i>
+									</a> 
+								</div>								
+                            </div>							
+                        </div>
+                    </div>
+                </div>
+                            <div class="item-product-list">
+                    <div class="product-miniature js-product-miniature" data-id-product="8064" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
+                        <div class="left-product">
+                            <a href="https://goldenmark.com/pl/drapiezniki-rys-1-uncja-srebra/" class="thumbnail product-thumbnail">
+                                <span class="cover_image">
+                                    <img  class="img-responsive"
+                                          itemprop="image"
+                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4109-home_default/drapiezniki-rys-1-uncja-srebra.jpg"
+                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4109-large_gallery/drapiezniki-rys-1-uncja-srebra.jpg" alt=""
+                                          width="270"                                          height="330" 
+                                          >
+                                </span>
+                                                                    <span class="hover_image">
+                                        <img class="img-responsive"
+                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4110-home_default/drapiezniki-rys-1-uncja-srebra.jpg"
+                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4110-large_default/drapiezniki-rys-1-uncja-srebra.jpg" alt=""
+                                             width="270"                                             height="330" 
+                                             > 
+                                    </span>
+                                               
+                            </a> 
+                            <div class="conditions-box">
+																						
+									  
+							</div>
+                                                       
+                        </div>  
+                        <div class="right-product">	
+							<div class="des_left">
+								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/drapiezniki-rys-1-uncja-srebra/">Drapieżniki: Ryś 1 uncja...</a></div> 
+								<div class="title_font product_category_name">Srebro lokacyjne</div>
+							</div>
+							<div class="des_right">								
+																	<div class="product-price-and-shipping">
+										
+										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="152">152,00 zł</span>
+										</span>
+																				
+										
+									</div>
+								 
+								            <div class="comments_note" >
+            <div class="star_content clearfix">
+                                                            <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                                <div class="star"></div>
+                                                                </div>
+                    </div>
+    	
+							</div>
+							<div class="decriptions-short">
+                                
+                            </div>							                          
+                            <div class="button-action-list">								
+								 
+																			<form class="btn-add-to-cart-list" action="" method="post">
+                                            <input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
+                                            <input type="hidden" name="id_product" value="8064">
+                                            <input type="hidden" name="qty" value="1">
+                                            <button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
+												<i class="fa fa-shopping-basket"></i><span>Dodaj do koszyka</span>
+											</button>
+										</form>
+																									
+								
+								<div class="btn-quickview-list">
+									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
+										<i class="fa fa-eye"></i>
+									</a> 
+								</div>								
+                            </div>							
+                        </div>
+                    </div>
+                </div>
                             <div class="item-product-list">
                     <div class="product-miniature js-product-miniature" data-id-product="19267" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
                         <div class="left-product">
@@ -2587,7 +2815,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="288">288,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="285">285,00 zł</span>
 										</span>
 																				
 										
@@ -2734,7 +2962,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="297">297,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="294">294,00 zł</span>
 										</span>
 																				
 										
@@ -2947,7 +3175,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4183">4 183,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4142">4 142,00 zł</span>
 										</span>
 																				
 										
@@ -3024,7 +3252,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="171">171,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="170">170,00 zł</span>
 										</span>
 																				
 										
@@ -3171,7 +3399,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="144">144,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="143">143,00 zł</span>
 										</span>
 																				
 										
@@ -3318,7 +3546,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="326">326,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="322">322,00 zł</span>
 										</span>
 																				
 										
@@ -3395,7 +3623,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="297">297,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="294">294,00 zł</span>
 										</span>
 																				
 										
@@ -3472,7 +3700,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="86">86,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="85">85,00 zł</span>
 										</span>
 																				
 										
@@ -3549,7 +3777,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="145">145,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="144">144,00 zł</span>
 										</span>
 																				
 										
@@ -3646,230 +3874,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             <input type="hidden" name="id_product" value="9649">
                                             <input type="hidden" name="qty" value="1">
                                             <button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
-												<i class="fa fa-shopping-basket"></i><span>Dodaj do koszyka</span>
-											</button>
-										</form>
-																									
-								
-								<div class="btn-quickview-list">
-									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
-										<i class="fa fa-eye"></i>
-									</a> 
-								</div>								
-                            </div>							
-                        </div>
-                    </div>
-                </div>
-                            <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8072" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                        <div class="left-product">
-                            <a href="https://goldenmark.com/pl/rwanda-santa-maria-1-uncja-srebra/" class="thumbnail product-thumbnail">
-                                <span class="cover_image">
-                                    <img  class="img-responsive"
-                                          itemprop="image"
-                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4121-home_default/rwanda-santa-maria-1-uncja-srebra.jpg"
-                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4121-large_gallery/rwanda-santa-maria-1-uncja-srebra.jpg" alt=""
-                                          width="270"                                          height="330" 
-                                          >
-                                </span>
-                                                                    <span class="hover_image">
-                                        <img class="img-responsive"
-                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4122-home_default/rwanda-santa-maria-1-uncja-srebra.jpg"
-                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4122-large_default/rwanda-santa-maria-1-uncja-srebra.jpg" alt=""
-                                             width="270"                                             height="330" 
-                                             > 
-                                    </span>
-                                               
-                            </a> 
-                            <div class="conditions-box">
-																						
-									  
-							</div>
-                                                       
-                        </div>  
-                        <div class="right-product">	
-							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/rwanda-santa-maria-1-uncja-srebra/">Rwanda Santa Maria 1 uncja...</a></div> 
-								<div class="title_font product_category_name">Srebro lokacyjne</div>
-							</div>
-							<div class="des_right">								
-																	<div class="product-price-and-shipping">
-										
-										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="195">195,00 zł</span>
-										</span>
-																				
-										
-									</div>
-								 
-								            <div class="comments_note" >
-            <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
-                    </div>
-    	
-							</div>
-							<div class="decriptions-short">
-                                
-                            </div>							                          
-                            <div class="button-action-list">								
-								 
-																			<form class="btn-add-to-cart-list" action="" method="post">
-                                            <input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
-                                            <input type="hidden" name="id_product" value="8072">
-                                            <input type="hidden" name="qty" value="1">
-                                            <button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
-												<i class="fa fa-shopping-basket"></i><span>Dodaj do koszyka</span>
-											</button>
-										</form>
-																									
-								
-								<div class="btn-quickview-list">
-									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
-										<i class="fa fa-eye"></i>
-									</a> 
-								</div>								
-                            </div>							
-                        </div>
-                    </div>
-                </div>
-                            <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8304" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                        <div class="left-product">
-                            <a href="https://goldenmark.com/pl/sztabka-los-1oz-ag/" class="thumbnail product-thumbnail">
-                                <span class="cover_image">
-                                    <img  class="img-responsive"
-                                          itemprop="image"
-                                          src = ""
-                                          data-full-size-image-url = "" alt=""
-                                          width="270"                                          height="330" 
-                                          >
-                                </span>
-                                               
-                            </a> 
-                            <div class="conditions-box">
-																						
-									  
-							</div>
-                                                       
-                        </div>  
-                        <div class="right-product">	
-							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/sztabka-los-1oz-ag/">Sztabka Łoś 1oz Ag</a></div> 
-								<div class="title_font product_category_name">Fauna i flora</div>
-							</div>
-							<div class="des_right">								
-																	<div class="product-price-and-shipping">
-										
-										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="249">249,00 zł</span>
-										</span>
-																				
-										
-									</div>
-								 
-								            <div class="comments_note" >
-            <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
-                    </div>
-    	
-							</div>
-							<div class="decriptions-short">
-                                
-                            </div>							                          
-                            <div class="button-action-list">								
-								 
-																			<form class="btn-add-to-cart-list" action="" method="post">
-                                            <input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
-                                            <input type="hidden" name="id_product" value="8304">
-                                            <input type="hidden" name="qty" value="1">
-                                            <button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" disabled>
-												<i class="fa fa-shopping-basket"></i><span>Dodaj do koszyka</span>
-											</button>
-										</form>
-																									
-								
-								<div class="btn-quickview-list">
-									<a href="javascript:void(0)" class="quick-view" data-link-action="quickview" title="Quick view"> 
-										<i class="fa fa-eye"></i>
-									</a> 
-								</div>								
-                            </div>							
-                        </div>
-                    </div>
-                </div>
-                            <div class="item-product-list">
-                    <div class="product-miniature js-product-miniature" data-id-product="8063" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
-                        <div class="left-product">
-                            <a href="https://goldenmark.com/pl/libertad-1-uncja-srebra-3089/" class="thumbnail product-thumbnail">
-                                <span class="cover_image">
-                                    <img  class="img-responsive"
-                                          itemprop="image"
-                                          src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4107-home_default/libertad-1-uncja-srebra-3089.jpg"
-                                          data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4107-large_gallery/libertad-1-uncja-srebra-3089.jpg" alt=""
-                                          width="270"                                          height="330" 
-                                          >
-                                </span>
-                                                                    <span class="hover_image">
-                                        <img class="img-responsive"
-                                             src = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4108-home_default/libertad-1-uncja-srebra-3089.jpg"
-                                             data-full-size-image-url = "https://199816-1328512-raikfcquaxqncofqfm.stackpathdns.com/4108-large_default/libertad-1-uncja-srebra-3089.jpg" alt=""
-                                             width="270"                                             height="330" 
-                                             > 
-                                    </span>
-                                               
-                            </a> 
-                            <div class="conditions-box">
-																						
-									  
-							</div>
-                                                       
-                        </div>  
-                        <div class="right-product">	
-							<div class="des_left">
-								<div class="product_name" itemprop="name"><a itemprop="url" href="https://goldenmark.com/pl/libertad-1-uncja-srebra-3089/">Libertad 1 uncja srebra</a></div> 
-								<div class="title_font product_category_name">Srebro lokacyjne</div>
-							</div>
-							<div class="des_right">								
-																	<div class="product-price-and-shipping">
-										
-										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="175">175,00 zł</span>
-										</span>
-																				
-										
-									</div>
-								 
-								            <div class="comments_note" >
-            <div class="star_content clearfix">
-                                                            <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                                <div class="star"></div>
-                                                                </div>
-                    </div>
-    	
-							</div>
-							<div class="decriptions-short">
-                                
-                            </div>							                          
-                            <div class="button-action-list">								
-								 
-																			<form class="btn-add-to-cart-list" action="https://goldenmark.com/pl/koszyk?add=1&amp;id_product=8063&amp;id_product_attribute=0" method="post">
-                                            <input type="hidden" name="token" value="4c5116be8943ab3c8b6d82bea6c1e1a0">
-                                            <input type="hidden" name="id_product" value="8063">
-                                            <input type="hidden" name="qty" value="1">
-                                            <button class="btn add-to-cart" data-button-action="add-to-cart" type="submit" >
 												<i class="fa fa-shopping-basket"></i><span>Dodaj do koszyka</span>
 											</button>
 										</form>
@@ -4244,7 +4248,7 @@ article.product-miniature.js-product-miniature {
 			<span class="flame"></span>
         </div>
         
-              <script  src="https://goldenmark.com/themes/child/assets/cache/bottom-8b0d63240.js" ></script>
+              <script  src="https://goldenmark.com/themes/child/assets/cache/bottom-8b0d63242.js" ></script>
 
 
                             <!-- Start Custom JS -->
@@ -4443,7 +4447,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "185b2d3dc3ece76ce104388a1e5d76bf879949cb";
+									as4Plugin.localCacheKey = "e4905e50f79b765ee1f99a2fa56feba8af13fdb9";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
@@ -4587,7 +4591,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "185b2d3dc3ece76ce104388a1e5d76bf879949cb";
+									as4Plugin.localCacheKey = "e4905e50f79b765ee1f99a2fa56feba8af13fdb9";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
