@@ -6,4 +6,5 @@ Metryczka
 
     Ostatnie generowanie: last_generation_time
     Czas generowania: generation_time
-    Ilość źródeł: source_count
+    Ilość produktów: products_count
+    Ilość źródeł: sources_count
