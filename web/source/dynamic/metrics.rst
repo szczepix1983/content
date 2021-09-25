@@ -4,6 +4,6 @@ Metryczka
 ``Dane dot. zawartości generycznej:``
 ::
 
-    Ostatnie generowanie: last_7 s.
+    Ostatnie generowanie: 25/09/2021 08:41
     Czas generowania: 7 s.
     Ilość źródeł: 2026
