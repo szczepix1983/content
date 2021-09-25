@@ -357,7 +357,7 @@ Sortuj wg:
 <table class="products viewphot">
 <tbody>
 <tr class="fewperrow">
-<td class="even col3">
+ <td class="even col3">
 <div class="product" id="product_556">
 <a class="details spanhover" href="/produkt/sztabka-srebra-1-kg-lbma" title="1 kg  sztabka srebra">
 <span class="productlistimgsize">
@@ -376,7 +376,7 @@ Sortuj wg:
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
 <input type="hidden" value="607" name="stock_id" />
- <button class="addtobasket" type="submit">
+<button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
 </button>
@@ -385,7 +385,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
-<td class="odd col3">
+ <td class="odd col3">
 <div class="product" id="product_985">
 <a class="details spanhover" href="/produkt/sztaba-gaska-srebra-1000-uncji" title="1000 uncji Srebrna Sztabka Gąska">
 <span class="productlistimgsize">
@@ -403,7 +403,7 @@ Sortuj wg:
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
 <input type="hidden" value="1042" name="stock_id" />
- <button class="addtobasket" type="submit">
+<button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
 </button>
@@ -412,7 +412,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
-<td class="spacefill even col3"></td>
+ <td class="spacefill even col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>
