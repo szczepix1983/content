@@ -541,7 +541,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1632556947.2581
+			've[time_begin]': 1632564142.5337
 		},
 		hidden: true
 	});
@@ -550,7 +550,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fsrebro-inwestycyjne-page-4.html&amp;ve%5Btitle%5D=Srebro+-+Ceny+i+Sprzeda%C5%BC+Srebra+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1632556947.2581" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fsrebro-inwestycyjne-page-4.html&amp;ve%5Btitle%5D=Srebro+-+Ceny+i+Sprzeda%C5%BC+Srebra+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1632564142.5337" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
