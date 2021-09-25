@@ -1618,7 +1618,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1632528139.345
+			've[time_begin]': 1632556079.5745
 		},
 		hidden: true
 	});
@@ -1627,7 +1627,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-2.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1632528139.345" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-2.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1632556079.5745" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
