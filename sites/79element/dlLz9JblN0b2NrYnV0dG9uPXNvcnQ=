@@ -862,7 +862,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
 			<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Wyświetlanie 1&ndash;12 z 110 wyników</p>
+	Wyświetlanie 1&ndash;12 z 109 wyników</p>
 <form class="woocommerce-ordering" method="get">
 	<select name="orderby" class="orderby" aria-label="Zamówienie">
 					<option value="menu_order"  selected='selected'>Domyślne sortowanie</option>
@@ -1084,7 +1084,7 @@ var bocJSParams = {"boc_is_mobile_device":"","boc_theme_url":"https:\/\/79elemen
                         <span class="newFooterRowHeader">Kontakt</span>
                         <span class="newFooterRowItem">79th Element sp. z o.o.</span>
                         <a href="tel:+48783340871" class="newFooterRowItem">+48 783 340 871</a>
-                        <a href="/cdn-cgi/l/email-protection#3f4c54535a4f7f08065a535a525a514b114f53" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="8cffe7e0e9fcccbbb5e9e0e9e1e9e2f8a2fce0">[email&#160;protected]</span></a>
+                        <a href="/cdn-cgi/l/email-protection#dcafb7b0b9ac9cebe5b9b0b9b1b9b2a8f2acb0" class="newFooterRowItem"><span class="__cf_email__" data-cfemail="50233b3c3520106769353c353d353e247e203c">[email&#160;protected]</span></a>
                     </div>
                     <div class="newFooterRow" id="newFooterRow5">
                         <span class="newFooterRowHeader">Produkty</span>
@@ -1164,7 +1164,7 @@ var static_var = {"plugin_url":"https:\/\/79element.pl\/wp-content\/plugins\/fre
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/freshmail-integration/assets/js/user.js?ver=1.0' id='freshmail-script-js'></script>
 <script type='text/javascript' id='cwginstock_js-js-extra'>
 /* <![CDATA[ */
-var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"910101f655","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
+var cwginstock = {"ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/79element.pl\/wp-admin\/admin-ajax.php","security":"b8b03d265f","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","invalid_email":"Prosz\u0119 uzupe\u0142nij e-mail poprawnie.","is_popup":"no","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://79element.pl/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/js/frontend-dev.min.js?ver=2.2' id='cwginstock_js-js'></script>
