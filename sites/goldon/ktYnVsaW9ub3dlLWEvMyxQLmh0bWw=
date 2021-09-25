@@ -175,7 +175,7 @@ autoComplete = new Autocomplete('main_search', {
 <p  class="box__title header-size-4 header-brand-bg">Filtrowanie</p>
 </header>
 <div  class="box_content contentToggle">
-<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-1-oz,dCw-FA.html">1 oz (203)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','29','2 oz','2-oz','HQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-2-oz,dCw-HQ.html">2 oz (20)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','74','10 oz','10-oz','Sg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-10-oz,dCw-Sg.html">10 oz (14)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','35','30 g','30-g','Iw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-30-g,dCw-Iw.html">30 g (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','24','1/2 oz','1-2-oz','GA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/masa-1-2-oz,dCw-GA.html">1/2 oz (2)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-1-oz,dCw-FA.html">1 oz (205)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','29','2 oz','2-oz','HQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-2-oz,dCw-HQ.html">2 oz (22)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','74','10 oz','10-oz','Sg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-10-oz,dCw-Sg.html">10 oz (14)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','35','30 g','30-g','Iw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-30-g,dCw-Iw.html">30 g (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','24','1/2 oz','1-2-oz','GA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/masa-1-2-oz,dCw-GA.html">1/2 oz (2)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_11').click(function() {
                             var urlred = "/srebrne-monety-bulionowe-a.html";
@@ -204,7 +204,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_11" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','205','do 21 dni','do-21-dni','zQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-21-dni,dDQ-zQ.html">do 21 dni (4)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','200','do 14 dni','do-14-dni','yA')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-14-dni,dDQ-yA.html">do 14 dni (39)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','198','do 10 dni','do-10-dni','xg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-10-dni,dDQ-xg.html">do 10 dni (12)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (5)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','98','3-5 dni roboczych','3-5-dni-roboczych','Yg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-3-5-dni-roboczych,dDQ-Yg.html">3-5 dni roboczych (3)</a></span><a href="/ajax.php?dict_id=13&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=13&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<a id="filter_link_11" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','205','do 21 dni','do-21-dni','zQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-21-dni,dDQ-zQ.html">do 21 dni (4)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','200','do 14 dni','do-14-dni','yA')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-14-dni,dDQ-yA.html">do 14 dni (38)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','198','do 10 dni','do-10-dni','xg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-10-dni,dDQ-xg.html">do 10 dni (11)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (5)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','98','3-5 dni roboczych','3-5-dni-roboczych','Yg')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/termin-wysylki-3-5-dni-roboczych,dDQ-Yg.html">3-5 dni roboczych (2)</span></span><a href="/ajax.php?dict_id=13&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=13&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_13').click(function() {
                             var urlred = "/srebrne-monety-bulionowe-a.html";
@@ -233,7 +233,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_13" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Metal</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'12','95','Ag 999,9','ag-999-9','Xw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999-9,dDA-Xw.html">Ag 999,9 (137)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','49','Ag 999','ag-999','MQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999,dDA-MQ.html">Ag 999 (106)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','202','Ag958','ag958','yg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag958,dDA-yg.html">Ag958 (3)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','48','Au 999','au-999','MA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/metal-au-999,dDA-MA.html">Au 999 (1)</span></span>                <script type="text/javascript">
+<a id="filter_link_13" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Metal</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'12','95','Ag 999,9','ag-999-9','Xw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999-9,dDA-Xw.html">Ag 999,9 (141)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','49','Ag 999','ag-999','MQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999,dDA-MQ.html">Ag 999 (106)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','202','Ag958','ag958','yg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag958,dDA-yg.html">Ag958 (3)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','48','Au 999','au-999','MA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/metal-au-999,dDA-MA.html">Au 999 (1)</span></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_12').click(function() {
                             var urlred = "/srebrne-monety-bulionowe-a.html";
@@ -262,7 +262,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/srebrne-monety-bulionowe-a/producent-austrian-mint,dCg-Ew.html">Austrian Mint (9)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-perth-mint,dCg-FQ.html">Perth Mint (69)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-mint,dCg-Gg.html">The Royal Mint (44)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-royal-canadian-mint,dCg-Jg.html">Royal Canadian Mint (22)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-bavarian-state-mint-munich,dCg-IA.html">Bavarian State Mint Munich (14)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-australian-mint,dCg-gw.html">The Royal Australian Mint (12)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-scottsdale-mint,dCg-mg.html">Scottsdale Mint (10)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-chinese-mint,dCg-Ig.html">Chinese Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-united-states-mint,dCg-NA.html">United States Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-banco-de-mexico,dCg-RA.html">Banco de Mexico (6)</a><a class="more" href="/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;">zobacz więcej &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','23','Australijski Kangur','australijski-kangur','Fw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-australijski-kangur,dCQ-Fw.html">Australijski Kangur (9)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','22','Wiedeńscy Filharmonicy','wiedenscy-filharmonicy','Fg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-wiedenscy-filharmonicy,dCQ-Fg.html">Wiedeńscy Filharmonicy (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','69','The Queens Beasts','the-queen-s-beasts','RQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-the-queen-s-beasts,dCQ-RQ.html">The Queen's Beasts (17)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','83','Britannia','britannia','Uw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-britannia,dCQ-Uw.html">Britannia (13)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','27','Lunar Series II','lunar-series-ii','Gw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-lunar-series-ii,dCQ-Gw.html">Lunar Series II (12)</a></span><a href="/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/srebrne-monety-bulionowe-a/producent-austrian-mint,dCg-Ew.html">Austrian Mint (9)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-perth-mint,dCg-FQ.html">Perth Mint (73)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-mint,dCg-Gg.html">The Royal Mint (44)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-royal-canadian-mint,dCg-Jg.html">Royal Canadian Mint (22)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-bavarian-state-mint-munich,dCg-IA.html">Bavarian State Mint Munich (14)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-australian-mint,dCg-gw.html">The Royal Australian Mint (12)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-scottsdale-mint,dCg-mg.html">Scottsdale Mint (10)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-chinese-mint,dCg-Ig.html">Chinese Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-united-states-mint,dCg-NA.html">United States Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-banco-de-mexico,dCg-RA.html">Banco de Mexico (6)</a><a class="more" href="/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;">zobacz więcej &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','23','Australijski Kangur','australijski-kangur','Fw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-australijski-kangur,dCQ-Fw.html">Australijski Kangur (9)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','22','Wiedeńscy Filharmonicy','wiedenscy-filharmonicy','Fg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-wiedenscy-filharmonicy,dCQ-Fg.html">Wiedeńscy Filharmonicy (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','69','The Queens Beasts','the-queen-s-beasts','RQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-the-queen-s-beasts,dCQ-RQ.html">The Queen's Beasts (17)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','83','Britannia','britannia','Uw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-britannia,dCQ-Uw.html">Britannia (13)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','27','Lunar Series II','lunar-series-ii','Gw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-lunar-series-ii,dCQ-Gw.html">Lunar Series II (12)</a></span><a href="/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_9').click(function() {
                             var urlred = "/srebrne-monety-bulionowe-a.html";
@@ -396,7 +396,7 @@ autoComplete = new Autocomplete('main_search', {
 		</script>
 		</div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -430,6 +430,161 @@ Srebrne monety bulionowe</h1>
 </div>
 </aside>
 <div class="row clear products_container">
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1607"  data-cart-id="1607">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-amerykanski-orzel-1-oz-1987.html" onclick="">
+<img src="/srebrna-moneta-amerykanski-orzel-1-oz-1987.0.1628879197.jpg" alt="Srebrna moneta   Amerykański   Orzeł   1 oz   1987" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-amerykanski-orzel-1-oz-1987.html" class="product-name-link" itemprop="url">
+Srebrna moneta   Amerykański   Orzeł   1 oz   1987</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="190.00">190,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="677"  data-cart-id="677">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-amerykanski-orzel-1-oz-1988.html" onclick="">
+<img src="/srebrna-moneta-amerykanski-orzel-1-oz-1988.0.1628879038.jpg" alt="Srebrna moneta   Amerykański   Orzeł   1 oz   1988" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-amerykanski-orzel-1-oz-1988.html" class="product-name-link" itemprop="url">
+Srebrna moneta   Amerykański   Orzeł   1 oz   1988</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="180.00">180,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1451"  data-cart-id="1451">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-amerykanski-orzel-1-oz-1989.html" onclick="">
+<img src="/srebrna-moneta-amerykanski-orzel-1-oz-1989.0.1628878772.jpg" alt="Srebrna moneta   Amerykański   Orzeł   1 oz   1989" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-amerykanski-orzel-1-oz-1989.html" class="product-name-link" itemprop="url">
+Srebrna moneta   Amerykański   Orzeł   1 oz   1989</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="185.00">185,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1148"  data-cart-id="1148">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-amerykanski-orzel-1-oz-1990.html" onclick="">
+<img src="/srebrna-moneta-amerykanski-orzel-1-oz-1990.0.1628878186.jpg" alt="Srebrna moneta   Amerykański   Orzeł   1 oz  1990" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-amerykanski-orzel-1-oz-1990.html" class="product-name-link" itemprop="url">
+Srebrna moneta   Amerykański   Orzeł   1 oz  1990</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="185.00">185,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1497"  data-cart-id="1497">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-kangur-1-oz-2021.html" onclick="">
+<img src="/srebrna-moneta-kangur-1-oz-2021.jpg" alt="Srebrna moneta   Kangur  1 oz   2021" width="198" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-kangur-1-oz-2021.html" class="product-name-link" itemprop="url">
+Srebrna moneta   Kangur  1 oz   2021</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="113.55">113,55 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
 <article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1199"  data-cart-id="1199">
 <div class="image">
 <figure>
@@ -636,161 +791,6 @@ Srebrna moneta  Cutty Sark   2021 1 oz</a>
 <div class="price clear">
 <div class="price-regular">
 <span class="price-value"  itemprop="price" content="135.00">135,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1392"  data-cart-id="1392">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-funnel-web-spider-1-oz-2015.html" onclick="">
-<img src="/srebrna-moneta-funnel-web-spider-1-oz-2015.jpg" alt="Srebrna moneta  Funnel Web Spider  1 oz  2015" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-funnel-web-spider-1-oz-2015.html" class="product-name-link" itemprop="url">
-Srebrna moneta  Funnel Web Spider  1 oz  2015</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="150.00">150,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1559"  data-cart-id="1559">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-godzilla-niue-2021.html" onclick="">
-<img src="/srebrna-moneta-godzilla-niue-2021.jpg" alt="Srebrna moneta  Godzilla , Niue 2021" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-godzilla-niue-2021.html" class="product-name-link" itemprop="url">
-Srebrna moneta  Godzilla , Niue 2021</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="155.00">155,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1424"  data-cart-id="1424">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-jastrzab-kanada-1-oz-2015-r-spot-milk.html" onclick="">
-<img src="/srebrna-moneta-jastrzab-kanada-1-oz-2015-r-spot-milk.jpg" alt="Srebrna moneta  Jastrząb , Kanada   1 oz   2015 r (spot milk)" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-jastrzab-kanada-1-oz-2015-r-spot-milk.html" class="product-name-link" itemprop="url">
-Srebrna moneta  Jastrząb , Kanada   1 oz   2015 r (spot milk)</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="160.00">160,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1536"  data-cart-id="1536">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-john-wayne-1-oz-2021.html" onclick="">
-<img src="/srebrna-moneta-john-wayne-1-oz-2021.jpg" alt="Srebrna moneta  John Wayne  1 oz   2021" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-john-wayne-1-oz-2021.html" class="product-name-link" itemprop="url">
-Srebrna moneta  John Wayne  1 oz   2021</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="167.00">167,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1558"  data-cart-id="1558">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-king-kong-niue-2021.html" onclick="">
-<img src="/srebrna-moneta-king-kong-niue-2021.jpg" alt="Srebrna moneta  King Kong  , Niue 2021" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-king-kong-niue-2021.html" class="product-name-link" itemprop="url">
-Srebrna moneta  King Kong  , Niue 2021</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="155.00">155,00 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
