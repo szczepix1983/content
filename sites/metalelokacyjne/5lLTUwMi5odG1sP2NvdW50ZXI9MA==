@@ -389,16 +389,7 @@ display:none;
 </style>
 
 <!-- End additional html or js -->
-                <script>
-                
-                if (window.ApplePaySession && window.ApplePaySession.canMakePayments()) {
-                    var applePayAvailabilityExpires = new Date();
-                    applePayAvailabilityExpires.setTime(applePayAvailabilityExpires.getTime() + 2592000000); //30 days
-                    document.cookie = 'applePayAvailability=yes; expires=' + applePayAvailabilityExpires.toUTCString() + '; path=/'
-                } else {
-                    document.cookie = 'applePayAvailability=no; path=/'
-                }
-                </script></head><body><div id="container" class="search_page 
+</head><body><div id="container" class="search_page 
             
             container" itemscope="itemscope" itemtype="http://schema.org/WebPage"><header class="clearfix "><script type="text/javascript" class="ajaxLoad">
     app_shop.vars.currency_format = "###,##0.00";
@@ -732,7 +723,7 @@ span.dot.active {
                                                         Termin wysyłki - 
                                                         3
                                                                      dni 
-                                                                </div><span class="price">4 095,00 zł</span></div><div class="buy_section"><input type="hidden" name="prodSellby" value="11"><form action="basketchange.php" method="post" class="form_buy"><input type="hidden" name="product" value="5292"><input type="hidden" class="mode" name="mode" value="1"><input type="hidden" name="size" value="uniw"><div class="search_add_basket"><div class="prod-count"><input type="text" name="number" value="1"></div><button type="submit" class="btn_buy" title="Kup!"><span>Kup!</span></button></div></form></div></div></div></div><div class="product_wrapper col-md-4 col-sm-6 col-xs-6"><div class="product_wrapper_sub"><a class="search_addCompare"><i></i></a><a class="product-icon align_row" data-align="img#css" href="/product-zha-2866-Chiwoo-Cheonwang-10-uncji-Srebra-2018.html"><img class="b-lazy" src="/gfx/zha/loader.gif?r=1591079648" data-src-small="/zha_is_Chiwoo-Cheonwang-10-uncji-Srebra-2018-2866.jpg" data-src="/zha_il_Chiwoo-Cheonwang-10-uncji-Srebra-2018-2866.jpg" alt="Chiwoo Cheonwang 10 uncji Srebra 2018"><strong class="label_icons"></strong></a><a class="product-name" href="/product-zha-2866-Chiwoo-Cheonwang-10-uncji-Srebra-2018.html" title="Chiwoo Cheonwang 10 uncji Srebra 2018">Chiwoo Cheonwang 10 uncji Srebra 2018</a><div class="product_prices nview_price"><div class="product_prices_left"><div class="delivery_time">
+                                                                </div><span class="price">4 095,00 zł</span></div><div class="buy_section"><input type="hidden" name="prodSellby" value="10"><form action="basketchange.php" method="post" class="form_buy"><input type="hidden" name="product" value="5292"><input type="hidden" class="mode" name="mode" value="1"><input type="hidden" name="size" value="uniw"><div class="search_add_basket"><div class="prod-count"><input type="text" name="number" value="1"></div><button type="submit" class="btn_buy" title="Kup!"><span>Kup!</span></button></div></form></div></div></div></div><div class="product_wrapper col-md-4 col-sm-6 col-xs-6"><div class="product_wrapper_sub"><a class="search_addCompare"><i></i></a><a class="product-icon align_row" data-align="img#css" href="/product-zha-2866-Chiwoo-Cheonwang-10-uncji-Srebra-2018.html"><img class="b-lazy" src="/gfx/zha/loader.gif?r=1591079648" data-src-small="/zha_is_Chiwoo-Cheonwang-10-uncji-Srebra-2018-2866.jpg" data-src="/zha_il_Chiwoo-Cheonwang-10-uncji-Srebra-2018-2866.jpg" alt="Chiwoo Cheonwang 10 uncji Srebra 2018"><strong class="label_icons"></strong></a><a class="product-name" href="/product-zha-2866-Chiwoo-Cheonwang-10-uncji-Srebra-2018.html" title="Chiwoo Cheonwang 10 uncji Srebra 2018">Chiwoo Cheonwang 10 uncji Srebra 2018</a><div class="product_prices nview_price"><div class="product_prices_left"><div class="delivery_time">
                                                         Termin wysyłki - 
                                                         3
                                                                      dni 
@@ -1384,4 +1375,4 @@ s0.parentNode.insertBefore(s1,s0);
                         applied = true;
                     }
                 });
-                </script><img src="https://client886.idosell.com/checkup.php?c=b2e0f4090e2af539e8c25276339c6143" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client886.idosell.com/checkup.php?c=24efdf2409abc4317dc655793ed2f104" style="display:none" alt="pixel"></body></html>
