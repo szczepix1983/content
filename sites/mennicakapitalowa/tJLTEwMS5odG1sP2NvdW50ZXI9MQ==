@@ -417,7 +417,11 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                 'a': '',
                 'g': ''
             });
-        </script>
+        </script><script>ga('ec:addImpression',{"id":"37","name":"Sztabki z\u0142ota CertiCard 1 uncja","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":1,"price":"7193.90"});
+ga('iaiTracker.ec:addImpression',{"id":"37","name":"Sztabki z\u0142ota CertiCard 1 uncja","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":1,"price":"7193.90"});ga('ec:addImpression',{"id":"36","name":"Sztabki z\u0142ota CertiCard 20g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":2,"price":"4678.80"});
+ga('iaiTracker.ec:addImpression',{"id":"36","name":"Sztabki z\u0142ota CertiCard 20g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":2,"price":"4678.80"});ga('ec:addImpression',{"id":"35","name":"Sztabki z\u0142ota CertiCard 10g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":3,"price":"2383.50"});
+ga('iaiTracker.ec:addImpression',{"id":"35","name":"Sztabki z\u0142ota CertiCard 10g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":3,"price":"2383.50"});ga('ec:addImpression',{"id":"34","name":"Sztabki z\u0142ota CertiCard 5g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":4,"price":"1224.90"});
+ga('iaiTracker.ec:addImpression',{"id":"34","name":"Sztabki z\u0142ota CertiCard 5g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":4,"price":"1224.90"});</script>
 <!-- Begin additional html or js -->
 
 
@@ -690,4 +694,4 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                         applied = true;
                     }
                 });
-                </script><img src="https://client4744.idosell.com/checkup.php?c=17d2f1fbc1328bf9b6822a109ed2a98b" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client4744.idosell.com/checkup.php?c=564dcffdf5f3248b2282f0cda55f21ff" style="display:none" alt="pixel"></body></html>
