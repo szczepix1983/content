@@ -304,7 +304,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="topbar"> <div class="leftcorner"></div> <div class="rightcorner"></div> </div>
 <div class="boxhead">
 <div class="leftside"></div>
-<h3><img src="/public/images/1px.gif" alt="" class="px1" />Przeczytaj przed zakupem</h3>
+ <h3><img src="/public/images/1px.gif" alt="" class="px1" />Przeczytaj przed zakupem</h3>
 <div class="rightside"></div>
 </div>
 <div class="innerbox">
@@ -364,7 +364,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3350/1-uncja-zlota-sztabka-moneta-armillary-valcambi.jpg" alt="1 uncja złota moneta ARMILLARY" />
-</span>  <span class="productname">1 uncja złota moneta ARMILLARY</span>
+</span> <span class="productname">1 uncja złota moneta ARMILLARY</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -392,7 +392,6 @@ Sortuj wg:
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3335/australijski-kangur-1-uncja-zlota.jpg" alt="Australijski Kangur 1 uncja złota" />
-
 </span> <span class="productname">Australijski Kangur 1 uncja złota</span>
 </a>
 <div class="price">
@@ -420,7 +419,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/6cb5f8c781b666fd42ebaf9c22a5f86f.jpg" alt="Britannia 1 uncja złota" />
- </span> <span class="productname">Britannia 1 uncja złota</span>
+</span> <span class="productname">Britannia 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -474,7 +473,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3563/swa_pm_Lunar-III-Rok-Tygrysa-2-uncje-Zlota-2022-5317_1-1.png" alt="Lunar III: Rok Tygrysa 2 uncje złota moneta" />
- </span> <span class="productname">Lunar III: Rok Tygrysa 2 uncje złota moneta</span>
+</span> <span class="productname">Lunar III: Rok Tygrysa 2 uncje złota moneta</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -497,7 +496,7 @@ Sortuj wg:
 <li class="new">new</li> </ul>
 </div>
 </td>
-<td class="odd col3">
+ <td class="odd col3">
 <div class="product" id="product_1002">
 <a class="details spanhover" href="/produkt/zloty-dukat-austriacki-moneta" title="Moneta złota 1 Dukat Austriacki 2021">
 <span class="productlistimgsize">
@@ -524,12 +523,12 @@ Sortuj wg:
 </form>
 </div>
 </div>
-</td>
+ </td>
 </tr><tr class="fewperrow"> <td class="even col3">
 <div class="product" id="product_782">
 <a class="details spanhover" href="/produkt/wiedenscy-filharmonicy-1-uncja-zlota" title="Wiedeński Filharmonik 1 uncja złota">
 <span class="productlistimgsize">
- 
+
 <img class="photo" src="/userdata/public/gfx/3371/Wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt="Wiedeński Filharmonik 1 uncja złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1 uncja złota</span>
 </a>
@@ -550,13 +549,13 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
-</div>
+ </div>
 </td>
 <td class="odd col3">
 <div class="product" id="product_1008">
 <a class="details spanhover" href="/produkt/wiedenski-filharmonik-1-25-uncji-zlota" title="Wiedeński Filharmonik 1/25 uncji złota">
 <span class="productlistimgsize">
- 
+
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3396/1-25-uncji-zlota-wiedenscy-filharmonicy.jpg" alt="Wiedeński Filharmonik 1/25 uncji złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1/25 uncji złota</span>
@@ -578,6 +577,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
+
 </div>
 </td>
 <td class="even col3">
@@ -605,9 +605,10 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
+
 </div>
 </td>
-</tr><tr class="fewperrow">  <td class="odd col3">
+</tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_1059">
 <a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
 <span class="productlistimgsize">
@@ -632,9 +633,9 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
-</div>
+ </div>
 <ul class="tags">
- <li class="new">new</li> </ul>
+<li class="new">new</li> </ul>
 </div>
 </td>
 <td class="even col3">
@@ -658,11 +659,11 @@ Sortuj wg:
 <input type="hidden" value="1117" name="stock_id" />
 <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
-<span>Dodaj do koszyka</span>
+ <span>Dodaj do koszyka</span>
 </button>
 </fieldset>
 </form>
- </div>
+</div>
 </div>
 </td>
 <td class="spacefill odd col3"></td>
@@ -702,7 +703,7 @@ Sortuj wg:
 <li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li> <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
 <li class="overall col5" id="footgroup2"><ul>
 <li class="head">Regulaminy</li>
-<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li>  <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
+<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li>  <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li> <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
 <li class="overall col5" id="footgroup1"><ul>
 <li class="head">Dostawa i płatności</li>
 <li><a href="/formy-dostawy" class="" title="Formy dostawy" id="footlink44">Formy dostawy</a></li> <li><a href="/formy-platnosci" class="" title="Formy płatności" id="footlink24">Formy płatności</a></li> </ul></li>
