@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="navbar" class="navbar-collapse collapse">
 <ul class="nav nav-justified">
 <li class=" dropdown" id="hcategory_9">
- <a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+<a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Złoto
 <span class="fa fa-angle-down"> </span>
 </h3>
@@ -136,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="  " id="hcategory_47">
 <h3>
 <a href="/zlote-monety-bulionowe/1/default/3" title="Monety bulionowe" id="headercategory47" class="spanhover">
-<span>Monety bulionowe</span>
+ <span>Monety bulionowe</span>
 </a>
 </h3>
 </li>
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </a>
 </li>
- <li class="dropdown" style="display: none;">
+<li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
 <span class="fa fa-angle-down"> </span>
@@ -357,7 +357,7 @@ Sortuj wg:
 <table class="products viewphot">
 <tbody>
 <tr class="fewperrow">
- <td class="even col3">
+<td class="even col3">
 <div class="product" id="product_556">
 <a class="details spanhover" href="/produkt/sztabka-srebra-1-kg-lbma" title="1 kg  sztabka srebra">
 <span class="productlistimgsize">
@@ -385,7 +385,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="odd col3">
+<td class="odd col3">
 <div class="product" id="product_985">
 <a class="details spanhover" href="/produkt/sztaba-gaska-srebra-1000-uncji" title="1000 uncji Srebrna Sztabka Gąska">
 <span class="productlistimgsize">
@@ -394,7 +394,7 @@ Sortuj wg:
 </span> <span class="productname">1000 uncji Srebrna Sztabka Gąska</span>
 </a>
 <div class="price">
-<span>Cena:</span>
+ <span>Cena:</span>
 <em>120 390,04 zł</em>
 </div>
 <div class="basket">
@@ -412,7 +412,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="spacefill even col3"></td>
+<td class="spacefill even col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>

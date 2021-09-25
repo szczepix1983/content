@@ -383,14 +383,14 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="odd col3">
 <div class="product" id="product_779">
 <a class="details spanhover" href="/produkt/britannia-1-uncja-srebra" title="Britannia 1 uncja srebra">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" /> 
 <img class="photo" src="/userdata/public/gfx/3320/moneta-inwestycyjna-britannia-1-uncja-srebra-rewers.jpg" alt="Britannia 1 uncja srebra" />
 </span> <span class="productname">Britannia 1 uncja srebra</span>
 </a>
@@ -411,7 +411,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="even col3">
 <div class="product" id="product_1048">
@@ -439,7 +439,6 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
-
 </div>
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
@@ -467,7 +466,7 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
- </div>
+</div>
 </div>
 </td>
 <td class="even col3">
@@ -494,7 +493,7 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
- </div>
+</div>
 </div>
 </td>
 <td class="odd col3">
@@ -521,7 +520,7 @@ Sortuj wg:
 <span>Dodaj do koszyka</span>
 </button>
 </fieldset>
- </form>
+</form>
 </div>
 </div>
 </td>
