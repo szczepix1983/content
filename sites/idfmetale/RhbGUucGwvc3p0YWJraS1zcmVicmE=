@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'NTU2,OTg1,';
             </script>
-</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632555995154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632566179154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="navbar" class="navbar-collapse collapse">
 <ul class="nav nav-justified">
 <li class=" dropdown" id="hcategory_9">
- <a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+<a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Złoto
 <span class="fa fa-angle-down"> </span>
 </h3>
@@ -357,7 +357,7 @@ Sortuj wg:
 <table class="products viewphot">
 <tbody>
 <tr class="fewperrow">
- <td class="even col3">
+<td class="even col3">
 <div class="product" id="product_556">
 <a class="details spanhover" href="/produkt/sztabka-srebra-1-kg-lbma" title="1 kg  sztabka srebra">
 <span class="productlistimgsize">
@@ -376,7 +376,7 @@ Sortuj wg:
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
 <input type="hidden" value="607" name="stock_id" />
-<button class="addtobasket" type="submit">
+ <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
 </button>
@@ -385,7 +385,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="odd col3">
+<td class="odd col3">
 <div class="product" id="product_985">
 <a class="details spanhover" href="/produkt/sztaba-gaska-srebra-1000-uncji" title="1000 uncji Srebrna Sztabka Gąska">
 <span class="productlistimgsize">
@@ -403,7 +403,7 @@ Sortuj wg:
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
 <input type="hidden" value="1042" name="stock_id" />
-<button class="addtobasket" type="submit">
+ <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
 </button>
@@ -412,7 +412,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="spacefill even col3"></td>
+<td class="spacefill even col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>
