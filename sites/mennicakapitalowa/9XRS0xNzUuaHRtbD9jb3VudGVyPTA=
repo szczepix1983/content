@@ -433,7 +433,8 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                 'a': '',
                 'g': ''
             });
-        </script>
+        </script><script>ga('ec:addImpression',{"id":"6797","name":"1 uncja sztabko-moneta srebrna - Smok 2020 (24h)","list":"Search Results","brand":"Perth Mint","category":"Srebro - monety","position":1,"price":"179.00"});
+ga('iaiTracker.ec:addImpression',{"id":"6797","name":"1 uncja sztabko-moneta srebrna - Smok 2020 (24h)","list":"Search Results","brand":"Perth Mint","category":"Srebro - monety","position":1,"price":"179.00"});</script>
 <!-- Begin additional html or js -->
 
 
@@ -706,4 +707,4 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                         applied = true;
                     }
                 });
-                </script><img src="https://client4744.idosell.com/checkup.php?c=d3ea4b7d2276ba579f9d7f3753a9656e" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client4744.idosell.com/checkup.php?c=f8a748af1378dd217b7772b98b001692" style="display:none" alt="pixel"></body></html>
