@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'OTk1,ODIx,ODI1,ODc0,MTA2MA==,MTAwMg==,Nzgy,MTAwOA==,ODc1,MTA1OQ==,MTA1OA==,';
             </script>
-</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632511404154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632558984154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -138,7 +138,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/zlote-monety-bulionowe/1/default/3" title="Monety bulionowe" id="headercategory47" class="spanhover">
 <span>Monety bulionowe</span>
 </a>
- </h3>
+</h3>
 </li>
 </ul>
 
@@ -252,7 +252,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </h3>
 </li>
-<li>
+ <li>
 <h3>
 <a href="/bezpieczna-przystan" title="Pozostałe" id="headercategory69" class="spanhover">
 <span>Bezpieczna Przystań</span>
@@ -364,12 +364,13 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3350/1-uncja-zlota-sztabka-moneta-armillary-valcambi.jpg" alt="1 uncja złota moneta ARMILLARY" />
-</span>  <span class="productname">1 uncja złota moneta ARMILLARY</span>
+</span> <span class="productname">1 uncja złota moneta ARMILLARY</span>
 </a>
 <div class="price">
 <span>Cena:</span>
 <em>8 347,79 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -392,13 +393,13 @@ Sortuj wg:
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3335/australijski-kangur-1-uncja-zlota.jpg" alt="Australijski Kangur 1 uncja złota" />
-
 </span> <span class="productname">Australijski Kangur 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
 <em>7 570,27 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -420,12 +421,13 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/6cb5f8c781b666fd42ebaf9c22a5f86f.jpg" alt="Britannia 1 uncja złota" />
- </span> <span class="productname">Britannia 1 uncja złota</span>
+</span> <span class="productname">Britannia 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
 <em>7 570,27 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -453,6 +455,7 @@ Sortuj wg:
 <span>Cena:</span>
 <em>7 599,72 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -474,12 +477,13 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3563/swa_pm_Lunar-III-Rok-Tygrysa-2-uncje-Zlota-2022-5317_1-1.png" alt="Lunar III: Rok Tygrysa 2 uncje złota moneta" />
- </span> <span class="productname">Lunar III: Rok Tygrysa 2 uncje złota moneta</span>
+</span> <span class="productname">Lunar III: Rok Tygrysa 2 uncje złota moneta</span>
 </a>
 <div class="price">
 <span>Cena:</span>
 <em>14 455,66 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -507,7 +511,7 @@ Sortuj wg:
 </span> <span class="productname">Moneta złota 1 Dukat Austriacki 2021</span>
 </a>
 <div class="price">
-<span>Cena:</span>
+ <span>Cena:</span>
 <em>900,19 zł</em>
 </div>
 <div class="basket">
@@ -529,7 +533,7 @@ Sortuj wg:
 <div class="product" id="product_782">
 <a class="details spanhover" href="/produkt/wiedenscy-filharmonicy-1-uncja-zlota" title="Wiedeński Filharmonik 1 uncja złota">
 <span class="productlistimgsize">
- 
+
 <img class="photo" src="/userdata/public/gfx/3371/Wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt="Wiedeński Filharmonik 1 uncja złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1 uncja złota</span>
 </a>
@@ -556,7 +560,7 @@ Sortuj wg:
 <div class="product" id="product_1008">
 <a class="details spanhover" href="/produkt/wiedenski-filharmonik-1-25-uncji-zlota" title="Wiedeński Filharmonik 1/25 uncji złota">
 <span class="productlistimgsize">
- 
+
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3396/1-25-uncji-zlota-wiedenscy-filharmonicy.jpg" alt="Wiedeński Filharmonik 1/25 uncji złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1/25 uncji złota</span>
@@ -582,7 +586,7 @@ Sortuj wg:
 </td>
 <td class="even col3">
 <div class="product" id="product_875">
-<a class="details spanhover" href="/produkt/kanadyjski-lisc-klonowy-1-uncja-zlota" title="Kanadyjski Liść Klonowy 1 uncja złota">
+ <a class="details spanhover" href="/produkt/kanadyjski-lisc-klonowy-1-uncja-zlota" title="Kanadyjski Liść Klonowy 1 uncja złota">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/893b6dbfeb0ebaa95b99a41ef27c5626.jpg" alt="Kanadyjski Liść Klonowy 1 uncja złota" />
@@ -607,9 +611,9 @@ Sortuj wg:
 </div>
 </div>
 </td>
-</tr><tr class="fewperrow">  <td class="odd col3">
+</tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_1059">
-<a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
+ <a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -634,8 +638,8 @@ Sortuj wg:
 </form>
 </div>
 <ul class="tags">
- <li class="new">new</li> </ul>
-</div>
+<li class="new">new</li> </ul>
+ </div>
 </td>
 <td class="even col3">
 <div class="product" id="product_1058">
@@ -662,7 +666,8 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
- </div>
+</div>
+
 </div>
 </td>
 <td class="spacefill odd col3"></td>
@@ -702,7 +707,7 @@ Sortuj wg:
 <li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li> <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
 <li class="overall col5" id="footgroup2"><ul>
 <li class="head">Regulaminy</li>
-<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li>  <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
+<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li> <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
 <li class="overall col5" id="footgroup1"><ul>
 <li class="head">Dostawa i płatności</li>
 <li><a href="/formy-dostawy" class="" title="Formy dostawy" id="footlink44">Formy dostawy</a></li> <li><a href="/formy-platnosci" class="" title="Formy płatności" id="footlink24">Formy płatności</a></li> </ul></li>

@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'OTcy,OTY5,OTc2,OTc3,OTc4,ODkw,OTc0,OTcx,OTY0,OTcz,OTcw,NDU2,MTA0NQ==,';
             </script>
-</head><body id="shop_category18" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632514693154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category18" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632545296154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -137,7 +137,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>
 <a href="/zlote-monety-bulionowe/1/default/3" title="Monety bulionowe" id="headercategory47" class="spanhover">
 <span>Monety bulionowe</span>
-</a>
+ </a>
 </h3>
 </li>
 </ul>
@@ -223,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Kontakt
 </h3>
 </a>
- </li>
+</li>
 <li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
@@ -363,7 +363,7 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/sztabka-zlota-5g-lbma" title="5 g sztabka złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+ <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3341/5-gram-sztabka-zlota-Valcambi.jpg" alt="5 g sztabka złota" />
 </span> <span class="productname">5 g sztabka złota</span>
 </a>
@@ -391,7 +391,7 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/sztabka-zlota-1-uncja-lbma" title="1 uncja sztabka złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+ <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3355/1-uncja-sztabka-zlota-valcambi.jpg" alt="1 uncja sztabka złota" />
 </span> <span class="productname">1 uncja sztabka złota</span>
 </a>
@@ -419,7 +419,7 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/sztabka-zlota-50g-lbma" title="50 g sztabka złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+ <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3338/50-g-sztabka-zlota-valcambi.jpg" alt="50 g sztabka złota" />
 </span> <span class="productname">50 g sztabka złota</span>
 </a>
@@ -446,8 +446,7 @@ Sortuj wg:
 <div class="product" id="product_977">
 <a class="details spanhover" href="/produkt/sztabka-zlota-100g-lbma" title="100 g sztabka złota">
 <span class="productlistimgsize">
-
-
+ 
 <img class="photo" src="/userdata/public/gfx/3357/100-gram-sztabka-zlota-valcambi.jpg" alt="100 g sztabka złota" />
 </span> <span class="productname">100 g sztabka złota</span>
 </a>
@@ -503,7 +502,7 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/combibar-50-x-1g-valcambi-suisse" title="CombiBar 50g (50x1g) Valcambi Suisse">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+ <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3364/50-gram-sztabka-zlota-combibar-valcambi.jpg" alt="CombiBar 50g (50x1g) Valcambi Suisse" />
 </span> <span class="productname">CombiBar 50g (50x1g) Valcambi Suisse</span>
 </a>
@@ -530,8 +529,8 @@ Sortuj wg:
 <div class="product" id="product_974">
 <a class="details spanhover" href="/produkt/sztabka-zlota-1g-lbma" title="1 g Złota Sztabka">
 <span class="productlistimgsize">
-
- <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+ 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3280/Valcambi_Sztabka_Zlota_1g.jpg" alt="1 g Złota Sztabka" />
 </span> <span class="productname">1 g Złota Sztabka</span>
 </a>
@@ -558,8 +557,8 @@ Sortuj wg:
 <div class="product" id="product_971">
 <a class="details spanhover" href="/produkt/sztabka-zlota-10g-lbma" title="10 g Złota Sztabka">
 <span class="productlistimgsize">
-
- <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+ 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3289/Valcambi_Sztabka_Zlota_10g.jpg" alt="10 g Złota Sztabka" />
 </span> <span class="productname">10 g Złota Sztabka</span>
 </a>
@@ -586,7 +585,7 @@ Sortuj wg:
 <div class="product" id="product_964">
 <a class="details spanhover" href="/produkt/valcambi-1kg-sztabka-zlota" title="1000 g sztabka złota - Valcambi">
 <span class="productlistimgsize">
-
+ 
 <img class="photo" src="/userdata/public/gfx/67468034c698e4bf63f7bd7df89336df.jpg" alt="1000 g sztabka złota - Valcambi" />
 </span> <span class="productname">1000 g sztabka złota - Valcambi</span>
 </a>
