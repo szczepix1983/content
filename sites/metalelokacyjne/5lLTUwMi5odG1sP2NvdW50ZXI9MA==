@@ -389,16 +389,7 @@ display:none;
 </style>
 
 <!-- End additional html or js -->
-                <script>
-                
-                if (window.ApplePaySession && window.ApplePaySession.canMakePayments()) {
-                    var applePayAvailabilityExpires = new Date();
-                    applePayAvailabilityExpires.setTime(applePayAvailabilityExpires.getTime() + 2592000000); //30 days
-                    document.cookie = 'applePayAvailability=yes; expires=' + applePayAvailabilityExpires.toUTCString() + '; path=/'
-                } else {
-                    document.cookie = 'applePayAvailability=no; path=/'
-                }
-                </script></head><body><div id="container" class="search_page 
+</head><body><div id="container" class="search_page 
             
             container" itemscope="itemscope" itemtype="http://schema.org/WebPage"><header class="clearfix "><script type="text/javascript" class="ajaxLoad">
     app_shop.vars.currency_format = "###,##0.00";
@@ -1066,7 +1057,10 @@ Darmowa wysyłka <b>InPost Paczkomaty</b> będzie obowiązywała tylko do 30.09.
                 <div style="display:inline;">
                 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/800099328/?value=0&guid=ON&script=0"/>
                 </div>
-                </noscript>
+                </noscript><script>ga('ec:addImpression',{"id":"3798","name":"Lunar III: Rok Myszy 1000 gram\u00f3w Srebra 2020","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":1,"price":"6000.00"});
+ga('iaiTracker.ec:addImpression',{"id":"3798","name":"Lunar III: Rok Myszy 1000 gram\u00f3w Srebra 2020","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":1,"price":"6000.00"});ga('ec:addImpression',{"id":"5006","name":"Niue: Star Wars Mandalorian Beskar sztabko-moneta10 oz Srebro 2021","list":"Search Results","category":"Srebro","position":2,"price":"5990.00"});
+ga('iaiTracker.ec:addImpression',{"id":"5006","name":"Niue: Star Wars Mandalorian Beskar sztabko-moneta10 oz Srebro 2021","list":"Search Results","category":"Srebro","position":2,"price":"5990.00"});ga('send',"event","Ecommerce","Display",{"nonInteraction":1});
+ga('iaiTracker.send',"event","Ecommerce","Display",{"nonInteraction":1});</script>
 <!-- Begin additional html or js -->
 
 
@@ -1384,4 +1378,4 @@ s0.parentNode.insertBefore(s1,s0);
                         applied = true;
                     }
                 });
-                </script><img src="https://client886.idosell.com/checkup.php?c=b528142f0019e546300d3e87fe9f977d" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client886.idosell.com/checkup.php?c=4f0626cec8006e710a82b8c1e769ea91" style="display:none" alt="pixel"></body></html>
