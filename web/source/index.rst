@@ -17,4 +17,4 @@
 
    changelog
 
-.. include:: metrics.rst
+.. include:: dynamic/metrics.rst
