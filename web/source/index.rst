@@ -17,4 +17,4 @@
 
    changelog
 
-.. include:: readme.rst
+.. include:: metrics.rst
