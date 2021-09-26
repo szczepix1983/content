@@ -417,7 +417,15 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                 'a': '',
                 'g': ''
             });
-        </script>
+        </script><script>ga('ec:addImpression',{"id":"132","name":"Sztabki z\u0142ota PAMP 10g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":1,"price":"2410.00"});
+ga('iaiTracker.ec:addImpression',{"id":"132","name":"Sztabki z\u0142ota PAMP 10g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":1,"price":"2410.00"});ga('ec:addImpression',{"id":"37","name":"Sztabki z\u0142ota CertiCard 1 uncja","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":2,"price":"7193.90"});
+ga('iaiTracker.ec:addImpression',{"id":"37","name":"Sztabki z\u0142ota CertiCard 1 uncja","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":2,"price":"7193.90"});ga('ec:addImpression',{"id":"36","name":"Sztabki z\u0142ota CertiCard 20g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":3,"price":"4678.80"});
+ga('iaiTracker.ec:addImpression',{"id":"36","name":"Sztabki z\u0142ota CertiCard 20g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":3,"price":"4678.80"});ga('ec:addImpression',{"id":"35","name":"Sztabki z\u0142ota CertiCard 10g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":4,"price":"2383.50"});
+ga('iaiTracker.ec:addImpression',{"id":"35","name":"Sztabki z\u0142ota CertiCard 10g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":4,"price":"2383.50"});ga('ec:addImpression',{"id":"34","name":"Sztabki z\u0142ota CertiCard 5g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":5,"price":"1224.90"});
+ga('iaiTracker.ec:addImpression',{"id":"34","name":"Sztabki z\u0142ota CertiCard 5g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":5,"price":"1224.90"});ga('ec:addImpression',{"id":"30","name":"Sztabki z\u0142ota PAMP 5g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":6,"price":"1235.90"});
+ga('iaiTracker.ec:addImpression',{"id":"30","name":"Sztabki z\u0142ota PAMP 5g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":6,"price":"1235.90"});ga('ec:addImpression',{"id":"29","name":"Sztabki z\u0142ota PAMP 2,5g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":7,"price":"629.00"});
+ga('iaiTracker.ec:addImpression',{"id":"29","name":"Sztabki z\u0142ota PAMP 2,5g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":7,"price":"629.00"});ga('ec:addImpression',{"id":"28","name":"Sztabki z\u0142ota PAMP 1g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":8,"price":"273.70"});
+ga('iaiTracker.ec:addImpression',{"id":"28","name":"Sztabki z\u0142ota PAMP 1g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":8,"price":"273.70"});</script>
 <!-- Begin additional html or js -->
 
 
@@ -690,4 +698,4 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                         applied = true;
                     }
                 });
-                </script><img src="https://client4744.idosell.com/checkup.php?c=fc48937e29c02fe94e5e96a294630897" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client4744.idosell.com/checkup.php?c=73a4f56a0c82a50963e436e88b43ec40" style="display:none" alt="pixel"></body></html>

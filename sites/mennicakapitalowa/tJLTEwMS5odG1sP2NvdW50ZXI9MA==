@@ -449,7 +449,15 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                 'a': '',
                 'g': ''
             });
-        </script>
+        </script><script>ga('ec:addImpression',{"id":"478","name":"Sztabki z\u0142ota PAMP 50g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":1,"price":"11575.50"});
+ga('iaiTracker.ec:addImpression',{"id":"478","name":"Sztabki z\u0142ota PAMP 50g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":1,"price":"11575.50"});ga('ec:addImpression',{"id":"470","name":"Sztabki z\u0142ota PAMP 100g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":2,"price":"22930.30"});
+ga('iaiTracker.ec:addImpression',{"id":"470","name":"Sztabki z\u0142ota PAMP 100g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":2,"price":"22930.30"});ga('ec:addImpression',{"id":"360","name":"Sztabki z\u0142ota C-Hafner ceha SmartPack 10 x 1g ","list":"Search Results","brand":"C-Hafner","category":"Z\u0142oto - sztabki","position":3,"price":"2560.10"});
+ga('iaiTracker.ec:addImpression',{"id":"360","name":"Sztabki z\u0142ota C-Hafner ceha SmartPack 10 x 1g ","list":"Search Results","brand":"C-Hafner","category":"Z\u0142oto - sztabki","position":3,"price":"2560.10"});ga('ec:addImpression',{"id":"292","name":"Sztabki z\u0142ota CertiCard 1g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":4,"price":"264.80"});
+ga('iaiTracker.ec:addImpression',{"id":"292","name":"Sztabki z\u0142ota CertiCard 1g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":4,"price":"264.80"});ga('ec:addImpression',{"id":"265","name":"Sztabki z\u0142ota LBMA 1kg","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":5,"price":"225772.30"});
+ga('iaiTracker.ec:addImpression',{"id":"265","name":"Sztabki z\u0142ota LBMA 1kg","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":5,"price":"225772.30"});ga('ec:addImpression',{"id":"263","name":"Sztabki z\u0142ota LBMA 500g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","position":6,"price":"113658.60"});
+ga('iaiTracker.ec:addImpression',{"id":"263","name":"Sztabki z\u0142ota LBMA 500g","list":"Search Results","brand":"Producent LBMA","category":"Z\u0142oto - sztabki","position":6,"price":"113658.60"});ga('ec:addImpression',{"id":"152","name":"Sztabki z\u0142ota PAMP 1 uncja","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":7,"price":"7290.00"});
+ga('iaiTracker.ec:addImpression',{"id":"152","name":"Sztabki z\u0142ota PAMP 1 uncja","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":7,"price":"7290.00"});ga('ec:addImpression',{"id":"134","name":"Sztabki z\u0142ota PAMP 20g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":8,"price":"4758.20"});
+ga('iaiTracker.ec:addImpression',{"id":"134","name":"Sztabki z\u0142ota PAMP 20g ","list":"Search Results","brand":"PAMP ","category":"Z\u0142oto - sztabki","variant":"do 15 dni roboczych:Czas realizacji","position":8,"price":"4758.20"});</script>
 <!-- Begin additional html or js -->
 
 
@@ -722,4 +730,4 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                         applied = true;
                     }
                 });
-                </script><img src="https://client4744.idosell.com/checkup.php?c=18a2e5c5ab88c84ffeaca909c0f2dd37" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client4744.idosell.com/checkup.php?c=08b9c98226a7fd547f976c23e3ab8be7" style="display:none" alt="pixel"></body></html>
