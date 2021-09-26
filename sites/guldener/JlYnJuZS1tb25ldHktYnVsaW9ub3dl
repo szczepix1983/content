@@ -17,9 +17,9 @@
 <link rel="preload" href="themes/child_classic/assets/css/noto-sans-v9-latin-ext_latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="themes/child_classic/assets/css/noto-sans-v9-latin-ext_latin-700.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="themes/child_classic/assets/css/570eb83859dc23dd0eec423a49e147fe.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-<link rel="stylesheet" href="https://guldener.pl/themes/child_classic/assets/cache/theme-fafa29117429.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://guldener.pl/themes/child_classic/assets/cache/theme-fafa29117453.css" type="text/css" media="all">
 <script type="text/javascript">
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Wysy\u0142ka","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"Liczba produkt\u00f3w: 0","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":1},"page":{"title":"","canonical":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","meta":{"title":"Srebrne monety bulionowe","description":"Srebrne monety bulionowe to pomys\u0142 na inwestycj\u0119. U nas kupisz monety wydane w krajach ca\u0142ego \u015bwiata, o r\u00f3\u017cnej wadze i doskona\u0142ej jako\u015bci. Sprawd\u017a ofert\u0119!","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-10":true,"category-Srebrne monety":true,"category-id-parent-2":true,"category-depth-level-2":true},"admin_notifications":[]},"shop":{"name":"guldener.pl","logo":"\/img\/guldenerpl-logo-1592755651.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/guldener.pl\/","current_url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","shop_domain_url":"https:\/\/guldener.pl","img_ps_url":"https:\/\/guldener.pl\/img\/","img_cat_url":"https:\/\/guldener.pl\/img\/c\/","img_lang_url":"https:\/\/guldener.pl\/img\/l\/","img_prod_url":"https:\/\/guldener.pl\/img\/p\/","img_manu_url":"https:\/\/guldener.pl\/img\/m\/","img_sup_url":"https:\/\/guldener.pl\/img\/su\/","img_ship_url":"https:\/\/guldener.pl\/img\/s\/","img_store_url":"https:\/\/guldener.pl\/img\/st\/","img_col_url":"https:\/\/guldener.pl\/img\/co\/","img_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/img\/","css_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/css\/","js_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/js\/","pic_url":"https:\/\/guldener.pl\/upload\/","pages":{"address":"https:\/\/guldener.pl\/adres","addresses":"https:\/\/guldener.pl\/adresy","authentication":"https:\/\/guldener.pl\/logowanie","cart":"https:\/\/guldener.pl\/koszyk","category":"https:\/\/guldener.pl\/index.php?controller=category","cms":"https:\/\/guldener.pl\/index.php?controller=cms","contact":"https:\/\/guldener.pl\/kontakt","discount":"https:\/\/guldener.pl\/rabaty","guest_tracking":"https:\/\/guldener.pl\/sledzenie-zamowien-gosci","history":"https:\/\/guldener.pl\/historia-zamowien","identity":"https:\/\/guldener.pl\/dane-osobiste","index":"https:\/\/guldener.pl\/","my_account":"https:\/\/guldener.pl\/moje-konto","order_confirmation":"https:\/\/guldener.pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/guldener.pl\/index.php?controller=order-detail","order_follow":"https:\/\/guldener.pl\/sledzenie-zamowienia","order":"https:\/\/guldener.pl\/zam\u00f3wienie","order_return":"https:\/\/guldener.pl\/index.php?controller=order-return","order_slip":"https:\/\/guldener.pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/guldener.pl\/nie-znaleziono-strony","password":"https:\/\/guldener.pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/guldener.pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/guldener.pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/guldener.pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/guldener.pl\/promocje","product":"https:\/\/guldener.pl\/index.php?controller=product","search":"https:\/\/guldener.pl\/szukaj","sitemap":"https:\/\/guldener.pl\/Mapa strony","stores":"https:\/\/guldener.pl\/nasze-sklepy","supplier":"https:\/\/guldener.pl\/dostawcy","register":"https:\/\/guldener.pl\/logowanie?create_account=1","order_login":"https:\/\/guldener.pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"pl":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"},"theme_assets":"\/themes\/child_classic\/assets\/","actions":{"logout":"https:\/\/guldener.pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"medium_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"medium":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"large":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/guldener.pl\/"},{"title":"Srebrne monety","url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"}],"count":2},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1632644122,"static_token":"f38b28d2ecbe99c2bbc5c22d378bdc9c","token":"04e84b0386ae0e8e28295a68f83884c4"};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Wysy\u0142ka","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"Liczba produkt\u00f3w: 0","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":1},"page":{"title":"","canonical":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","meta":{"title":"Srebrne monety bulionowe","description":"Srebrne monety bulionowe to pomys\u0142 na inwestycj\u0119. U nas kupisz monety wydane w krajach ca\u0142ego \u015bwiata, o r\u00f3\u017cnej wadze i doskona\u0142ej jako\u015bci. Sprawd\u017a ofert\u0119!","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-10":true,"category-Srebrne monety":true,"category-id-parent-2":true,"category-depth-level-2":true},"admin_notifications":[]},"shop":{"name":"guldener.pl","logo":"\/img\/guldenerpl-logo-1592755651.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/guldener.pl\/","current_url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe","shop_domain_url":"https:\/\/guldener.pl","img_ps_url":"https:\/\/guldener.pl\/img\/","img_cat_url":"https:\/\/guldener.pl\/img\/c\/","img_lang_url":"https:\/\/guldener.pl\/img\/l\/","img_prod_url":"https:\/\/guldener.pl\/img\/p\/","img_manu_url":"https:\/\/guldener.pl\/img\/m\/","img_sup_url":"https:\/\/guldener.pl\/img\/su\/","img_ship_url":"https:\/\/guldener.pl\/img\/s\/","img_store_url":"https:\/\/guldener.pl\/img\/st\/","img_col_url":"https:\/\/guldener.pl\/img\/co\/","img_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/img\/","css_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/css\/","js_url":"https:\/\/guldener.pl\/themes\/child_classic\/assets\/js\/","pic_url":"https:\/\/guldener.pl\/upload\/","pages":{"address":"https:\/\/guldener.pl\/adres","addresses":"https:\/\/guldener.pl\/adresy","authentication":"https:\/\/guldener.pl\/logowanie","cart":"https:\/\/guldener.pl\/koszyk","category":"https:\/\/guldener.pl\/index.php?controller=category","cms":"https:\/\/guldener.pl\/index.php?controller=cms","contact":"https:\/\/guldener.pl\/kontakt","discount":"https:\/\/guldener.pl\/rabaty","guest_tracking":"https:\/\/guldener.pl\/sledzenie-zamowien-gosci","history":"https:\/\/guldener.pl\/historia-zamowien","identity":"https:\/\/guldener.pl\/dane-osobiste","index":"https:\/\/guldener.pl\/","my_account":"https:\/\/guldener.pl\/moje-konto","order_confirmation":"https:\/\/guldener.pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/guldener.pl\/index.php?controller=order-detail","order_follow":"https:\/\/guldener.pl\/sledzenie-zamowienia","order":"https:\/\/guldener.pl\/zam\u00f3wienie","order_return":"https:\/\/guldener.pl\/index.php?controller=order-return","order_slip":"https:\/\/guldener.pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/guldener.pl\/nie-znaleziono-strony","password":"https:\/\/guldener.pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/guldener.pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/guldener.pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/guldener.pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/guldener.pl\/promocje","product":"https:\/\/guldener.pl\/index.php?controller=product","search":"https:\/\/guldener.pl\/szukaj","sitemap":"https:\/\/guldener.pl\/Mapa strony","stores":"https:\/\/guldener.pl\/nasze-sklepy","supplier":"https:\/\/guldener.pl\/dostawcy","register":"https:\/\/guldener.pl\/logowanie?create_account=1","order_login":"https:\/\/guldener.pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"pl":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"},"theme_assets":"\/themes\/child_classic\/assets\/","actions":{"logout":"https:\/\/guldener.pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"cart_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-cart_default.jpg","width":125,"height":125},"home_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"medium_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-medium_default.jpg","width":452,"height":452},"large_default":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800}},"small":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-small_default.jpg","width":98,"height":98},"medium":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-home_default.jpg","width":250,"height":250},"large":{"url":"https:\/\/guldener.pl\/img\/p\/pl-default-large_default.jpg","width":800,"height":800},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/guldener.pl\/"},{"title":"Srebrne monety","url":"https:\/\/guldener.pl\/kategoria-10-srebrne-monety-bulionowe"}],"count":2},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1632651322,"static_token":"f38b28d2ecbe99c2bbc5c22d378bdc9c","token":"04e84b0386ae0e8e28295a68f83884c4"};
         var xprt_base_dir = "https:\/\/guldener.pl\/";
       </script>
 <script data-cfasync="false" title="Aktualna cena srebra i aktualna cena złota">  var limit = 767;   if(window.innerWidth>limit){  var html = '<div class="tradingview-widget-container hidden-sm-down" style="width: 100%; height: 46px;">' +  '<div class="tradingview-widget-container__widget"></div>' +  '<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>' +  '{' +  '"symbols": [' +  '{' +  '"description": "XAG/USD",' +  '"proName": "SAXO:XAGUSD"' +  '},{' +  '"description": "XAU/USD",' +  '"proName": "SAXO:XAUUSD"' +  '},' +  '{' +  '"description": "USD/PLN",' +  '"proName": "SAXO:USDPLN"' +  '},' +  '{' +  '"description": "EUR/PLN",' +  '"proName": "SAXO:EURPLN"' +  '}' +  '],' +  '"colorTheme": "light",' +  '"isTransparent": false,' +  '"displayMode": "adaptive",' +  '"locale": "pl"' +  '}' +  '<\/script>' +  '<\/div>';  document.write(html);  }  </script> 
@@ -130,14 +130,14 @@
 <li class="category current " id="category-10">
 <a class="dropdown-item" href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe" data-depth="0">
 <span class="float-xs-right hidden-md-up">
-<span data-target="#top_sub_menu_14696" data-toggle="collapse" class="navbar-toggler collapse-icons">
+<span data-target="#top_sub_menu_99122" data-toggle="collapse" class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </span>
 Srebrne monety
 </a>
-<div class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_14696">
+<div class="popover sub-menu js-sub-menu collapse" id="top_sub_menu_99122">
 <ul class="top-menu" data-depth="1">
 <li class="category" id="category-28">
 <a class="dropdown-item dropdown-submenu" href="https://guldener.pl/kategoria-28-pakiety-inwestycyjne" data-depth="1">
@@ -247,18 +247,18 @@ Tak
 <p class="text-uppercase h6 hidden-sm-down">Filtruj według</p>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Kategorie</p>
-<div class="title hidden-md-up" data-target="#facet_81400" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_16781" data-toggle="collapse">
 <p class="h6 facet-title">Kategorie</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_81400" class="collapse">
+<ul id="facet_16781" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_81400_0">
+<label class="facet-label" for="facet_input_16781_0">
 <span class="custom-checkbox">
-<input id="facet_input_81400_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-1+uncja+srebra" type="checkbox">
+<input id="facet_input_16781_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-1+uncja+srebra" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-1+uncja+srebra" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -268,9 +268,9 @@ Tak
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_81400_1">
+<label class="facet-label" for="facet_input_16781_1">
 <span class="custom-checkbox">
-<input id="facet_input_81400_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-2+uncje+srebra" type="checkbox">
+<input id="facet_input_16781_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-2+uncje+srebra" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-2+uncje+srebra" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -280,9 +280,9 @@ Tak
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_81400_2">
+<label class="facet-label" for="facet_input_16781_2">
 <span class="custom-checkbox">
-<input id="facet_input_81400_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pakiety+inwestycyjne" type="checkbox">
+<input id="facet_input_16781_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pakiety+inwestycyjne" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pakiety+inwestycyjne" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -292,9 +292,9 @@ Pakiety inwestycyjne
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_81400_3">
+<label class="facet-label" for="facet_input_16781_3">
 <span class="custom-checkbox">
-<input id="facet_input_81400_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pozosta%C5%82e" type="checkbox">
+<input id="facet_input_16781_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pozosta%C5%82e" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Pozosta%C5%82e" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -304,9 +304,9 @@ Pozostałe
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_81400_4">
+<label class="facet-label" for="facet_input_16781_4">
 <span class="custom-checkbox">
-<input id="facet_input_81400_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Tuby+mennicze" type="checkbox">
+<input id="facet_input_16781_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Tuby+mennicze" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Kategorie-Tuby+mennicze" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -320,36 +320,36 @@ Tuby mennicze
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Cena</p>
 
-<div class="title hidden-md-up" data-target="#facet_4972" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_85165" data-toggle="collapse">
 <p class="h6 facet-title">Cena</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_4972" class="faceted-slider collapse" data-slider-min="45" data-slider-max="58448" data-slider-id="4972" data-slider-values="null" data-slider-unit="zł" data-slider-label="Cena" data-slider-specifications="{&quot;symbol&quot;:[&quot;,&quot;,&quot;\u00a0&quot;,&quot;;&quot;,&quot;%&quot;,&quot;-&quot;,&quot;+&quot;,&quot;E&quot;,&quot;\u00d7&quot;,&quot;\u2030&quot;,&quot;\u221e&quot;,&quot;NaN&quot;],&quot;currencyCode&quot;:&quot;PLN&quot;,&quot;currencySymbol&quot;:&quot;z\u0142&quot;,&quot;positivePattern&quot;:&quot;#,##0.00\u00a0\u00a4&quot;,&quot;negativePattern&quot;:&quot;-#,##0.00\u00a0\u00a4&quot;,&quot;maxFractionDigits&quot;:2,&quot;minFractionDigits&quot;:2,&quot;groupingUsed&quot;:true,&quot;primaryGroupSize&quot;:3,&quot;secondaryGroupSize&quot;:3}" data-slider-encoded-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe">
+<ul id="facet_85165" class="faceted-slider collapse" data-slider-min="45" data-slider-max="58448" data-slider-id="85165" data-slider-values="null" data-slider-unit="zł" data-slider-label="Cena" data-slider-specifications="{&quot;symbol&quot;:[&quot;,&quot;,&quot;\u00a0&quot;,&quot;;&quot;,&quot;%&quot;,&quot;-&quot;,&quot;+&quot;,&quot;E&quot;,&quot;\u00d7&quot;,&quot;\u2030&quot;,&quot;\u221e&quot;,&quot;NaN&quot;],&quot;currencyCode&quot;:&quot;PLN&quot;,&quot;currencySymbol&quot;:&quot;z\u0142&quot;,&quot;positivePattern&quot;:&quot;#,##0.00\u00a0\u00a4&quot;,&quot;negativePattern&quot;:&quot;-#,##0.00\u00a0\u00a4&quot;,&quot;maxFractionDigits&quot;:2,&quot;minFractionDigits&quot;:2,&quot;groupingUsed&quot;:true,&quot;primaryGroupSize&quot;:3,&quot;secondaryGroupSize&quot;:3}" data-slider-encoded-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe">
 <li>
-<p id="facet_label_4972">
+<p id="facet_label_85165">
 45,00 zł - 58 448,00 zł
 </p>
-<div id="slider-range_4972"></div>
+<div id="slider-range_85165"></div>
 </li>
 </ul>
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Rok</p>
-<div class="title hidden-md-up" data-target="#facet_14453" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_52727" data-toggle="collapse">
 <p class="h6 facet-title">Rok</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_14453" class="collapse">
+<ul id="facet_52727" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_14453_0">
+<label class="facet-label" for="facet_input_52727_0">
 <span class="custom-checkbox">
-<input id="facet_input_14453_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2020" type="checkbox">
+<input id="facet_input_52727_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2020" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2020" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -359,9 +359,9 @@ Tuby mennicze
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_14453_1">
+<label class="facet-label" for="facet_input_52727_1">
 <span class="custom-checkbox">
-<input id="facet_input_14453_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2021" type="checkbox">
+<input id="facet_input_52727_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2021" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Rok-2021" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -374,18 +374,18 @@ Tuby mennicze
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Producent</p>
-<div class="title hidden-md-up" data-target="#facet_88221" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_12749" data-toggle="collapse">
 <p class="h6 facet-title">Producent</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_88221" class="collapse">
+<ul id="facet_12749" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_88221_0">
+<label class="facet-label" for="facet_input_12749_0">
 <span class="custom-checkbox">
-<input id="facet_input_88221_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Argor+Heraeus" type="checkbox">
+<input id="facet_input_12749_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Argor+Heraeus" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Argor+Heraeus" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -395,9 +395,9 @@ Argor Heraeus
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_1">
+<label class="facet-label" for="facet_input_12749_1">
 <span class="custom-checkbox">
-<input id="facet_input_88221_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Austrian+Mint" type="checkbox">
+<input id="facet_input_12749_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Austrian+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Austrian+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -407,9 +407,9 @@ Austrian Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_2">
+<label class="facet-label" for="facet_input_12749_2">
 <span class="custom-checkbox">
-<input id="facet_input_88221_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-China+Gold+Coin+Inc" type="checkbox">
+<input id="facet_input_12749_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-China+Gold+Coin+Inc" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-China+Gold+Coin+Inc" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -419,9 +419,9 @@ China Gold Coin Inc
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_3">
+<label class="facet-label" for="facet_input_12749_3">
 <span class="custom-checkbox">
-<input id="facet_input_88221_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Geiger+Edelmetalle+Mint" type="checkbox">
+<input id="facet_input_12749_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Geiger+Edelmetalle+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Geiger+Edelmetalle+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -431,9 +431,9 @@ Geiger Edelmetalle Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_4">
+<label class="facet-label" for="facet_input_12749_4">
 <span class="custom-checkbox">
-<input id="facet_input_88221_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Germania+Mint" type="checkbox">
+<input id="facet_input_12749_4" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Germania+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Germania+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -443,9 +443,9 @@ Germania Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_5">
+<label class="facet-label" for="facet_input_12749_5">
 <span class="custom-checkbox">
-<input id="facet_input_88221_5" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Mexican+Mint" type="checkbox">
+<input id="facet_input_12749_5" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Mexican+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
  </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Mexican+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -455,9 +455,9 @@ Mexican Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_6">
+<label class="facet-label" for="facet_input_12749_6">
 <span class="custom-checkbox">
-<input id="facet_input_88221_6" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-New+Zealand+Mint" type="checkbox">
+<input id="facet_input_12749_6" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-New+Zealand+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-New+Zealand+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -467,9 +467,9 @@ New Zealand Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_7">
+<label class="facet-label" for="facet_input_12749_7">
 <span class="custom-checkbox">
-<input id="facet_input_88221_7" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Perth+Mint" type="checkbox">
+<input id="facet_input_12749_7" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Perth+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Perth+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -479,9 +479,9 @@ Perth Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_8">
+<label class="facet-label" for="facet_input_12749_8">
 <span class="custom-checkbox">
-<input id="facet_input_88221_8" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Canadian+Mint" type="checkbox">
+<input id="facet_input_12749_8" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Canadian+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Canadian+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -491,9 +491,9 @@ Royal Canadian Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_9">
+<label class="facet-label" for="facet_input_12749_9">
 <span class="custom-checkbox">
-<input id="facet_input_88221_9" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Mint" type="checkbox">
+<input id="facet_input_12749_9" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Royal+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -503,9 +503,9 @@ Royal Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_10">
+<label class="facet-label" for="facet_input_12749_10">
 <span class="custom-checkbox">
-<input id="facet_input_88221_10" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-South+African+Mint" type="checkbox">
+<input id="facet_input_12749_10" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-South+African+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-South+African+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -515,9 +515,9 @@ South African Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_11">
+<label class="facet-label" for="facet_input_12749_11">
 <span class="custom-checkbox">
-<input id="facet_input_88221_11" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Sunshine+Mint" type="checkbox">
+<input id="facet_input_12749_11" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Sunshine+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-Sunshine+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -527,9 +527,9 @@ Sunshine Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_12">
+<label class="facet-label" for="facet_input_12749_12">
 <span class="custom-checkbox">
-<input id="facet_input_88221_12" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-The+Bavarian+State+Mint" type="checkbox">
+<input id="facet_input_12749_12" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-The+Bavarian+State+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-The+Bavarian+State+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -539,9 +539,9 @@ The Bavarian State Mint
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_88221_13">
+<label class="facet-label" for="facet_input_12749_13">
 <span class="custom-checkbox">
-<input id="facet_input_88221_13" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-U.S.+Mint" type="checkbox">
+<input id="facet_input_12749_13" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-U.S.+Mint" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Producent-U.S.+Mint" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -554,18 +554,18 @@ U.S. Mint
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Dostępność</p>
-<div class="title hidden-md-up" data-target="#facet_7776" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_52863" data-toggle="collapse">
 <p class="h6 facet-title">Dostępność</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_7776" class="collapse">
+<ul id="facet_52863" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_7776_0">
+<label class="facet-label" for="facet_input_52863_0">
 <span class="custom-checkbox">
-<input id="facet_input_7776_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-Niedost%C4%99pne" type="checkbox">
+<input id="facet_input_52863_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-Niedost%C4%99pne" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-Niedost%C4%99pne" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -575,9 +575,9 @@ Niedostępne
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_7776_1">
+<label class="facet-label" for="facet_input_52863_1">
  <span class="custom-checkbox">
-<input id="facet_input_7776_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-W+magazynie" type="checkbox">
+<input id="facet_input_52863_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-W+magazynie" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Dost%C4%99pno%C5%9B%C4%87-W+magazynie" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -590,18 +590,18 @@ W magazynie
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Próba</p>
-<div class="title hidden-md-up" data-target="#facet_56420" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_7512" data-toggle="collapse">
 <p class="h6 facet-title">Próba</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_56420" class="collapse">
+<ul id="facet_7512" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_56420_0">
+<label class="facet-label" for="facet_input_7512_0">
 <span class="custom-checkbox">
-<input id="facet_input_56420_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999" type="checkbox">
+<input id="facet_input_7512_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -611,9 +611,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_56420_1">
+<label class="facet-label" for="facet_input_7512_1">
 <span class="custom-checkbox">
-<input id="facet_input_56420_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999.9" type="checkbox">
+<input id="facet_input_7512_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999.9" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Pr%C3%B3ba-999.9" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -626,18 +626,18 @@ W magazynie
 </section>
 <section class="facet clearfix">
 <p class="h6 facet-title hidden-sm-down">Zawartość metalu</p>
-<div class="title hidden-md-up" data-target="#facet_39274" data-toggle="collapse">
+<div class="title hidden-md-up" data-target="#facet_29720" data-toggle="collapse">
 <p class="h6 facet-title">Zawartość metalu</p>
 <span class="navbar-toggler collapse-icons">
 <i class="material-icons add">&#xE313;</i>
 <i class="material-icons remove">&#xE316;</i>
 </span>
 </div>
-<ul id="facet_39274" class="collapse">
+<ul id="facet_29720" class="collapse">
 <li>
-<label class="facet-label" for="facet_input_39274_0">
+<label class="facet-label" for="facet_input_29720_0">
 <span class="custom-checkbox">
-<input id="facet_input_39274_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1+oz" type="checkbox">
+<input id="facet_input_29720_0" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1+oz" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1+oz" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -647,9 +647,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_39274_1">
+<label class="facet-label" for="facet_input_29720_1">
 <span class="custom-checkbox">
-<input id="facet_input_39274_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1kg" type="checkbox">
+<input id="facet_input_29720_1" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1kg" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-1kg" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -659,9 +659,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_39274_2">
+<label class="facet-label" for="facet_input_29720_2">
 <span class="custom-checkbox">
-<input id="facet_input_39274_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-2+oz" type="checkbox">
+<input id="facet_input_29720_2" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-2+oz" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-2+oz" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -671,9 +671,9 @@ W magazynie
 </label>
 </li>
 <li>
-<label class="facet-label" for="facet_input_39274_3">
+<label class="facet-label" for="facet_input_29720_3">
 <span class="custom-checkbox">
-<input id="facet_input_39274_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-30g" type="checkbox">
+<input id="facet_input_29720_3" data-search-url="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-30g" type="checkbox">
 <span class="ps-shown-by-js"><i class="material-icons rtl-no-flip checkbox-checked">&#xE5CA;</i></span>
 </span>
 <a href="https://guldener.pl/kategoria-10-srebrne-monety-bulionowe?q=Zawarto%C5%9B%C4%87+metalu-30g" class="_gray-darker search-link js-search-link" rel="nofollow">
@@ -1999,7 +1999,7 @@ Powrót do góry
 </div>
 <div class="col-md-6 wrapper">
 <p class="h3 hidden-sm-down">Nasza firma</p>
-<div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_27119" data-toggle="collapse">
+<div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_26386" data-toggle="collapse">
 <span class="h3">Nasza firma</span>
 <span class="float-xs-right">
 <span class="navbar-toggler collapse-icons">
@@ -2008,7 +2008,7 @@ Powrót do góry
 </span>
 </span>
 </div>
-<ul id="footer_sub_menu_27119" class="collapse">
+<ul id="footer_sub_menu_26386" class="collapse">
 <li>
 <a id="link-cms-page-1-2" class="cms-page-link" href="https://guldener.pl/content/1-warunki-dostawy" title="Paczki wysyłamy w ciągu 24h od otrzymania płatności. Termin wysyłki może się wydłużyć dla zamówień produktów aktualnie niedostępnych.">
 Warunki dostawy
@@ -2058,7 +2058,7 @@ Twoje dane
 <a href="https://guldener.pl/historia-zamowien" title="Zamówienia" rel="nofollow">
 Zamówienia
 </a>
- </li>
+</li>
 <li>
 <a href="https://guldener.pl/adresy" title="Adresy" rel="nofollow">
 Adresy
@@ -2124,7 +2124,7 @@ s0.parentNode.insertBefore(s1,s0);
 </div>
 </footer>
 </main>
-<script type="text/javascript" src="https://guldener.pl/themes/child_classic/assets/cache/bottom-5d94f8117428.js"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"694b0b460b366b2d","version":"2021.8.1","r":1,"token":"fdc1d2b6e953463eb899e9740254d792","si":10}'></script>
+<script type="text/javascript" src="https://guldener.pl/themes/child_classic/assets/cache/bottom-5d94f8117452.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"694bbb0bc9d5419c","version":"2021.8.1","r":1,"token":"fdc1d2b6e953463eb899e9740254d792","si":10}'></script>
 </body>
 </html>
