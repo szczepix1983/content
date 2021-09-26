@@ -75,16 +75,7 @@ $( window ).resize(function() {
 </script>
 
 <!-- End additional html or js -->
-                <script>
-                
-                if (window.ApplePaySession && window.ApplePaySession.canMakePayments()) {
-                    var applePayAvailabilityExpires = new Date();
-                    applePayAvailabilityExpires.setTime(applePayAvailabilityExpires.getTime() + 2592000000); //30 days
-                    document.cookie = 'applePayAvailability=yes; expires=' + applePayAvailabilityExpires.toUTCString() + '; path=/'
-                } else {
-                    document.cookie = 'applePayAvailability=no; path=/'
-                }
-                </script><script type="text/javascript" src="/gfx/pol/menu_filter.js.gzip?r=1570613428"></script></head><body>
+<script type="text/javascript" src="/gfx/pol/menu_filter.js.gzip?r=1570613428"></script></head><body>
 <!-- Begin additional html or js -->
 
 
@@ -549,4 +540,4 @@ if (document.location.href.includes('product-pol')) {
                         applied = true;
                     }
                 });
-                </script><img src="https://client1197.idosell.com/checkup.php?c=d63e9cc61defabc22b16505b1968464c" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client1197.idosell.com/checkup.php?c=bc648fd8d0453f3fe4ef17a2e79609aa" style="display:none" alt="pixel"></body></html>
