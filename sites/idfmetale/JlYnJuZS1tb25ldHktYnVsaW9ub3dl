@@ -136,7 +136,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="  " id="hcategory_47">
 <h3>
 <a href="/zlote-monety-bulionowe/1/default/3" title="Monety bulionowe" id="headercategory47" class="spanhover">
-<span>Monety bulionowe</span>
+ <span>Monety bulionowe</span>
 </a>
 </h3>
 </li>
@@ -191,7 +191,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </li>
 <li class="  " id="hcategory_20">
-<h3>
+ <h3>
 <a href="/monety-na-prezent/1/default/3" title="Monety na prezent" id="headercategory20" class="spanhover">
 <span>Monety na prezent</span>
 </a>
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </a>
 </li>
- <li class="dropdown" style="display: none;">
+<li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
 <span class="fa fa-angle-down"> </span>
@@ -250,7 +250,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/pl/i/Hurt/36" title="Pozostałe" id="headercategory69" class="spanhover">
 <span>Współpraca</span>
 </a>
-</h3>
+ </h3>
 </li>
 <li>
 <h3>
@@ -366,6 +366,7 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3311/moneta-inwestycyjna-kanadyjski-lisc-klonowy-1-uncja-srebra-rewers.jpg" alt="Kanadyjski Liść Klonowy 1 uncja srebra" />
 </span> <span class="productname">Kanadyjski Liść Klonowy 1 uncja srebra</span>
 </a>
+
 <div class="price">
 <span>Cena:</span>
 <em>121,28 zł</em>
@@ -390,10 +391,11 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/britannia-1-uncja-srebra" title="Britannia 1 uncja srebra">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" /> 
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3320/moneta-inwestycyjna-britannia-1-uncja-srebra-rewers.jpg" alt="Britannia 1 uncja srebra" />
 </span> <span class="productname">Britannia 1 uncja srebra</span>
 </a>
+
 <div class="price">
 <span>Cena:</span>
 <em>118,12 zł</em>
@@ -422,6 +424,7 @@ Sortuj wg:
 <img class="photo" src="/userdata/public/gfx/3536/moneta_srebrna_bitcoin_1_uncja_rewers.jpg" alt="Moneta Bitcoin 1 uncja srebra" />
 </span> <span class="productname">Moneta Bitcoin 1 uncja srebra</span>
 </a>
+
 <div class="price">
 <span>Cena:</span>
 <em>240,81 zł</em>
@@ -448,7 +451,7 @@ Sortuj wg:
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3318/moneta-inwestycyjna-wiedenscy-filharmonicy-1-uncja-srebra-rewers.jpg" alt="Wiedeński filharmonik 1 uncja srebra" />
-</span> <span class="productname">Wiedeński filharmonik 1 uncja srebra</span>
+</span>  <span class="productname">Wiedeński filharmonik 1 uncja srebra</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -475,7 +478,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3370/australijski-kangur-1-uncja-srebra-Perth-Mint.jpg" alt="Australijski Kangur 1 uncja srebra" />
-</span> <span class="productname">Australijski Kangur 1 uncja srebra</span>
+</span>  <span class="productname">Australijski Kangur 1 uncja srebra</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -548,7 +551,7 @@ Sortuj wg:
 </div>
 </div>
 <div id="container-footer">
-<div class="footer container">
+ <div class="footer container">
 <div class="innerfooter pagewidth">
 <ul class="overall">
 <li class="overall col5" id="footgroup3"><ul>
@@ -565,7 +568,7 @@ Sortuj wg:
 <li><a href="/formy-dostawy" class="" title="Formy dostawy" id="footlink44">Formy dostawy</a></li> <li><a href="/formy-platnosci" class="" title="Formy płatności" id="footlink24">Formy płatności</a></li> </ul></li>
 <li class="overall col5" id="footgroup5"><ul>
 <li class="head">Kontakt</li>
-<li><a href="/kontakt" class="" title="Kontakt" id="footlink23">Kontakt</a></li> <li><a href="/nasi-eksperci" class="" title="Nasi eksperci" id="footlink43">Nasi eksperci</a></li> </ul></li>
+<li><a href="/kontakt" class="" title="Kontakt" id="footlink23">Kontakt</a></li> <li><a href="/nasi-eksperci" class="" title="Nasi eksperci" id="footlink43">Nasi eksperci</a></li>  </ul></li>
 </ul>
 </div>
 </div>
