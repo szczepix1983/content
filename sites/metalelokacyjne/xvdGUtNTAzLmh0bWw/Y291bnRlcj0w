@@ -824,7 +824,12 @@ Darmowa wysyłka <b>InPost Paczkomaty</b> będzie obowiązywała tylko do 30.09.
                 <div style="display:inline;">
                 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/800099328/?value=0&guid=ON&script=0"/>
                 </div>
-                </noscript>
+                </noscript><script>ga('ec:addImpression',{"id":"5310","name":"1 uncja Sztabka Z\u0142ota Britannia ","list":"Search Results","brand":"The Royal Mint","category":"Z\u0142oto","position":1,"price":"7297.92"});
+ga('iaiTracker.ec:addImpression',{"id":"5310","name":"1 uncja Sztabka Z\u0142ota Britannia ","list":"Search Results","brand":"The Royal Mint","category":"Z\u0142oto","position":1,"price":"7297.92"});ga('ec:addImpression',{"id":"5350","name":"5 gram\u00f3w Sztabka Z\u0142ota Britannia Henna Design","list":"Search Results","brand":"The Royal Mint","category":"Z\u0142oto","position":2,"price":"1206.37"});
+ga('iaiTracker.ec:addImpression',{"id":"5350","name":"5 gram\u00f3w Sztabka Z\u0142ota Britannia Henna Design","list":"Search Results","brand":"The Royal Mint","category":"Z\u0142oto","position":2,"price":"1206.37"});ga('ec:addImpression',{"id":"5349","name":"1 gram Sztabka Z\u0142ota Britannia Henna Design","list":"Search Results","brand":"The Royal Mint","category":"Z\u0142oto","position":3,"price":"285.54"});
+ga('iaiTracker.ec:addImpression',{"id":"5349","name":"1 gram Sztabka Z\u0142ota Britannia Henna Design","list":"Search Results","brand":"The Royal Mint","category":"Z\u0142oto","position":3,"price":"285.54"});ga('ec:addImpression',{"id":"5314","name":"0,5 grama Sztabka Z\u0142ota LBMA","list":"Search Results","brand":"LBMA","category":"Z\u0142oto","position":4,"price":"135.02"});
+ga('iaiTracker.ec:addImpression',{"id":"5314","name":"0,5 grama Sztabka Z\u0142ota LBMA","list":"Search Results","brand":"LBMA","category":"Z\u0142oto","position":4,"price":"135.02"});ga('send',"event","Ecommerce","Display",{"nonInteraction":1});
+ga('iaiTracker.send',"event","Ecommerce","Display",{"nonInteraction":1});</script>
 <!-- Begin additional html or js -->
 
 
@@ -1140,4 +1145,4 @@ s0.parentNode.insertBefore(s1,s0);
                         applied = true;
                     }
                 });
-                </script><img src="https://client886.idosell.com/checkup.php?c=4b2f68b4bedf339afe35a2ac8a7f6ec3" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client886.idosell.com/checkup.php?c=21e95f8569ae332525fd27c8194c8b57" style="display:none" alt="pixel"></body></html>
