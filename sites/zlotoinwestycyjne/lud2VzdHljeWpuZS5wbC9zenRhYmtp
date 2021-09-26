@@ -20,7 +20,7 @@
 <link href="/assets/favicon-530cd10bedf629c92d613f07449a4fcb3e1125ff7e8b3ec599ce4a5b91037111.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 <link href="/assets/spree/ygi-shop/all-dc35d0f55f747a02f6204f6d9b2303c99d933b9d8052d679cd696515c9a59a09.css" media="screen" rel="stylesheet" />
 <meta content="authenticity_token" name="csrf-param" />
-<meta content="UjYdAIcXtBkyHe/SsdecJc4O961I3v/iwfPJEvd+hyo=" name="csrf-token" />
+<meta content="M9a1mWGef+o3FsBdTup7Y5jvR/I0TnFK19/0h3GJ5fo=" name="csrf-token" />
 <!--[if lt IE 9]>
   <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
 <![endif]-->
@@ -625,7 +625,7 @@
 					<h5>Bądź na bieżąco z nowościami, promocjami i konkursami.</h5>
 				</div>
 				<div class="footer-subscribe-form  pull-left footer_ss_subscribe_form">
-          <form accept-charset="UTF-8" action="/subscribe" class="new_subscriber" id="new_subscriber" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UjYdAIcXtBkyHe/SsdecJc4O961I3v/iwfPJEvd+hyo=" /></div>
+          <form accept-charset="UTF-8" action="/subscribe" class="new_subscriber" id="new_subscriber" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M9a1mWGef+o3FsBdTup7Y5jvR/I0TnFK19/0h3GJ5fo=" /></div>
 					<div class='input-box pull-left to_relative'>
             <input class="footer-subscribe-emailaddress  pull-left footer_ss_formInput" name="subscriber[email]" placeholder="Twoj@mail.com" tabindex="51" title="Write here subscribed e-mail" type="email" />
   						<button type="submit"  tabindex=52 value="" class="footer-subscribe-emailsubmit  footer_ss_formGogogo" title="Subscribe!"/>
