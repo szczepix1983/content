@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </li>
 </ul>
-
+ 
 </li>
 <li class=" dropdown" id="hcategory_24">
 <a href="/srebro-inwestycyjne/1/default/3" title="Srebro" id="headlink27" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
@@ -193,7 +193,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="  " id="hcategory_20">
 <h3>
 <a href="/monety-na-prezent/1/default/3" title="Monety na prezent" id="headercategory20" class="spanhover">
-<span>Monety na prezent</span>
+ <span>Monety na prezent</span>
 </a>
 </h3>
 </li>
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </a>
 </li>
- <li class="dropdown" style="display: none;">
+<li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
 <span class="fa fa-angle-down"> </span>
