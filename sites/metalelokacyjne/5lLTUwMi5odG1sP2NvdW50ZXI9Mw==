@@ -389,7 +389,16 @@ display:none;
 </style>
 
 <!-- End additional html or js -->
-</head><body><div id="container" class="search_page 
+                <script>
+                
+                if (window.ApplePaySession && window.ApplePaySession.canMakePayments()) {
+                    var applePayAvailabilityExpires = new Date();
+                    applePayAvailabilityExpires.setTime(applePayAvailabilityExpires.getTime() + 2592000000); //30 days
+                    document.cookie = 'applePayAvailability=yes; expires=' + applePayAvailabilityExpires.toUTCString() + '; path=/'
+                } else {
+                    document.cookie = 'applePayAvailability=no; path=/'
+                }
+                </script></head><body><div id="container" class="search_page 
             
             container" itemscope="itemscope" itemtype="http://schema.org/WebPage"><header class="clearfix "><script type="text/javascript" class="ajaxLoad">
     app_shop.vars.currency_format = "###,##0.00";
@@ -962,7 +971,28 @@ Darmowa wysyłka <b>InPost Paczkomaty</b> będzie obowiązywała tylko do 30.09.
                 <div style="display:inline;">
                 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/800099328/?value=0&guid=ON&script=0"/>
                 </div>
-                </noscript>
+                </noscript><script>ga('ec:addImpression',{"id":"5050","name":"Ameryka\u0144ski Orze\u0142 1 uncja Srebra 2021 typ 2","list":"Search Results","brand":"United States Mint","category":"Srebro","position":1,"price":"132.57"});
+ga('iaiTracker.ec:addImpression',{"id":"5050","name":"Ameryka\u0144ski Orze\u0142 1 uncja Srebra 2021 typ 2","list":"Search Results","brand":"United States Mint","category":"Srebro","position":1,"price":"132.57"});ga('ec:addImpression',{"id":"5326","name":"Lunar III: Rok Tygrysa 1 uncja Srebra 2022","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":2,"price":"132.57"});
+ga('iaiTracker.ec:addImpression',{"id":"5326","name":"Lunar III: Rok Tygrysa 1 uncja Srebra 2022","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":2,"price":"132.57"});ga('ec:addImpression',{"id":"4910","name":"\u015aw. Jerzy i Smok 1 uncja Srebra 2021","list":"Search Results","brand":"The Royal Mint","category":"Srebro","position":3,"price":"130.80"});
+ga('iaiTracker.ec:addImpression',{"id":"4910","name":"\u015aw. Jerzy i Smok 1 uncja Srebra 2021","list":"Search Results","brand":"The Royal Mint","category":"Srebro","position":3,"price":"130.80"});ga('ec:addImpression',{"id":"5044","name":"Bielik Ameryka\u0144ski (The Bald Eagle) 1 uncja Srebra 2021","list":"Search Results","brand":"Private Mint","category":"Srebro","position":4,"price":"123.73"});
+ga('iaiTracker.ec:addImpression',{"id":"5044","name":"Bielik Ameryka\u0144ski (The Bald Eagle) 1 uncja Srebra 2021","list":"Search Results","brand":"Private Mint","category":"Srebro","position":4,"price":"123.73"});ga('ec:addImpression',{"id":"5025","name":"Legendy Muzyki: THE WHO 1 uncja Srebra 2021","list":"Search Results","brand":"The Royal Mint","category":"Srebro","position":5,"price":"123.73"});
+ga('iaiTracker.ec:addImpression',{"id":"5025","name":"Legendy Muzyki: THE WHO 1 uncja Srebra 2021","list":"Search Results","brand":"The Royal Mint","category":"Srebro","position":5,"price":"123.73"});ga('ec:addImpression',{"id":"4539","name":"Chi\u0144ska Panda 30 gram\u00f3w Srebra 2021","list":"Search Results","brand":"China Gold Coin Corp","category":"Srebro","position":6,"price":"119.34"});
+ga('iaiTracker.ec:addImpression',{"id":"4539","name":"Chi\u0144ska Panda 30 gram\u00f3w Srebra 2021","list":"Search Results","brand":"China Gold Coin Corp","category":"Srebro","position":6,"price":"119.34"});ga('ec:addImpression',{"id":"4593","name":"Arka Noego 1 uncja Srebra 2021","list":"Search Results","brand":" Leipziger Edelmetallverarbeitung","category":"Srebro","position":7,"price":"119.00"});
+ga('iaiTracker.ec:addImpression',{"id":"4593","name":"Arka Noego 1 uncja Srebra 2021","list":"Search Results","brand":" Leipziger Edelmetallverarbeitung","category":"Srebro","position":7,"price":"119.00"});ga('ec:addImpression',{"id":"4093","name":"Pingwin Czubaty 1 uncja Srebra 2020","list":"Search Results","brand":"New Zealand Post","category":"Srebro","position":8,"price":"116.66"});
+ga('iaiTracker.ec:addImpression',{"id":"4093","name":"Pingwin Czubaty 1 uncja Srebra 2020","list":"Search Results","brand":"New Zealand Post","category":"Srebro","position":8,"price":"116.66"});ga('ec:addImpression',{"id":"4359","name":"African Wildlife: S\u0142o\u0144 Somalijski 1 uncja Srebra 2021","list":"Search Results","brand":"Bavarian Mint","category":"Srebro","position":9,"price":"114.89"});
+ga('iaiTracker.ec:addImpression',{"id":"4359","name":"African Wildlife: S\u0142o\u0144 Somalijski 1 uncja Srebra 2021","list":"Search Results","brand":"Bavarian Mint","category":"Srebro","position":9,"price":"114.89"});ga('ec:addImpression',{"id":"4672","name":"Krugerrand 1 uncja Srebra 2021","list":"Search Results","brand":"The South African Mint","category":"Srebro","position":10,"price":"114.89"});
+ga('iaiTracker.ec:addImpression',{"id":"4672","name":"Krugerrand 1 uncja Srebra 2021","list":"Search Results","brand":"The South African Mint","category":"Srebro","position":10,"price":"114.89"});ga('ec:addImpression',{"id":"3727","name":"Lunar III: Rok Myszy 1\/2 uncji Srebra 2020","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":11,"price":"114.89"});
+ga('iaiTracker.ec:addImpression',{"id":"3727","name":"Lunar III: Rok Myszy 1\/2 uncji Srebra 2020","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":11,"price":"114.89"});ga('ec:addImpression',{"id":"4610","name":"Wiede\u0144ski Filharmonik 1 uncja Srebra 2021","list":"Search Results","brand":"Austrian Mint","category":"Srebro","position":12,"price":"103.85"});
+ga('iaiTracker.ec:addImpression',{"id":"4610","name":"Wiede\u0144ski Filharmonik 1 uncja Srebra 2021","list":"Search Results","brand":"Austrian Mint","category":"Srebro","position":12,"price":"103.85"});ga('ec:addImpression',{"id":"5069","name":"Mexican Libertad 1\/2 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":13,"price":"97.22"});
+ga('iaiTracker.ec:addImpression',{"id":"5069","name":"Mexican Libertad 1\/2 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":13,"price":"97.22"});ga('ec:addImpression',{"id":"5070","name":"Mexican Libertad 1\/4 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":14,"price":"72.91"});
+ga('iaiTracker.ec:addImpression',{"id":"5070","name":"Mexican Libertad 1\/4 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":14,"price":"72.91"});ga('ec:addImpression',{"id":"4603","name":"Arka Noego 1\/2 uncji Srebra 2021","list":"Search Results","brand":" Leipziger Edelmetallverarbeitung","category":"Srebro","position":15,"price":"69.00"});
+ga('iaiTracker.ec:addImpression',{"id":"4603","name":"Arka Noego 1\/2 uncji Srebra 2021","list":"Search Results","brand":" Leipziger Edelmetallverarbeitung","category":"Srebro","position":15,"price":"69.00"});ga('ec:addImpression',{"id":"5071","name":"Mexican Libertad 1\/10 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":16,"price":"57.45"});
+ga('iaiTracker.ec:addImpression',{"id":"5071","name":"Mexican Libertad 1\/10 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":16,"price":"57.45"});ga('ec:addImpression',{"id":"4604","name":"Arka Noego 1\/4 uncji Srebra 2021","list":"Search Results","brand":" Leipziger Edelmetallverarbeitung","category":"Srebro","position":17,"price":"45.00"});
+ga('iaiTracker.ec:addImpression',{"id":"4604","name":"Arka Noego 1\/4 uncji Srebra 2021","list":"Search Results","brand":" Leipziger Edelmetallverarbeitung","category":"Srebro","position":17,"price":"45.00"});ga('ec:addImpression',{"id":"5072","name":"Mexican Libertad 1\/20 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":18,"price":"44.19"});
+ga('iaiTracker.ec:addImpression',{"id":"5072","name":"Mexican Libertad 1\/20 uncji Srebra 2021","list":"Search Results","brand":"Casa de Moneda de Mexico","category":"Srebro","position":18,"price":"44.19"});ga('ec:addImpression',{"id":"3614","name":"Australijski Emu 1 uncja Srebra 2018 Proof Certyfikat od 1 do 20","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":19,"price":"0.00"});
+ga('iaiTracker.ec:addImpression',{"id":"3614","name":"Australijski Emu 1 uncja Srebra 2018 Proof Certyfikat od 1 do 20","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":19,"price":"0.00"});ga('ec:addImpression',{"id":"3613","name":"Australijski Emu 1 uncja Srebra 2019 Proof Certyfikat od 1 do 20","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":20,"price":"0.00"});
+ga('iaiTracker.ec:addImpression',{"id":"3613","name":"Australijski Emu 1 uncja Srebra 2019 Proof Certyfikat od 1 do 20","list":"Search Results","brand":"Perth Mint","category":"Srebro","position":20,"price":"0.00"});ga('send',"event","Ecommerce","Display",{"nonInteraction":1});
+ga('iaiTracker.send',"event","Ecommerce","Display",{"nonInteraction":1});</script>
 <!-- Begin additional html or js -->
 
 
@@ -1258,4 +1288,4 @@ s0.parentNode.insertBefore(s1,s0);
                         applied = true;
                     }
                 });
-                </script><img src="https://client886.idosell.com/checkup.php?c=7d1a405f82cd1e9b4007189c24a93c41" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client886.idosell.com/checkup.php?c=f9ab9e3fba5daa26dc8666a555b3fa7a" style="display:none" alt="pixel"></body></html>
