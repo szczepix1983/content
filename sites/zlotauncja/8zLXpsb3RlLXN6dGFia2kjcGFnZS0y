@@ -66,10 +66,10 @@ var contentOnly = false;
 var customizationIdMessage = 'Dostosowywanie #';
 var delete_txt = 'Usuń';
 var displayList = false;
-var filters = [{"type_lite":"manufacturer","type":"manufacturer","id_key":0,"name":"Producent","values":{"14":{"name":"HERAEUS","nbr":"10","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-heraeus","rel":"nofollow"},"18":{"name":"VALCAMBI","nbr":"12","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-valcambi","rel":"nofollow"}},"filter_show_limit":"0","filter_type":"0"},{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"227116","min":"281","values":{"1":"227116","0":"281"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"34":{"nbr":3,"name":"1 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_g","rel":""},"41":{"nbr":4,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_oz","rel":""},"35":{"nbr":2,"name":"2 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-2_g","rel":""},"37":{"nbr":1,"name":"2.5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-25_g","rel":""},"38":{"nbr":3,"name":"5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-5_g","rel":""},"39":{"nbr":3,"name":"10 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-10_g","rel":""},"40":{"nbr":4,"name":"20 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-20_g","rel":""},"42":{"nbr":3,"name":"50 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-50_g","rel":""},"43":{"nbr":4,"name":"100 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-100_g","rel":""},"44":{"nbr":1,"name":"250 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-250_g","rel":""},"45":{"nbr":1,"name":"500 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-500_g","rel":""},"46":{"nbr":1,"name":"1000 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1000_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"}];
+var filters = [{"type_lite":"manufacturer","type":"manufacturer","id_key":0,"name":"Producent","values":{"14":{"name":"HERAEUS","nbr":"10","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-heraeus","rel":"nofollow"},"18":{"name":"VALCAMBI","nbr":"12","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#producent-valcambi","rel":"nofollow"}},"filter_show_limit":"0","filter_type":"0"},{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"227217","min":"281","values":{"1":"227217","0":"281"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"34":{"nbr":3,"name":"1 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_g","rel":""},"41":{"nbr":4,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1_oz","rel":""},"35":{"nbr":2,"name":"2 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-2_g","rel":""},"37":{"nbr":1,"name":"2.5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-25_g","rel":""},"38":{"nbr":3,"name":"5 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-5_g","rel":""},"39":{"nbr":3,"name":"10 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-10_g","rel":""},"40":{"nbr":4,"name":"20 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-20_g","rel":""},"42":{"nbr":3,"name":"50 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-50_g","rel":""},"43":{"nbr":4,"name":"100 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-100_g","rel":""},"44":{"nbr":1,"name":"250 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-250_g","rel":""},"45":{"nbr":1,"name":"500 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-500_g","rel":""},"46":{"nbr":1,"name":"1000 g","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/3-zlote-sztabki#waga-1000_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"}];
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1632637883;
+var generated_date = 1632645084;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -401,8 +401,8 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 6884.82</div>
-      <div class="rtpriclist-other">XAU/EUR: 1493</div>
+      <div class="rtpriclist-current">XAU/PLN: 6887.95</div>
+      <div class="rtpriclist-other">XAU/EUR: 1493.68</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
@@ -857,7 +857,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										4 657,61 zł									</span>
+										4 659,63 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -876,7 +876,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								4 657,61 zł							</span>
+								4 659,63 zł							</span>
 														
 							
 											</div>
@@ -924,7 +924,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										22 863,80 zł									</span>
+										22 873,88 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -943,7 +943,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								22 863,80 zł							</span>
+								22 873,88 zł							</span>
 														
 							
 											</div>
@@ -991,7 +991,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 411,81 zł									</span>
+										2 412,82 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1010,7 +1010,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 411,81 zł							</span>
+								2 412,82 zł							</span>
 														
 							
 											</div>
@@ -1058,7 +1058,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 252,96 zł									</span>
+										7 256,09 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1077,7 +1077,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 252,96 zł							</span>
+								7 256,09 zł							</span>
 														
 							
 											</div>
@@ -1125,7 +1125,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										11 574,86 zł									</span>
+										11 579,89 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1144,7 +1144,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								11 574,86 zł							</span>
+								11 579,89 zł							</span>
 														
 							
 											</div>
@@ -1192,7 +1192,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										285,91 zł									</span>
+										286,01 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1211,7 +1211,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								285,91 zł							</span>
+								286,01 zł							</span>
 														
 							
 											</div>
@@ -1259,7 +1259,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										534,93 zł									</span>
+										535,13 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1278,7 +1278,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								534,93 zł							</span>
+								535,13 zł							</span>
 														
 							
 											</div>
@@ -1326,7 +1326,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 254,32 zł									</span>
+										1 254,83 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1345,7 +1345,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 254,32 zł							</span>
+								1 254,83 zł							</span>
 														
 							
 											</div>
@@ -1393,7 +1393,7 @@ Sztabki złota są umieszczone w opakowaniach typu CertiPack, które chronią z�
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										11 989,88 zł									</span>
+										11 994,92 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1412,7 +1412,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								11 989,88 zł							</span>
+								11 994,92 zł							</span>
 														
 							
 											</div>
@@ -1460,7 +1460,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 308,30 zł									</span>
+										7 311,43 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1478,7 +1478,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 308,30 zł							</span>
+								7 311,43 zł							</span>
 														
 							
 											</div>
@@ -1526,7 +1526,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										57 943,45 zł									</span>
+										57 968,64 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1544,7 +1544,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								57 943,45 zł							</span>
+								57 968,64 zł							</span>
 														
 							
 											</div>
@@ -1592,7 +1592,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										113 788,71 zł									</span>
+										113 839,09 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1610,7 +1610,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								113 788,71 zł							</span>
+								113 839,09 zł							</span>
 														
 							
 											</div>
@@ -1658,7 +1658,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										22 909,92 zł									</span>
+										22 919,99 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1676,7 +1676,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								22 909,92 zł							</span>
+								22 919,99 zł							</span>
 														
 							
 											</div>
@@ -1724,7 +1724,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 272,77 zł									</span>
+										1 273,27 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1742,7 +1742,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 272,77 zł							</span>
+								1 273,27 zł							</span>
 														
 							
 											</div>
@@ -1790,7 +1790,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										313,58 zł									</span>
+										313,68 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1808,7 +1808,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								313,58 zł							</span>
+								313,68 zł							</span>
 														
 							
 											</div>
@@ -1856,7 +1856,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 434,87 zł									</span>
+										2 435,87 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1874,7 +1874,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 434,87 zł							</span>
+								2 435,87 zł							</span>
 														
 							
 											</div>
@@ -1922,7 +1922,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										23 795,31 zł									</span>
+										23 805,38 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1940,7 +1940,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								23 795,31 zł							</span>
+								23 805,38 zł							</span>
 														
 							
 											</div>
@@ -1988,7 +1988,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										5 049,58 zł									</span>
+										5 051,59 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2007,7 +2007,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								5 049,58 zł							</span>
+								5 051,59 zł							</span>
 														
 							
 											</div>
@@ -2055,7 +2055,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										227 116,28 zł									</span>
+										227 217,03 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2073,7 +2073,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								227 116,28 zł							</span>
+								227 217,03 zł							</span>
 														
 							
 											</div>
@@ -2121,7 +2121,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										281,30 zł									</span>
+										281,40 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2139,7 +2139,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								281,30 zł							</span>
+								281,40 zł							</span>
 														
 							
 											</div>
@@ -2187,7 +2187,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										641,00 zł									</span>
+										641,25 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2205,7 +2205,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								641,00 zł							</span>
+								641,25 zł							</span>
 														
 							
 											</div>
@@ -2253,7 +2253,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										1 235,88 zł									</span>
+										1 236,38 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2271,7 +2271,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								1 235,88 zł							</span>
+								1 236,38 zł							</span>
 														
 							
 											</div>
@@ -2319,7 +2319,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										4 636,86 zł									</span>
+										4 638,87 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2337,7 +2337,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								4 636,86 zł							</span>
+								4 638,87 zł							</span>
 														
 							
 											</div>
@@ -2385,7 +2385,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										11 528,74 zł									</span>
+										11 533,78 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2403,7 +2403,7 @@ Każdy z elementów ma osobne oznaczenie wagi i próby, a także znak certyfikac
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								11 528,74 zł							</span>
+								11 533,78 zł							</span>
 														
 							
 											</div>

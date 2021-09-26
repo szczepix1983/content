@@ -63,7 +63,7 @@ var delete_txt = 'Usuń';
 var displayList = false;
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1632637896;
+var generated_date = 1632645098;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -389,8 +389,8 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 6884.82</div>
-      <div class="rtpriclist-other">XAU/EUR: 1493</div>
+      <div class="rtpriclist-current">XAU/PLN: 6887.95</div>
+      <div class="rtpriclist-other">XAU/EUR: 1493.68</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
