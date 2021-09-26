@@ -583,7 +583,7 @@ Sortuj wg:
 <td class="even col3">
 <div class="product" id="product_875">
 <a class="details spanhover" href="/produkt/kanadyjski-lisc-klonowy-1-uncja-zlota" title="Kanadyjski Liść Klonowy 1 uncja złota">
-<span class="productlistimgsize">
+ <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/893b6dbfeb0ebaa95b99a41ef27c5626.jpg" alt="Kanadyjski Liść Klonowy 1 uncja złota" />
 </span> <span class="productname">Kanadyjski Liść Klonowy 1 uncja złota</span>
@@ -607,10 +607,10 @@ Sortuj wg:
 </div>
 </div>
 </td>
-</tr><tr class="fewperrow">  <td class="odd col3">
+</tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_1059">
 <a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
-<span class="productlistimgsize">
+ <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3559/moneta_Krugerrand_110_uncji_zlota_awers.jpg" alt="Krugerrand 1/10 uncji złota" />
@@ -634,10 +634,10 @@ Sortuj wg:
 </form>
 </div>
 <ul class="tags">
- <li class="new">new</li> </ul>
+<li class="new">new</li> </ul>
 </div>
 </td>
-<td class="even col3">
+ <td class="even col3">
 <div class="product" id="product_1058">
 <a class="details spanhover" href="/pl/p/Krugerrand-12-uncji-zlota/1058" title="Krugerrand 1/2 uncji złota">
 <span class="productlistimgsize">
@@ -662,10 +662,10 @@ Sortuj wg:
 </button>
 </fieldset>
 </form>
- </div>
+</div>
 </div>
 </td>
-<td class="spacefill odd col3"></td>
+ <td class="spacefill odd col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>
@@ -702,10 +702,10 @@ Sortuj wg:
 <li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li> <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
 <li class="overall col5" id="footgroup2"><ul>
 <li class="head">Regulaminy</li>
-<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li>  <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
+<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li> <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
 <li class="overall col5" id="footgroup1"><ul>
 <li class="head">Dostawa i płatności</li>
-<li><a href="/formy-dostawy" class="" title="Formy dostawy" id="footlink44">Formy dostawy</a></li> <li><a href="/formy-platnosci" class="" title="Formy płatności" id="footlink24">Formy płatności</a></li> </ul></li>
+ <li><a href="/formy-dostawy" class="" title="Formy dostawy" id="footlink44">Formy dostawy</a></li> <li><a href="/formy-platnosci" class="" title="Formy płatności" id="footlink24">Formy płatności</a></li> </ul></li>
 <li class="overall col5" id="footgroup5"><ul>
 <li class="head">Kontakt</li>
 <li><a href="/kontakt" class="" title="Kontakt" id="footlink23">Kontakt</a></li> <li><a href="/nasi-eksperci" class="" title="Nasi eksperci" id="footlink43">Nasi eksperci</a></li> </ul></li>
