@@ -382,7 +382,8 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                 'a': '',
                 'g': ''
             });
-        </script>
+        </script><script>ga('ec:addImpression',{"id":"12","name":"sztabka srebra 1kg LBMA (24h)","list":"Search Results","brand":"Producent LBMA","category":"Srebro - sztabki","position":1,"price":"3757.80"});
+ga('iaiTracker.ec:addImpression',{"id":"12","name":"sztabka srebra 1kg LBMA (24h)","list":"Search Results","brand":"Producent LBMA","category":"Srebro - sztabki","position":1,"price":"3757.80"});</script>
 <!-- Begin additional html or js -->
 
 
@@ -655,4 +656,4 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                         applied = true;
                     }
                 });
-                </script><img src="https://client4744.idosell.com/checkup.php?c=d425641a29e18b1ba8a5f586bf8cfc36" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client4744.idosell.com/checkup.php?c=cb2ef9f31438d4806f1545e58c2efe61" style="display:none" alt="pixel"></body></html>
