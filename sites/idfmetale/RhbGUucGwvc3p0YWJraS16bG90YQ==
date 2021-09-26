@@ -137,7 +137,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>
 <a href="/zlote-monety-bulionowe/1/default/3" title="Monety bulionowe" id="headercategory47" class="spanhover">
 <span>Monety bulionowe</span>
-</a>
+ </a>
 </h3>
 </li>
 </ul>
@@ -223,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Kontakt
 </h3>
 </a>
- </li>
+</li>
 <li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
