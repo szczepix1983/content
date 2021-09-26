@@ -382,7 +382,11 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                 'a': '',
                 'g': ''
             });
-        </script>
+        </script><script>ga('ec:addImpression',{"id":"6229","name":"sztabka srebra 1kg (24h)","list":"Search Results","category":"Srebro - sztabki","position":1,"price":"3673.00"});
+ga('iaiTracker.ec:addImpression',{"id":"6229","name":"sztabka srebra 1kg (24h)","list":"Search Results","category":"Srebro - sztabki","position":1,"price":"3673.00"});ga('ec:addImpression',{"id":"5524","name":"sztabka srebra 10oz (24h)","list":"Search Results","category":"Srebro - sztabki","position":2,"price":"1180.00"});
+ga('iaiTracker.ec:addImpression',{"id":"5524","name":"sztabka srebra 10oz (24h)","list":"Search Results","category":"Srebro - sztabki","position":2,"price":"1180.00"});ga('ec:addImpression',{"id":"5416","name":"sztabka srebra LBMA 1kg ","list":"Search Results","brand":"Producent LBMA","category":"Srebro - sztabki","position":3,"price":"3729.50"});
+ga('iaiTracker.ec:addImpression',{"id":"5416","name":"sztabka srebra LBMA 1kg ","list":"Search Results","brand":"Producent LBMA","category":"Srebro - sztabki","position":3,"price":"3729.50"});ga('ec:addImpression',{"id":"5369","name":"5 x sztabka srebra LBMA 1kg ","list":"Search Results","brand":"Producent LBMA","category":"Srebro - sztabki","position":4,"price":"18506.40"});
+ga('iaiTracker.ec:addImpression',{"id":"5369","name":"5 x sztabka srebra LBMA 1kg ","list":"Search Results","brand":"Producent LBMA","category":"Srebro - sztabki","position":4,"price":"18506.40"});</script>
 <!-- Begin additional html or js -->
 
 
@@ -655,4 +659,4 @@ Działamy na terenie: Warszawa, Kraków, Poznań, Białystok, Wrocław oraz onli
                         applied = true;
                     }
                 });
-                </script><img src="https://client4744.idosell.com/checkup.php?c=f06ce7f567b6a2e1535d5d0c58d49309" style="display:none" alt="pixel"></body></html>
+                </script><img src="https://client4744.idosell.com/checkup.php?c=8c0b39e8d4772ce9e343cafe038fa284" style="display:none" alt="pixel"></body></html>
