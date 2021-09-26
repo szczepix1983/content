@@ -430,68 +430,6 @@ Srebrne monety bulionowe</h1>
 </div>
 </aside>
 <div class="row clear products_container">
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1591"  data-cart-id="1591">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-lampart-somalia-leopard-1-oz-2021.html" onclick="">
-<img src="/srebrna-moneta-lampart-somalia-leopard-1-oz-2021.jpg" alt="Srebrna moneta  Lampart  / Somalia Leopard 1 oz  2021" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-lampart-somalia-leopard-1-oz-2021.html" class="product-name-link" itemprop="url">
-Srebrna moneta  Lampart  / Somalia Leopard 1 oz  2021</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="145.00">145,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1492"  data-cart-id="1492">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-lisc-klonu-maple-leaf-1-oz-2012-r.html" onclick="">
-<img src="/srebrna-moneta-lisc-klonu-maple-leaf-1-oz-2012-r.jpg" alt="Srebrna moneta  Liść Klonu   (Maple Leaf)      1 oz   2012 r" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-lisc-klonu-maple-leaf-1-oz-2012-r.html" class="product-name-link" itemprop="url">
-Srebrna moneta  Liść Klonu   (Maple Leaf)      1 oz   2012 r</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="145.00">145,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
 <article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1398"  data-cart-id="1398">
 <div class="image">
 <figure>
@@ -791,6 +729,68 @@ Srebrna moneta  Wiedeńscy Filharmonicy  1 oz   2016</a>
 <div class="price clear">
 <div class="price-regular">
 <span class="price-value"  itemprop="price" content="115.00">115,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1399"  data-cart-id="1399">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-wiedenscy-filharmonicy-1-oz-2011.html" onclick="">
+<img src="/srebrna-moneta-wiedenscy-filharmonicy-1-oz-2011.jpg" alt="Srebrna moneta  Wiedeńscy Filharmonicy  1 oz 2011" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-wiedenscy-filharmonicy-1-oz-2011.html" class="product-name-link" itemprop="url">
+Srebrna moneta  Wiedeńscy Filharmonicy  1 oz 2011</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="145.00">145,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1585"  data-cart-id="1585">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-zolw-szylkretowy-hawksbill-turtle-1-oz-a.html" onclick="">
+<img src="/srebrna-moneta-zolw-szylkretowy-hawksbill-turtle-1-oz-a.jpg" alt="Srebrna moneta  Żółw Szylkretowy /  Hawksbill Turtle  1  oz" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-zolw-szylkretowy-hawksbill-turtle-1-oz-a.html" class="product-name-link" itemprop="url">
+Srebrna moneta  Żółw Szylkretowy /  Hawksbill Turtle  1  oz</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="135.00">135,00 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>

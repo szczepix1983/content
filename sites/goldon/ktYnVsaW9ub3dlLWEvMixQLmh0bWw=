@@ -396,7 +396,7 @@ autoComplete = new Autocomplete('main_search', {
 		</script>
 		</div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -430,37 +430,6 @@ Srebrne monety bulionowe</h1>
 </div>
 </aside>
 <div class="row clear products_container">
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="710"  data-cart-id="710">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-angielski-lew-queen-s-beasts-lion-of-england-2-oz-2016-r.html" onclick="">
-<img src="/srebrna-moneta-angielski-lew-queen-s-beasts-lion-of-england-2-oz-2016-r.jpg" alt="Srebrna moneta Angielski Lew / Queen's Beasts Lion of England  ,  2  oz , 2016 r" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-angielski-lew-queen-s-beasts-lion-of-england-2-oz-2016-r.html" class="product-name-link" itemprop="url">
-Srebrna moneta Angielski Lew / Queen's Beasts Lion of England  ,  2  oz , 2016 r</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="540.00">540,00 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
 <article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1432"  data-cart-id="1432">
 <div class="image">
 <figure>
@@ -512,37 +481,6 @@ Srebrna moneta Bestie Królowej (11). The Completer , 2 oz , 2021</a>
 <div class="price clear">
 <div class="price-regular">
 <span class="price-value"  itemprop="price" content="231.49">231,49 zł</span>
-<meta itemprop="priceCurrency" content="PLN" />
-<link itemprop="availability" href="http://schema.org/InStock" />
-</div>
-</div>
-<div class="addtocart">
-<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
-<span>Do koszyka</span>
-</span>
-</div>
-</footer>
-</article>
-<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="988"  data-cart-id="988">
-<div class="image">
-<figure>
-<span class="change_to_link_follow" data-href="/srebrna-moneta-bestie-krolowej-5-czarny-byk-queen-s-beasts-black-bull-2-oz-2018.html" onclick="">
-<img src="/srebrna-moneta-bestie-krolowej-5-czarny-byk-queen-s-beasts-black-bull-2-oz-2018.jpg" alt="Srebrna moneta Bestie Królowej (5)  Czarny Byk /Queen's Beasts Black Bull , 2  oz , 2018" width="200" height="200">
-</span>
-</figure>
-</div>
-<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-<div class="info">
-<header class="product-header" itemprop="name">
-<p class="product-name">
-<a href="/srebrna-moneta-bestie-krolowej-5-czarny-byk-queen-s-beasts-black-bull-2-oz-2018.html" class="product-name-link" itemprop="url">
-Srebrna moneta Bestie Królowej (5)  Czarny Byk /Queen's Beasts Black Bull , 2  oz , 2018</a>
-</p>
-</header>
-</div>
-<div class="price clear">
-<div class="price-regular">
-<span class="price-value"  itemprop="price" content="430.00">430,00 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -791,6 +729,68 @@ Srebrna moneta   Amerykański   Orzeł   1 oz    2021 ( nowy wizerunek)</a>
 <div class="price clear">
 <div class="price-regular">
 <span class="price-value"  itemprop="price" content="134.49">134,49 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="1607"  data-cart-id="1607">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-amerykanski-orzel-1-oz-1987.html" onclick="">
+<img src="/srebrna-moneta-amerykanski-orzel-1-oz-1987.0.1628879197.jpg" alt="Srebrna moneta   Amerykański   Orzeł   1 oz   1987" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-amerykanski-orzel-1-oz-1987.html" class="product-name-link" itemprop="url">
+Srebrna moneta   Amerykański   Orzeł   1 oz   1987</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="190.00">190,00 zł</span>
+<meta itemprop="priceCurrency" content="PLN" />
+<link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+</div>
+<div class="addtocart">
+<span class="button special button-cart" data-href="javascript: void(0);" onclick="CartAdd.list(event)" data-short="Kup">
+<span>Do koszyka</span>
+</span>
+</div>
+</footer>
+</article>
+<article class="tile product-tile  grid-3" itemscope itemtype="http://schema.org/Product" data-productId="677"  data-cart-id="677">
+<div class="image">
+<figure>
+<span class="change_to_link_follow" data-href="/srebrna-moneta-amerykanski-orzel-1-oz-1988.html" onclick="">
+<img src="/srebrna-moneta-amerykanski-orzel-1-oz-1988.0.1628879038.jpg" alt="Srebrna moneta   Amerykański   Orzeł   1 oz   1988" width="200" height="200">
+</span>
+</figure>
+</div>
+<footer class="product-tile__footer" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+<div class="info">
+<header class="product-header" itemprop="name">
+<p class="product-name">
+<a href="/srebrna-moneta-amerykanski-orzel-1-oz-1988.html" class="product-name-link" itemprop="url">
+Srebrna moneta   Amerykański   Orzeł   1 oz   1988</a>
+</p>
+</header>
+</div>
+<div class="price clear">
+<div class="price-regular">
+<span class="price-value"  itemprop="price" content="180.00">180,00 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
