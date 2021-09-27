@@ -175,7 +175,7 @@ autoComplete = new Autocomplete('main_search', {
 <p  class="box__title header-size-4 header-brand-bg">Filtrowanie</p>
 </header>
 <div  class="box_content contentToggle">
-<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','200','do 14 dni','do-14-dni','yA')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-14-dni,dDQ-yA.html">do 14 dni (7)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (14)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (5)</a></span>                <script type="text/javascript">
+<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Termin wysyłki</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'13','200','do 14 dni','do-14-dni','yA')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-14-dni,dDQ-yA.html">do 14 dni (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','199','do 7 dni','do-7-dni','xw')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-do-7-dni,dDQ-xw.html">do 7 dni (16)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'13','173','1 - 3 dni robocze','1-3-dni-robocze','rQ')"><a class="checkbox-link" href="/zlote-monety-bulionowe-a/termin-wysylki-1-3-dni-robocze,dDQ-rQ.html">1 - 3 dni robocze (4)</a></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_13').click(function() {
                             var urlred = "/zlote-monety-bulionowe-a.html";
@@ -318,11 +318,11 @@ autoComplete = new Autocomplete('main_search', {
 					return;
 
 				var price = {
-					startMin: parseFloat(822.6100),
+					startMin: parseFloat(823.8700),
 					startMax: parseFloat(11350.0000),
-					rangeMin: parseFloat(822.6100),
+					rangeMin: parseFloat(823.8700),
 					rangeMax: parseFloat(11350.0000),
-					currentFrom: parseFloat(822.6100),
+					currentFrom: parseFloat(823.8700),
 					currentTo: parseFloat(11350.0000),
 					decimal_separator: ",",
 					thousand_separator: " ",
@@ -396,7 +396,7 @@ autoComplete = new Autocomplete('main_search', {
 		</script>
 		</div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -449,7 +449,7 @@ Złota moneta 100 Funtów Britannia  1 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7113.92">7 113,92 zł</span>
+<span class="price-value"  itemprop="price" content="7124.80">7 124,80 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -480,7 +480,7 @@ Złota moneta Bestie Królowej - Completer Coin, 1 oz , 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7345.70">7 345,70 zł</span>
+<span class="price-value"  itemprop="price" content="7356.94">7 356,94 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -542,7 +542,7 @@ Złota moneta EMU   1 oz . 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7283.80">7 283,80 zł</span>
+<span class="price-value"  itemprop="price" content="7294.94">7 294,94 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -604,7 +604,7 @@ Złota moneta Wiedeńscy Filharmonicy 1/4 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="1918.96">1 918,96 zł</span>
+<span class="price-value"  itemprop="price" content="1921.90">1 921,90 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -639,7 +639,7 @@ Złota moneta Wiedeńscy Filharmonicy 1/4 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="845.99">845,99 zł</span>
+<span class="price-value"  itemprop="price" content="847.29">847,29 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -670,7 +670,7 @@ Złota moneta Wiedeńscy Filharmonicy 1/4 oz 2021</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7239.10">7 239,10 zł</span>
+<span class="price-value"  itemprop="price" content="7250.17">7 250,17 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -697,7 +697,7 @@ Złota moneta  Chińska Panda ,  30 gramów   2020</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="7338.83">7 338,83 zł</span>
+<span class="price-value"  itemprop="price" content="7350.05">7 350,05 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -751,7 +751,7 @@ Złota moneta Liść Klonowy / Maple Leaf  1/4 Oz</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="1953.35">1 953,35 zł</span>
+<span class="price-value"  itemprop="price" content="1956.34">1 956,34 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/OutOfStock" />
 </div>
@@ -931,7 +931,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 878,00 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,94 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 907,35 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 888,52 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,22 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 880,35 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
