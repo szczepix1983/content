@@ -319,11 +319,11 @@ autoComplete = new Autocomplete('main_search', {
 
 				var price = {
 					startMin: parseFloat(75.0000),
-					startMax: parseFloat(56080.3100),
+					startMax: parseFloat(55702.0200),
 					rangeMin: parseFloat(75.0000),
-					rangeMax: parseFloat(56080.3100),
+					rangeMax: parseFloat(55702.0200),
 					currentFrom: parseFloat(75.0000),
-					currentTo: parseFloat(56080.3100),
+					currentTo: parseFloat(55702.0200),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -943,7 +943,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 910,41 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,95 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 925,96 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 873,10 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,35 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 880,52 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({

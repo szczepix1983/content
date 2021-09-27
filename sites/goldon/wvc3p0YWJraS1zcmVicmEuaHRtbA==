@@ -340,7 +340,7 @@ Srebna sztabka Germania 1 kg</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="3869.33">3 869,33 zł</span>
+<span class="price-value"  itemprop="price" content="3843.23">3 843,23 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -493,7 +493,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 910,41 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,95 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 925,96 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 873,10 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,35 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 880,52 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
