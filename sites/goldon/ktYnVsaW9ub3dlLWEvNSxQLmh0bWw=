@@ -319,11 +319,11 @@ autoComplete = new Autocomplete('main_search', {
 
 				var price = {
 					startMin: parseFloat(75.0000),
-					startMax: parseFloat(55676.8100),
+					startMax: parseFloat(56080.3100),
 					rangeMin: parseFloat(75.0000),
-					rangeMax: parseFloat(55676.8100),
+					rangeMax: parseFloat(56080.3100),
 					currentFrom: parseFloat(75.0000),
-					currentTo: parseFloat(55676.8100),
+					currentTo: parseFloat(56080.3100),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -396,7 +396,7 @@ autoComplete = new Autocomplete('main_search', {
 		</script>
 		</div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -511,7 +511,7 @@ Srebrna moneta  Liść Klonu   (Maple Leaf)      1 oz   2021  r</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="113.92">113,92 zł</span>
+<span class="price-value"  itemprop="price" content="114.75">114,75 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -943,7 +943,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 890,84 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,31 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 896,55 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 910,41 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,95 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 925,96 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
