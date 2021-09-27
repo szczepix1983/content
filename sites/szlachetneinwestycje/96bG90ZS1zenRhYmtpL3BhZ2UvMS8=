@@ -276,7 +276,7 @@ var ajax_object = {"ajax_url":"https:\/\/sklep.szlachetneinwestycje.pl\/wp-admin
 <script type='text/javascript' src='https://sklep.szlachetneinwestycje.pl/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=5.8.1' id='jquery-bind-first-js'></script>
 <script type='text/javascript' id='pys-js-extra'>
 /* <![CDATA[ */
-var pysOptions = {"staticEvents":{"facebook":{"PageView":[{"delay":0,"type":"static","name":"PageView","pixelIds":["1499318750247889"],"eventID":"a2a65289-a383-4bd5-b382-38d4ed2559e4","params":{"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}],"ViewCategory":[{"delay":0,"type":"static","name":"ViewCategory","pixelIds":["1499318750247889"],"eventID":"9c5e57f2-a36b-42fb-9a26-41f889c482c3","params":{"content_type":"product","content_category":"Z\u0142oto","content_name":"Z\u0142ote sztabki","content_ids":["41828","44818","44815","41870","41825"],"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":{"signal_form":{"facebook":{"delay":0,"type":"dyn","name":"Signal","pixelIds":["1499318750247889"],"eventID":"27510160-cede-40e7-9f4a-25fe42735b64","params":{"event_action":"Form","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"Signal","params":{"event_action":"Form","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}},"signal_download":{"facebook":{"delay":0,"type":"dyn","name":"Signal","extensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"pixelIds":["1499318750247889"],"eventID":"f5e98d70-3ca2-45b5-a72b-897a00aa6932","params":{"event_action":"Download","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"Signal","extensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"params":{"event_action":"Download","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}},"signal_comment":{"facebook":{"delay":0,"type":"dyn","name":"Signal","pixelIds":["1499318750247889"],"eventID":"38451b89-de2a-45d6-bce1-0b84bd5be13b","params":{"event_action":"Comment","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"Signal","params":{"event_action":"Comment","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}},"woo_add_to_cart_on_button_click":{"facebook":{"delay":0,"type":"dyn","name":"AddToCart","pixelIds":["1499318750247889"],"eventID":"ddefeebf-b4b7-4bc0-be4d-34b2000fb35b","params":{"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"add_to_cart","params":{"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}}},"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["1499318750247889"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"product_cat","post_id":27,"content_name":"Z\u0142ote sztabki"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"ajaxForServerEvent":true,"serverApiEnabled":true,"wooCRSendFromServer":false},"ga":{"trackingIds":["UA-155388545-2"],"enhanceLinkAttr":false,"anonimizeIP":false,"commentEventEnabled":true,"commentEventNonInteractive":false,"downloadEnabled":true,"downloadEventNonInteractive":false,"formEventEnabled":true,"crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[],"isDebugEnabled":[false],"isUse4Version":true,"disableAdvertisingFeatures":false,"disableAdvertisingPersonalization":false,"wooVariableAsSimple":false},"debug":"","siteUrl":"https:\/\/sklep.szlachetneinwestycje.pl","ajaxUrl":"https:\/\/sklep.szlachetneinwestycje.pl\/wp-admin\/admin-ajax.php","enable_remove_download_url_param":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"edd":{"enabled":false},"woo":{"enabled":true,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartSelector":"form.woocommerce-cart-form .remove"}};
+var pysOptions = {"staticEvents":{"facebook":{"PageView":[{"delay":0,"type":"static","name":"PageView","pixelIds":["1499318750247889"],"eventID":"94753173-2614-4c5c-ba94-31a6dd218a2c","params":{"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}],"ViewCategory":[{"delay":0,"type":"static","name":"ViewCategory","pixelIds":["1499318750247889"],"eventID":"315bf855-d12c-4076-b4d6-69a5538b90c3","params":{"content_type":"product","content_category":"Z\u0142oto","content_name":"Z\u0142ote sztabki","content_ids":["41828","44818","44815","41870","41825"],"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""}]}},"dynamicEvents":{"signal_form":{"facebook":{"delay":0,"type":"dyn","name":"Signal","pixelIds":["1499318750247889"],"eventID":"07fe03e1-670d-48ef-899b-394e9cab5e22","params":{"event_action":"Form","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"Signal","params":{"event_action":"Form","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}},"signal_download":{"facebook":{"delay":0,"type":"dyn","name":"Signal","extensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"pixelIds":["1499318750247889"],"eventID":"6cf0f8a7-5488-4f56-bfbe-e14eee249325","params":{"event_action":"Download","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"Signal","extensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"params":{"event_action":"Download","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}},"signal_comment":{"facebook":{"delay":0,"type":"dyn","name":"Signal","pixelIds":["1499318750247889"],"eventID":"00e836f6-860a-4751-ac15-83d5a37bf3ff","params":{"event_action":"Comment","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"Signal","params":{"event_action":"Comment","page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}},"woo_add_to_cart_on_button_click":{"facebook":{"delay":0,"type":"dyn","name":"AddToCart","pixelIds":["1499318750247889"],"eventID":"09e16e35-52cd-4bd4-8aad-b2c86def6ce5","params":{"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"woo_order":"","edd_order":""},"ga":{"delay":0,"type":"dyn","name":"add_to_cart","params":{"page_title":"Z\u0142ote sztabki","post_type":"product_cat","post_id":27,"plugin":"PixelYourSite","user_role":"guest","event_url":"sklep.szlachetneinwestycje.pl\/zloto\/zlote-sztabki\/"},"ids":[],"hasTimeWindow":false,"timeWindow":0,"pixelIds":[],"eventID":"","woo_order":"","edd_order":""}}},"triggerEvents":[],"triggerEventTypes":[],"facebook":{"pixelIds":["1499318750247889"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"product_cat","post_id":27,"content_name":"Z\u0142ote sztabki"},"commentEventEnabled":true,"wooVariableAsSimple":false,"downloadEnabled":true,"formEventEnabled":true,"ajaxForServerEvent":true,"serverApiEnabled":true,"wooCRSendFromServer":false},"ga":{"trackingIds":["UA-155388545-2"],"enhanceLinkAttr":false,"anonimizeIP":false,"commentEventEnabled":true,"commentEventNonInteractive":false,"downloadEnabled":true,"downloadEventNonInteractive":false,"formEventEnabled":true,"crossDomainEnabled":false,"crossDomainAcceptIncoming":false,"crossDomainDomains":[],"isDebugEnabled":[false],"isUse4Version":true,"disableAdvertisingFeatures":false,"disableAdvertisingPersonalization":false,"wooVariableAsSimple":false},"debug":"","siteUrl":"https:\/\/sklep.szlachetneinwestycje.pl","ajaxUrl":"https:\/\/sklep.szlachetneinwestycje.pl\/wp-admin\/admin-ajax.php","enable_remove_download_url_param":"1","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":null,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":null,"cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","consent_magic_integration_enabled":false,"real_cookie_banner_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"edd":{"enabled":false},"woo":{"enabled":true,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartSelector":"form.woocommerce-cart-form .remove"}};
 /* ]]> */
 </script>
 <script type="rocketlazyloadscript" data-rocket-type='text/javascript' src='https://sklep.szlachetneinwestycje.pl/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=8.2.2' id='pys-js' defer></script>
@@ -722,16 +722,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 <li class="cat-item cat-item-31"><a href="https://sklep.szlachetneinwestycje.pl/platyna-inwestycyjna-monety-sztabki/">Platyna</a> <span class="count">(15)</span></li>
 <li class="cat-item cat-item-96"><a href="https://sklep.szlachetneinwestycje.pl/wysylka-24h/">Wysyłka 24h!</a> <span class="count">(10)</span></li>
 <li class="cat-item cat-item-125"><a href="https://sklep.szlachetneinwestycje.pl/nowosci-zloto-i-srebro/">NOWOŚCI!</a> <span class="count">(1)</span></li>
-</ul></section><div class="berocket_single_filter_widget berocket_single_filter_widget_41270  bapf_mt_none" data-id="41270" style=""></div><div class="berocket_single_filter_widget berocket_single_filter_widget_41269  bapf_mt_none" data-id="41269" style=""></div><section id="woocommerce_recently_viewed_products-2" class="widget woocommerce widget_recently_viewed_products"><h4 class="widget-title">Ostatnio oglądane produkty</h4><ul class="product_list_widget"><li>
-	
-	<a href="https://sklep.szlachetneinwestycje.pl/1-uncja-sztabka-zlota-lbma/">
-		<img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>		<span class="product-title">1 uncja Sztabka Złota LBMA</span>
-	</a>
-
-	
-	od <span class="woocommerce-Price-amount amount"><bdi>7 158,22&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> 
-	</li>
-</ul></section>		</ul>
+</ul></section><div class="berocket_single_filter_widget berocket_single_filter_widget_41270  bapf_mt_none" data-id="41270" style=""></div><div class="berocket_single_filter_widget berocket_single_filter_widget_41269  bapf_mt_none" data-id="41269" style=""></div>		</ul>
 	</div>
 		</div>
 		<div class="col-md-9">
@@ -761,12 +752,12 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 <ul class="products columns-3">
 <li class="product type-product post-41825 status-publish first instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/1-uncja-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/sztabka-zlota-1-oz-argor-heraeus.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">1 uncja Sztabka Złota LBMA</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>7 158,22&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>7 163,52&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3683b8">ilość 1 uncja Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f474626cd">ilość 1 uncja Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3683b8"
+			id="quantity_6151f474626cd"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -782,24 +773,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41825'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41825] = {"id":"41825","sku":"","name":"1 uncja Sztabka Z\u0142ota LBMA","price":7195,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41825","sku":41825,"gpf":"woocommerce_gpf_41825"},"isVariation":false};
+                window.wooptpmDataLayer.products[41825] = {"id":"41825","sku":"","name":"1 uncja Sztabka Z\u0142ota LBMA","price":7200,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41825","sku":41825,"gpf":"woocommerce_gpf_41825"},"isVariation":false};
                 window.wooptpmDataLayer.products[41825]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41825 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41825"],"contents":[{"id":"41825","quantity":1}],"content_name":"1 uncja Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":7195.63600496,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41825","name":"1 uncja Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":7195.63600496}],"non_interaction":false}}};
+            window.pysWooProductData[ 41825 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41825"],"contents":[{"id":"41825","quantity":1}],"content_name":"1 uncja Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":7200.96867716,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41825","name":"1 uncja Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":7200.96867716}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41870 status-publish instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/20-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-20g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">20 g Sztabka Złota LBMA</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>4 641,54&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>4 644,98&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe36bbfe">ilość 20 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f47465cac">ilość 20 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe36bbfe"
+			id="quantity_6151f47465cac"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -815,24 +806,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41870'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41870] = {"id":"41870","sku":"","name":"20 g Sztabka Z\u0142ota LBMA","price":4665,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41870","sku":41870,"gpf":"woocommerce_gpf_41870"},"isVariation":false};
+                window.wooptpmDataLayer.products[41870] = {"id":"41870","sku":"","name":"20 g Sztabka Z\u0142ota LBMA","price":4669,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41870","sku":41870,"gpf":"woocommerce_gpf_41870"},"isVariation":false};
                 window.wooptpmDataLayer.products[41870]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41870 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41870"],"contents":[{"id":"41870","quantity":1}],"content_name":"20 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":4665.80162073,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41870","name":"20 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":4665.80162073}],"non_interaction":false}}};
+            window.pysWooProductData[ 41870 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41870"],"contents":[{"id":"41870","quantity":1}],"content_name":"20 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":4669.26004289,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41870","name":"20 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":4669.26004289}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-44815 status-publish last instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/combibar-valcambi-10-x-1-10-uncji-zlota/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-64x64.jpg 64w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar.jpg 560w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar-64x64.jpg 64w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/gold-bar-au9999-valcambi-10x110-oz-combibar.jpg 560w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">CombiBar Valcambi 10 x 1/10 uncji Złota</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>7 501,03&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>7 506,59&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe36f7ea">ilość CombiBar Valcambi 10 x 1/10 uncji Złota</label>
+				<label class="screen-reader-text" for="quantity_6151f4746931c">ilość CombiBar Valcambi 10 x 1/10 uncji Złota</label>
 		<input
 			type="number"
-			id="quantity_6151bbe36f7ea"
+			id="quantity_6151f4746931c"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -848,24 +839,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='44815'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[44815] = {"id":"44815","sku":"","name":"CombiBar Valcambi 10 x 1\/10 uncji Z\u0142ota","price":7501,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"44815","sku":44815,"gpf":"woocommerce_gpf_44815"},"isVariation":false};
+                window.wooptpmDataLayer.products[44815] = {"id":"44815","sku":"","name":"CombiBar Valcambi 10 x 1\/10 uncji Z\u0142ota","price":7506,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"44815","sku":44815,"gpf":"woocommerce_gpf_44815"},"isVariation":false};
                 window.wooptpmDataLayer.products[44815]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 44815 ] = {"facebook":{"params":{"content_type":"product","content_ids":["44815"],"contents":[{"id":"44815","quantity":1}],"content_name":"CombiBar Valcambi 10 x 1\/10 uncji Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":7501.0312,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"44815","name":"CombiBar Valcambi 10 x 1\/10 uncji Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":7501.0312}],"non_interaction":false}}};
+            window.pysWooProductData[ 44815 ] = {"facebook":{"params":{"content_type":"product","content_ids":["44815"],"contents":[{"id":"44815","quantity":1}],"content_name":"CombiBar Valcambi 10 x 1\/10 uncji Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":7506.5902,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"44815","name":"CombiBar Valcambi 10 x 1\/10 uncji Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":7506.5902}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-44818 status-publish first instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/combibar-valcambi-20-x-1-g-zlota/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-64x64.jpg 64w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard.jpg 560w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard-64x64.jpg 64w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/07/zlota-sztabka-au9999-valcambi-20x1-g-combibar-multicard.jpg 560w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">CombiBar Valcambi 20 x 1 g Złota</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>5 015,84&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>5 019,56&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe372fee">ilość CombiBar Valcambi 20 x 1 g Złota</label>
+				<label class="screen-reader-text" for="quantity_6151f4746c6c7">ilość CombiBar Valcambi 20 x 1 g Złota</label>
 		<input
 			type="number"
-			id="quantity_6151bbe372fee"
+			id="quantity_6151f4746c6c7"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -881,24 +872,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='44818'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[44818] = {"id":"44818","sku":"","name":"CombiBar Valcambi 20 x 1 g Z\u0142ota","price":5015,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"44818","sku":44818,"gpf":"woocommerce_gpf_44818"},"isVariation":false};
+                window.wooptpmDataLayer.products[44818] = {"id":"44818","sku":"","name":"CombiBar Valcambi 20 x 1 g Z\u0142ota","price":5019,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"44818","sku":44818,"gpf":"woocommerce_gpf_44818"},"isVariation":false};
                 window.wooptpmDataLayer.products[44818]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 44818 ] = {"facebook":{"params":{"content_type":"product","content_ids":["44818"],"contents":[{"id":"44818","quantity":1}],"content_name":"CombiBar Valcambi 20 x 1 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":5015.839515,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"44818","name":"CombiBar Valcambi 20 x 1 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":5015.839515}],"non_interaction":false}}};
+            window.pysWooProductData[ 44818 ] = {"facebook":{"params":{"content_type":"product","content_ids":["44818"],"contents":[{"id":"44818","quantity":1}],"content_name":"CombiBar Valcambi 20 x 1 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":5019.557395,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"44818","name":"CombiBar Valcambi 20 x 1 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":5019.557395}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41828 status-publish instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/50-x-1-g-combibar-zlota-sztabka-valcambi/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/valcambi-combibar-multicard-au9999-50x1g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">CombiBar Valcambi 50 x 1 g Złota</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>11 954,39&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>11 963,25&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe381a87">ilość CombiBar Valcambi 50 x 1 g Złota</label>
+				<label class="screen-reader-text" for="quantity_6151f4746fd74">ilość CombiBar Valcambi 50 x 1 g Złota</label>
 		<input
 			type="number"
-			id="quantity_6151bbe381a87"
+			id="quantity_6151f4746fd74"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -914,24 +905,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41828'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41828] = {"id":"41828","sku":"","name":"CombiBar Valcambi 50 x 1 g Z\u0142ota","price":11954,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41828","sku":41828,"gpf":"woocommerce_gpf_41828"},"isVariation":false};
+                window.wooptpmDataLayer.products[41828] = {"id":"41828","sku":"","name":"CombiBar Valcambi 50 x 1 g Z\u0142ota","price":11963,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41828","sku":41828,"gpf":"woocommerce_gpf_41828"},"isVariation":false};
                 window.wooptpmDataLayer.products[41828]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41828 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41828"],"contents":[{"id":"41828","quantity":1}],"content_name":"CombiBar Valcambi 50 x 1 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":11954.386038,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41828","name":"CombiBar Valcambi 50 x 1 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":11954.386038}],"non_interaction":false}}};
+            window.pysWooProductData[ 41828 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41828"],"contents":[{"id":"41828","quantity":1}],"content_name":"CombiBar Valcambi 50 x 1 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":11963.246958,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41828","name":"CombiBar Valcambi 50 x 1 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":11963.246958}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41826 status-publish last instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/50-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-50g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">50 g Sztabka Złota LBMA</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>11 522,50&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>11 531,04&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3854dc">ilość 50 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f47473385">ilość 50 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3854dc"
+			id="quantity_6151f47473385"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -947,24 +938,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41826'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41826] = {"id":"41826","sku":"","name":"50 g Sztabka Z\u0142ota LBMA","price":11522,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41826","sku":41826,"gpf":"woocommerce_gpf_41826"},"isVariation":false};
+                window.wooptpmDataLayer.products[41826] = {"id":"41826","sku":"","name":"50 g Sztabka Z\u0142ota LBMA","price":11531,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41826","sku":41826,"gpf":"woocommerce_gpf_41826"},"isVariation":false};
                 window.wooptpmDataLayer.products[41826]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41826 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41826"],"contents":[{"id":"41826","quantity":1}],"content_name":"50 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":11522.4970588,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41826","name":"50 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":11522.4970588}],"non_interaction":false}}};
+            window.pysWooProductData[ 41826 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41826"],"contents":[{"id":"41826","quantity":1}],"content_name":"50 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":11531.0378508,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41826","name":"50 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":11531.0378508}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41986 status-publish first instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/combistar-valcambi-5-g-zlota/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi.jpg 728w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/CombiStar_5g_Valcambi.jpg 728w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">CombiStar Valcambi 5 g Złota</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 449,39&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1 450,47&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3888c5">ilość CombiStar Valcambi 5 g Złota</label>
+				<label class="screen-reader-text" for="quantity_6151f474764a7">ilość CombiStar Valcambi 5 g Złota</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3888c5"
+			id="quantity_6151f474764a7"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -980,24 +971,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41986'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41986] = {"id":"41986","sku":"","name":"CombiStar Valcambi 5 g Z\u0142ota","price":1449,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41986","sku":41986,"gpf":"woocommerce_gpf_41986"},"isVariation":false};
+                window.wooptpmDataLayer.products[41986] = {"id":"41986","sku":"","name":"CombiStar Valcambi 5 g Z\u0142ota","price":1450,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41986","sku":41986,"gpf":"woocommerce_gpf_41986"},"isVariation":false};
                 window.wooptpmDataLayer.products[41986]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41986 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41986"],"contents":[{"id":"41986","quantity":1}],"content_name":"CombiStar Valcambi 5 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":1449.39291574,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41986","name":"CombiStar Valcambi 5 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":1449.39291574}],"non_interaction":false}}};
+            window.pysWooProductData[ 41986 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41986"],"contents":[{"id":"41986","quantity":1}],"content_name":"CombiStar Valcambi 5 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":1450.46724858,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41986","name":"CombiStar Valcambi 5 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":1450.46724858}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41827 status-publish instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/100-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-100g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">100 g Sztabka Złota LBMA</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>22 927,92&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>22 944,91&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe38bf87">ilość 100 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f4747983b">ilość 100 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe38bf87"
+			id="quantity_6151f4747983b"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1013,24 +1004,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41827'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41827] = {"id":"41827","sku":"","name":"100 g Sztabka Z\u0142ota LBMA","price":22927,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41827","sku":41827,"gpf":"woocommerce_gpf_41827"},"isVariation":false};
+                window.wooptpmDataLayer.products[41827] = {"id":"41827","sku":"","name":"100 g Sztabka Z\u0142ota LBMA","price":22944,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41827","sku":41827,"gpf":"woocommerce_gpf_41827"},"isVariation":false};
                 window.wooptpmDataLayer.products[41827]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41827 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41827"],"contents":[{"id":"41827","quantity":1}],"content_name":"100 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":22927.91794605,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41827","name":"100 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":22927.91794605}],"non_interaction":false}}};
+            window.pysWooProductData[ 41827 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41827"],"contents":[{"id":"41827","quantity":1}],"content_name":"100 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":22944.91275765,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41827","name":"100 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":22944.91275765}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41833 status-publish last instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/250-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-2500g-cast-bar.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">250 g Sztabka Złota LBMA</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>57 160,95&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>57 203,31&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe397f8c">ilość 250 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f4747c8cc">ilość 250 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe397f8c"
+			id="quantity_6151f4747c8cc"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1046,24 +1037,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41833'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41833] = {"id":"41833","sku":"","name":"250 g Sztabka Z\u0142ota LBMA","price":57160,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41833","sku":41833,"gpf":"woocommerce_gpf_41833"},"isVariation":false};
+                window.wooptpmDataLayer.products[41833] = {"id":"41833","sku":"","name":"250 g Sztabka Z\u0142ota LBMA","price":57203,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41833","sku":41833,"gpf":"woocommerce_gpf_41833"},"isVariation":false};
                 window.wooptpmDataLayer.products[41833]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41833 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41833"],"contents":[{"id":"41833","quantity":1}],"content_name":"250 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":57160.94963508,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41833","name":"250 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":57160.94963508}],"non_interaction":false}}};
+            window.pysWooProductData[ 41833 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41833"],"contents":[{"id":"41833","quantity":1}],"content_name":"250 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":57203.30857811,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41833","name":"250 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":57203.30857811}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41834 status-publish first instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/500-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-500g-cast-bar.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">500 g Sztabka Złota LBMA</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>114 028,51&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>114 113,02&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe39bc72">ilość 500 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f4747fbd5">ilość 500 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe39bc72"
+			id="quantity_6151f4747fbd5"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1079,24 +1070,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41834'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41834] = {"id":"41834","sku":"","name":"500 g Sztabka Z\u0142ota LBMA","price":114028,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41834","sku":41834,"gpf":"woocommerce_gpf_41834"},"isVariation":false};
+                window.wooptpmDataLayer.products[41834] = {"id":"41834","sku":"","name":"500 g Sztabka Z\u0142ota LBMA","price":114113,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41834","sku":41834,"gpf":"woocommerce_gpf_41834"},"isVariation":false};
                 window.wooptpmDataLayer.products[41834]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41834 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41834"],"contents":[{"id":"41834","quantity":1}],"content_name":"500 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":114028.50541615,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41834","name":"500 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":114028.50541615}],"non_interaction":false}}};
+            window.pysWooProductData[ 41834 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41834"],"contents":[{"id":"41834","quantity":1}],"content_name":"500 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":114113.0161987,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41834","name":"500 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":114113.0161987}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41841 status-publish instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/1000-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-1000g-cast-bar.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">1000 g Sztabka Złota LBMA</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>228 012,54&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>228 181,52&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe39f28e">ilość 1000 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f47482ea7">ilość 1000 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe39f28e"
+			id="quantity_6151f47482ea7"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1112,24 +1103,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41841'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41841] = {"id":"41841","sku":"","name":"1000 g Sztabka Z\u0142ota LBMA","price":228012,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41841","sku":41841,"gpf":"woocommerce_gpf_41841"},"isVariation":false};
+                window.wooptpmDataLayer.products[41841] = {"id":"41841","sku":"","name":"1000 g Sztabka Z\u0142ota LBMA","price":228181,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41841","sku":41841,"gpf":"woocommerce_gpf_41841"},"isVariation":false};
                 window.wooptpmDataLayer.products[41841]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41841 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41841"],"contents":[{"id":"41841","quantity":1}],"content_name":"1000 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":228012.53866976,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41841","name":"1000 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":228012.53866976}],"non_interaction":false}}};
+            window.pysWooProductData[ 41841 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41841"],"contents":[{"id":"41841","quantity":1}],"content_name":"1000 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":228181.51696944,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41841","name":"1000 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":228181.51696944}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41987 status-publish last instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/combibar-valcambi-100-x-1-g-zlota/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-100x100.jpg 100w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/Combibar_Au_100g_Valcambi-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">CombiBar Valcambi 100 x 1 g Złota</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>23 723,17&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>23 740,76&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3a29c4">ilość CombiBar Valcambi 100 x 1 g Złota</label>
+				<label class="screen-reader-text" for="quantity_6151f47486156">ilość CombiBar Valcambi 100 x 1 g Złota</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3a29c4"
+			id="quantity_6151f47486156"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1145,24 +1136,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41987'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41987] = {"id":"41987","sku":"","name":"CombiBar Valcambi 100 x 1 g Z\u0142ota","price":23723,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41987","sku":41987,"gpf":"woocommerce_gpf_41987"},"isVariation":false};
+                window.wooptpmDataLayer.products[41987] = {"id":"41987","sku":"","name":"CombiBar Valcambi 100 x 1 g Z\u0142ota","price":23740,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41987","sku":41987,"gpf":"woocommerce_gpf_41987"},"isVariation":false};
                 window.wooptpmDataLayer.products[41987]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41987 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41987"],"contents":[{"id":"41987","quantity":1}],"content_name":"CombiBar Valcambi 100 x 1 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":23723.1729954,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41987","name":"CombiBar Valcambi 100 x 1 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":23723.1729954}],"non_interaction":false}}};
+            window.pysWooProductData[ 41987 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41987"],"contents":[{"id":"41987","quantity":1}],"content_name":"CombiBar Valcambi 100 x 1 g Z\u0142ota","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":23740.7572722,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41987","name":"CombiBar Valcambi 100 x 1 g Z\u0142ota","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":23740.7572722}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41831 status-publish first instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/1-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-1-g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">1 g Sztabka Złota LBMA</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>273,52&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>273,73&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3b1eee">ilość 1 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f474896f7">ilość 1 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3b1eee"
+			id="quantity_6151f474896f7"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1183,19 +1174,19 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41831 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41831"],"contents":[{"id":"41831","quantity":1}],"content_name":"1 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":275.11132125,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41831","name":"1 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":275.11132125}],"non_interaction":false}}};
+            window.pysWooProductData[ 41831 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41831"],"contents":[{"id":"41831","quantity":1}],"content_name":"1 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":275.32270622,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41831","name":"1 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":275.32270622}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41830 status-publish instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/5-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-umicore-5-g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">5 g Sztabka Złota LBMA</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>1 213,62&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>1 214,52&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3b54b3">ilość 5 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f4748cb7a">ilość 5 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3b54b3"
+			id="quantity_6151f4748cb7a"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1211,24 +1202,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41830'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41830] = {"id":"41830","sku":"","name":"5 g Sztabka Z\u0142ota LBMA","price":1220,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41830","sku":41830,"gpf":"woocommerce_gpf_41830"},"isVariation":false};
+                window.wooptpmDataLayer.products[41830] = {"id":"41830","sku":"","name":"5 g Sztabka Z\u0142ota LBMA","price":1221,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41830","sku":41830,"gpf":"woocommerce_gpf_41830"},"isVariation":false};
                 window.wooptpmDataLayer.products[41830]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41830 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41830"],"contents":[{"id":"41830","quantity":1}],"content_name":"5 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":1220.69814372,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41830","name":"5 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":1220.69814372}],"non_interaction":false}}};
+            window.pysWooProductData[ 41830 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41830"],"contents":[{"id":"41830","quantity":1}],"content_name":"5 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":1221.60296124,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41830","name":"5 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":1221.60296124}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41832 status-publish last instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/10-g-sztabka-zlota-lbma/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-au9999-heraeus-10g-1.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">10 g Sztabka Złota LBMA</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>2 359,69&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>2 361,44&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3b8a2f">ilość 10 g Sztabka Złota LBMA</label>
+				<label class="screen-reader-text" for="quantity_6151f47490003">ilość 10 g Sztabka Złota LBMA</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3b8a2f"
+			id="quantity_6151f47490003"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1244,24 +1235,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41832'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41832] = {"id":"41832","sku":"","name":"10 g Sztabka Z\u0142ota LBMA","price":2373,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41832","sku":41832,"gpf":"woocommerce_gpf_41832"},"isVariation":false};
+                window.wooptpmDataLayer.products[41832] = {"id":"41832","sku":"","name":"10 g Sztabka Z\u0142ota LBMA","price":2375,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41832","sku":41832,"gpf":"woocommerce_gpf_41832"},"isVariation":false};
                 window.wooptpmDataLayer.products[41832]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41832 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41832"],"contents":[{"id":"41832","quantity":1}],"content_name":"10 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":2373.45327365,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41832","name":"10 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":2373.45327365}],"non_interaction":false}}};
+            window.pysWooProductData[ 41832 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41832"],"contents":[{"id":"41832","quantity":1}],"content_name":"10 g Sztabka Z\u0142ota LBMA","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":2375.21253937,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41832","name":"10 g Sztabka Z\u0142ota LBMA","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":2375.21253937}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41922 status-publish first instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/1-g-sztabka-zlota-kinebar/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-1g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">1 g Sztabka Złota KINEBAR</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>312,56&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>312,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3bc2e2">ilość 1 g Sztabka Złota KINEBAR</label>
+				<label class="screen-reader-text" for="quantity_6151f47493554">ilość 1 g Sztabka Złota KINEBAR</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3bc2e2"
+			id="quantity_6151f47493554"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1282,19 +1273,19 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41922 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41922"],"contents":[{"id":"41922","quantity":1}],"content_name":"1 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":314.38,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41922","name":"1 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":314.38}],"non_interaction":false}}};
+            window.pysWooProductData[ 41922 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41922"],"contents":[{"id":"41922","quantity":1}],"content_name":"1 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":314.73,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41922","name":"1 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":314.73}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41860 status-publish instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/2-g-sztabka-zlota-kinebar/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-2g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">2 g Sztabka Złota KINEBAR</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>581,15&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>581,78&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3cdbf1">ilość 2 g Sztabka Złota KINEBAR</label>
+				<label class="screen-reader-text" for="quantity_6151f4749a834">ilość 2 g Sztabka Złota KINEBAR</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3cdbf1"
+			id="quantity_6151f4749a834"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1310,24 +1301,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41860'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41860] = {"id":"41860","sku":"","name":"2 g Sztabka Z\u0142ota KINEBAR","price":584,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41860","sku":41860,"gpf":"woocommerce_gpf_41860"},"isVariation":false};
+                window.wooptpmDataLayer.products[41860] = {"id":"41860","sku":"","name":"2 g Sztabka Z\u0142ota KINEBAR","price":585,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41860","sku":41860,"gpf":"woocommerce_gpf_41860"},"isVariation":false};
                 window.wooptpmDataLayer.products[41860]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41860 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41860"],"contents":[{"id":"41860","quantity":1}],"content_name":"2 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":584.54,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41860","name":"2 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":584.54}],"non_interaction":false}}};
+            window.pysWooProductData[ 41860 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41860"],"contents":[{"id":"41860","quantity":1}],"content_name":"2 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":585.17,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41860","name":"2 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":585.17}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41923 status-publish last instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/5-g-sztabka-zlota-kinebar/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-5g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">5 g Sztabka Złota KINEBAR</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>1 255,41&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>1 256,81&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3d15f4">ilość 5 g Sztabka Złota KINEBAR</label>
+				<label class="screen-reader-text" for="quantity_6151f4749e199">ilość 5 g Sztabka Złota KINEBAR</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3d15f4"
+			id="quantity_6151f4749e199"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1343,24 +1334,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41923'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41923] = {"id":"41923","sku":"","name":"5 g Sztabka Z\u0142ota KINEBAR","price":1262,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41923","sku":41923,"gpf":"woocommerce_gpf_41923"},"isVariation":false};
+                window.wooptpmDataLayer.products[41923] = {"id":"41923","sku":"","name":"5 g Sztabka Z\u0142ota KINEBAR","price":1264,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41923","sku":41923,"gpf":"woocommerce_gpf_41923"},"isVariation":false};
                 window.wooptpmDataLayer.products[41923]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41923 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41923"],"contents":[{"id":"41923","quantity":1}],"content_name":"5 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":1262.73,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41923","name":"5 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":1262.73}],"non_interaction":false}}};
+            window.pysWooProductData[ 41923 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41923"],"contents":[{"id":"41923","quantity":1}],"content_name":"5 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":1264.14,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41923","name":"5 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":1264.14}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41915 status-publish first instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/10-g-sztabka-zlota-kinebar/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-10g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">10 g Sztabka Złota KINEBAR</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>2 420,90&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>2 423,67&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3e1c66">ilość 10 g Sztabka Złota KINEBAR</label>
+				<label class="screen-reader-text" for="quantity_6151f474a18c3">ilość 10 g Sztabka Złota KINEBAR</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3e1c66"
+			id="quantity_6151f474a18c3"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1376,24 +1367,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41915'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41915] = {"id":"41915","sku":"","name":"10 g Sztabka Z\u0142ota KINEBAR","price":2435,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41915","sku":41915,"gpf":"woocommerce_gpf_41915"},"isVariation":false};
+                window.wooptpmDataLayer.products[41915] = {"id":"41915","sku":"","name":"10 g Sztabka Z\u0142ota KINEBAR","price":2437,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41915","sku":41915,"gpf":"woocommerce_gpf_41915"},"isVariation":false};
                 window.wooptpmDataLayer.products[41915]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41915 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41915"],"contents":[{"id":"41915","quantity":1}],"content_name":"10 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":2435.02,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41915","name":"10 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":2435.02}],"non_interaction":false}}};
+            window.pysWooProductData[ 41915 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41915"],"contents":[{"id":"41915","quantity":1}],"content_name":"10 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":2437.81,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41915","name":"10 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":2437.81}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41914 status-publish instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/20-g-sztabka-zlota-kinebar/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-20g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">20 g Sztabka Złota KINEBAR</h2>
-	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>4 700,06&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
+	<span class="price">od <span class="woocommerce-Price-amount amount"><bdi>4 705,48&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span> </span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3e69b1">ilość 20 g Sztabka Złota KINEBAR</label>
+				<label class="screen-reader-text" for="quantity_6151f474a4f42">ilość 20 g Sztabka Złota KINEBAR</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3e69b1"
+			id="quantity_6151f474a4f42"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1409,24 +1400,24 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41914'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41914] = {"id":"41914","sku":"","name":"20 g Sztabka Z\u0142ota KINEBAR","price":4724,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41914","sku":41914,"gpf":"woocommerce_gpf_41914"},"isVariation":false};
+                window.wooptpmDataLayer.products[41914] = {"id":"41914","sku":"","name":"20 g Sztabka Z\u0142ota KINEBAR","price":4730,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41914","sku":41914,"gpf":"woocommerce_gpf_41914"},"isVariation":false};
                 window.wooptpmDataLayer.products[41914]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41914 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41914"],"contents":[{"id":"41914","quantity":1}],"content_name":"20 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":4724.63,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41914","name":"20 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":4724.63}],"non_interaction":false}}};
+            window.pysWooProductData[ 41914 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41914"],"contents":[{"id":"41914","quantity":1}],"content_name":"20 g Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":4730.08,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41914","name":"20 g Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":4730.08}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
 		</li>
 <li class="product type-product post-41913 status-publish last instock product_cat-zlote-sztabki product_cat-zloto has-post-thumbnail shipping-taxable purchasable product-type-simple">
 	<a href="https://sklep.szlachetneinwestycje.pl/1-uncja-sztabka-zlota-kinebar/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" data-lazy-srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g.jpg 800w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-300x300.jpg" /><noscript><img width="300" height="300" src="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-300x300.jpg 300w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-150x150.jpg 150w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-768x768.jpg 768w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-600x600.jpg 600w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g-100x100.jpg 100w, https://sklep.szlachetneinwestycje.pl/wp-content/uploads/2021/06/gold-bar-heraeus-au9999-kinebar-311g.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></noscript><h2 class="woocommerce-loop-product__title">1 uncja Sztabka Złota KINEBAR</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>7 299,43&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>7 307,84&nbsp;<span class="woocommerce-Price-currencySymbol">&#122;&#322;</span></bdi></span></span>
 </a>	<div class="quantity">
-				<label class="screen-reader-text" for="quantity_6151bbe3ea0a9">ilość 1 uncja Sztabka Złota KINEBAR</label>
+				<label class="screen-reader-text" for="quantity_6151f474a838f">ilość 1 uncja Sztabka Złota KINEBAR</label>
 		<input
 			type="number"
-			id="quantity_6151bbe3ea0a9"
+			id="quantity_6151f474a838f"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1442,12 +1433,12 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
             <input type='hidden' class='wooptpmProductId' data-id='41913'>
             <script>
                 window.wooptpmDataLayer.products = window.wooptpmDataLayer.products || {};
-                window.wooptpmDataLayer.products[41913] = {"id":"41913","sku":"","name":"1 uncja Sztabka Z\u0142ota KINEBAR","price":7299,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41913","sku":41913,"gpf":"woocommerce_gpf_41913"},"isVariation":false};
+                window.wooptpmDataLayer.products[41913] = {"id":"41913","sku":"","name":"1 uncja Sztabka Z\u0142ota KINEBAR","price":7307,"brand":"","category":["Z\u0142ote sztabki","Z\u0142oto"],"quantity":1,"dyn_r_ids":{"post_id":"41913","sku":41913,"gpf":"woocommerce_gpf_41913"},"isVariation":false};
                 window.wooptpmDataLayer.products[41913]['position'] = window.wooptpmDataLayer.position++;</script>
 		<script type="rocketlazyloadscript" data-rocket-type="application/javascript">
             /* <![CDATA[ */
             window.pysWooProductData = window.pysWooProductData || [];
-            window.pysWooProductData[ 41913 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41913"],"contents":[{"id":"41913","quantity":1}],"content_name":"1 uncja Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":7299.43,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41913","name":"1 uncja Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":7299.43}],"non_interaction":false}}};
+            window.pysWooProductData[ 41913 ] = {"facebook":{"params":{"content_type":"product","content_ids":["41913"],"contents":[{"id":"41913","quantity":1}],"content_name":"1 uncja Sztabka Z\u0142ota KINEBAR","category_name":"Z\u0142ote sztabki, Z\u0142oto","value":7307.84,"currency":"PLN"}},"ga":{"params":{"event_category":"ecommerce","items":[{"id":"41913","name":"1 uncja Sztabka Z\u0142ota KINEBAR","category":"Z\u0142ote sztabki\/Z\u0142oto","quantity":1,"price":7307.84}],"non_interaction":false}}};
             /* ]]> */
 		</script>
 
@@ -1534,7 +1525,7 @@ else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
 <p>
 	<input type="submit" class="zapisz" value="Zapisz się" /><label>
 
-</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1632746467" /><input type="hidden" name="_mc4wp_form_id" value="40796" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->					</div>
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1632760948" /><input type="hidden" name="_mc4wp_form_id" value="40796" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->					</div>
 					<div class="col-md-3 cont">
 						<p class="f-title">Sklep szlachetne inwestycje</p>
 						<p>
@@ -1704,4 +1695,4 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
 </html>
 
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1632746468 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
