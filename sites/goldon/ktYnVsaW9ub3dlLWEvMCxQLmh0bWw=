@@ -173,7 +173,7 @@ autoComplete = new Autocomplete('main_search', {
 <p  class="box__title header-size-4 header-brand-bg">Filtrowanie</p>
 </header>
 <div  class="box_content contentToggle">
-<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-1-oz,dCw-FA.html">1 oz (205)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','29','2 oz','2-oz','HQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-2-oz,dCw-HQ.html">2 oz (22)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','74','10 oz','10-oz','Sg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-10-oz,dCw-Sg.html">10 oz (14)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','35','30 g','30-g','Iw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-30-g,dCw-Iw.html">30 g (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','24','1/2 oz','1-2-oz','GA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/masa-1-2-oz,dCw-GA.html">1/2 oz (2)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<div class="gfilter"><div class="filter "><div class="name dictionary_name btnToggle"><span>Masa</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'11','20','1 oz','1-oz','FA')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-1-oz,dCw-FA.html">1 oz (206)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','29','2 oz','2-oz','HQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-2-oz,dCw-HQ.html">2 oz (22)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','74','10 oz','10-oz','Sg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-10-oz,dCw-Sg.html">10 oz (14)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','35','30 g','30-g','Iw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/masa-30-g,dCw-Iw.html">30 g (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'11','24','1/2 oz','1-2-oz','GA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/masa-1-2-oz,dCw-GA.html">1/2 oz (2)</span></span><a href="/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=11&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_11').click(function() {
                             var urlred = "/srebrne-monety-bulionowe-a.html";
@@ -231,7 +231,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_13" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Metal</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'12','95','Ag 999,9','ag-999-9','Xw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999-9,dDA-Xw.html">Ag 999,9 (141)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','49','Ag 999','ag-999','MQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999,dDA-MQ.html">Ag 999 (106)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','202','Ag958','ag958','yg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag958,dDA-yg.html">Ag958 (3)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','48','Au 999','au-999','MA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/metal-au-999,dDA-MA.html">Au 999 (1)</span></span>                <script type="text/javascript">
+<a id="filter_link_13" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Metal</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'12','95','Ag 999,9','ag-999-9','Xw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999-9,dDA-Xw.html">Ag 999,9 (141)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','49','Ag 999','ag-999','MQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag-999,dDA-MQ.html">Ag 999 (107)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','202','Ag958','ag958','yg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/metal-ag958,dDA-yg.html">Ag958 (3)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'12','48','Au 999','au-999','MA')"><span class="change_to_link checkbox-link" data-href="/srebrne-monety-bulionowe-a/metal-au-999,dDA-MA.html">Au 999 (1)</span></span>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_12').click(function() {
                             var urlred = "/srebrne-monety-bulionowe-a.html";
@@ -260,7 +260,7 @@ autoComplete = new Autocomplete('main_search', {
                         });
                     });
                 </script>
-<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/srebrne-monety-bulionowe-a/producent-austrian-mint,dCg-Ew.html">Austrian Mint (9)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-perth-mint,dCg-FQ.html">Perth Mint (73)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-mint,dCg-Gg.html">The Royal Mint (44)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-royal-canadian-mint,dCg-Jg.html">Royal Canadian Mint (22)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-bavarian-state-mint-munich,dCg-IA.html">Bavarian State Mint Munich (14)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-australian-mint,dCg-gw.html">The Royal Australian Mint (12)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-scottsdale-mint,dCg-mg.html">Scottsdale Mint (10)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-chinese-mint,dCg-Ig.html">Chinese Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-united-states-mint,dCg-NA.html">United States Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-banco-de-mexico,dCg-RA.html">Banco de Mexico (6)</a><a class="more" href="/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;">zobacz więcej &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','23','Australijski Kangur','australijski-kangur','Fw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-australijski-kangur,dCQ-Fw.html">Australijski Kangur (9)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','22','Wiedeńscy Filharmonicy','wiedenscy-filharmonicy','Fg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-wiedenscy-filharmonicy,dCQ-Fg.html">Wiedeńscy Filharmonicy (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','69','The Queens Beasts','the-queen-s-beasts','RQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-the-queen-s-beasts,dCQ-RQ.html">The Queen's Beasts (17)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','83','Britannia','britannia','Uw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-britannia,dCQ-Uw.html">Britannia (13)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','27','Lunar Series II','lunar-series-ii','Gw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-lunar-series-ii,dCQ-Gw.html">Lunar Series II (12)</a></span><a href="/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
+<a id="filter_link_12" class="more" href="#">Filtruj &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Producent</span></div><div class="radio items contentToggle"><a class="" href="/srebrne-monety-bulionowe-a/producent-austrian-mint,dCg-Ew.html">Austrian Mint (9)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-perth-mint,dCg-FQ.html">Perth Mint (73)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-mint,dCg-Gg.html">The Royal Mint (45)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-royal-canadian-mint,dCg-Jg.html">Royal Canadian Mint (22)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-bavarian-state-mint-munich,dCg-IA.html">Bavarian State Mint Munich (14)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-the-royal-australian-mint,dCg-gw.html">The Royal Australian Mint (12)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-scottsdale-mint,dCg-mg.html">Scottsdale Mint (10)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-chinese-mint,dCg-Ig.html">Chinese Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-united-states-mint,dCg-NA.html">United States Mint (8)</a><a class="" href="/srebrne-monety-bulionowe-a/producent-banco-de-mexico,dCg-RA.html">Banco de Mexico (6)</a><a class="more" href="/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=10&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;">zobacz więcej &rsaquo;</a></div></div><div class="filter "><div class="name dictionary_name btnToggle"><span>Seria</span></div><div class="checkboxes checkbox-list items contentToggle"><span class="checkbox-item" onclick="product_change_filter(this,'9','23','Australijski Kangur','australijski-kangur','Fw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-australijski-kangur,dCQ-Fw.html">Australijski Kangur (9)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','22','Wiedeńscy Filharmonicy','wiedenscy-filharmonicy','Fg')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-wiedenscy-filharmonicy,dCQ-Fg.html">Wiedeńscy Filharmonicy (6)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','69','The Queens Beasts','the-queen-s-beasts','RQ')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-the-queen-s-beasts,dCQ-RQ.html">The Queen's Beasts (17)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','83','Britannia','britannia','Uw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-britannia,dCQ-Uw.html">Britannia (13)</a></span><span class="checkbox-item" onclick="product_change_filter(this,'9','27','Lunar Series II','lunar-series-ii','Gw')"><a class="checkbox-link" href="/srebrne-monety-bulionowe-a/seria-lunar-series-ii,dCQ-Gw.html">Lunar Series II (12)</a></span><a href="/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html" onclick="$.ligh7form('/ajax.php?dict_id=9&amp;ref=%2Fsrebrne-monety-bulionowe-a.html', 770); return false;" class="more">zobacz więcej &rsaquo;</a>                <script type="text/javascript">
                     $(function () {
                         $('#filter_link_9').click(function() {
                             var urlred = "/srebrne-monety-bulionowe-a.html";
@@ -317,11 +317,11 @@ autoComplete = new Autocomplete('main_search', {
 
 				var price = {
 					startMin: parseFloat(75.0000),
-					startMax: parseFloat(56250.5300),
+					startMax: parseFloat(56036.1700),
 					rangeMin: parseFloat(75.0000),
-					rangeMax: parseFloat(56250.5300),
+					rangeMax: parseFloat(56036.1700),
 					currentFrom: parseFloat(75.0000),
-					currentTo: parseFloat(56250.5300),
+					currentTo: parseFloat(56036.1700),
 					decimal_separator: ",",
 					thousand_separator: " ",
 					format: " z\u0142",
@@ -447,7 +447,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="54765.02">54 765,02 zł</span>
+<span class="price-value"  itemprop="price" content="54556.32">54 556,32 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -478,7 +478,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="56250.53">56 250,53 zł</span>
+<span class="price-value"  itemprop="price" content="56036.17">56 036,17 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -509,7 +509,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="53978.10">53 978,10 zł</span>
+<span class="price-value"  itemprop="price" content="53772.40">53 772,40 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -540,7 +540,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="28056.12">28 056,12 zł</span>
+<span class="price-value"  itemprop="price" content="27949.20">27 949,20 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -571,7 +571,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="11039.19">11 039,19 zł</span>
+<span class="price-value"  itemprop="price" content="10997.12">10 997,12 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -602,7 +602,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="11423.73">11 423,73 zł</span>
+<span class="price-value"  itemprop="price" content="11380.20">11 380,20 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -633,7 +633,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="10884.84">10 884,84 zł</span>
+<span class="price-value"  itemprop="price" content="10843.36">10 843,36 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -664,7 +664,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2799.72">2 799,72 zł</span>
+<span class="price-value"  itemprop="price" content="2789.05">2 789,05 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -695,7 +695,7 @@ Srebrne monety bulionowe</h1>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="2839.60">2 839,60 zł</span>
+<span class="price-value"  itemprop="price" content="2828.78">2 828,78 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -941,7 +941,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 888,52 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">89,22 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 880,35 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 880,20 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,88 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 866,70 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
