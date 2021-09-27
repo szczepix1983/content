@@ -16,7 +16,7 @@
 
 /* datalayer */
 dataLayer = [];
-dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Rwanda Zyrafa 1 uncja srebra","id":"","reference":"AGI-MO-GIRAFFERWANDA1OZ","price":"166","category":"Srebro lokacyjne","link":"rwanda-zyrafa-1-uncja-srebra","price_tax_exc":"166","wholesale_price":"0","list":"category","position":1},{"name":"Emu 1 uncja srebra","id":"","reference":"AGI-MO-EMU1OZ","price":"171","brand":"Perth Mint","category":"Srebro lokacyjne","link":"emu-1-uncja-srebra","price_tax_exc":"171","wholesale_price":"0","list":"category","position":2},{"name":"Chinska Panda 1 Uncja Srebra","id":"","reference":"AGI-MO-PANDA1OZ","price":"167","category":"Srebro lokacyjne","link":"chinska-panda-1-uncja-srebra","price_tax_exc":"167","wholesale_price":"0","list":"category","position":3},{"name":"Arka Noego 1 uncja srebra","id":"","reference":"AGI-MO-NOE1OZ","price":"158","category":"Srebro lokacyjne","link":"arka-noego-1-uncja-srebra-3029","price_tax_exc":"158","wholesale_price":"0","list":"category","position":4},{"name":"Srebrna sztabka ICONS Skin: Krokodyl 10g Ag","id":"","reference":"WKL-AG-ICONSCROCODILE10G","price":"139","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-krokodyl-10g-ag","price_tax_exc":"139","wholesale_price":"0","list":"category","position":5},{"name":"Ochrona Srodowiska: Kon 1981 r. 16,5g Ag","id":"","reference":"WKL-AG-KON198116.5G","price":"800","category":"Srebro lokacyjne","link":"ochrona-srodowiska-kon-1981-r-16-5g-ag","price_tax_exc":"800","wholesale_price":"0","list":"category","position":6},{"name":"Srebrna sztabka ICONS Skin: Plaszczka 10g Ag","id":"","reference":"WKL-AG-ICONSSTINGRAY10G","price":"139","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-plaszczka-10g-ag","price_tax_exc":"139","wholesale_price":"0","list":"category","position":7},{"name":"Chinska Panda Kolorowana 1 Uncja Srebra","id":"","reference":"AGI-MO-PANDA1OZCOL","price":"182","category":"Srebro lokacyjne","link":"chinska-panda-kolorowana-1-uncja-srebra","price_tax_exc":"182","wholesale_price":"0","list":"category","position":8},{"name":"Srebrna sztabka ICONS Skin: Lampart 10g Ag","id":"","reference":"WKL-AG-ICONSLEOPARD10G","price":"139","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-lampart-10g-ag","price_tax_exc":"139","wholesale_price":"0","list":"category","position":9},{"name":"Zabytki Wielkiej Brytanii: Tower Bridge 1 uncja srebra","id":"","reference":"AGI-MO-TOWERBRIDGE1OZ","price":"147","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"zabytki-wielkiej-brytanii-tower-bridge-1-uncja-srebra","price_tax_exc":"147","wholesale_price":"0","list":"category","position":10},{"name":"Sokol Wedrowny 1 uncja","id":"","reference":"AGI-MO-FALCON1OZ","price":"177","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"sokol-wedrowny-1-uncja-3709","price_tax_exc":"177","wholesale_price":"0","list":"category","position":11},{"name":"Drapiezniki: Wilk 1 uncja srebra","id":"","reference":"AGI-MO-WOLF1OZPS","price":"161","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"drapiezniki-wilk-1-uncja-srebra","price_tax_exc":"161","wholesale_price":"0","list":"category","position":12},{"name":"Ptasznik Australijski 1 oz Ag","id":"","reference":"AGI-MO-SPIDER20151OZ","price":"167","category":"Srebro lokacyjne","link":"ptasznik-australijski-1-oz-ag-4399","price_tax_exc":"167","wholesale_price":"0","list":"category","position":13},{"name":"Zabytki Wielkiej Brytanii: Plac Trafalgarski 1uncja srebra","id":"","reference":"WKL-AG-TRAFALGARSQUARE1OZ","price":"139","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"zabytki-wielkiej-brytanii-plac-trafalgarski-1uncja-srebra","price_tax_exc":"139","wholesale_price":"0","list":"category","position":14},{"name":"Srebrna sztabka ICONS Skin: Plaszczka 20g Ag","id":"","reference":"WKL-AG-ICONSSTINGRAY20G","price":"199","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-plaszczka-20g-ag","price_tax_exc":"199","wholesale_price":"0","list":"category","position":15},{"name":"Krugerrand wersja premium 1 uncja srebra","id":"","reference":"WKL-AG-KRUGGERRAND1OZPROOF","price":"379","category":"Srebro lokacyjne","link":"krugerrand-wersja-proof-1-uncja-srebra","price_tax_exc":"379","wholesale_price":"0","list":"category","position":16},{"name":"Bestie Krolowej: Lew 10 uncji srebra","id":"","reference":"AGI-MO-LION10OZQB","price":"1196","category":"Srebro lokacyjne","link":"bestie-krolowej-lew-10-uncji-srebra","price_tax_exc":"1196","wholesale_price":"0","list":"category","position":17},{"name":"Marvel: Thor 1 uncja srebra","id":"","reference":"AGI-MO-THOR1OZMS","price":"179","category":"Srebro lokacyjne","link":"marvel-thor-1-uncja-srebra","price_tax_exc":"179","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Srebro lokacyjne"}});
+dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"Rwanda Zyrafa 1 uncja srebra","id":"","reference":"AGI-MO-GIRAFFERWANDA1OZ","price":"167","category":"Srebro lokacyjne","link":"rwanda-zyrafa-1-uncja-srebra","price_tax_exc":"167","wholesale_price":"0","list":"category","position":1},{"name":"Emu 1 uncja srebra","id":"","reference":"AGI-MO-EMU1OZ","price":"172","brand":"Perth Mint","category":"Srebro lokacyjne","link":"emu-1-uncja-srebra","price_tax_exc":"172","wholesale_price":"0","list":"category","position":2},{"name":"Chinska Panda 1 Uncja Srebra","id":"","reference":"AGI-MO-PANDA1OZ","price":"168","category":"Srebro lokacyjne","link":"chinska-panda-1-uncja-srebra","price_tax_exc":"168","wholesale_price":"0","list":"category","position":3},{"name":"Arka Noego 1 uncja srebra","id":"","reference":"AGI-MO-NOE1OZ","price":"159","category":"Srebro lokacyjne","link":"arka-noego-1-uncja-srebra-3029","price_tax_exc":"159","wholesale_price":"0","list":"category","position":4},{"name":"Srebrna sztabka ICONS Skin: Krokodyl 10g Ag","id":"","reference":"WKL-AG-ICONSCROCODILE10G","price":"139","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-krokodyl-10g-ag","price_tax_exc":"139","wholesale_price":"0","list":"category","position":5},{"name":"Ochrona Srodowiska: Kon 1981 r. 16,5g Ag","id":"","reference":"WKL-AG-KON198116.5G","price":"800","category":"Srebro lokacyjne","link":"ochrona-srodowiska-kon-1981-r-16-5g-ag","price_tax_exc":"800","wholesale_price":"0","list":"category","position":6},{"name":"Srebrna sztabka ICONS Skin: Plaszczka 10g Ag","id":"","reference":"WKL-AG-ICONSSTINGRAY10G","price":"139","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-plaszczka-10g-ag","price_tax_exc":"139","wholesale_price":"0","list":"category","position":7},{"name":"Chinska Panda Kolorowana 1 Uncja Srebra","id":"","reference":"AGI-MO-PANDA1OZCOL","price":"184","category":"Srebro lokacyjne","link":"chinska-panda-kolorowana-1-uncja-srebra","price_tax_exc":"184","wholesale_price":"0","list":"category","position":8},{"name":"Srebrna sztabka ICONS Skin: Lampart 10g Ag","id":"","reference":"WKL-AG-ICONSLEOPARD10G","price":"139","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-lampart-10g-ag","price_tax_exc":"139","wholesale_price":"0","list":"category","position":9},{"name":"Zabytki Wielkiej Brytanii: Tower Bridge 1 uncja srebra","id":"","reference":"AGI-MO-TOWERBRIDGE1OZ","price":"149","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"zabytki-wielkiej-brytanii-tower-bridge-1-uncja-srebra","price_tax_exc":"149","wholesale_price":"0","list":"category","position":10},{"name":"Sokol Wedrowny 1 uncja","id":"","reference":"AGI-MO-FALCON1OZ","price":"179","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"sokol-wedrowny-1-uncja-3709","price_tax_exc":"179","wholesale_price":"0","list":"category","position":11},{"name":"Drapiezniki: Wilk 1 uncja srebra","id":"","reference":"AGI-MO-WOLF1OZPS","price":"163","brand":"Royal Canadian Mint","category":"Srebro lokacyjne","link":"drapiezniki-wilk-1-uncja-srebra","price_tax_exc":"163","wholesale_price":"0","list":"category","position":12},{"name":"Ptasznik Australijski 1 oz Ag","id":"","reference":"AGI-MO-SPIDER20151OZ","price":"169","category":"Srebro lokacyjne","link":"ptasznik-australijski-1-oz-ag-4399","price_tax_exc":"169","wholesale_price":"0","list":"category","position":13},{"name":"Zabytki Wielkiej Brytanii: Plac Trafalgarski 1uncja srebra","id":"","reference":"WKL-AG-TRAFALGARSQUARE1OZ","price":"139","brand":"Royal Mint UK","category":"Srebro lokacyjne","link":"zabytki-wielkiej-brytanii-plac-trafalgarski-1uncja-srebra","price_tax_exc":"139","wholesale_price":"0","list":"category","position":14},{"name":"Srebrna sztabka ICONS Skin: Plaszczka 20g Ag","id":"","reference":"WKL-AG-ICONSSTINGRAY20G","price":"199","brand":"PAMP","category":"Srebro lokacyjne","link":"srebrna-sztabka-icons-skin-plaszczka-20g-ag","price_tax_exc":"199","wholesale_price":"0","list":"category","position":15},{"name":"Krugerrand wersja premium 1 uncja srebra","id":"","reference":"WKL-AG-KRUGGERRAND1OZPROOF","price":"379","category":"Srebro lokacyjne","link":"krugerrand-wersja-proof-1-uncja-srebra","price_tax_exc":"379","wholesale_price":"0","list":"category","position":16},{"name":"Bestie Krolowej: Lew 10 uncji srebra","id":"","reference":"AGI-MO-LION10OZQB","price":"1209","category":"Srebro lokacyjne","link":"bestie-krolowej-lew-10-uncji-srebra","price_tax_exc":"1209","wholesale_price":"0","list":"category","position":17},{"name":"Marvel: Thor 1 uncja srebra","id":"","reference":"AGI-MO-THOR1OZMS","price":"181","category":"Srebro lokacyjne","link":"marvel-thor-1-uncja-srebra","price_tax_exc":"181","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Srebro lokacyjne"}});
 /* call to GTM Tag */
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -82,7 +82,7 @@ cdcgtmreq.send();
         var as4_orderBySalesAsc = "Sales: Lower first";
         var as4_orderBySalesDesc = "Sales: Highest first";
         var baseDir = "https:\/\/goldenmark.com\/";
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=6","meta":{"title":"Srebro lokacyjne, inwestycja w srebrne monety - Goldenmark (6)","description":"Najpopularniejsze Lokacyjne Srebrne Monety Bulionowe Renomowanych Mennic z Ca\u0142ego \u015awiata. Inwestowanie w srebro mo\u017ce stanowi\u0107 doskona\u0142e uzupe\u0142nienie portfela","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-982":true,"category-Srebro lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=6","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_silver","pl-pl":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Srebro lokacyjne","url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/srebro-lokacyjne?page=6"},"time":1632703987,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=6","meta":{"title":"Srebro lokacyjne, inwestycja w srebrne monety - Goldenmark (6)","description":"Najpopularniejsze Lokacyjne Srebrne Monety Bulionowe Renomowanych Mennic z Ca\u0142ego \u015awiata. Inwestowanie w srebro mo\u017ce stanowi\u0107 doskona\u0142e uzupe\u0142nienie portfela","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-982":true,"category-Srebro lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne?page=6","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_silver","pl-pl":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Srebro lokacyjne","url":"https:\/\/goldenmark.com\/pl\/srebro-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/srebro-lokacyjne?page=6"},"time":1632718388,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
         var psemailsubscription_subscription = "https:\/\/goldenmark.com\/pl\/module\/ps_emailsubscription\/subscription";
         var showcat = "1";
         var text_nopr = "Wprowad\u017a co najmniej 3 s\u0142owa kluczowe";
@@ -917,7 +917,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 										id="PM_ASInputCritRange2_6_min" 
 										value="100" 
 										class="form-control" 
-										min="0"										max="59700" 
+										min="0"										max="60300" 
 										step="100" />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -927,9 +927,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																<input 	data-id-criterion-group="6" 
 										type="number" 
 										id="PM_ASInputCritRange2_6_max" 
-										value="59700" 
+										value="60300" 
 										class="form-control" 
-										min="0"										max="59700" 
+										min="0"										max="60300" 
 										step="100"  />
 																	<span class="input-group-addon">zł</span>
 															</div>
@@ -1191,7 +1191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">166,00 zł</span>
+								<span itemprop="price" class="price">167,00 zł</span>
 																
 								
 							</div>
@@ -1274,7 +1274,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">171,00 zł</span>
+								<span itemprop="price" class="price">172,00 zł</span>
 																
 								
 							</div>
@@ -1357,7 +1357,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">167,00 zł</span>
+								<span itemprop="price" class="price">168,00 zł</span>
 																
 								
 							</div>
@@ -1440,7 +1440,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">158,00 zł</span>
+								<span itemprop="price" class="price">159,00 zł</span>
 																
 								
 							</div>
@@ -1736,7 +1736,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">182,00 zł</span>
+								<span itemprop="price" class="price">184,00 zł</span>
 																
 								
 							</div>
@@ -1891,7 +1891,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">147,00 zł</span>
+								<span itemprop="price" class="price">149,00 zł</span>
 																
 								
 							</div>
@@ -1974,7 +1974,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">177,00 zł</span>
+								<span itemprop="price" class="price">179,00 zł</span>
 																
 								
 							</div>
@@ -2057,7 +2057,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">161,00 zł</span>
+								<span itemprop="price" class="price">163,00 zł</span>
 																
 								
 							</div>
@@ -2140,7 +2140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">167,00 zł</span>
+								<span itemprop="price" class="price">169,00 zł</span>
 																
 								
 							</div>
@@ -2461,7 +2461,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">1 196,00 zł</span>
+								<span itemprop="price" class="price">1 209,00 zł</span>
 																
 								
 							</div>
@@ -2544,7 +2544,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">179,00 zł</span>
+								<span itemprop="price" class="price">181,00 zł</span>
 																
 								
 							</div>
@@ -2602,7 +2602,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="166">166,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="167">167,00 zł</span>
 										</span>
 																				
 										
@@ -2679,7 +2679,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="171">171,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="172">172,00 zł</span>
 										</span>
 																				
 										
@@ -2756,7 +2756,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="167">167,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="168">168,00 zł</span>
 										</span>
 																				
 										
@@ -2833,7 +2833,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="158">158,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="159">159,00 zł</span>
 										</span>
 																				
 										
@@ -3113,7 +3113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="182">182,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="184">184,00 zł</span>
 										</span>
 																				
 										
@@ -3260,7 +3260,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="147">147,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="149">149,00 zł</span>
 										</span>
 																				
 										
@@ -3337,7 +3337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="177">177,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="179">179,00 zł</span>
 										</span>
 																				
 										
@@ -3414,7 +3414,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="161">161,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="163">163,00 zł</span>
 										</span>
 																				
 										
@@ -3491,7 +3491,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="167">167,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="169">169,00 zł</span>
 										</span>
 																				
 										
@@ -3792,7 +3792,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="1196">1 196,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="1209">1 209,00 zł</span>
 										</span>
 																				
 										
@@ -3869,7 +3869,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="179">179,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="181">181,00 zł</span>
 										</span>
 																				
 										
@@ -4465,7 +4465,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "95e6c60700a590a86081cd721b1dc91911262684";
+									as4Plugin.localCacheKey = "09ff44f56e8764ae302c8ead232dd478faa71e46";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
@@ -4609,7 +4609,7 @@ window.addEventListener( "hashchange", function( event ) {
 					$('#PM_ASBlock_2 .PM_ASResetSearch').html("Powrót do " + as4Plugin.locationName);
 				});
 			}
-									as4Plugin.localCacheKey = "95e6c60700a590a86081cd721b1dc91911262684";
+									as4Plugin.localCacheKey = "09ff44f56e8764ae302c8ead232dd478faa71e46";
 							as4Plugin.localCache = true;
 				as4Plugin.blurEffect = true;
 				
