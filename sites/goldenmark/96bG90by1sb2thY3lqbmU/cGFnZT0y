@@ -16,7 +16,7 @@
 
 /* datalayer */
 dataLayer = [];
-dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"100 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-100G","price":"23230","category":"Zloto lokacyjne","link":"100-g-sztabka-zlota-certipack-2894","price_tax_exc":"23230","wholesale_price":"0","list":"category","position":1},{"name":"Australijski Kangur 1/4 uncji zlota","id":"","reference":"AUI-MO-KANGAROO1/4","price":"2233","brand":"Perth Mint","category":"Zloto lokacyjne","link":"australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224","price_tax_exc":"2233","wholesale_price":"0","list":"category","position":2},{"name":"Zlota  Sztabka 1 Uncja  Rand Refinery","id":"","reference":"AUI-SZ-1OZRAND","price":"7558","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"zlota-sztabka-1-uncja-rand-refinery","price_tax_exc":"7558","wholesale_price":"0","list":"category","position":3},{"name":"Zloty Krugerrand 1/2 uncji zlota","id":"","reference":"AUI-MO-KRUG1/2OZ","price":"4090","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"zloty-krugerrand-uncji-zlota-2819","price_tax_exc":"4090","wholesale_price":"0","list":"category","position":4},{"name":"2,5 g Sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-2.5GFORTUNA","price":"718","category":"Zloto lokacyjne","link":"2-5-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"718","wholesale_price":"0","list":"category","position":5},{"name":"Wiedenscy Filharmonicy ¼ Uncji Zlota","id":"","reference":"AUI-MO-WIENER1/4OZ","price":"2179","brand":"Munze Osterreich","category":"Zloto lokacyjne","link":"1-4-uncji-zlota-wiedenscy-filharmonicy-2899","price_tax_exc":"2179","wholesale_price":"0","list":"category","position":6},{"name":"Kanadyjski Lisc Klonowy 25 x 1 gram zlota","id":"","reference":"AUI-MO-MAPLEGRAM25","price":"7001","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-25-x-1-gram-zlota-5687","price_tax_exc":"7001","wholesale_price":"0","list":"category","position":7},{"name":"Krugerrand 1/10 uncji zlota","id":"","reference":"AUI-MO-KRUG1/10OZ","price":"948","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"krugerrand-1-10-uncji-zlota-2809","price_tax_exc":"948","wholesale_price":"0","list":"category","position":8},{"name":"Kanadyjski Lisc Klonowy 1/4 uncji zlota","id":"","reference":"AUI-MO-MAPLE1/4OZ","price":"2233","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-1-4-uncji-zlota-maple-leaf-1-4-oz-3214","price_tax_exc":"2233","wholesale_price":"0","list":"category","position":9},{"name":"1 g sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-1GFORTUNA","price":"399","category":"Zloto lokacyjne","link":"1-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"399","wholesale_price":"0","list":"category","position":10},{"name":"500 g sztabka zlota","id":"","reference":"AUI-SZ-500G","price":"119365","category":"Zloto lokacyjne","link":"500-g-sztabka-zlota-2749","price_tax_exc":"119365","wholesale_price":"0","list":"category","position":11},{"name":"Krugerrand 1/4 uncji zlota","id":"","reference":"AUI-MO-KRUG1/4OZ","price":"2289","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"krugerrand-uncji-zlota-2814","price_tax_exc":"2289","wholesale_price":"0","list":"category","position":12},{"name":"1000 g sztabka zlota","id":"","reference":"AUI-SZ-1000G","price":"235673","category":"Zloto lokacyjne","link":"1000-g-sztabka-zlota-2744","price_tax_exc":"235673","wholesale_price":"0","list":"category","position":13},{"name":"250 g sztabka zlota","id":"","reference":"AUI-SZ-250G","price":"58132","category":"Zloto lokacyjne","link":"250-g-sztabka-zlota-2794","price_tax_exc":"58132","wholesale_price":"0","list":"category","position":14},{"name":"20 g Sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-20GFORTUNA","price":"5185","category":"Zloto lokacyjne","link":"20-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"5185","wholesale_price":"0","list":"category","position":15},{"name":"10 g sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-10GFORTUNA","price":"2775","category":"Zloto lokacyjne","link":"10-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"2775","wholesale_price":"0","list":"category","position":16},{"name":"Kanadyjski Lisc Klonowy 1/10 uncji zlota","id":"","reference":"AUI-MO-MAPLE1/10OZ","price":"950","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-1-10-uncji-zlota-maple-leaf-1-10-oz-3209","price_tax_exc":"950","wholesale_price":"0","list":"category","position":17},{"name":"50 g Sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-50GFORTUNA","price":"12267","category":"Zloto lokacyjne","link":"50-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"12267","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Zloto lokacyjne"}});
+dataLayer.push({"pageCategory":"category","ecommerce":{"currencyCode":"PLN","impressions":[{"name":"100 g sztabka zlota CertiPack","id":"","reference":"AUI-SZ-100G","price":"23223","category":"Zloto lokacyjne","link":"100-g-sztabka-zlota-certipack-2894","price_tax_exc":"23223","wholesale_price":"0","list":"category","position":1},{"name":"Australijski Kangur 1/4 uncji zlota","id":"","reference":"AUI-MO-KANGAROO1/4","price":"2232","brand":"Perth Mint","category":"Zloto lokacyjne","link":"australijski-kangur-1-4-uncji-zlota-australian-kangaroo-1-4-oz-3224","price_tax_exc":"2232","wholesale_price":"0","list":"category","position":2},{"name":"Zlota  Sztabka 1 Uncja  Rand Refinery","id":"","reference":"AUI-SZ-1OZRAND","price":"7554","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"zlota-sztabka-1-uncja-rand-refinery","price_tax_exc":"7554","wholesale_price":"0","list":"category","position":3},{"name":"Zloty Krugerrand 1/2 uncji zlota","id":"","reference":"AUI-MO-KRUG1/2OZ","price":"4088","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"zloty-krugerrand-uncji-zlota-2819","price_tax_exc":"4088","wholesale_price":"0","list":"category","position":4},{"name":"2,5 g Sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-2.5GFORTUNA","price":"717","category":"Zloto lokacyjne","link":"2-5-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"717","wholesale_price":"0","list":"category","position":5},{"name":"Wiedenscy Filharmonicy ¼ Uncji Zlota","id":"","reference":"AUI-MO-WIENER1/4OZ","price":"2178","brand":"Munze Osterreich","category":"Zloto lokacyjne","link":"1-4-uncji-zlota-wiedenscy-filharmonicy-2899","price_tax_exc":"2178","wholesale_price":"0","list":"category","position":6},{"name":"Kanadyjski Lisc Klonowy 25 x 1 gram zlota","id":"","reference":"AUI-MO-MAPLEGRAM25","price":"6998","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-25-x-1-gram-zlota-5687","price_tax_exc":"6998","wholesale_price":"0","list":"category","position":7},{"name":"Krugerrand 1/10 uncji zlota","id":"","reference":"AUI-MO-KRUG1/10OZ","price":"948","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"krugerrand-1-10-uncji-zlota-2809","price_tax_exc":"948","wholesale_price":"0","list":"category","position":8},{"name":"Kanadyjski Lisc Klonowy 1/4 uncji zlota","id":"","reference":"AUI-MO-MAPLE1/4OZ","price":"2232","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-1-4-uncji-zlota-maple-leaf-1-4-oz-3214","price_tax_exc":"2232","wholesale_price":"0","list":"category","position":9},{"name":"1 g sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-1GFORTUNA","price":"399","category":"Zloto lokacyjne","link":"1-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"399","wholesale_price":"0","list":"category","position":10},{"name":"500 g sztabka zlota","id":"","reference":"AUI-SZ-500G","price":"119184","category":"Zloto lokacyjne","link":"500-g-sztabka-zlota-2749","price_tax_exc":"119184","wholesale_price":"0","list":"category","position":11},{"name":"Krugerrand 1/4 uncji zlota","id":"","reference":"AUI-MO-KRUG1/4OZ","price":"2288","brand":"Rand Refinery","category":"Zloto lokacyjne","link":"krugerrand-uncji-zlota-2814","price_tax_exc":"2288","wholesale_price":"0","list":"category","position":12},{"name":"1000 g sztabka zlota","id":"","reference":"AUI-SZ-1000G","price":"235604","category":"Zloto lokacyjne","link":"1000-g-sztabka-zlota-2744","price_tax_exc":"235604","wholesale_price":"0","list":"category","position":13},{"name":"250 g sztabka zlota","id":"","reference":"AUI-SZ-250G","price":"58115","category":"Zloto lokacyjne","link":"250-g-sztabka-zlota-2794","price_tax_exc":"58115","wholesale_price":"0","list":"category","position":14},{"name":"20 g Sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-20GFORTUNA","price":"5182","category":"Zloto lokacyjne","link":"20-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"5182","wholesale_price":"0","list":"category","position":15},{"name":"10 g sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-10GFORTUNA","price":"2774","category":"Zloto lokacyjne","link":"10-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"2774","wholesale_price":"0","list":"category","position":16},{"name":"Kanadyjski Lisc Klonowy 1/10 uncji zlota","id":"","reference":"AUI-MO-MAPLE1/10OZ","price":"950","brand":"Royal Canadian Mint","category":"Zloto lokacyjne","link":"kanadyjski-lisc-klonowy-1-10-uncji-zlota-maple-leaf-1-10-oz-3209","price_tax_exc":"950","wholesale_price":"0","list":"category","position":17},{"name":"50 g Sztabka zlota PAMP Fortuna","id":"","reference":"AUI-SZ-50GFORTUNA","price":"12261","category":"Zloto lokacyjne","link":"50-g-sztabka-zlota-pamp-fortuna","price_tax_exc":"12261","wholesale_price":"0","list":"category","position":18}]},"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Zloto lokacyjne"}});
 /* call to GTM Tag */
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -82,7 +82,7 @@ cdcgtmreq.send();
         var as4_orderBySalesAsc = "Sales: Lower first";
         var as4_orderBySalesDesc = "Sales: Highest first";
         var baseDir = "https:\/\/goldenmark.com\/";
-        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne?page=2","meta":{"title":"Z\u0142oto lokacyjne, inwestycja w fizyczne z\u0142oto - Goldenmark (2)","description":"Fizyczne z\u0142oto w postaci sztabek i monet stanowi doskona\u0142\u0105 form\u0119 zabezpieczenia kapita\u0142u przed inflacj\u0105 i kryzysami gospodarczymi. Do tego jest zwolnione z VAT.","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-979":true,"category-Z\u0142oto lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne?page=2","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_gold","pl-pl":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Z\u0142oto lokacyjne","url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/zloto-lokacyjne?page=2"},"time":1632718371,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Razem","amount":0,"value":"0,00\u00a0z\u0142"},"total_including_tax":{"type":"total","label":"Suma (brutto)","amount":0,"value":"0,00\u00a0z\u0142"},"total_excluding_tax":{"type":"total","label":"Suma (netto)","amount":0,"value":"0,00\u00a0z\u0142"}},"subtotals":{"products":{"type":"products","label":"Produkty","amount":0,"value":"0,00\u00a0z\u0142"},"discounts":null,"shipping":{"type":"shipping","label":"Dostawa","amount":0,"value":"Za darmo!"},"tax":null},"products_count":0,"summary_string":"0 sztuk","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":1,"minimalPurchaseRequired":"Minimalny zakup na kwot\u0119 1,00\u00a0z\u0142 (netto) jest wymagany aby zatwierdzi\u0107 Twoje zam\u00f3wienie, obecna warto\u015b\u0107 koszyka to 0,00\u00a0z\u0142 (netto)."},"currency":{"name":"Z\u0142oty polski","iso_code":"PLN","iso_code_num":"985","sign":"z\u0142"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Polski (Polish)","iso_code":"pl","locale":"pl-PL","language_code":"pl-pl","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":3},"page":{"title":"","canonical":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne?page=2","meta":{"title":"Z\u0142oto lokacyjne, inwestycja w fizyczne z\u0142oto - Goldenmark (2)","description":"Fizyczne z\u0142oto w postaci sztabek i monet stanowi doskona\u0142\u0105 form\u0119 zabezpieczenia kapita\u0142u przed inflacj\u0105 i kryzysami gospodarczymi. Do tego jest zwolnione z VAT.","keywords":"","robots":"index"},"page_name":"category","body_classes":{"lang-pl":true,"lang-rtl":false,"country-PL":true,"currency-PLN":true,"layout-left-column":true,"page-category":true,"tax-display-disabled":true,"category-id-979":true,"category-Z\u0142oto lokacyjne":true,"category-id-parent-978":true,"category-depth-level-3":true},"admin_notifications":[]},"shop":{"name":"goldenmark.com","logo":"\/img\/prestashop-logo-1598471135.jpg","stores_icon":"\/img\/logo_stores.png","favicon":"\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/goldenmark.com\/","current_url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne?page=2","shop_domain_url":"https:\/\/goldenmark.com","img_ps_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/","img_cat_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/c\/","img_lang_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/l\/","img_prod_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/","img_manu_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/m\/","img_sup_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/su\/","img_ship_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/s\/","img_store_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/st\/","img_col_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/co\/","img_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/img\/","css_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/css\/","js_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/themes\/child\/assets\/js\/","pic_url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/upload\/","pages":{"address":"https:\/\/goldenmark.com\/pl\/adres","addresses":"https:\/\/goldenmark.com\/pl\/adresy","authentication":"https:\/\/goldenmark.com\/pl\/logowanie","cart":"https:\/\/goldenmark.com\/pl\/koszyk","category":"https:\/\/goldenmark.com\/pl\/index.php?controller=category","cms":"https:\/\/goldenmark.com\/pl\/index.php?controller=cms","contact":"https:\/\/goldenmark.com\/pl\/kontakt","discount":"https:\/\/goldenmark.com\/pl\/rabaty","guest_tracking":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowien-gosci","history":"https:\/\/goldenmark.com\/pl\/historia-zamowien","identity":"https:\/\/goldenmark.com\/pl\/dane-osobiste","index":"https:\/\/goldenmark.com\/pl\/","my_account":"https:\/\/goldenmark.com\/pl\/moje-konto","order_confirmation":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zamowienia","order_detail":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-detail","order_follow":"https:\/\/goldenmark.com\/pl\/sledzenie-zamowienia","order":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie","order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=order-return","order_slip":"https:\/\/goldenmark.com\/pl\/potwierdzenie-zwrotu","pagenotfound":"https:\/\/goldenmark.com\/pl\/nie-znaleziono-strony","password":"https:\/\/goldenmark.com\/pl\/odzyskiwanie-hasla","pdf_invoice":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/goldenmark.com\/pl\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/goldenmark.com\/pl\/promocje","product":"https:\/\/goldenmark.com\/pl\/index.php?controller=product","search":"https:\/\/goldenmark.com\/pl\/szukaj","sitemap":"https:\/\/goldenmark.com\/pl\/Mapa strony","stores":"https:\/\/goldenmark.com\/pl\/oddzialy","supplier":"https:\/\/goldenmark.com\/pl\/dostawcy","register":"https:\/\/goldenmark.com\/pl\/logowanie?create_account=1","order_login":"https:\/\/goldenmark.com\/pl\/zam\u00f3wienie?login=1"},"alternative_langs":{"en-us":"https:\/\/goldenmark.com\/en\/c_investment_gold","pl-pl":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"},"theme_assets":"\/themes\/child\/assets\/","actions":{"logout":"https:\/\/goldenmark.com\/pl\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"cart_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-cart_default.jpg","width":98,"height":120},"medium_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-medium_default.jpg","width":100,"height":122},"home_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"custom_list_product":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-custom_list_product.jpg","width":250,"height":999},"large_default":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_default.jpg","width":600,"height":600},"large_gallery":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500}},"small":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-small_default.jpg","width":68,"height":83},"medium":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-home_default.jpg","width":270,"height":330},"large":{"url":"https:\/\/199816-1328512-raikfcquaxqncofqfm.stackpathdns.com\/img\/p\/pl-default-large_gallery.jpg","width":1500,"height":1500},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"discount","label":"Rabat"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Strona g\u0142\u00f3wna","url":"https:\/\/goldenmark.com\/pl\/"},{"title":"Metale szlachetne","url":"https:\/\/goldenmark.com\/pl\/metale-szlachetne"},{"title":"Z\u0142oto lokacyjne","url":"https:\/\/goldenmark.com\/pl\/zloto-lokacyjne"}],"count":3},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/","request_uri":"\/pl\/zloto-lokacyjne?page=2"},"time":1632732772,"static_token":"4c5116be8943ab3c8b6d82bea6c1e1a0","token":"59220bf5cdfd52495298440d62670921"};
         var psemailsubscription_subscription = "https:\/\/goldenmark.com\/pl\/module\/ps_emailsubscription\/subscription";
         var showcat = "1";
         var text_nopr = "Wprowad\u017a co najmniej 3 s\u0142owa kluczowe";
@@ -1239,10 +1239,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">23 230,00 zł</span>
+	od <span class="pricefrom-price">23 223,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">23 230,00 zł</span>
+								<span itemprop="price" class="price">23 223,00 zł</span>
 																
 								
 							</div>
@@ -1322,7 +1322,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">2 233,00 zł</span>
+								<span itemprop="price" class="price">2 232,00 zł</span>
 																
 								
 							</div>
@@ -1402,7 +1402,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">7 558,00 zł</span>
+								<span itemprop="price" class="price">7 554,00 zł</span>
 																
 								
 							</div>
@@ -1482,7 +1482,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">4 090,00 zł</span>
+								<span itemprop="price" class="price">4 088,00 zł</span>
 																
 								
 							</div>
@@ -1566,7 +1566,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">718,00 zł</span>
+								<span itemprop="price" class="price">717,00 zł</span>
 																
 								
 							</div>
@@ -1646,7 +1646,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">2 179,00 zł</span>
+								<span itemprop="price" class="price">2 178,00 zł</span>
 																
 								
 							</div>
@@ -1726,7 +1726,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">7 001,00 zł</span>
+								<span itemprop="price" class="price">6 998,00 zł</span>
 																
 								
 							</div>
@@ -1886,7 +1886,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">2 233,00 zł</span>
+								<span itemprop="price" class="price">2 232,00 zł</span>
 																
 								
 							</div>
@@ -2046,10 +2046,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">118 073,00 zł</span>
+	od <span class="pricefrom-price">118 038,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">119 365,00 zł</span>
+								<span itemprop="price" class="price">119 184,00 zł</span>
 																
 								
 							</div>
@@ -2133,7 +2133,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">2 289,00 zł</span>
+								<span itemprop="price" class="price">2 288,00 zł</span>
 																
 								
 							</div>
@@ -2217,10 +2217,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">235 673,00 zł</span>
+	od <span class="pricefrom-price">235 604,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">235 673,00 zł</span>
+								<span itemprop="price" class="price">235 604,00 zł</span>
 																
 								
 							</div>
@@ -2300,10 +2300,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">58 132,00 zł</span>
+	od <span class="pricefrom-price">58 115,00 zł</span>
 </div>
 
-								<span itemprop="price" class="price">58 132,00 zł</span>
+								<span itemprop="price" class="price">58 115,00 zł</span>
 																
 								
 							</div>
@@ -2387,7 +2387,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">5 185,00 zł</span>
+								<span itemprop="price" class="price">5 182,00 zł</span>
 																
 								
 							</div>
@@ -2467,7 +2467,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">2 775,00 zł</span>
+								<span itemprop="price" class="price">2 774,00 zł</span>
 																
 								
 							</div>
@@ -2627,7 +2627,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					
 							<div class="product-price-and-shipping">
 								
-								<span itemprop="price" class="price">12 267,00 zł</span>
+								<span itemprop="price" class="price">12 261,00 zł</span>
 																
 								
 							</div>
@@ -2684,11 +2684,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">23 230,00 zł</span>
+	od <span class="pricefrom-price">23 223,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="23230">23 230,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="23223">23 223,00 zł</span>
 										</span>
 																				
 										
@@ -2766,7 +2766,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2233">2 233,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2232">2 232,00 zł</span>
 										</span>
 																				
 										
@@ -2833,7 +2833,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7558">7 558,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7554">7 554,00 zł</span>
 										</span>
 																				
 										
@@ -2914,7 +2914,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4090">4 090,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="4088">4 088,00 zł</span>
 										</span>
 																				
 										
@@ -2988,7 +2988,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="718">718,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="717">717,00 zł</span>
 										</span>
 																				
 										
@@ -3066,7 +3066,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2179">2 179,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2178">2 178,00 zł</span>
 										</span>
 																				
 										
@@ -3140,7 +3140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="7001">7 001,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="6998">6 998,00 zł</span>
 										</span>
 																				
 										
@@ -3288,7 +3288,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2233">2 233,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2232">2 232,00 zł</span>
 										</span>
 																				
 										
@@ -3435,11 +3435,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">118 073,00 zł</span>
+	od <span class="pricefrom-price">118 038,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="119365">119 365,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="119184">119 184,00 zł</span>
 										</span>
 																				
 										
@@ -3513,7 +3513,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2289">2 289,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2288">2 288,00 zł</span>
 										</span>
 																				
 										
@@ -3590,11 +3590,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">235 673,00 zł</span>
+	od <span class="pricefrom-price">235 604,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="235673">235 673,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="235604">235 604,00 zł</span>
 										</span>
 																				
 										
@@ -3671,11 +3671,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<div class="des_right">								
 																	<div class="product-price-and-shipping">
 										<div class="pricefrom-miniature only" data-js-parent=".product-price-and-shipping" data-js-to-hide="> *:not(.pricefrom-miniature)">
-	od <span class="pricefrom-price">58 132,00 zł</span>
+	od <span class="pricefrom-price">58 115,00 zł</span>
 </div>
 
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="58132">58 132,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="58115">58 115,00 zł</span>
 										</span>
 																				
 										
@@ -3749,7 +3749,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="5185">5 185,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="5182">5 182,00 zł</span>
 										</span>
 																				
 										
@@ -3827,7 +3827,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2775">2 775,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="2774">2 774,00 zł</span>
 										</span>
 																				
 										
@@ -3975,7 +3975,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 																	<div class="product-price-and-shipping">
 										
 										<span class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="12267">12 267,00 zł</span>
+											<span itemprop="priceCurrency" content="PLN"></span><span itemprop="price" content="12261">12 261,00 zł</span>
 										</span>
 																				
 										
