@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'OTcy,OTY5,OTc2,OTc3,OTc4,ODkw,OTc0,OTcx,OTY0,OTcz,OTcw,NDU2,MTA0NQ==,';
             </script>
-</head><body id="shop_category18" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632746181154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category18" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632756271154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -223,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Kontakt
 </h3>
 </a>
-</li>
+ </li>
 <li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
@@ -245,7 +245,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </h3>
 </li>
- <li>
+<li>
 <h3>
 <a href="/pl/i/Hurt/36" title="Pozostałe" id="headercategory69" class="spanhover">
 <span>Współpraca</span>
@@ -363,11 +363,12 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/sztabka-zlota-5g-lbma" title="5 g sztabka złota">
 <span class="productlistimgsize">
 
+
 <img class="photo" src="/userdata/public/gfx/3341/5-gram-sztabka-zlota-Valcambi.jpg" alt="5 g sztabka złota" />
 </span> <span class="productname">5 g sztabka złota</span>
 </a>
 <div class="price">
- <span>Cena:</span>
+<span>Cena:</span>
 <em>1 257,87 zł</em>
 </div>
 <div class="basket">
@@ -394,7 +395,7 @@ Sortuj wg:
 </span> <span class="productname">1 uncja sztabka złota</span>
 </a>
 <div class="price">
- <span>Cena:</span>
+<span>Cena:</span>
 <em>7 395,69 zł</em>
 </div>
 <div class="basket">
@@ -422,7 +423,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
- <em>11 855,73 zł</em>
+<em>11 855,73 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -449,7 +450,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
- <em>23 802,18 zł</em>
+<em>23 802,18 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -472,6 +473,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3352/250-gram-sztabka-zlota-valcambi.jpg" alt="250 g sztabka złota" />
+
 </span> <span class="productname">250 g sztabka złota</span>
 </a>
 <div class="price">
@@ -504,7 +506,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
- <em>12 680,04 zł</em>
+<em>12 680,04 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -532,7 +534,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
- <em>271,23 zł</em>
+<em>271,23 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -547,7 +549,6 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
-
 </div>
 </td>
 <td class="odd col3">
@@ -575,7 +576,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="even col3">
 <div class="product" id="product_964">
@@ -583,6 +584,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/67468034c698e4bf63f7bd7df89336df.jpg" alt="1000 g sztabka złota - Valcambi" />
+
 </span> <span class="productname">1000 g sztabka złota - Valcambi</span>
 </a>
 <div class="price">
@@ -602,7 +604,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_973">
@@ -630,7 +632,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="even col3">
 <div class="product" id="product_970">
@@ -638,6 +640,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3360/20-gram-sztabka-zlota-valcambi.jpg" alt="20 g sztabka złota" />
+
 </span> <span class="productname">20 g sztabka złota</span>
 </a>
 <div class="price">
@@ -657,7 +660,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="odd col3">
 <div class="product" id="product_456">
@@ -665,7 +668,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/b6b7667c043a63de58ee9fc90d8ca382.jpg" alt="500 g sztabka złota" />
-</span> <span class="productname">500 g sztabka złota</span>
+ </span> <span class="productname">500 g sztabka złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -685,7 +688,7 @@ Sortuj wg:
 </form>
 </div>
 </div>
- </td>
+</td>
 </tr><tr class="fewperrow"> <td class="even col3">
 <div class="product" id="product_1045">
 <a class="details spanhover" href="/produkt/smartpack-10-x-1g-c-hafner" title="Sztabka złota 10 x 1g SmartPack C.Hafner">
@@ -693,6 +696,7 @@ Sortuj wg:
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3520/C-Hafner-SmartPack-10-x-1g.jpg" alt="Sztabka złota 10 x 1g SmartPack C.Hafner" />
+
 </span> <span class="productname">Sztabka złota 10 x 1g SmartPack C.Hafner</span>
 </a>
 <div class="price">
@@ -712,7 +716,7 @@ Sortuj wg:
 </fieldset>
 </form>
 </div>
- </div>
+</div>
 </td>
 <td class="spacefill odd col3"></td>
 <td class="spacefill even col3"></td>

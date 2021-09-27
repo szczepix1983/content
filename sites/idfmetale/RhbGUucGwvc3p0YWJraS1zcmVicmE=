@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'NTU2,OTg1,';
             </script>
-</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632746180154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category40" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632760579154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -190,7 +190,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 </h3>
 </li>
-<li class="  " id="hcategory_20">
+ <li class="  " id="hcategory_20">
 <h3>
 <a href="/monety-na-prezent/1/default/3" title="Monety na prezent" id="headercategory20" class="spanhover">
 <span>Monety na prezent</span>
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </a>
 </li>
- <li class="dropdown" style="display: none;">
+<li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
 <span class="fa fa-angle-down"> </span>
@@ -262,7 +262,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>
 <h3>
 <a href="/loomis-przechowanie-srebra" title="Pozostałe" id="headercategory69" class="spanhover">
-<span>Przechowanie</span>
+ <span>Przechowanie</span>
 </a>
 </h3>
 </li>
@@ -326,7 +326,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="bottombar"> <div class="leftcorner"></div> <div class="rightcorner"></div> </div>
 </div>
 </div>
-<div class="col-md-9">
+ <div class="col-md-9">
 <div class="categorydesc resetcss only-banner">
 <p><img src="/public/assets/Srebrne%20sztabki%20baner%20850x147%20copy.png" alt="sztabki srebra" width="850" height="147" /></p>
 <h1><span style="font-size: 14pt;">Sztabki srebra</span></h1>
@@ -357,7 +357,7 @@ Sortuj wg:
 <table class="products viewphot">
 <tbody>
 <tr class="fewperrow">
- <td class="even col3">
+<td class="even col3">
 <div class="product" id="product_556">
 <a class="details spanhover" href="/produkt/sztabka-srebra-1-kg-lbma" title="1 kg  sztabka srebra">
 <span class="productlistimgsize">
@@ -368,9 +368,9 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>3 984,35 zł</em>
+<em>3 985,28 zł</em>
 </div>
-<div class="basket">
+ <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
@@ -385,7 +385,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="odd col3">
+<td class="odd col3">
 <div class="product" id="product_985">
 <a class="details spanhover" href="/produkt/sztaba-gaska-srebra-1000-uncji" title="1000 uncji Srebrna Sztabka Gąska">
 <span class="productlistimgsize">
@@ -395,7 +395,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>121 888,08 zł</em>
+<em>121 917,03 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -412,7 +412,7 @@ Sortuj wg:
 </div>
 </div>
 </td>
- <td class="spacefill even col3"></td>
+<td class="spacefill even col3"></td>
 </tr>
 </tbody>
 </table> <div class="rightside"></div>
