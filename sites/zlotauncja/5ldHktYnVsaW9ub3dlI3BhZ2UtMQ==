@@ -66,10 +66,10 @@ var contentOnly = false;
 var customizationIdMessage = 'Dostosowywanie #';
 var delete_txt = 'Usuń';
 var displayList = false;
-var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"7770","min":"412","values":{"1":"7770","0":"412"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":11,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_oz","rel":""},"27156":{"nbr":1,"name":"1,2 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-12_g","rel":""},"75":{"nbr":5,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":2,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":2,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_20_oz","rel":""},"22500":{"nbr":1,"name":"1\/25 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_25_oz","rel":""},"22510":{"nbr":1,"name":"25 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-25_g","rel":""},"22184":{"nbr":1,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":6,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-austrian_mint","rel":""},"402":{"nbr":1,"name":"MENNICA POLSKA","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-mennica_polska","rel":""},"51":{"nbr":6,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-perth_mint","rel":""},"52":{"nbr":3,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-rand_refinery","rel":""},"53":{"nbr":2,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":4,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_mint","rel":""},"54":{"nbr":1,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-shanghai_mint","rel":""},"55":{"nbr":2,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
+var filters = [{"type_lite":"price","type":"price","id_key":0,"name":"Cena","slider":true,"max":"7763","min":"412","values":{"1":"7763","0":"412"},"unit":"z\u0142","format":"2","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":8,"values":{"41":{"nbr":11,"name":"1 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_oz","rel":""},"27156":{"nbr":1,"name":"1,2 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-12_g","rel":""},"75":{"nbr":5,"name":"1\/2 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_2_oz","rel":""},"77":{"nbr":2,"name":"1\/4 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_4_oz","rel":""},"378":{"nbr":2,"name":"1\/10 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_10_oz","rel":""},"379":{"nbr":1,"name":"1\/20 oz","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_20_oz","rel":""},"22500":{"nbr":1,"name":"1\/25 oz","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-1_25_oz","rel":""},"22510":{"nbr":1,"name":"25 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-25_g","rel":""},"22184":{"nbr":1,"name":"30 g","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#waga-30_g","rel":""}},"name":"Waga","url_name":"waga","meta_title":"Waga","filter_show_limit":"0","filter_type":"0"},{"type_lite":"id_feature","type":"id_feature","id_key":10,"values":{"22487":{"nbr":6,"name":"AUSTRIAN MINT ","url_name":null,"meta_title":null,"link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-austrian_mint","rel":""},"402":{"nbr":1,"name":"MENNICA POLSKA","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-mennica_polska","rel":""},"51":{"nbr":6,"name":"PERTH MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-perth_mint","rel":""},"52":{"nbr":3,"name":"RAND REFINERY","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-rand_refinery","rel":""},"53":{"nbr":2,"name":" ROYAL CANADIAN MINT ","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_canadian_mint","rel":""},"74":{"nbr":4,"name":"ROYAL MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-royal_mint","rel":""},"54":{"nbr":1,"name":"SHANGHAI MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-shanghai_mint","rel":""},"55":{"nbr":2,"name":" UNITED STATES MINT","url_name":"","meta_title":"","link":"https:\/\/zlota-uncja.pl\/pl\/16-zlote-monety-bulionowe#mennica-united_states_mint","rel":""}},"name":"Mennica","url_name":"mennica","meta_title":"","filter_show_limit":"0","filter_type":"0"}];
 var freeProductTranslation = 'Za darmo!';
 var freeShippingTranslation = 'Darmowa wysyłka!';
-var generated_date = 1632731486;
+var generated_date = 1632745885;
 var hasDeliveryAddress = false;
 var id_lang = 1;
 var img_dir = 'https://zlota-uncja.pl/themes/default-bootstrap/img/';
@@ -401,22 +401,22 @@ var usingSecureMode = true;
   <div class="rtpricelist-block pricelist-gold">
     <h4>Cena złota</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAU/PLN: 6896.8</div>
-      <div class="rtpriclist-other">XAU/EUR: 1498.87</div>
+      <div class="rtpriclist-current">XAU/PLN: 6889.81</div>
+      <div class="rtpriclist-other">XAU/EUR: 1497.36</div>
     </div>
   </div>
   <div class="pricelist-block rtpricelist-silver">
     <h4>Cena Srebra</h4>
     <div class="rtpricelist-row">
-      <div class="rtpriclist-current">XAG/PLN: 88.74</div>
+      <div class="rtpriclist-current">XAG/PLN: 89.3</div>
 	  
-      <!-- <div class="rtpriclist-current">BID: 98.74</div>
-      <div class="rtpriclist-current">ASK: 78.74</div>-->
+      <!-- <div class="rtpriclist-current">BID: 99.3</div>
+      <div class="rtpriclist-current">ASK: 79.3</div>-->
 	  
-      <div class="rtpriclist-other">XAG/EUR: 19.29</div>
+      <div class="rtpriclist-other">XAG/EUR: 19.41</div>
 	  
-      <!-- <div class="rtpriclist-other">BID: 29.29</div>
-      <div class="rtpriclist-other">ASK: 9.29</div> -->
+      <!-- <div class="rtpriclist-other">BID: 29.41</div>
+      <div class="rtpriclist-other">ASK: 9.41</div> -->
     </div>
   </div>
 </div>
@@ -659,7 +659,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Przedstawiamy Państwu srebrną monetę z serii Barbados Caribbean o wadze...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	153,15 zł                                        </span>
+                                        	153,71 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -672,7 +672,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Moneta bulionowa o wadze jednej uncji trojańskiej wykonana z czystego...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	130,14 zł                                        </span>
+                                        	130,70 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -694,7 +694,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Druga moneta z serii Disney'a Piraci z Karaibów: Niue 2021 Latający...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	176,16 zł                                        </span>
+                                        	176,72 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -707,7 +707,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Prezentujemy kolejny egzemplarz z serii: Niue 2021 - Star Wars The...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	139,35 zł                                        </span>
+                                        	139,90 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -720,7 +720,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Srebrna moneta Wilkołak, z renomowanej mennicy Royal Canadian Mint, jest...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	237,28 zł                                        </span>
+                                        	238,40 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -733,7 +733,7 @@ var usingSecureMode = true;
                         	<p class="product-description">Przedstawiamy kolejną monetę z serii Najniebezpieczniejsze stworzenia...</p>
                                                         	                                    <div class="price-box">
                                         <span class="price">
-                                        	134,74 zł                                        </span>
+                                        	135,30 zł                                        </span>
                                     </div>
                                                                                     </div>
                     </li>
@@ -875,7 +875,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 516,68 zł									</span>
+										7 509,06 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -893,7 +893,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 516,68 zł							</span>
+								7 509,06 zł							</span>
 														
 							
 											</div>
@@ -941,7 +941,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										498,35 zł									</span>
+										497,85 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -959,7 +959,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								498,35 zł							</span>
+								497,85 zł							</span>
 														
 							
 											</div>
@@ -1007,7 +1007,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 347,72 zł									</span>
+										7 340,27 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1025,7 +1025,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 347,72 zł							</span>
+								7 340,27 zł							</span>
 														
 							
 											</div>
@@ -1073,7 +1073,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 896,26 zł									</span>
+										3 892,31 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1091,7 +1091,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 896,26 zł							</span>
+								3 892,31 zł							</span>
 														
 							
 											</div>
@@ -1139,7 +1139,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 347,72 zł									</span>
+										7 340,27 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1157,7 +1157,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 347,72 zł							</span>
+								7 340,27 zł							</span>
 														
 							
 											</div>
@@ -1205,7 +1205,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 879,02 zł									</span>
+										3 875,09 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1223,7 +1223,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 879,02 zł							</span>
+								3 875,09 zł							</span>
 														
 							
 											</div>
@@ -1271,7 +1271,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										848,21 zł									</span>
+										847,35 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1289,7 +1289,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								848,21 zł							</span>
+								847,35 zł							</span>
 														
 							
 											</div>
@@ -1337,7 +1337,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 413,23 zł									</span>
+										7 405,72 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1355,7 +1355,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 413,23 zł							</span>
+								7 405,72 zł							</span>
 														
 							
 											</div>
@@ -1403,7 +1403,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 896,26 zł									</span>
+										3 892,31 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1421,7 +1421,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 896,26 zł							</span>
+								3 892,31 zł							</span>
 														
 							
 											</div>
@@ -1469,7 +1469,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										844,76 zł									</span>
+										843,91 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1487,7 +1487,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								844,76 zł							</span>
+								843,91 zł							</span>
 														
 							
 											</div>
@@ -1535,7 +1535,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 427,03 zł									</span>
+										7 419,50 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1553,7 +1553,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 427,03 zł							</span>
+								7 419,50 zł							</span>
 														
 							
 											</div>
@@ -1601,7 +1601,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 309,79 zł									</span>
+										7 302,38 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1619,7 +1619,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 309,79 zł							</span>
+								7 302,38 zł							</span>
 														
 							
 											</div>
@@ -1667,7 +1667,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 896,26 zł									</span>
+										3 892,31 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1685,7 +1685,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 896,26 zł							</span>
+								3 892,31 zł							</span>
 														
 							
 											</div>
@@ -1733,7 +1733,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 001,14 zł									</span>
+										1 999,11 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1751,7 +1751,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 001,14 zł							</span>
+								1 999,11 zł							</span>
 														
 							
 											</div>
@@ -1799,7 +1799,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 347,72 zł									</span>
+										7 340,27 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1817,7 +1817,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 347,72 zł							</span>
+								7 340,27 zł							</span>
 														
 							
 											</div>
@@ -1865,7 +1865,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										412,43 zł									</span>
+										412,01 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1883,7 +1883,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								412,43 zł							</span>
+								412,01 zł							</span>
 														
 							
 											</div>
@@ -1931,7 +1931,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										6 256,64 zł									</span>
+										6 251,02 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -1949,7 +1949,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								6 256,64 zł							</span>
+								6 251,02 zł							</span>
 														
 							
 											</div>
@@ -2066,7 +2066,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										2 001,14 zł									</span>
+										1 999,11 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2084,7 +2084,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								2 001,14 zł							</span>
+								1 999,11 zł							</span>
 														
 							
 											</div>
@@ -2132,7 +2132,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										3 896,26 zł									</span>
+										3 892,31 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2150,7 +2150,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								3 896,26 zł							</span>
+								3 892,31 zł							</span>
 														
 							
 											</div>
@@ -2198,7 +2198,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										878,34 zł									</span>
+										877,44 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2216,7 +2216,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								878,34 zł							</span>
+								877,44 zł							</span>
 														
 							
 											</div>
@@ -2264,7 +2264,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 706,32 zł									</span>
+										7 698,50 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2282,7 +2282,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 706,32 zł							</span>
+								7 698,50 zł							</span>
 														
 							
 											</div>
@@ -2330,7 +2330,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 516,68 zł									</span>
+										7 509,06 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2348,7 +2348,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 516,68 zł							</span>
+								7 509,06 zł							</span>
 														
 							
 											</div>
@@ -2396,7 +2396,7 @@ var usingSecureMode = true;
 						
 																			<div class="content_price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 																	<span itemprop="price" class="price product-price">
-										7 770,29 zł									</span>
+										7 763,29 zł									</span>
 									<meta itemprop="priceCurrency" content="PLN" />
 																																						<br><strong>Dostępność: </strong>
 												<link itemprop="availability" href="http://schema.org/InStock" />W magazynie																												
@@ -2414,7 +2414,7 @@ var usingSecureMode = true;
 					</p>
 										<div class="content_price">
 													<span class="price product-price">
-								7 770,29 zł							</span>
+								7 763,29 zł							</span>
 														
 							
 											</div>
