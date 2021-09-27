@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'OTk1,ODIx,ODI1,ODc0,MTA2MA==,MTAwMg==,Nzgy,MTAwOA==,ODc1,MTA1OQ==,MTA1OA==,';
             </script>
-</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632731782154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category47" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632746181154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -391,7 +391,6 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/australijski-kangur-1-uncja-zlota" title="Australijski Kangur 1 uncja złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3335/australijski-kangur-1-uncja-zlota.jpg" alt="Australijski Kangur 1 uncja złota" />
 </span> <span class="productname">Australijski Kangur 1 uncja złota</span>
 </a>
@@ -455,8 +454,7 @@ Sortuj wg:
 <span>Cena:</span>
 <em>7 599,72 zł</em>
 </div>
-
-<div class="basket">
+ <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
@@ -481,7 +479,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>14 570,00 zł</em>
+<em>14 477,09 zł</em>
 </div>
 
 <div class="basket">
@@ -512,7 +510,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>900,19 zł</em>
+ <em>900,19 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -613,7 +611,7 @@ Sortuj wg:
 </td>
 </tr><tr class="fewperrow"> <td class="odd col3">
 <div class="product" id="product_1059">
- <a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
+<a class="details spanhover" href="/pl/p/Krugerrand-110-uncji-zlota/1059" title="Krugerrand 1/10 uncji złota">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -640,7 +638,7 @@ Sortuj wg:
 </div>
 </td>
 <td class="even col3">
- <div class="product" id="product_1058">
+<div class="product" id="product_1058">
 <a class="details spanhover" href="/pl/p/Krugerrand-12-uncji-zlota/1058" title="Krugerrand 1/2 uncji złota">
 <span class="productlistimgsize">
 
