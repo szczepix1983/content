@@ -451,7 +451,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29797 price-update" id="price_update_29797">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29797"><span id="sec_discounted_price_29797" class="price">7,254.55</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29797"><span id="sec_discounted_price_29797" class="price">7,255.72</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29797--></span>
 
@@ -534,7 +534,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29802 price-update" id="price_update_29802">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29802"><span id="sec_discounted_price_29802" class="price">225,829.76</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29802"><span id="sec_discounted_price_29802" class="price">225,866.18</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29802--></span>
 
@@ -617,7 +617,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29863 price-update" id="price_update_29863">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29863"><span id="sec_discounted_price_29863" class="price">2,451.71</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29863"><span id="sec_discounted_price_29863" class="price">2,452.10</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29863--></span>
 
@@ -700,7 +700,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29799 price-update" id="price_update_29799">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29799"><span id="sec_discounted_price_29799" class="price">22,151.45</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29799"><span id="sec_discounted_price_29799" class="price">22,155.03</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29799--></span>
 
@@ -785,7 +785,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29824 price-update" id="price_update_29824">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29824"><span id="sec_discounted_price_29824" class="price">7,359.16</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29824"><span id="sec_discounted_price_29824" class="price">7,360.34</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29824--></span>
 
@@ -868,7 +868,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29862 price-update" id="price_update_29862">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29862"><span id="sec_discounted_price_29862" class="price">1,260.82</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29862"><span id="sec_discounted_price_29862" class="price">1,261.02</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29862--></span>
 
@@ -951,7 +951,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29859 price-update" id="price_update_29859">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29859"><span id="sec_discounted_price_29859" class="price">309.81</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29859"><span id="sec_discounted_price_29859" class="price">309.86</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29859--></span>
 
@@ -1034,7 +1034,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29822 price-update" id="price_update_29822">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29822"><span id="sec_discounted_price_29822" class="price">7,378.43</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29822"><span id="sec_discounted_price_29822" class="price">7,379.62</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29822--></span>
 
@@ -1119,7 +1119,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29798 price-update" id="price_update_29798">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29798"><span id="sec_discounted_price_29798" class="price">11,654.41</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29798"><span id="sec_discounted_price_29798" class="price">11,656.29</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29798--></span>
 
@@ -1202,7 +1202,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-30017 price-update" id="price_update_30017">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_30017"><span id="sec_discounted_price_30017" class="price">7,357.78</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_30017"><span id="sec_discounted_price_30017" class="price">7,358.97</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_30017--></span>
 
@@ -1285,7 +1285,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29835 price-update" id="price_update_29835">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29835"><span id="sec_discounted_price_29835" class="price">7,745.94</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29835"><span id="sec_discounted_price_29835" class="price">7,747.19</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29835--></span>
 
@@ -1368,7 +1368,7 @@ fn_register_hooks('recurring_billing', ['check_exceptions']);
 					<span class="cm-reload-29825 price-update" id="price_update_29825">
 		<input type="hidden" name="appearance[show_price_values]" value="1"/>
 		<input type="hidden" name="appearance[show_price]" value="1"/>
-																	<span class="price" id="line_discounted_price_29825"><span id="sec_discounted_price_29825" class="price">7,589.02</span>&nbsp;<span class="price">PLN</span></span>
+																	<span class="price" id="line_discounted_price_29825"><span id="sec_discounted_price_29825" class="price">7,590.25</span>&nbsp;<span class="price">PLN</span></span>
 							
 						<!--price_update_29825--></span>
 
@@ -1618,7 +1618,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1632744143.4873
+			've[time_begin]': 1632758539.6218
 		},
 		hidden: true
 	});
@@ -1627,7 +1627,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-1.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1632744143.4873" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=https%3A%2F%2Fmennica24.pl%2Fzloto-inwestycyjne-page-1.html&amp;ve%5Btitle%5D=Z%C5%82oto+-+Ceny+i+Sprzeda%C5%BC+z%C5%82otych+sztabek+i+monet+-+Z%C5%82oto+Inwestycyjne+-+Mennica+24&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1632758539.6218" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
