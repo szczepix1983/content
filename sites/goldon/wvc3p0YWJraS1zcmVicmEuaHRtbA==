@@ -289,7 +289,7 @@ autoComplete = new Autocomplete('main_search', {
                 </script>
 <a id="filter_link_9" class="more" href="#">Filtruj &rsaquo;</a></div></div></div></div>
 </section>
-<div class="tagcloud"><span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span>, <span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span></div></div>
+<div class="tagcloud"><span class="tagcloud0"><a href='/krugerrand,tQQ.html'>krugerrand</a></span>, <span class="tagcloud0"><a href='/wiedenscy-filharmonicy,tQg.html'>wiedeńscy filharmonicy</a></span></div></div>
 <div id="site-left-col-toggle" class="site-left-col__toggle">
 <span class="label">
 Kategorie</span>
@@ -340,7 +340,7 @@ Srebna sztabka Germania 1 kg</a>
 </div>
 <div class="price clear">
 <div class="price-regular">
-<span class="price-value"  itemprop="price" content="3843.23">3 843,23 zł</span>
+<span class="price-value"  itemprop="price" content="3868.89">3 868,89 zł</span>
 <meta itemprop="priceCurrency" content="PLN" />
 <link itemprop="availability" href="http://schema.org/InStock" />
 </div>
@@ -493,7 +493,7 @@ Koszty dostawy</span>
 <script type="text/javascript">
 create_notice_bar("W celu właściwej realizacji usług niniejsza witryna korzysta z plików cookie. <a href=\"/strony/cookies.html\">Dowiedz się więcej.</a>", 'bottom');
 </script>
-<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 873,10 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,35 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 880,52 zł</span></div></div></div><script type="text/javascript">
+<div id="material_price_bar"><div class="material_prices"><div><span class="header">Aktualny kurs złota:</span> <span class="price">6 878,00 zł</span></div><div><span class="header">Aktualny kurs srebra:</span> <span class="price">88,94 zł</span></div><div><span class="header">Aktualny kurs platyny:</span> <span class="price">3 907,35 zł</span></div></div></div><script type="text/javascript">
 $(document).ready(function(){
 if(typeof columns == 'number')
 $.ajax({
