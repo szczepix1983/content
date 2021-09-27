@@ -200,7 +200,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </ul>
 
 </li>
- <li class="">
+<li class="">
 <a href="/gdzie-kupic" title="Kup w oddziale" id="headlink24" class="spanhover mainlevel                                 ">
 <h3>Kup w oddziale
 </h3>
@@ -223,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <h3>Kontakt
 </h3>
 </a>
-</li>
+ </li>
 <li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
@@ -324,7 +324,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="rightside"></div>
 </div>
 <div class="bottombar"> <div class="leftcorner"></div> <div class="rightcorner"></div> </div>
- </div>
+</div>
 </div>
 <div class="col-md-9">
 <div class="categorydesc resetcss only-banner">
@@ -364,7 +364,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3350/1-uncja-zlota-sztabka-moneta-armillary-valcambi.jpg" alt="1 uncja złota moneta ARMILLARY" />
-</span> <span class="productname">1 uncja złota moneta ARMILLARY</span>
+</span>  <span class="productname">1 uncja złota moneta ARMILLARY</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -391,7 +391,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3335/australijski-kangur-1-uncja-zlota.jpg" alt="Australijski Kangur 1 uncja złota" />
-</span> <span class="productname">Australijski Kangur 1 uncja złota</span>
+</span>  <span class="productname">Australijski Kangur 1 uncja złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -455,7 +455,7 @@ Sortuj wg:
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
- <span class="unit">szt.</span>
+<span class="unit">szt.</span>
 <input type="hidden" value="931" name="stock_id" />
 <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
@@ -472,7 +472,7 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3563/swa_pm_Lunar-III-Rok-Tygrysa-2-uncje-Zlota-2022-5317_1-1.png" alt="Lunar III: Rok Tygrysa 2 uncje złota moneta" />
-</span> <span class="productname">Lunar III: Rok Tygrysa 2 uncje złota moneta</span>
+</span>  <span class="productname">Lunar III: Rok Tygrysa 2 uncje złota moneta</span>
 </a>
 <div class="price">
 <span>Cena:</span>
@@ -500,7 +500,7 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/zloty-dukat-austriacki-moneta" title="Moneta złota 1 Dukat Austriacki 2021">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" /> 
 <img class="photo" src="/userdata/public/gfx/3405/dukat-austriacki-zlota-moneta.jpg" alt="Moneta złota 1 Dukat Austriacki 2021" />
 </span> <span class="productname">Moneta złota 1 Dukat Austriacki 2021</span>
 </a>
@@ -509,7 +509,7 @@ Sortuj wg:
 <em>900,19 zł</em>
 </div>
 <div class="basket">
- <form class="basket " action="/pl/basket/add/post" method="post">
+<form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
@@ -528,6 +528,7 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/wiedenscy-filharmonicy-1-uncja-zlota" title="Wiedeński Filharmonik 1 uncja złota">
 <span class="productlistimgsize">
 
+
 <img class="photo" src="/userdata/public/gfx/3371/Wiedenscy-filharmonicy-1-uncja-zlota.jpg" alt="Wiedeński Filharmonik 1 uncja złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1 uncja złota</span>
 </a>
@@ -536,7 +537,7 @@ Sortuj wg:
 <em>7 570,27 zł</em>
 </div>
 <div class="basket">
- <form class="basket " action="/pl/basket/add/post" method="post">
+<form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
@@ -555,7 +556,7 @@ Sortuj wg:
 <a class="details spanhover" href="/produkt/wiedenski-filharmonik-1-25-uncji-zlota" title="Wiedeński Filharmonik 1/25 uncji złota">
 <span class="productlistimgsize">
 
-<img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
+ <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3396/1-25-uncji-zlota-wiedenscy-filharmonicy.jpg" alt="Wiedeński Filharmonik 1/25 uncji złota" />
 </span> <span class="productname">Wiedeński Filharmonik 1/25 uncji złota</span>
 </a>
@@ -564,7 +565,7 @@ Sortuj wg:
 <em>371,19 zł</em>
 </div>
 <div class="basket">
- <form class="basket " action="/pl/basket/add/post" method="post">
+<form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
@@ -591,13 +592,13 @@ Sortuj wg:
 <em>7 570,27 zł</em>
 </div>
 <div class="basket">
- <form class="basket " action="/pl/basket/add/post" method="post">
+<form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
 <input type="hidden" value="932" name="stock_id" />
 <button class="addtobasket" type="submit">
-<img src="/public/images/1px.gif" alt="" class="px1" />
+ <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
 </button>
 </fieldset>
@@ -618,7 +619,7 @@ Sortuj wg:
 <span>Cena:</span>
 <em>876,38 zł</em>
 </div>
- <div class="basket">
+<div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
@@ -646,14 +647,13 @@ Sortuj wg:
 <span>Cena:</span>
 <em>4 019,96 zł</em>
 </div>
-
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
 <div class="shaded_inputwrap"><input name="quantity" value="1" type="text" class="short center" /></div>
 <span class="unit">szt.</span>
 <input type="hidden" value="1117" name="stock_id" />
-<button class="addtobasket" type="submit">
+ <button class="addtobasket" type="submit">
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
 </button>

@@ -591,6 +591,7 @@ Sortuj wg:
 <span>Cena:</span>
 <em>229 074,79 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -619,6 +620,7 @@ Sortuj wg:
 <span>Cena:</span>
 <em>525,29 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -640,13 +642,13 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3360/20-gram-sztabka-zlota-valcambi.jpg" alt="20 g sztabka złota" />
-
 </span> <span class="productname">20 g sztabka złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
 <em>4 866,31 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -668,12 +670,13 @@ Sortuj wg:
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/b6b7667c043a63de58ee9fc90d8ca382.jpg" alt="500 g sztabka złota" />
- </span> <span class="productname">500 g sztabka złota</span>
+</span> <span class="productname">500 g sztabka złota</span>
 </a>
 <div class="price">
 <span>Cena:</span>
 <em>120 253,96 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -696,13 +699,13 @@ Sortuj wg:
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3520/C-Hafner-SmartPack-10-x-1g.jpg" alt="Sztabka złota 10 x 1g SmartPack C.Hafner" />
-
 </span> <span class="productname">Sztabka złota 10 x 1g SmartPack C.Hafner</span>
 </a>
 <div class="price">
 <span>Cena:</span>
 <em>2 527,17 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -752,7 +755,7 @@ Sortuj wg:
 <li class="head">Moje konto</li>
 <li><a href="/pl/reg" class="" title="Rejestracja" id="footlink54">Rejestracja</a></li> <li><a href="/pl/login" class="" title="Logowanie" id="footlink13">Logowanie</a></li> <li><a href="https://idfmetale.pl/pl/panel/edit" class="" title="Edycja danych" id="footlink11">Edycja danych</a></li> <li><a href="/pl/panel" class="" title="Zamównienia" id="footlink55">Zamównienia</a></li> </ul></li>
 <li class="overall col5" id="footgroup4"><ul>
-<li class="head">Informacje</li>
+ <li class="head">Informacje</li>
 <li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li> <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
 <li class="overall col5" id="footgroup2"><ul>
 <li class="head">Regulaminy</li>

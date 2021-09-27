@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html data-fmc="1" xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:g="http://base.google.com/ns/1.0">
 <head data-ajaxbasket-mode="0">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                             Shop.basket.basketProducts = '';
             Shop.basket.categoryProducts = 'ODU4,Nzc5,MTA0OA==,OTAz,Nzc2,OTI3,';
             </script>
-</head><body id="shop_category39" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632758724154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
+</head><body id="shop_category39" class="shop_product_list"><script>window.customerPrivacy.onPlatformConsentGranted(() =>{window.Shop = window.Shop || {}; Shop.values = Shop.values || {}; Shop.values.partnerEE=true; Shop.values.partnerData=1632774981154816;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','shopLayer','GTM-T68LWS');});</script>
 <div id="header">
 
 <div id="top-header" class="container">
@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="navbar" class="navbar-collapse collapse">
 <ul class="nav nav-justified">
 <li class=" dropdown" id="hcategory_9">
-<a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+ <a href="/zloto-inwestycyjne/1/default/3" title="Złoto" id="headlink26" class="spanhover mainlevel dropdown-toggle                                " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Złoto
 <span class="fa fa-angle-down"> </span>
 </h3>
@@ -224,7 +224,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </h3>
 </a>
 </li>
- <li class="dropdown" style="display: none;">
+<li class="dropdown" style="display: none;">
 <a href="#" title="Złoto" class="spanhover mainlevel dropdown-toggle                               " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 <h3>Więcej
 <span class="fa fa-angle-down"> </span>
@@ -262,7 +262,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>
 <h3>
 <a href="/loomis-przechowanie-srebra" title="Pozostałe" id="headercategory69" class="spanhover">
-<span>Przechowanie</span>
+ <span>Przechowanie</span>
 </a>
 </h3>
 </li>
@@ -326,7 +326,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="bottombar"> <div class="leftcorner"></div> <div class="rightcorner"></div> </div>
 </div>
 </div>
-<div class="col-md-9">
+ <div class="col-md-9">
 <div class="categorydesc resetcss only-banner">
 <p style="text-align: center;"><strong><img src="/public/assets/Monety%20bulionowe%20srebrne%20baner%20850x147%20copy.png" alt="srebrne monety bulionowe" width="850" height="147" /></strong></p>
 <h1><span style="font-size: 14pt;">Srebrne monety bulionowe</span></h1>
@@ -370,6 +370,7 @@ Sortuj wg:
 <span>Cena:</span>
 <em>122,81 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -398,6 +399,7 @@ Sortuj wg:
 <span>Cena:</span>
 <em>119,60 zł</em>
 </div>
+
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -416,7 +418,7 @@ Sortuj wg:
 <td class="even col3">
 <div class="product" id="product_1048">
 <a class="details spanhover" href="/pl/p/Moneta-Bitcoin-1-uncja-srebra/1048" title="Moneta Bitcoin 1 uncja srebra">
- <span class="productlistimgsize">
+<span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
 <img class="photo" src="/userdata/public/gfx/3536/moneta_srebrna_bitcoin_1_uncja_rewers.jpg" alt="Moneta Bitcoin 1 uncja srebra" />
@@ -425,7 +427,7 @@ Sortuj wg:
 <div class="price">
 <span>Cena:</span>
 <em>243,84 zł</em>
-</div>
+ </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
 <fieldset>
@@ -452,7 +454,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>124,94 zł</em>
+ <em>124,94 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -471,7 +473,7 @@ Sortuj wg:
 </td>
 <td class="even col3">
 <div class="product" id="product_776">
- <a class="details spanhover" href="/produkt/australijski-kangur-1-uncja-srebra" title="Australijski Kangur 1 uncja srebra">
+<a class="details spanhover" href="/produkt/australijski-kangur-1-uncja-srebra" title="Australijski Kangur 1 uncja srebra">
 <span class="productlistimgsize">
 
 <img class="photo" src="/userdata/public/gfx/3370/australijski-kangur-1-uncja-srebra-Perth-Mint.jpg" alt="Australijski Kangur 1 uncja srebra" />
@@ -479,7 +481,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>122,81 zł</em>
+ <em>122,81 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -498,7 +500,7 @@ Sortuj wg:
 </td>
 <td class="odd col3">
 <div class="product" id="product_927">
- <a class="details spanhover" href="/produkt/krugerrand-1-oz-srebrny" title="Krugerrand 1 uncja srebra">
+<a class="details spanhover" href="/produkt/krugerrand-1-oz-srebrny" title="Krugerrand 1 uncja srebra">
 <span class="productlistimgsize">
 
 <img class="banner24h" src="/skins/user/rwd_shoper_1/images/user/24h150.png" alt="" />
@@ -507,7 +509,7 @@ Sortuj wg:
 </a>
 <div class="price">
 <span>Cena:</span>
-<em>122,81 zł</em>
+ <em>122,81 zł</em>
 </div>
 <div class="basket">
 <form class="basket " action="/pl/basket/add/post" method="post">
@@ -519,13 +521,13 @@ Sortuj wg:
 <img src="/public/images/1px.gif" alt="" class="px1" />
 <span>Dodaj do koszyka</span>
 </button>
-</fieldset>
+ </fieldset>
 </form>
 </div>
 </div>
 </td>
 </tr>
- </tbody>
+</tbody>
 </table> <div class="rightside"></div>
 </div>
 <div class="categorydesc resetcss only-text">
@@ -559,8 +561,8 @@ Sortuj wg:
 <li><a href="/hurtownia-zlota" class="" title="Sprzedaż hurtowa" id="footlink41">Sprzedaż hurtowa</a></li> <li><a href="/skup" class="" title="Skup" id="footlink40">Skup</a></li> <li><a href="/jak-kupic-online" class="" title="Jak kupić online?" id="footlink47">Jak kupić online?</a></li> <li><a href="/dlaczego-metale" class="" title="Dlaczego Metale ?" id="footlink45">Dlaczego Metale ?</a></li> <li><a href="/loomis-przechowanie-srebra" class="" title="Przechowanie srebra" id="footlink42">Przechowanie srebra</a></li> <li><a href="/faq" class="" title="FAQ" id="footlink30">FAQ</a></li> </ul></li>
 <li class="overall col5" id="footgroup2"><ul>
 <li class="head">Regulaminy</li>
-<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li> <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li> <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
- <li class="overall col5" id="footgroup1"><ul>
+<li><a href="/prawo-do-odstapienia" class="" title="Prawo do odstąpienia" id="footlink39">Prawo do odstąpienia</a></li> <li><a href="/regulamin-sklepu" class="" title="Regulamin sklepu" id="footlink21">Regulamin sklepu</a></li> <li><a href="/polityka-cookies" class="" title="Polityka cookies" id="footlink51">Polityka cookies</a></li>  <li><a href="/polityka-prywatnosci" class="" title="Polityka prywatności" id="footlink22">Polityka prywatności</a></li> <li><a href="/rodo" class="" title="Przetwarzanie danych osobowych" id="footlink49">Przetwarzanie danych osobowych</a></li> <li><a href="/definicja-pep" class="" title="Definicja PEP" id="footlink52">Definicja PEP</a></li> <li><a href="/branze-kraje-podwyzszonego-ryzyka" class="" title="Branże i kraje podwyższonego ryzyka" id="footlink53">Branże i kraje podwyższonego ryzyka</a></li> </ul></li>
+<li class="overall col5" id="footgroup1"><ul>
 <li class="head">Dostawa i płatności</li>
 <li><a href="/formy-dostawy" class="" title="Formy dostawy" id="footlink44">Formy dostawy</a></li> <li><a href="/formy-platnosci" class="" title="Formy płatności" id="footlink24">Formy płatności</a></li> </ul></li>
 <li class="overall col5" id="footgroup5"><ul>
