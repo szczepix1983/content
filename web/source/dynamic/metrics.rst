@@ -4,7 +4,7 @@ Metryczka
 ``Dane dot. zawartości generycznej:``
 ::
 
-    Ostatnie generowanie: 25/09/2021 10:19
-    Czas generowania: 5 s.
-    Ilość produktów: 2025
+    Ostatnie generowanie: 20/10/2021 03:46
+    Czas generowania: 7 s.
+    Ilość produktów: 2028
     Ilość źródeł: 17
