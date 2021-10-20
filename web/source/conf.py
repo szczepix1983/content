@@ -20,13 +20,13 @@ import sphinx_bootstrap_theme
 # -- Project information -----------------------------------------------------
 
 project = u'smart-market'
-copyright = u'2021, Szczepan Martyniuk'
-author = u'Szczepan Martyniuk'
+copyright = u'2021, Szczepix'
+author = u'Szczepix'
 
 # The short X.Y version
-version = u''
+version = u'1.0.1'
 # The full version, including alpha/beta/rc tags
-release = u'1.0'
+release = u'1.0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -151,7 +151,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'smart-coding.tex', u'smart-coding Documentation',
-     u'Szczepan Martyniuk', 'manual'),
+     u'Szczepix', 'manual'),
 ]
 
 
